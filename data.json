@@ -1,0 +1,17 @@
+{
+  "scraped_date": "2026-06-26",
+  "target_date": "2026-06-25",
+  "cancelled_orders": [
+    { "time": "Yesterday at 01:05", "site": "Twisted London (Coatbridge - Main St)", "brand": "Twisted London" },
+    { "time": "Yesterday at 19:43", "site": "Koreatown (Dudley - Martin Hill)", "brand": "Koreatown" },
+    { "time": "Yesterday at 20:30", "site": "Hot Chick (Coatbridge - Main St)", "brand": "Hot Chick" },
+    { "time": "Yesterday at 21:13", "site": "Kuro Smash (Southampton - Commercial Rd)", "brand": "Kuro Smash" }
+  ],
+  "reviews": [
+    { "rating": 1, "site": "Twisted London (Chingford - Hale End Rd)", "text": "The burger was tasteless and missing item" },
+    { "rating": 4, "site": "Twisted London (Datchet - Mill Place)", "text": "Pretty decent burger, the bun was fresh and patties well cooked. Would have preferred a little more sauce in the burger and some grilled onions" },
+    { "rating": 4, "site": "Hot Chick (Guildford - Southway)", "text": "Generous portions on loaded fries, chicken in burgers crispy and full of flavour" },
+    { "rating": 1, "site": "Twisted London (Hayes - Uxbridge Rd)", "text": "do not buy smash burgers from here they are not smash burgers! they are over done small beef patties that are not cooked to order. by patty are inedible rock hard!" },
+    { "rating": 4, "site": "Kuro Smash (Walthamstow - Wood St)", "text": "now confirmed to be my favourite burger spot in walthamstow/Leyton/leytonstone" }
+  ]
+}
