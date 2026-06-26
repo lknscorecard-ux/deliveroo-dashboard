@@ -29,8 +29,7 @@ jobs:
 
       - name: Run scraper
         env:
-          DELIVEROO_EMAIL: ${{ secrets.DELIVEROO_EMAIL }}
-          DELIVEROO_PASSWORD: ${{ secrets.DELIVEROO_PASSWORD }}
+          DELIVEROO_COOKIES: ${{ secrets.DELIVEROO_COOKIES }}
         run: python scraper_cloud.py
 
       - name: Commit results
