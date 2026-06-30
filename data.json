@@ -1,6 +1,17 @@
 {
-  "scraped_date": "2026-06-27",
-  "target_date": "2026-06-26",
-  "cancelled_orders": [],
+  "scraped_date": "2026-06-30",
+  "target_date": "2026-06-29",
+  "cancelled_orders": [
+    {
+      "time": "2026-06-29T21:09:56Z",
+      "site": "WTF (High Wycombe - Dashwood Ave)",
+      "brand": "Other"
+    },
+    {
+      "time": "2026-06-29T19:44:42Z",
+      "site": "Hot Chick (Mexborough - Pym Rd)",
+      "brand": "Hot Chick"
+    }
+  ],
   "reviews": []
 }
