@@ -13,5 +13,62 @@
       "brand": "Hot Chick"
     }
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "site": "WTF! (Brixton)",
+      "brand": "WTF",
+      "rating": 1,
+      "text": "this is a ghost kitchen.",
+      "created": "2026-06-28T13:52:04Z"
+    },
+    {
+      "site": "Kuro Smash (Farnworth - Market St)",
+      "brand": "Kuro Smash",
+      "rating": 5,
+      "text": "The best burger I\u2019ve ever had! Everything was perfect \u2013 hot, fresh, juicy, and full of flavour. Easily a 10/10. I\u2019ll definitely be ordering again. Highly recommended!",
+      "created": "2026-06-28T20:17:16Z"
+    },
+    {
+      "site": "Hot Chick (Plymouth - Drake Circus)",
+      "brand": "Hot Chick",
+      "rating": 3,
+      "text": "The food is normal very good, but fries this time was old fries and it really show. The burger was very good. The fries was definitely not acceptable this time.",
+      "created": "2026-06-28T19:48:33Z"
+    },
+    {
+      "site": "Hot Chick (Plymouth - Drake Circus)",
+      "brand": "Hot Chick",
+      "rating": 5,
+      "text": "This is one of my favourite takeaways. Always amazing tasting food and arrives hot and well packaged. 10/10 from me",
+      "created": "2026-06-28T16:04:44Z"
+    },
+    {
+      "site": "Koreatown-KoreanFriedChicken(Lambeth-ZennorRd)",
+      "brand": "Koreatown",
+      "rating": 5,
+      "text": "Very good",
+      "created": "2026-06-28T19:27:08Z"
+    },
+    {
+      "site": "Kuro Smash (Bristol - Soundwell Rd)",
+      "brand": "Kuro Smash",
+      "rating": 5,
+      "text": "Delicious &amp; fresh food! Would 100% order from here again. The beef burger was delicious! The bulgogi  sauce was lovely but a lil spicy. The honey soy burger was definitely full of umami flavour! Thank you so much for the free drink too!",
+      "created": "2026-06-28T17:00:43Z"
+    },
+    {
+      "site": "Twisted London (Datchet - Mill Place)",
+      "brand": "Twisted London",
+      "rating": 4,
+      "text": "Pretty decent burger, the bun was fresh and patties well cooked.\nWould have preferred a little more sauce in the burger and some grilled onions",
+      "created": "2026-06-23T18:29:54Z"
+    },
+    {
+      "site": "Koreatown (Southampton - Commercial Rd)",
+      "brand": "Koreatown",
+      "rating": 5,
+      "text": "Delicious.",
+      "created": "2026-06-28T18:08:38Z"
+    }
+  ]
 }
