@@ -1,74 +1,73 @@
 {
-  "scraped_date": "2026-06-30",
-  "target_date": "2026-06-29",
+  "scraped_date": "2026-07-01",
+  "target_date": "2026-06-30",
   "cancelled_orders": [
     {
-      "time": "2026-06-29T21:09:56Z",
-      "site": "WTF (High Wycombe - Dashwood Ave)",
-      "brand": "WTF"
+      "time": "2026-06-30T19:25:34Z",
+      "site": "Twisted London (Coatbridge - Main St)",
+      "brand": "Twisted London"
     },
     {
-      "time": "2026-06-29T19:44:42Z",
+      "time": "2026-06-30T19:08:20Z",
+      "site": "Hot Chick (Coatbridge - Main St)",
+      "brand": "Hot Chick"
+    },
+    {
+      "time": "2026-06-30T17:51:12Z",
+      "site": "Koreatown - (Bracknell - Market St)",
+      "brand": "Koreatown"
+    },
+    {
+      "time": "2026-06-30T17:37:33Z",
+      "site": "TwistedLondon(CanningTown-NorthWoolwichRd)",
+      "brand": "Other"
+    },
+    {
+      "time": "2026-06-30T14:25:55Z",
+      "site": "Kuro Smash (Grangetown - Holmesdale St)",
+      "brand": "Kuro Smash"
+    },
+    {
+      "time": "2026-06-30T14:24:32Z",
       "site": "Hot Chick (Mexborough - Pym Rd)",
       "brand": "Hot Chick"
     }
   ],
   "reviews": [
     {
-      "site": "WTF! (Brixton)",
-      "brand": "WTF",
-      "rating": 1,
-      "text": "this is a ghost kitchen.",
-      "created": "2026-06-28T13:52:04Z"
-    },
-    {
-      "site": "Kuro Smash (Farnworth - Market St)",
-      "brand": "Kuro Smash",
-      "rating": 5,
-      "text": "The best burger I\u2019ve ever had! Everything was perfect \u2013 hot, fresh, juicy, and full of flavour. Easily a 10/10. I\u2019ll definitely be ordering again. Highly recommended!",
-      "created": "2026-06-28T20:17:16Z"
-    },
-    {
-      "site": "Hot Chick (Plymouth - Drake Circus)",
-      "brand": "Hot Chick",
-      "rating": 3,
-      "text": "The food is normal very good, but fries this time was old fries and it really show. The burger was very good. The fries was definitely not acceptable this time.",
-      "created": "2026-06-28T19:48:33Z"
-    },
-    {
-      "site": "Hot Chick (Plymouth - Drake Circus)",
-      "brand": "Hot Chick",
-      "rating": 5,
-      "text": "This is one of my favourite takeaways. Always amazing tasting food and arrives hot and well packaged. 10/10 from me",
-      "created": "2026-06-28T16:04:44Z"
-    },
-    {
-      "site": "Koreatown-KoreanFriedChicken(Lambeth-ZennorRd)",
+      "site": "Koreatown - Korean Fried Chicken (Clifton - Byron Pl)",
       "brand": "Koreatown",
       "rating": 5,
-      "text": "Very good",
-      "created": "2026-06-28T19:27:08Z"
+      "text": "very nice wings everytime \nhighly recommend",
+      "created": "2026-06-30T02:04:09Z"
     },
     {
-      "site": "Kuro Smash (Bristol - Soundwell Rd)",
-      "brand": "Kuro Smash",
+      "site": "Wing Fest All Stars (Colchester - Challenge Way)",
+      "brand": "Wing Fest",
       "rating": 5,
-      "text": "Delicious &amp; fresh food! Would 100% order from here again. The beef burger was delicious! The bulgogi  sauce was lovely but a lil spicy. The honey soy burger was definitely full of umami flavour! Thank you so much for the free drink too!",
-      "created": "2026-06-28T17:00:43Z"
+      "text": "Food was great but please be mindful of the amount of bbq sauce you put in. Maybe think of putting the sauce on its own",
+      "created": "2026-06-30T09:53:03Z"
     },
     {
-      "site": "Twisted London (Datchet - Mill Place)",
+      "site": "Koreatown (Burgess Hill - Church Rd)",
+      "brand": "Koreatown",
+      "rating": 5,
+      "text": "\ud83d\udc4c\ud83c\udffd",
+      "created": "2026-06-29T17:22:00Z"
+    },
+    {
+      "site": "Twisted London (Basildon - Britannia Ct)",
       "brand": "Twisted London",
       "rating": 4,
-      "text": "Pretty decent burger, the bun was fresh and patties well cooked.\nWould have preferred a little more sauce in the burger and some grilled onions",
-      "created": "2026-06-23T18:29:54Z"
+      "text": "The batter on the chicken was too spicy and the barbecue sauce on the fries was too much, but other than that, we enjoyed our order.",
+      "created": "2026-06-29T15:09:40Z"
     },
     {
-      "site": "Koreatown (Southampton - Commercial Rd)",
-      "brand": "Koreatown",
+      "site": "Kuro Smash (Walthamstow - Wood St)",
+      "brand": "Kuro Smash",
       "rating": 5,
-      "text": "Delicious.",
-      "created": "2026-06-28T18:08:38Z"
+      "text": "Tasty and unique, would order again!",
+      "created": "2026-06-29T18:12:31Z"
     }
   ]
 }
