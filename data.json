@@ -68,6 +68,55 @@
         "rating": 5,
         "text": "Tasty and unique, would order again!",
         "created": "2026-06-29T18:12:31Z"
+      },
+      {
+        "site": "Twisted London (Plymouth - Drake Circus)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "first time ordering meat was nice but everything else was bland buns to soft chips a bit to soft",
+        "created": "2026-06-30T14:17:05Z"
+      },
+      {
+        "site": "WTF! - Mind-Blowing Vegan Burgers\ud83c\udf31(Kensal Rise - Station Terrace)",
+        "brand": "WTF",
+        "rating": 1,
+        "text": "BEWARE. This place is an absolute scam. I ordered two bacon cheezeburgers. I was sent what appears to be three real meat chicken nuggets with mayo on a sad disgusting bun along with real cheese. Absolutely despicable that this restaurant is doing this. DO NOT ORDER FROM HERE!",
+        "created": "2026-06-30T23:01:45Z"
+      },
+      {
+        "site": "Hot Chick (Epsom - Kingston Rd)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "tender and crispy and cooked to perfection. Definitely one to try if you have not",
+        "created": "2026-06-30T15:52:27Z"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "Order was delivered so late I didn\u2019t eat it",
+        "created": "2026-06-29T10:50:37Z"
+      },
+      {
+        "site": "Twisted London (Epsom - Kingston Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Really Tasty Onion Rings, would 100% order again",
+        "created": "2026-06-30T15:29:29Z"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Tunbridge Wells - Tunbridge Rd)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "Missing a whole meal from the order and came over an 1 hour and 40 minutes of making the order",
+        "created": "2026-06-30T18:53:19Z"
+      },
+      {
+        "site": "Kuro Smash (Norwich - Earlham West Centre)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "the best burgers in Norwich.",
+        "created": "2026-06-29T13:36:18Z"
       }
     ]
   }
