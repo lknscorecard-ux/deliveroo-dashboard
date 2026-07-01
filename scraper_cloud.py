@@ -22,7 +22,6 @@ from playwright.async_api import async_playwright
 from playwright_stealth import stealth_async
 
 ORG_ID       = "513610"
-REVIEW_ORGS  = ["188047", "400890"]   # orgs that send review + some cancelled notifications
 BASE_URL     = "https://partner-hub.deliveroo.com"
 HOME_URL     = f"{BASE_URL}/home?orgId={ORG_ID}"
 NOTIF_API    = f"{BASE_URL}/api-gw/notifications/employee/self/alerts"
@@ -268,120 +267,115 @@ async def main():
             for u in sorted(intercepted_notif_urls):
                 print(f"  {u}")
 
-        # ── 2c. Intercept API calls from the REVIEW ORG pages + extract Next.js data ──
-        all_api_calls = {}   # url → response json (truncated)
 
-        async def on_response_full(response):
-            url = response.url
-            if "partner-hub.deliveroo.com/api" in url:
+        # ── 3. Discover all accessible org IDs ───────────────────────────────
+        # The UI shows notifications from ALL orgs; the API is scoped per-org.
+        # Find every org this account has access to, then fetch from each.
+        print("\nDiscovering accessible orgs…")
+        org_ids = set([ORG_ID])
+
+        # Try common org-list endpoints
+        for org_endpoint in [
+            f"{BASE_URL}/api-gw/employee/self/orgs",
+            f"{BASE_URL}/api-gw/auth/employee/self",
+            f"{BASE_URL}/api-gw/orgs",
+            f"{BASE_URL}/api/v1/employee/orgs",
+        ]:
+            r = await api_get(page, org_endpoint, token)
+            if r.get("ok"):
+                data = r.get("data", {})
+                # Try to extract org IDs from various response shapes
+                if isinstance(data, list):
+                    for item in data:
+                        oid = str(item.get("id") or item.get("orgId") or item.get("org_id") or "")
+                        if oid.isdigit():
+                            org_ids.add(oid)
+                elif isinstance(data, dict):
+                    for key in ["orgs", "organisations", "organizations", "accounts"]:
+                        for item in (data.get(key) or []):
+                            oid = str(item.get("id") or item.get("orgId") or "")
+                            if oid.isdigit():
+                                org_ids.add(oid)
+                    oid = str(data.get("orgId") or data.get("org_id") or "")
+                    if oid.isdigit():
+                        org_ids.add(oid)
+                if len(data if isinstance(data, list) else []) > 0 or (isinstance(data, dict) and data):
+                    print(f"  {org_endpoint} → {str(data)[:200]}")
+
+        # Also intercept what the page itself loads (org switcher dropdown)
+        captured_orgs = set()
+        async def capture_org_response(response):
+            if "org" in response.url.lower() and "partner-hub" in response.url:
                 try:
-                    data = await response.json()
-                    all_api_calls[url] = data
+                    d = await response.json()
+                    if isinstance(d, list):
+                        for item in d:
+                            oid = str(item.get("id") or item.get("orgId") or "")
+                            if oid.isdigit():
+                                captured_orgs.add(oid)
                 except Exception:
-                    all_api_calls[url] = None
-        page.on("response", on_response_full)
+                    pass
+        page.on("response", capture_org_response)
+        # Navigate to root (org selector) to trigger org list API call
+        try:
+            await page.goto(f"{BASE_URL}/home", wait_until="networkidle", timeout=15000)
+        except Exception:
+            pass
+        await page.wait_for_timeout(3000)
+        org_ids.update(captured_orgs)
+        print(f"  Orgs discovered: {sorted(org_ids)}")
 
-        print("\nNavigating to reviews pages to intercept API calls…")
-        for review_org in ["188047", "400890"]:
-            all_api_calls.clear()
-            reviews_url = f"{BASE_URL}/reviews?orgId={review_org}"
+        # ── 4. Fetch notifications from ALL orgs ──────────────────────────────
+        print("\nFetching notifications from all orgs…")
+        all_notifs = []
+        seen_ids = set()
+
+        for oid in sorted(org_ids):
             try:
-                await page.goto(reviews_url, wait_until="networkidle", timeout=25000)
-            except Exception:
-                await page.goto(reviews_url, wait_until="domcontentloaded", timeout=15000)
-            await page.wait_for_timeout(8000)   # wait for React hydration
-
-            # Extract Next.js preloaded data
-            next_data = await page.evaluate("JSON.stringify(window.__NEXT_DATA__ || {})")
-            if len(next_data) > 10:
-                print(f"  org {review_org} __NEXT_DATA__ ({len(next_data)} chars): {next_data[:500]}")
-
-            print(f"  org {review_org} API calls ({len(all_api_calls)}):")
-            for u, d in sorted(all_api_calls.items()):
-                summary = ""
-                if isinstance(d, list):
-                    summary = f"list[{len(d)}]"
-                elif isinstance(d, dict):
-                    summary = str(list(d.keys()))[:80]
-                print(f"    {u}")
-                if summary:
-                    print(f"      → {summary}")
-        print()
-
-        # ── 3. Fetch ALL notifications from all org contexts ──────────────────
-        async def fetch_notifs_for_org(org_id, pg, tok):
-            """Navigate to org, fetch all notifications until 2 days ago."""
-            org_home = f"{BASE_URL}/home?orgId={org_id}"
-            try:
-                await pg.goto(org_home, wait_until="domcontentloaded", timeout=15000)
+                await page.goto(f"{BASE_URL}/home?orgId={oid}",
+                                wait_until="domcontentloaded", timeout=15000)
             except Exception:
                 pass
-            await pg.wait_for_timeout(2000)
-            await dismiss_popups(pg)
-
-            two_days_ago = str(date.today() - timedelta(days=2))
-            notifs = []
-            fetch_url = f"{NOTIF_API}?limit=200"
-            pg_num = 0
-            while True:
-                pg_num += 1
-                r = await api_get(pg, fetch_url, tok)
-                if not r.get("ok"):
-                    print(f"    ERROR org {org_id} page {pg_num}: {r}")
-                    break
-                batch = r["data"] if isinstance(r["data"], list) else []
-                if not batch:
-                    break
-                notifs.extend(batch)
-                oldest_ts = batch[-1].get("timestamp", "")
-                print(f"    org {org_id} page {pg_num}: {len(batch)} notifs, oldest: {oldest_ts}")
-                if oldest_ts and oldest_ts[:10] < two_days_ago:
-                    break
-                last = batch[-1]
-                cursor = (last.get("id") or last.get("_id") or last.get("notificationId")
-                          or last.get("alertId") or last.get("notification_id") or "")
-                if not cursor or len(batch) < 200:
-                    break
-                fetch_url = f"{NOTIF_API}?limit=200&starting_after={cursor}"
-            return notifs
-
-        print("\nFetching notifications across all orgs…")
-        seen_notif_ids = set()
-        all_notifs = []
-
-        for org in [ORG_ID] + REVIEW_ORGS:
-            print(f"  Fetching org {org}…")
-            org_notifs = await fetch_notifs_for_org(org, page, token)
+            await page.wait_for_timeout(2000)
+            r = await api_get(page, f"{NOTIF_API}?limit=200", token)
+            batch = r["data"] if isinstance(r.get("data"), list) else []
             added = 0
-            for n in org_notifs:
-                nid = n.get("id") or n.get("_id") or ""
-                key = nid or f"{n.get('timestamp','')}-{n.get('title','')}"
-                if key not in seen_notif_ids:
-                    seen_notif_ids.add(key)
+            for n in batch:
+                key = n.get("id") or f"{n.get('timestamp')}-{n.get('title')}"
+                if key not in seen_ids:
+                    seen_ids.add(key)
                     all_notifs.append(n)
                     added += 1
-            print(f"  → {added} new unique notifications from org {org}")
+            print(f"  org {oid}: {len(batch)} notifs, {added} new unique")
 
-        # Return to main org context and refresh token
+        # Return to main org
         try:
             await page.goto(HOME_URL, wait_until="domcontentloaded", timeout=15000)
         except Exception:
             pass
         await page.wait_for_timeout(2000)
-        all_cookies = await ctx.cookies(["https://partner-hub.deliveroo.com"])
+        all_cookies = await ctx.cookies([BASE_URL])
         token = next((c["value"] for c in all_cookies if c["name"] == "token"), token)
 
+        print(f"  Total unique notifications: {len(all_notifs)}")
+
+        # Print sample notification keys to reveal orgId/org fields
+        if all_notifs:
+            print(f"  Sample notification keys: {sorted(all_notifs[0].keys())}")
+            # Extract any org IDs found inside notifications themselves
+            for n in all_notifs:
+                for key in ["orgId", "org_id", "organisationId", "organization_id"]:
+                    val = str(n.get(key) or "")
+                    if val.isdigit():
+                        org_ids.add(val)
+
         yesterday_notifs = [n for n in all_notifs if yesterday in n.get("timestamp", "")]
-        print(f"Total fetched: {len(all_notifs)} | Yesterday: {len(yesterday_notifs)}")
+        print(f"  Yesterday ({yesterday}): {len(yesterday_notifs)}")
         for n in yesterday_notifs:
-            print(f"  [{n['timestamp']}] {n['title']}")
+            print(f"    [{n['timestamp']}] {n['title']}")
 
-        # ── 4. Process notifications ──────────────────────────────────────────
+        # ── 5. Cancelled orders (yesterday only) ─────────────────────────────
         cancelled = []
-        review_tasks = []       # {site, branch_id, url}
-        seen_branch_ids = set() # deduplicate branches across multiple review notifications
-
-        # Cancelled: only yesterday's notifications
         for n in yesterday_notifs:
             title = n.get("title", "")
             if "cancelled" in title.lower() or "auto-rejected" in title.lower():
@@ -389,124 +383,84 @@ async def main():
                 if dr.get("ok"):
                     site = extract_site_from_body(dr["data"].get("body", ""))
                     print(f"  ✓ Cancelled: {site}")
-                    cancelled.append({
-                        "time": n["timestamp"],
-                        "site": site,
-                        "brand": categorise(site),
-                    })
+                    cancelled.append({"time": n["timestamp"], "site": site, "brand": categorise(site)})
 
-        # Reviews: look at "Customer reviews" notifications from yesterday OR today
-        # (multiple orgs send separate batches; both days covers timezone edge cases)
-        today = str(date.today())
-        all_review_notifs = [
-            n for n in all_notifs
-            if "review" in n.get("title", "").lower()
-            and (yesterday in n.get("timestamp", "") or today in n.get("timestamp", ""))
-        ]
-        print(f"\n  Found {len(all_review_notifs)} review notification(s) from {yesterday}/{today}")
+        # ── 6. Discover ALL branch IDs from historical review notifications ───
+        # The API only returns 200 notifications. Yesterday's notification for some
+        # branches may be missing, but those branches WILL appear in older notifications.
+        # Collect every branch ID seen across ALL review notifications in the 200.
+        print("\nDiscovering branches from all historical review notifications…")
+        all_review_notifs = [n for n in all_notifs if "review" in n.get("title", "").lower()]
+        print(f"  {len(all_review_notifs)} review notifications in history")
 
+        known_branches = {}   # branch_id → {site, url}
         for n in all_review_notifs:
             dr = await api_get(page, f"{NOTIF_API}/{n['id']}", token)
             if not dr.get("ok"):
                 continue
-            resources = dr["data"].get("resources", [])
-            ts = n.get("timestamp", "")
-            print(f"  [{ts}] Review notification: {len(resources)} site(s)")
-            for r in resources:
-                link = r.get("link", "")
-                branch_id = branch_id_from_link(link)
-                site_name = r.get("title", "Unknown")
-                subtitle = r.get("subtitle", {})
-                subtitle_text = subtitle.get("text", "") if isinstance(subtitle, dict) else str(subtitle)
-                count = new_review_count(subtitle_text) or 1
-                if branch_id and branch_id not in seen_branch_ids:
-                    seen_branch_ids.add(branch_id)
+            for r in dr["data"].get("resources", []):
+                link  = r.get("link", "")
+                bid   = branch_id_from_link(link)
+                sname = r.get("title", "Unknown")
+                if bid and bid not in known_branches:
                     full_link = link if link.startswith("http") else f"{BASE_URL}{link}"
-                    review_tasks.append({
-                        "site": site_name,
-                        "branch_id": branch_id,
-                        "url": full_link,
-                        "count": count,
-                    })
-                    print(f"    + {site_name} (branchId={branch_id}, new={count})")
+                    known_branches[bid] = {"site": sname, "url": full_link}
+                    print(f"    + {sname} (branchId={bid})")
 
-        print(f"\nCancelled: {len(cancelled)} | Review sites: {len(review_tasks)}")
+        print(f"  Total known branches: {len(known_branches)}")
 
-        # ── 5. Fetch reviews via API ──────────────────────────────────────────
-        # Warm up the /api/restaurants/ session by navigating to the first review page
-        if review_tasks:
-            warmup_url = review_tasks[0].get("url",
-                f"{BASE_URL}/reviews?orgId=188047&branchId={review_tasks[0]['branch_id']}&dateRangePreset=last_7_days")
-            print(f"\nWarming up session for reviews API…")
+        # ── 7. Warm up session then check every branch for yesterday's reviews ─
+        if known_branches:
+            first_bid = next(iter(known_branches))
+            warmup_url = known_branches[first_bid]["url"]
+            print(f"\nWarming up session…")
             try:
                 await page.goto(warmup_url, wait_until="domcontentloaded", timeout=15000)
             except Exception:
                 pass
             await page.wait_for_timeout(4000)
             await dismiss_popups(page)
-            # Refresh token after navigation
             all_cookies = await ctx.cookies(["https://partner-hub.deliveroo.com"])
             token = next((c["value"] for c in all_cookies if c["name"] == "token"), token)
             print(f"  Session warmed up. Token: {len(token)} chars.")
 
         reviews = []
-        for task in review_tasks:
-            branch_id = task["branch_id"]
-            site_name = task["site"]
-            needed   = task.get("count", 1)   # how many new reviews the notification reported
-            print(f"\nFetching reviews: {site_name} (branchId={branch_id}, need={needed})…")
+        for branch_id, info in known_branches.items():
+            site_name = info["site"]
+            api_url = (f"{BASE_URL}/api/restaurants/{branch_id}/reviews"
+                       f"?stars=&sort_date=&starting_after=")
+            result = await api_get(page, api_url, token)
 
-            # Collect exactly `needed` most-recent reviews, paginating if necessary.
-            # No date filter — we trust the notification count over UTC date matching.
-            collected = []
-            starting_after = ""
-            page_num = 0
-            while len(collected) < needed:
-                page_num += 1
-                api_url = (f"{BASE_URL}/api/restaurants/{branch_id}/reviews"
-                           f"?stars=&sort_date=&starting_after={starting_after}")
+            if not result.get("ok") and "DOCTYPE" in str(result.get("error", "")):
+                # Session drop — re-navigate and retry
+                try:
+                    await page.goto(info["url"], wait_until="domcontentloaded", timeout=15000)
+                except Exception:
+                    pass
+                await page.wait_for_timeout(3000)
+                all_cookies = await ctx.cookies(["https://partner-hub.deliveroo.com"])
+                token = next((c["value"] for c in all_cookies if c["name"] == "token"), token)
                 result = await api_get(page, api_url, token)
 
-                # Session-drop recovery
-                if not result.get("ok") and "DOCTYPE" in str(result.get("error", "")):
-                    print(f"  Session lost — re-navigating and retrying…")
-                    review_url = task.get("url", f"{BASE_URL}/reviews?orgId=188047&branchId={branch_id}&dateRangePreset=last_7_days")
-                    try:
-                        await page.goto(review_url, wait_until="domcontentloaded", timeout=15000)
-                    except Exception:
-                        pass
-                    await page.wait_for_timeout(4000)
-                    await dismiss_popups(page)
-                    all_cookies = await ctx.cookies(["https://partner-hub.deliveroo.com"])
-                    token = next((c["value"] for c in all_cookies if c["name"] == "token"), token)
-                    result = await api_get(page, api_url, token)
+            if not result.get("ok"):
+                continue
 
-                if not result.get("ok"):
-                    print(f"  ERROR {result.get('status')}: {result}")
-                    break
+            page_reviews = result["data"].get("reviews", [])
+            # Keep reviews from yesterday (UTC) or the day before (covers BST midnight edge)
+            two_days_ago = str(date.today() - timedelta(days=2))
+            yesterday_reviews = [
+                r for r in page_reviews
+                if r.get("created_at", "")[:10] in [yesterday, two_days_ago]
+            ]
+            if not yesterday_reviews:
+                continue
 
-                page_reviews = result["data"].get("reviews", [])
-                if not page_reviews:
-                    break
-
-                print(f"  Page {page_num}: {len(page_reviews)} reviews fetched")
-                collected.extend(page_reviews)
-
-                # No more pages
-                if len(page_reviews) < 6:
-                    break
-                starting_after = page_reviews[-1].get("order_uuid", "")
-                if not starting_after:
-                    break
-
-            new_reviews = collected[:needed]
-            print(f"  → keeping {len(new_reviews)} review(s)")
-
-            for rev in new_reviews:
+            print(f"  {site_name} (branchId={branch_id}): {len(yesterday_reviews)} review(s)")
+            for rev in yesterday_reviews:
                 rating  = rev.get("rating_stars")
                 comment = (rev.get("rating_comment") or "").strip()
                 created = rev.get("created_at", "")
-                print(f"  ★{rating}  [{created}]  {comment[:60]}")
+                print(f"    ★{rating}  [{created}]  {comment[:60]}")
                 reviews.append({
                     "site":    site_name,
                     "brand":   categorise(site_name),
