@@ -33,42 +33,6 @@
         "brand": "Hot Chick"
       }
     ],
-    "reviews": [
-      {
-        "site": "Koreatown - Korean Fried Chicken (Clifton - Byron Pl)",
-        "brand": "Koreatown",
-        "rating": 5,
-        "text": "very nice wings everytime \nhighly recommend",
-        "created": "2026-06-30T02:04:09Z"
-      },
-      {
-        "site": "Wing Fest All Stars (Colchester - Challenge Way)",
-        "brand": "Wing Fest",
-        "rating": 5,
-        "text": "Food was great but please be mindful of the amount of bbq sauce you put in. Maybe think of putting the sauce on its own",
-        "created": "2026-06-30T09:53:03Z"
-      },
-      {
-        "site": "Koreatown (Burgess Hill - Church Rd)",
-        "brand": "Koreatown",
-        "rating": 5,
-        "text": "\ud83d\udc4c\ud83c\udffd",
-        "created": "2026-06-29T17:22:00Z"
-      },
-      {
-        "site": "Twisted London (Basildon - Britannia Ct)",
-        "brand": "Twisted London",
-        "rating": 4,
-        "text": "The batter on the chicken was too spicy and the barbecue sauce on the fries was too much, but other than that, we enjoyed our order.",
-        "created": "2026-06-29T15:09:40Z"
-      },
-      {
-        "site": "Kuro Smash (Walthamstow - Wood St)",
-        "brand": "Kuro Smash",
-        "rating": 5,
-        "text": "Tasty and unique, would order again!",
-        "created": "2026-06-29T18:12:31Z"
-      }
-    ]
+    "reviews": []
   }
 }
