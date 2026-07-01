@@ -218,12 +218,12 @@ async def main():
         page = await ctx.new_page()
         await stealth_async(page)
 
-        # ── 0. Set up network interceptor BEFORE any navigation ───────────────
-        intercepted_notif_urls = set()
+        # ── 0. Capture ALL api-gw URLs the page loads (helps discover endpoints) ─
+        intercepted_api_urls = set()
         async def on_response(response):
             url = response.url
-            if "notification" in url.lower() or "alert" in url.lower():
-                intercepted_notif_urls.add(url)
+            if "api-gw" in url or "api/" in url:
+                intercepted_api_urls.add(url)
         page.on("response", on_response)
 
         # ── 1. Auth ───────────────────────────────────────────────────────────
@@ -261,10 +261,10 @@ async def main():
             raise SystemExit(1)
         print(f"✓ Token ({len(token)} chars).")
 
-        # ── 2b. Print any notification URLs the page itself called ──────────────
-        if intercepted_notif_urls:
-            print("Notification URLs called by Partner Hub UI:")
-            for u in sorted(intercepted_notif_urls):
+        # ── 2b. Print ALL API URLs the page called (helps discover endpoints) ───
+        if intercepted_api_urls:
+            print("API URLs called by Partner Hub on load:")
+            for u in sorted(intercepted_api_urls):
                 print(f"  {u}")
 
 
@@ -446,11 +446,15 @@ async def main():
                 continue
 
             page_reviews = result["data"].get("reviews", [])
-            # Keep reviews from yesterday (UTC) or the day before (covers BST midnight edge)
+            # Keep reviews from yesterday UTC.
+            # BST midnight edge: review at 00:xx BST = 23:xx UTC on previous day,
+            # so also include previous-day reviews where UTC hour is 23.
             two_days_ago = str(date.today() - timedelta(days=2))
             yesterday_reviews = [
                 r for r in page_reviews
-                if r.get("created_at", "")[:10] in [yesterday, two_days_ago]
+                if r.get("created_at", "")[:10] == yesterday
+                or (r.get("created_at", "")[:10] == two_days_ago
+                    and r.get("created_at", "T")[11:13] == "23")
             ]
             if not yesterday_reviews:
                 continue
