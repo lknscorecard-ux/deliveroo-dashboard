@@ -268,25 +268,26 @@ async def main():
             for u in sorted(intercepted_notif_urls):
                 print(f"  {u}")
 
-        # ── 2c. Probe notification API variants to find missing notifications ──
-        print("\nProbing notification API variants…")
-        probe_variants = [
-            f"{NOTIF_API}?limit=200",
-            f"{NOTIF_API}?limit=500",
-            f"{NOTIF_API}",
-            f"{NOTIF_API}?limit=200&read=false",
-            f"{NOTIF_API}?limit=200&unread=true",
-            f"{NOTIF_API}?limit=200&orgId=513610",
-            f"{NOTIF_API}?limit=200&orgId=188047",
-            f"{NOTIF_API}?limit=200&orgId=400890",
-        ]
-        yesterday_counts = {}
-        for variant_url in probe_variants:
-            r = await api_get(page, variant_url, token)
-            batch = r["data"] if isinstance(r.get("data"), list) else []
-            y_count = sum(1 for n in batch if yesterday in n.get("timestamp", ""))
-            yesterday_counts[variant_url] = (len(batch), y_count)
-            print(f"  {len(batch):>3} total, {y_count:>2} yesterday  ← {variant_url.split('?')[1] if '?' in variant_url else 'no params'}")
+        # ── 2c. Intercept ALL API calls made by the reviews page ─────────────
+        all_api_calls = set()
+        async def on_response_full(response):
+            url = response.url
+            if "partner-hub.deliveroo.com/api" in url:
+                all_api_calls.add(url)
+        page.on("response", on_response_full)
+
+        print("\nNavigating to reviews page to intercept API calls…")
+        try:
+            await page.goto(f"{BASE_URL}/reviews?orgId=513610",
+                            wait_until="networkidle", timeout=20000)
+        except Exception:
+            await page.goto(f"{BASE_URL}/reviews?orgId=513610",
+                            wait_until="domcontentloaded", timeout=15000)
+        await page.wait_for_timeout(5000)
+
+        print("API calls intercepted from reviews page:")
+        for u in sorted(all_api_calls):
+            print(f"  {u}")
         print()
 
         # ── 3. Fetch ALL notifications from all org contexts ──────────────────
