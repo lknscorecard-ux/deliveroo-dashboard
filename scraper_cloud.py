@@ -268,26 +268,44 @@ async def main():
             for u in sorted(intercepted_notif_urls):
                 print(f"  {u}")
 
-        # ── 2c. Intercept ALL API calls made by the reviews page ─────────────
-        all_api_calls = set()
+        # ── 2c. Intercept API calls from the REVIEW ORG pages + extract Next.js data ──
+        all_api_calls = {}   # url → response json (truncated)
+
         async def on_response_full(response):
             url = response.url
             if "partner-hub.deliveroo.com/api" in url:
-                all_api_calls.add(url)
+                try:
+                    data = await response.json()
+                    all_api_calls[url] = data
+                except Exception:
+                    all_api_calls[url] = None
         page.on("response", on_response_full)
 
-        print("\nNavigating to reviews page to intercept API calls…")
-        try:
-            await page.goto(f"{BASE_URL}/reviews?orgId=513610",
-                            wait_until="networkidle", timeout=20000)
-        except Exception:
-            await page.goto(f"{BASE_URL}/reviews?orgId=513610",
-                            wait_until="domcontentloaded", timeout=15000)
-        await page.wait_for_timeout(5000)
+        print("\nNavigating to reviews pages to intercept API calls…")
+        for review_org in ["188047", "400890"]:
+            all_api_calls.clear()
+            reviews_url = f"{BASE_URL}/reviews?orgId={review_org}"
+            try:
+                await page.goto(reviews_url, wait_until="networkidle", timeout=25000)
+            except Exception:
+                await page.goto(reviews_url, wait_until="domcontentloaded", timeout=15000)
+            await page.wait_for_timeout(8000)   # wait for React hydration
 
-        print("API calls intercepted from reviews page:")
-        for u in sorted(all_api_calls):
-            print(f"  {u}")
+            # Extract Next.js preloaded data
+            next_data = await page.evaluate("JSON.stringify(window.__NEXT_DATA__ || {})")
+            if len(next_data) > 10:
+                print(f"  org {review_org} __NEXT_DATA__ ({len(next_data)} chars): {next_data[:500]}")
+
+            print(f"  org {review_org} API calls ({len(all_api_calls)}):")
+            for u, d in sorted(all_api_calls.items()):
+                summary = ""
+                if isinstance(d, list):
+                    summary = f"list[{len(d)}]"
+                elif isinstance(d, dict):
+                    summary = str(list(d.keys()))[:80]
+                print(f"    {u}")
+                if summary:
+                    print(f"      → {summary}")
         print()
 
         # ── 3. Fetch ALL notifications from all org contexts ──────────────────
