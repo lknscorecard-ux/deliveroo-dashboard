@@ -20,7 +20,7 @@
       {
         "time": "2026-06-30T17:37:33Z",
         "site": "TwistedLondon(CanningTown-NorthWoolwichRd)",
-        "brand": "Other"
+        "brand": "Twisted London"
       },
       {
         "time": "2026-06-30T14:25:55Z",
@@ -47,27 +47,6 @@
         "rating": 5,
         "text": "Food was great but please be mindful of the amount of bbq sauce you put in. Maybe think of putting the sauce on its own",
         "created": "2026-06-30T09:53:03Z"
-      },
-      {
-        "site": "Twisted London (Plymouth - Drake Circus)",
-        "brand": "Twisted London",
-        "rating": 3,
-        "text": "first time ordering meat was nice but everything else was bland buns to soft chips a bit to soft",
-        "created": "2026-06-30T14:17:05Z"
-      },
-      {
-        "site": "WTF! - Mind-Blowing Vegan Burgers\ud83c\udf31(Kensal Rise - Station Terrace)",
-        "brand": "WTF",
-        "rating": 1,
-        "text": "BEWARE. This place is an absolute scam. I ordered two bacon cheezeburgers. I was sent what appears to be three real meat chicken nuggets with mayo on a sad disgusting bun along with real cheese. Absolutely despicable that this restaurant is doing this. DO NOT ORDER FROM HERE!",
-        "created": "2026-06-30T23:01:45Z"
-      },
-      {
-        "site": "Hot Chick (Epsom - Kingston Rd)",
-        "brand": "Hot Chick",
-        "rating": 5,
-        "text": "tender and crispy and cooked to perfection. Definitely one to try if you have not",
-        "created": "2026-06-30T15:52:27Z"
       }
     ]
   }
