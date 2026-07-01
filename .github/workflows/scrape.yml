@@ -22,14 +22,20 @@ jobs:
         run: |
           pip install playwright playwright-stealth==1.0.6
           python -m playwright install chromium --with-deps
+          sudo apt-get install -y xvfb
 
-      - name: Run python scraper_cloud.py
+      - name: Run scraper
         env:
           DELIVEROO_EMAIL: ${{ secrets.DELIVEROO_EMAIL }}
           DELIVEROO_PASSWORD: ${{ secrets.DELIVEROO_PASSWORD }}
-        run: python scraper_cloud.py
+          DISPLAY: :99
+        run: |
+          Xvfb :99 -screen 0 1440x900x24 &
+          sleep 2
+          python scraper_cloud.py
 
       - name: Commit results
+        if: always()
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
