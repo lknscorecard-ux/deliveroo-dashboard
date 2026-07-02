@@ -84,5 +84,75 @@
         "created": "2026-06-30T18:53:19Z"
       }
     ]
+  },
+  "2026-07-01": {
+    "scraped_date": "2026-07-02",
+    "cancelled_orders": [
+      {
+        "time": "2026-07-01T21:41:53Z",
+        "site": "TwistedLondon(Welwyn-LondonRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-07-01T20:59:16Z",
+        "site": "Koreatown (Leicester - Allandale Rd)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-07-01T20:41:17Z",
+        "site": "Kuro Smash (Leicester - Allandale Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-07-01T19:39:09Z",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Norwich - Plumstead Rd)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-07-01T18:59:52Z",
+        "site": "Hot Chick (Datchet - Mill Place)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-07-01T13:12:57Z",
+        "site": "Wing Fest All Stars (Watford - Market St)",
+        "brand": "Wing Fest"
+      },
+      {
+        "time": "2026-07-01T11:41:01Z",
+        "site": "Hot Chick (Mexborough - Pym Rd)",
+        "brand": "Hot Chick"
+      }
+    ],
+    "reviews": [
+      {
+        "site": "WTF! - Mind-Blowing Vegan Burgers\ud83c\udf31(Kensal Rise - Station Terrace)",
+        "brand": "WTF",
+        "rating": 1,
+        "text": "BEWARE. This place is an absolute scam. I ordered two bacon cheezeburgers. I was sent what appears to be three real meat chicken nuggets with mayo on a sad disgusting bun along with real cheese. Absolutely despicable that this restaurant is doing this. DO NOT ORDER FROM HERE!",
+        "created": "2026-06-30T23:01:45Z"
+      },
+      {
+        "site": "Koreatown (Grangetown - Holmesdale St)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "This is the worst takeaway I have ever had.  \n\nI thought I hadn&#39;t been given rice with my meal until I realised the weird gloop at the bottom of the bowl was the rice.  At first I thought it was congealed sauce because of how it looked, then I thought they&#39;d given me an omelette because of the consistency.  Eventually I figured out it was gross rice.  \n\nThe chicken was too dry, and I like dry chicken.  The crispy coating tasted burnt.  The coleslaw was basically bitter mush. \n\nIf it hadn&#39;t been so late at night, I would have thrown it away and ordered from somewhere else which would have been a first for me.  I do not throw food away just because I do not like it unless it has literally gone bad.\n\nUnfortunately, I was hungry and had no food in the house, so I ate what I could of it.  I should have gone to bed hungry.\n\nThis is the first time I have ever been glad to have been given a disappointingly small portion of food.",
+        "created": "2026-07-01T19:38:33Z"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Westcliff-on-Sea - London Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "The best chicken ribs I&#39;ve ever had. Always piping hot and tasty. Prefer not to have dressing on top of chicken ribs but No other option.",
+        "created": "2026-07-01T15:32:55Z"
+      },
+      {
+        "site": "Hot Chick (Croydon - South End)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Abit more chicken and it would be 10/10. Very good",
+        "created": "2026-07-01T16:25:13Z"
+      }
+    ]
   }
 }
