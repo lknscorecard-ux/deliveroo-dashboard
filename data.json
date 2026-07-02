@@ -157,8 +157,53 @@
   },
   "2026-07-02": {
     "scraped_date": "2026-07-02",
-    "last_updated": "2026-07-02T11:08:22Z",
-    "cancelled_orders": [],
-    "reviews": []
+    "last_updated": "2026-07-02T11:48:56Z",
+    "cancelled_orders_date": "2026-07-01",
+    "cancelled_orders": [
+      {
+        "time": "2026-07-01T21:41:53Z",
+        "site": "TwistedLondon(Welwyn-LondonRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-07-01T20:59:16Z",
+        "site": "Koreatown (Leicester - Allandale Rd)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-07-01T20:41:17Z",
+        "site": "Kuro Smash (Leicester - Allandale Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-07-01T19:39:09Z",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Norwich - Plumstead Rd)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-07-01T18:59:52Z",
+        "site": "Hot Chick (Datchet - Mill Place)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-07-01T13:12:57Z",
+        "site": "Wing Fest All Stars (Watford - Market St)",
+        "brand": "Wing Fest"
+      },
+      {
+        "time": "2026-07-01T11:41:01Z",
+        "site": "Hot Chick (Mexborough - Pym Rd)",
+        "brand": "Hot Chick"
+      }
+    ],
+    "reviews": [
+      {
+        "site": "Kuro Smash - (Kensal Rise - Station Terrace)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "Scam restaurant.",
+        "created": "2026-07-02T11:23:21Z"
+      }
+    ]
   }
 }
