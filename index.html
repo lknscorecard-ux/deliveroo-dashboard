@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LKN — Deliveroo Daily Dashboard</title>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3.11.0/dist/tabler-icons.min.css" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Inter',sans-serif;background:#F4F2EA;color:#14161A;min-height:100vh}
+
+
+
+/* ── Dashboard ── */
+#dashboard{display:block;max-width:920px;margin:0 auto;padding:20px}
+
+/* ── Top bar ── */
+.topbar{background:#14161A;border-radius:10px 10px 0 0;padding:9px 20px;display:flex;align-items:center;justify-content:space-between}
+.topbar-left{display:flex;align-items:center;gap:8px}
+.live-dot{width:6px;height:6px;border-radius:50%;background:#EAFF00;animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+.topbar-left span{font-size:11px;letter-spacing:.08em;color:#EAFF00;text-transform:uppercase;font-weight:600}
+.topbar-right{font-size:11px;color:rgba(245,245,240,.55)}
+
+/* ── Main card ── */
+.main-card{background:#F4F2EA;border-radius:0 0 12px 12px;padding:20px;border:.5px solid rgba(0,0,0,.06);border-top:none}
+
+/* ── Header ── */
+.header-row{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;margin-bottom:20px}
+.logo-area{display:flex;align-items:center;gap:14px}
+.logo-area img{height:52px;display:block;object-fit:contain}
+.brand-title{font-family:'Archivo Black',sans-serif;font-size:14px;letter-spacing:.02em}
+.brand-sub{font-size:12px;color:#6B6E73;margin-top:2px}
+.controls{display:flex;align-items:center;gap:8px}
+.date-select{background:#fff;border:.5px solid rgba(0,0,0,.12);border-radius:8px;padding:7px 10px;font-size:12px;font-family:'Inter',sans-serif;color:#14161A;cursor:pointer;outline:none}
+.refresh-btn{display:flex;align-items:center;gap:6px;background:#EAFF00;border:none;color:#14161A;font-size:12px;font-weight:600;padding:8px 14px;border-radius:8px;cursor:pointer;font-family:'Inter',sans-serif}
+.refresh-btn:hover{background:#d4e600}
+
+/* ── KPI cards ── */
+.kpi-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin-bottom:16px}
+.kpi-card{background:#fff;border:.5px solid rgba(0,0,0,.08);border-radius:10px;padding:14px 14px 12px;position:relative}
+.kpi-card::before{content:"";position:absolute;top:0;left:14px;right:14px;height:1px;background-image:repeating-linear-gradient(90deg,rgba(0,0,0,.12) 0 6px,transparent 6px 12px)}
+.kpi-card.dark{background:#14161A}
+.kpi-card.dark::before{background-image:repeating-linear-gradient(90deg,rgba(255,255,255,.12) 0 6px,transparent 6px 12px)}
+.kpi-label{display:flex;align-items:center;gap:6px;font-size:11px;color:#6B6E73;text-transform:uppercase;letter-spacing:.05em;margin-bottom:8px}
+.kpi-card.dark .kpi-label{color:rgba(245,245,240,.6)}
+.kpi-value{font-family:'Archivo Black',sans-serif;font-size:26px;line-height:1.1}
+.kpi-card.dark .kpi-value{color:#EAFF00}
+.kpi-sub{font-size:11px;color:#6B6E73;margin-top:4px}
+.kpi-card.dark .kpi-sub{color:rgba(245,245,240,.6)}
+.kpi-up{color:#D64545}
+.kpi-dn{color:#2EA842}
+
+/* ── Charts ── */
+.charts-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px;margin-bottom:16px}
+.chart-card{background:#fff;border:.5px solid rgba(0,0,0,.08);border-radius:10px;padding:16px}
+.chart-title{font-size:12px;font-weight:600;color:#14161A;margin-bottom:12px}
+.bar-row{display:grid;grid-template-columns:96px 1fr 24px;align-items:center;gap:8px;margin-bottom:9px}
+.bar-row.narrow{grid-template-columns:44px 1fr 24px}
+.bar-row:last-child{margin-bottom:0}
+.bar-label{font-size:11px;color:#6B6E73;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.bar-track{background:rgba(0,0,0,.06);border-radius:4px;height:8px;overflow:hidden}
+.bar-fill{height:100%;border-radius:4px}
+.bar-fill.red{background:#D64545}
+.bar-fill.ylw{background:#C7D400}
+.bar-count{font-size:11px;color:#6B6E73;text-align:right}
+
+/* ── Table ── */
+.table-card{background:#fff;border:.5px solid rgba(0,0,0,.08);border-radius:10px;padding:16px;margin-bottom:10px}
+.card-title{font-size:12px;font-weight:600;color:#14161A;margin-bottom:10px}
+table{width:100%;border-collapse:collapse;font-size:11px}
+th{color:#6B6E73;text-align:left;font-weight:500;padding:0 0 8px;text-transform:uppercase;letter-spacing:.04em;font-size:10px}
+td{padding:7px 0;color:#14161A;border-top:.5px solid rgba(0,0,0,.08);vertical-align:top}
+td.muted{color:#6B6E73}
+
+/* ── Reviews ── */
+.reviews-card{background:#fff;border:.5px solid rgba(0,0,0,.08);border-radius:10px;padding:16px}
+.review-item{display:flex;gap:10px;align-items:flex-start;border-top:.5px solid rgba(0,0,0,.08);padding-top:10px;margin-top:10px}
+.review-item:first-child{border-top:none;margin-top:0;padding-top:0}
+.star-badge{font-size:10px;font-weight:600;padding:3px 7px;border-radius:5px;flex-shrink:0;line-height:1.6}
+.star-hi{background:#14161A;color:#EAFF00}
+.star-mid{background:rgba(199,212,0,.15);color:#7A8500}
+.star-lo{background:rgba(214,69,69,.12);color:#B23434}
+.review-site{color:#14161A;font-weight:500;font-size:11px}
+.review-text{color:#6B6E73;font-size:11px;line-height:1.55;margin-top:2px}
+.empty{color:#6B6E73;font-size:12px;padding:8px 0}
+</style>
+</head>
+<body>
+
+<!-- DASHBOARD -->
+<div id="dashboard">
+  <div class="topbar">
+    <div class="topbar-left">
+      <div class="live-dot"></div>
+      <span id="topbar-label">Deliveroo performance — live</span>
+    </div>
+    <div class="topbar-right" id="scrape-time">Loading…</div>
+  </div>
+  <div class="main-card">
+    <div class="header-row">
+      <div class="logo-area">
+        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB3aWR0aD0iNTIiIGhlaWdodD0iNTIiPgogIDxyZWN0IHg9IjEuNSIgeT0iMS41IiB3aWR0aD0iOTciIGhlaWdodD0iOTciIHN0eWxlPSJmaWxsOiNmZmZmZmY7c3Ryb2tlOiMxYTFhMWE7c3Ryb2tlLXdpZHRoOjIuNSIvPgogIDx0ZXh0IHg9IjUwIiB5PSI0MSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgc3R5bGU9ImZvbnQtZmFtaWx5OkltcGFjdCxBcmlhbCBCbGFjayxzYW5zLXNlcmlmO2ZvbnQtd2VpZ2h0OjkwMDtmb250LXNpemU6MzhweDtmaWxsOiMxYTFhMWE7bGV0dGVyLXNwYWNpbmc6LTFweCI+TEVBTjwvdGV4dD4KICA8dGV4dCB4PSI1MCIgeT0iNjQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIHN0eWxlPSJmb250LWZhbWlseTpJbXBhY3QsQXJpYWwgQmxhY2ssc2Fucy1zZXJpZjtmb250LXdlaWdodDo5MDA7Zm9udC1zaXplOjIxcHg7ZmlsbDojMWExYTFhO2xldHRlci1zcGFjaW5nOi0wLjVweCI+S0lUQ0hFTjwvdGV4dD4KICA8dGV4dCB4PSI1MCIgeT0iODgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIHN0eWxlPSJmb250LWZhbWlseTpJbXBhY3QsQXJpYWwgQmxhY2ssc2Fucy1zZXJpZjtmb250LXdlaWdodDo5MDA7Zm9udC1zaXplOjIxcHg7ZmlsbDojMWExYTFhO2xldHRlci1zcGFjaW5nOi0wLjVweCI+TkVUV09SSzwvdGV4dD4KPC9zdmc+" alt="LKN" style="height:52px;display:block;flex-shrink:0">
+        <div>
+          <div class="brand-title">LEAN KITCHEN NETWORK</div>
+          <div class="brand-sub">Deliveroo daily dashboard</div>
+        </div>
+      </div>
+      <div class="controls">
+        <input type="date" class="date-select" id="date-select" onchange="switchDate(this.value)">
+        <button class="refresh-btn" onclick="loadAndRender()">
+          <i class="ti ti-refresh"></i> Refresh
+        </button>
+      </div>
+    </div>
+
+    <div class="kpi-grid" id="kpi-grid"></div>
+    <div class="charts-grid" id="charts-grid"></div>
+    <div id="cancelled-table"></div>
+    <div id="reviews-section"></div>
+  </div>
+</div>
+
+<script>
+// Auto-refresh every 20 minutes to pick up latest scraper run
+setInterval(loadAndRender, 20*60*1000);
+loadAndRender();
+
+function todayUTC(){return new Date().toISOString().slice(0,10);}
+
+async function loadAndRender(){
+  try{
+    const r=await fetch('data.json?v='+Date.now());
+    allData=await r.json();
+    if(allData.target_date||allData.scraped_date){
+      const d=allData.target_date||allData.scraped_date;
+      allData={[d]:allData};
+    }
+    const dates=Object.keys(allData).sort().reverse();
+    const today=todayUTC();
+    const sel=document.getElementById('date-select');
+    // Set min/max for the calendar
+    sel.min=dates[dates.length-1];
+    sel.max=today;
+    // Default to today if available, else most recent date
+    currentDate=dates.includes(today)?today:dates[0];
+    sel.value=currentDate;
+    render(currentDate);
+  }catch(e){
+    const isLocal=location.protocol==='file:';
+    document.getElementById('scrape-time').innerHTML=isLocal
+      ?'Open via <a href="https://lknscorecard-ux.github.io/deliveroo-dashboard/" style="color:#EAFF00" target="_blank">GitHub Pages</a> — file:// cannot fetch data'
+      :'Error loading data.json — try refreshing';
+  }
+}
+
+function switchDate(d){
+  currentDate=d;
+  if(allData[d]){render(d);}
+  else{
+    document.getElementById('scrape-time').textContent='No data for '+fmtDate(d);
+    document.getElementById('kpi-grid').innerHTML='<div style="color:#6B6E73;font-size:12px;padding:20px 0">No data scraped for this date yet.</div>';
+    document.getElementById('charts-grid').innerHTML='';
+    document.getElementById('cancelled-table').innerHTML='';
+    document.getElementById('reviews-section').innerHTML='';
+  }
+}
+
+function render(dk){
+  const day=allData[dk]; if(!day)return;
+  const cancelled=day.cancelled_orders||[];
+  const reviews=day.reviews||[];
+  const today=todayUTC();
+  const isToday=(dk===today);
+  document.getElementById('topbar-label').textContent=
+    isToday?'Deliveroo performance — live':'Deliveroo performance — historical';
+
+  // Topbar: show last updated time
+  if(day.last_updated){
+    const mins=Math.round((Date.now()-new Date(day.last_updated))/60000);
+    const ago=mins<60?`${mins}m ago`:`${Math.floor(mins/60)}h ${mins%60}m ago`;
+    const cancelDate=day.cancelled_orders_date||dk;
+    document.getElementById('scrape-time').textContent=
+      isToday?`Reviews: live · Cancellations: ${fmtDate(cancelDate)} · updated ${ago}`:`Data for ${fmtDate(dk)}`;
+  } else {
+    document.getElementById('scrape-time').textContent=`Data for ${fmtDate(dk)}`;
+  }
+
+  const dates=Object.keys(allData).sort();
+  const idx=dates.indexOf(dk);
+  const prev=idx>0?(allData[dates[idx-1]].cancelled_orders||[]):null;
+  renderKPIs(cancelled,reviews,prev,isToday,day.cancelled_orders_date||dk);
+  renderCharts(cancelled,reviews);
+  renderTable(cancelled);
+  renderReviews(reviews);
+}
+
+function renderKPIs(cancelled,reviews,prev,isToday,cancelDate){
+  const avg=reviews.length?(reviews.reduce((s,r)=>s+(r.rating||0),0)/reviews.length).toFixed(1):'—';
+  const sites=new Set(cancelled.map(c=>c.site)).size;
+  let diffHtml='<div class="kpi-sub">first-order auto-rejections</div>';
+  if(prev!==null){
+    const d=cancelled.length-prev.length;
+    if(d>0)diffHtml=`<div class="kpi-sub kpi-up">▲ ${d} vs prev day</div>`;
+    else if(d<0)diffHtml=`<div class="kpi-sub kpi-dn">▼ ${Math.abs(d)} vs prev day</div>`;
+    else diffHtml='<div class="kpi-sub">— same as prev day</div>';
+  }
+  const cancelLabel=isToday&&cancelDate
+    ?`Cancellations <span style="font-size:9px;color:#6B6E73;font-weight:400">(yesterday)</span>`
+    :'Cancellations';
+  const liveBadge=isToday?`<span style="display:inline-block;background:#EAFF00;color:#14161A;font-size:9px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.05em;margin-left:6px;vertical-align:middle">LIVE</span>`:'';
+  document.getElementById('kpi-grid').innerHTML=`
+    <div class="kpi-card">
+      <div class="kpi-label"><i class="ti ti-ban" style="font-size:14px;color:#D64545"></i>${cancelLabel}${liveBadge}</div>
+      <div class="kpi-value">${cancelled.length}</div>${diffHtml}
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label"><i class="ti ti-map-pin" style="font-size:14px"></i>Sites affected</div>
+      <div class="kpi-value">${sites}</div>
+      <div class="kpi-sub">unique locations</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label"><i class="ti ti-message-circle" style="font-size:14px"></i>Reviews${liveBadge}</div>
+      <div class="kpi-value">${reviews.length}</div>
+      <div class="kpi-sub">customer reviews</div>
+    </div>
+    <div class="kpi-card dark">
+      <div class="kpi-label"><i class="ti ti-star" style="font-size:14px;color:#EAFF00"></i>Avg rating</div>
+      <div class="kpi-value">${avg}</div>
+      <div class="kpi-sub">out of 5 stars</div>
+    </div>`;
+}
+
+function renderCharts(cancelled,reviews){
+  const bc={};
+  for(const c of cancelled){const b=c.brand||'Other';bc[b]=(bc[b]||0)+1;}
+  const sb=Object.entries(bc).sort((a,b)=>b[1]-a[1]);
+  const mx=sb[0]?.[1]||1;
+  const brandBars=sb.length?sb.map(([b,n])=>`
+    <div class="bar-row">
+      <span class="bar-label" title="${esc(b)}">${esc(b)}</span>
+      <div class="bar-track"><div class="bar-fill red" style="width:${(n/mx*100).toFixed(0)}%"></div></div>
+      <span class="bar-count">${n}</span>
+    </div>`).join(''):'<div class="empty">No cancellations</div>';
+
+  const rc={5:0,4:0,3:0,2:0,1:0};
+  for(const r of reviews){if(r.rating>=1&&r.rating<=5)rc[r.rating]++;}
+  const mr=Math.max(...Object.values(rc),1);
+  const ratingBars=[5,4,3,2,1].map(s=>`
+    <div class="bar-row narrow">
+      <span class="bar-label">${s} stars</span>
+      <div class="bar-track"><div class="bar-fill ylw" style="width:${(rc[s]/mr*100).toFixed(0)}%"></div></div>
+      <span class="bar-count">${rc[s]}</span>
+    </div>`).join('');
+
+  document.getElementById('charts-grid').innerHTML=`
+    <div class="chart-card"><div class="chart-title">Cancellations by brand</div>${brandBars}</div>
+    <div class="chart-card"><div class="chart-title">Review rating distribution</div>${ratingBars}</div>`;
+}
+
+function renderTable(cancelled){
+  const rows=cancelled.length?cancelled.map(c=>{
+    const{loc}=parseSite(c.site);
+    return`<tr><td>${fmtBST(c.time)}</td><td>${esc(c.brand||parseSite(c.site).brand)}</td><td class="muted">${esc(loc)}</td></tr>`;
+  }).join(''):`<tr><td colspan="3" class="empty">No cancellations recorded</td></tr>`;
+  document.getElementById('cancelled-table').innerHTML=`
+    <div class="table-card">
+      <div class="card-title">First order cancelled / auto-rejected</div>
+      <table><tr><th>Time (BST)</th><th>Brand</th><th>Location</th></tr>${rows}</table>
+    </div>`;
+}
+
+function renderReviews(reviews){
+  const sorted=[...reviews].sort((a,b)=>(a.rating||0)-(b.rating||0));
+  const items=sorted.length?sorted.map(r=>{
+    const cls=r.rating>=4?'star-hi':r.rating>=3?'star-mid':'star-lo';
+    const{loc}=parseSite(r.site);
+    const brand=r.brand||parseSite(r.site).brand;
+    return`<div class="review-item">
+      <span class="star-badge ${cls}">${r.rating} ★</span>
+      <div>
+        <div class="review-site">${esc(brand)} · ${esc(loc)}</div>
+        <div class="review-text">${esc(r.text||'(no comment left)')}</div>
+      </div>
+    </div>`;
+  }).join(''):'<div class="empty">No reviews for this date</div>';
+  document.getElementById('reviews-section').innerHTML=`
+    <div class="reviews-card"><div class="card-title">Customer reviews</div>${items}</div>`;
+}
+
+function parseSite(s){
+  if(!s)return{brand:'Unknown',loc:''};
+  const m=s.match(/\(([^)]+)\)\s*\d*$/);
+  if(m)return{brand:s.replace(/\s*\([^)]+\)\s*\d*$/,'').trim(),loc:m[1].trim()};
+  return{brand:s,loc:''};
+}
+
+function fmtBST(u){
+  if(!u)return'—';
+  try{return new Date(u).toLocaleTimeString('en-GB',{timeZone:'Europe/London',hour:'2-digit',minute:'2-digit'});}
+  catch{return u.slice(11,16);}
+}
+
+function fmtDate(d){
+  if(!d)return'—';
+  try{return new Date(d+'T12:00:00Z').toLocaleDateString('en-GB',{weekday:'short',day:'2-digit',month:'short'});}
+  catch{return d;}
+}
+
+function esc(s){
+  if(!s)return'';
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+</script>
+</body>
+</html>
