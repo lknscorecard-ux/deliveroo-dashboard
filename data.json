@@ -157,7 +157,7 @@
   },
   "2026-07-02": {
     "scraped_date": "2026-07-02",
-    "last_updated": "2026-07-02T11:48:56Z",
+    "last_updated": "2026-07-02T12:27:06Z",
     "cancelled_orders_date": "2026-07-01",
     "cancelled_orders": [
       {
@@ -197,6 +197,13 @@
       }
     ],
     "reviews": [
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Burnt bread and meat",
+        "created": "2026-07-02T12:14:09Z"
+      },
       {
         "site": "Kuro Smash - (Kensal Rise - Station Terrace)",
         "brand": "Kuro Smash",
