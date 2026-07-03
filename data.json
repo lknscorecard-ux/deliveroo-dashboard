@@ -219,5 +219,38 @@
         "created": "2026-07-02T12:14:09Z"
       }
     ]
+  },
+  "2026-07-03": {
+    "scraped_date": "2026-07-03",
+    "last_updated": "2026-07-03T07:26:28Z",
+    "cancelled_orders_date": "2026-07-02",
+    "cancelled_orders": [
+      {
+        "time": "2026-07-02T21:51:18Z",
+        "site": "WTF!-(Welwyn-LondonRd)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-07-02T19:52:13Z",
+        "site": "HotChick-(Welwyn-LondonRd)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-07-02T19:24:49Z",
+        "site": "Koreatown (Leicester - Allandale Rd)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-07-02T16:14:50Z",
+        "site": "WTF!-Mind-BlowingVeganBurgers\ud83c\udf31(Bournemouth-StanfieldRd)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-07-02T12:26:16Z",
+        "site": "Hot Chick (Dudley - Martin Hill)",
+        "brand": "Hot Chick"
+      }
+    ],
+    "reviews": []
   }
 }
