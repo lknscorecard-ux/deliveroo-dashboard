@@ -2,7 +2,7 @@ name: Deliveroo Scraper
 
 on:
   schedule:
-    - cron: '0 */4 * * *'   # every 4 hours — real-time updates throughout the day
+    - cron: '0 */2 * * *'   # every 2 hours — real-time updates throughout the day
   workflow_dispatch:
 
 jobs:
