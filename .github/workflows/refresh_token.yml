@@ -1,0 +1,47 @@
+name: Refresh Deliveroo Token
+
+on:
+  schedule:
+    - cron: '0 4 * * 1'   # Every Monday 4am UTC (before scraper runs)
+  workflow_dispatch:       # Run manually from GitHub Actions tab
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read       # No file writes needed — only updates a secret
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install playwright pynacl
+
+      - name: Cache Playwright browsers
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-chromium-${{ runner.os }}-v1
+
+      - name: Install Playwright browser + system deps
+        run: python -m playwright install chromium --with-deps
+
+      - name: Refresh Deliveroo token
+        env:
+          DELIVEROO_EMAIL: ${{ secrets.DELIVEROO_EMAIL }}
+          DELIVEROO_PASSWORD: ${{ secrets.DELIVEROO_PASSWORD }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python refresh_token_cloud.py
+
+      - name: Upload login debug screenshot (on failure)
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: login-debug
+          path: login_debug.png
+          if-no-files-found: ignore
