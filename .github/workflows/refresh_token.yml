@@ -2,7 +2,7 @@ name: Refresh Deliveroo Token
 
 on:
   schedule:
-    - cron: '0 4 * * 1'   # Every Monday 4am UTC (before scraper runs)
+    - cron: '0 4 * * *'   # Everyday 4am UTC (before scraper runs)
   workflow_dispatch:       # Run manually from GitHub Actions tab
 
 jobs:
