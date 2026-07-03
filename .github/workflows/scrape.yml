@@ -1,15 +1,15 @@
-name: Refresh Deliveroo Token
+name: Deliveroo Scraper
 
 on:
   schedule:
-    - cron: '0 4 * * 1'   # Every Monday 4am UTC (before scraper runs)
-  workflow_dispatch:       # Run manually from GitHub Actions tab
+    - cron: '0 */4 * * *'   # every 4 hours — real-time updates throughout the day
+  workflow_dispatch:
 
 jobs:
-  refresh:
+  scrape:
     runs-on: ubuntu-latest
     permissions:
-      contents: read       # No file writes needed — only updates a secret
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
@@ -18,8 +18,8 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        run: pip install playwright pynacl
+      - name: Install Python dependencies
+        run: pip install playwright playwright-stealth==1.0.6 pynacl
 
       - name: Cache Playwright browsers
         uses: actions/cache@v4
@@ -30,18 +30,19 @@ jobs:
       - name: Install Playwright browser + system deps
         run: python -m playwright install chromium --with-deps
 
-      - name: Refresh Deliveroo token
+      - name: Run scraper
         env:
+          DELIVEROO_TOKEN: ${{ secrets.DELIVEROO_TOKEN }}
           DELIVEROO_EMAIL: ${{ secrets.DELIVEROO_EMAIL }}
           DELIVEROO_PASSWORD: ${{ secrets.DELIVEROO_PASSWORD }}
-          GITHUB_PAT: ${{ secrets.GITHUB_PAT }}
-          GITHUB_REPOSITORY: ${{ github.repository }}
-        run: python refresh_token_cloud.py
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: python scraper_cloud.py
 
-      - name: Upload login debug screenshot (on failure)
-        if: failure()
-        uses: actions/upload-artifact@v4
-        with:
-          name: login-debug
-          path: login_debug.png
-          if-no-files-found: ignore
+      - name: Commit results
+        if: always()
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json debug.png || true
+          git diff --cached --quiet || git commit -m "data: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
