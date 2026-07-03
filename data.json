@@ -222,7 +222,7 @@
   },
   "2026-07-03": {
     "scraped_date": "2026-07-03",
-    "last_updated": "2026-07-03T07:26:28Z",
+    "last_updated": "2026-07-03T13:33:45Z",
     "cancelled_orders_date": "2026-07-02",
     "cancelled_orders": [
       {
@@ -251,6 +251,14 @@
         "brand": "Hot Chick"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Wing Fest All Stars (Leigh-On-Sea - London Rd )",
+        "brand": "Wing Fest",
+        "rating": 5,
+        "text": "Wing sauces were banging some of the best I\u2019ve had. chicken was also really nice and well cooked. Chips were decent.",
+        "created": "2026-07-03T11:51:53Z"
+      }
+    ]
   }
 }
