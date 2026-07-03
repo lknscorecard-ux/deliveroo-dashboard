@@ -1,15 +1,15 @@
-name: Deliveroo Scraper
+name: Refresh Deliveroo Token
 
 on:
   schedule:
-    - cron: '0 */4 * * *'   # every 4 hours — real-time updates throughout the day
-  workflow_dispatch:
+    - cron: '0 4 * * 1'   # Every Monday 4am UTC (before scraper runs)
+  workflow_dispatch:       # Run manually from GitHub Actions tab
 
 jobs:
-  scrape:
+  refresh:
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: read       # No file writes needed — only updates a secret
 
     steps:
       - uses: actions/checkout@v4
@@ -18,8 +18,8 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install Python dependencies
-        run: pip install playwright playwright-stealth==1.0.6 pynacl
+      - name: Install dependencies
+        run: pip install playwright pynacl
 
       - name: Cache Playwright browsers
         uses: actions/cache@v4
@@ -30,17 +30,18 @@ jobs:
       - name: Install Playwright browser + system deps
         run: python -m playwright install chromium --with-deps
 
-      - name: Run scraper
+      - name: Refresh Deliveroo token
         env:
-          DELIVEROO_TOKEN: ${{ secrets.DELIVEROO_TOKEN }}
+          DELIVEROO_EMAIL: ${{ secrets.DELIVEROO_EMAIL }}
+          DELIVEROO_PASSWORD: ${{ secrets.DELIVEROO_PASSWORD }}
           GITHUB_PAT: ${{ secrets.GITHUB_PAT }}
-        run: python scraper_cloud.py
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python refresh_token_cloud.py
 
-      - name: Commit results
-        if: always()
-        run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.json debug.png || true
-          git diff --cached --quiet || git commit -m "data: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-          git push
+      - name: Upload login debug screenshot (on failure)
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: login-debug
+          path: login_debug.png
+          if-no-files-found: ignore
