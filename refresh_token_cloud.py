@@ -5,7 +5,7 @@ Designed for GitHub Actions (headless, no interactive input).
 Reads from environment:
   DELIVEROO_EMAIL     — set as GitHub Secret
   DELIVEROO_PASSWORD  — set as GitHub Secret
-  GITHUB_PAT          — set as GitHub Secret (needs secrets:write)
+  GH_PAT          — set as GitHub Secret (needs secrets:write)
   GITHUB_REPOSITORY   — auto-set by GitHub Actions (e.g. lknscorecard-ux/deliveroo-dashboard)
 """
 
@@ -19,7 +19,7 @@ from playwright.async_api import async_playwright
 
 EMAIL    = os.environ["DELIVEROO_EMAIL"]
 PASSWORD = os.environ["DELIVEROO_PASSWORD"]
-PAT      = os.environ["GITHUB_PAT"]
+PAT      = os.environ["GH_PAT"]
 REPO     = os.environ.get("GITHUB_REPOSITORY", "lknscorecard-ux/deliveroo-dashboard")
 SECRET   = "DELIVEROO_TOKEN"
 BASE_URL = "https://partner-hub.deliveroo.com"
