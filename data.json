@@ -222,7 +222,7 @@
   },
   "2026-07-03": {
     "scraped_date": "2026-07-03",
-    "last_updated": "2026-07-03T15:28:41Z",
+    "last_updated": "2026-07-03T20:23:20Z",
     "cancelled_orders_date": "2026-07-02",
     "cancelled_orders": [
       {
@@ -258,6 +258,41 @@
         "rating": 5,
         "text": "Wing sauces were banging some of the best I\u2019ve had. chicken was also really nice and well cooked. Chips were decent.",
         "created": "2026-07-03T11:51:53Z"
+      },
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "All round low quality food. The wings were soggy and horrible. The burger barely had any cheese or sauce or any extras it claimed to have. The chips were cheap like a bowling alley. Could\u2019ve made it all better myself at home buying ingredients from Iceland",
+        "created": "2026-07-03T18:35:22Z"
+      },
+      {
+        "site": "TwistedLondon(Abingdon-MarchamRd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Thought to try this place on a whim. really glad we did, the chicken tenders were awesome, the loaded fries were awesome. The portion size on the skin on fries could be better. but will definitely order again.",
+        "created": "2026-07-03T19:27:09Z"
+      },
+      {
+        "site": "TwistedLondon(Abingdon-MarchamRd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Food was over cooked. Got an additional item I couldn\u2019t eat. Missing items. Wrong burger/the burger was incorrectly marketed",
+        "created": "2026-07-03T18:30:43Z"
+      },
+      {
+        "site": "Twisted London (Norwich - Earlham West Centre)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "I always ordered from here but this time , it tasted different from usual. The beef is undercooked and the burger is different from the description from the app. If I remember correctly, this shop usually send their food with their logo. This time, there is no logo. The taste is different. I like the fried here and pay extra just to eat fries. Will not order again.",
+        "created": "2026-07-03T18:30:30Z"
+      },
+      {
+        "site": "Twisted London (Norwich - Earlham West Centre)",
+        "brand": "Twisted London",
+        "rating": 4,
+        "text": "BBq burger was a bit on the small size but overall it was delicious. It was piping hot too!\nSo all in all I would buy again. They had a great buy one get one free offer.. would recommend.",
+        "created": "2026-07-03T15:31:58Z"
       }
     ]
   }
