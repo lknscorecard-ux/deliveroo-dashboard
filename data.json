@@ -298,7 +298,7 @@
   },
   "2026-07-04": {
     "scraped_date": "2026-07-04",
-    "last_updated": "2026-07-04T14:52:25Z",
+    "last_updated": "2026-07-04T20:17:02Z",
     "cancelled_orders_date": "2026-07-03",
     "cancelled_orders": [
       {
@@ -327,6 +327,28 @@
         "brand": "Wing Fest"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Twisted London (Uxbridge-High St)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Great as usual :)",
+        "created": "2026-07-04T16:38:56Z"
+      },
+      {
+        "site": "Twisted London (Ayr*)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Really fresh and tasty burgers with a feeling of being just made. I would definitely buy again.",
+        "created": "2026-07-04T19:49:27Z"
+      },
+      {
+        "site": "Wing Fest All Stars (Deptford - Tanners Hill)",
+        "brand": "Wing Fest",
+        "rating": 1,
+        "text": "It\u2019s a con",
+        "created": "2026-07-04T16:45:48Z"
+      }
+    ]
   }
 }
