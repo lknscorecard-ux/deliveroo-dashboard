@@ -295,5 +295,38 @@
         "created": "2026-07-03T15:31:58Z"
       }
     ]
+  },
+  "2026-07-04": {
+    "scraped_date": "2026-07-04",
+    "last_updated": "2026-07-04T08:14:15Z",
+    "cancelled_orders_date": "2026-07-03",
+    "cancelled_orders": [
+      {
+        "time": "2026-07-03T20:02:00Z",
+        "site": "WTF (New Barnet - Great North Rd)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-07-03T19:26:23Z",
+        "site": "TwistedLondon(Welwyn-LondonRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-07-03T11:42:12Z",
+        "site": "Hot Chick (Deptford)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-07-03T11:04:24Z",
+        "site": "Hot Chick (Datchet - Mill Place)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-07-03T00:41:54Z",
+        "site": "Wing Fest All Stars (Watford - Market St)",
+        "brand": "Wing Fest"
+      }
+    ],
+    "reviews": []
   }
 }
