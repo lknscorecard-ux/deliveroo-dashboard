@@ -350,5 +350,33 @@
         "created": "2026-07-04T16:45:48Z"
       }
     ]
+  },
+  "2026-07-05": {
+    "scraped_date": "2026-07-05",
+    "last_updated": "2026-07-05T08:11:18Z",
+    "cancelled_orders_date": "2026-07-04",
+    "cancelled_orders": [
+      {
+        "time": "2026-07-04T21:26:39Z",
+        "site": "Hot Chick (Dover - Tower Hamlets Rd)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-07-04T19:58:03Z",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Hemel Hempstead - Marlowes)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-07-04T17:37:49Z",
+        "site": "Koreatown (Dudley - Martin Hill)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-07-04T16:14:05Z",
+        "site": "Twisted London (Hayes - Uxbridge Rd)",
+        "brand": "Twisted London"
+      }
+    ],
+    "reviews": []
   }
 }
