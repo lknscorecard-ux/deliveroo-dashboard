@@ -353,7 +353,7 @@
   },
   "2026-07-05": {
     "scraped_date": "2026-07-05",
-    "last_updated": "2026-07-05T18:03:24Z",
+    "last_updated": "2026-07-05T20:03:05Z",
     "cancelled_orders_date": "2026-07-04",
     "cancelled_orders": [
       {
@@ -377,6 +377,14 @@
         "brand": "Twisted London"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Hot Chick (Cardiff - St Mary St)",
+        "brand": "Hot Chick",
+        "rating": 2,
+        "text": "order was very late and the burger and chips were way over done / dry like it had been sat under a heater for ages, could be down to the delivery rather than the restaurant either way it was awful compared to previous orders",
+        "created": "2026-07-05T19:01:52Z"
+      }
+    ]
   }
 }
