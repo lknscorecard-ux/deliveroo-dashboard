@@ -415,7 +415,7 @@
   },
   "2026-07-07": {
     "scraped_date": "2026-07-07",
-    "last_updated": "2026-07-07T18:03:34Z",
+    "last_updated": "2026-07-07T19:18:53Z",
     "cancelled_orders_date": "2026-07-06",
     "cancelled_orders": [
       {
@@ -445,11 +445,32 @@
         "created": "2026-07-07T14:15:18Z"
       },
       {
+        "site": "Koreatown (Southampton - Commercial Rd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "It was a pathetic order , they sent me all wrong stuff !! I wasted my money o my good thing was packaging but otherwise waste of money on their food !",
+        "created": "2026-07-07T16:55:39Z"
+      },
+      {
         "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Farnworth - Market St)",
         "brand": "Wing Fest",
         "rating": 5,
         "text": "Amazing food, as always! Such a favourite!",
         "created": "2026-07-07T14:14:55Z"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Colchester)",
+        "brand": "Koreatown",
+        "rating": 2,
+        "text": "The beef fries looks nothing like the picture. There\u2019s barely 3 pieces of extremely sad looking beef strips which are tiny and tastes like normal fries. I wouldn\u2019t call it beef loaded fries. Just barely fries",
+        "created": "2026-07-07T18:25:26Z"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Benfleet - High Rd)",
+        "brand": "Koreatown",
+        "rating": 2,
+        "text": "I ordered specially from a Korean type restaurant to expect great powerful flavours that you ask and pay for, yet I got plain chicken with nothing on it! Just goujons you can get from a supermarket, no sauce on it. The chips were basic also and overall extremely disappointed.",
+        "created": "2026-07-07T18:59:27Z"
       }
     ]
   }
