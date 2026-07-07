@@ -415,7 +415,7 @@
   },
   "2026-07-07": {
     "scraped_date": "2026-07-07",
-    "last_updated": "2026-07-07T16:03:01Z",
+    "last_updated": "2026-07-07T18:03:34Z",
     "cancelled_orders_date": "2026-07-06",
     "cancelled_orders": [
       {
@@ -430,6 +430,13 @@
       }
     ],
     "reviews": [
+      {
+        "site": "Hot Chick (Epsom - Kingston Rd)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Super mid! Letting you know so you don\u2019t buy into the hype by accident, the burger was alright but the wings were like frozen food \ud83e\udd2a",
+        "created": "2026-07-07T17:10:46Z"
+      },
       {
         "site": "Kuro Smash (Farnworth - Market St)",
         "brand": "Kuro Smash",
