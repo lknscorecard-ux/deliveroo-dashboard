@@ -412,5 +412,23 @@
         "created": "2026-07-06T20:48:50Z"
       }
     ]
+  },
+  "2026-07-07": {
+    "scraped_date": "2026-07-07",
+    "last_updated": "2026-07-07T00:03:10Z",
+    "cancelled_orders_date": "2026-07-06",
+    "cancelled_orders": [
+      {
+        "time": "2026-07-06T19:46:41Z",
+        "site": "Twisted London (Bingley - Bradford Rd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-07-06T16:37:24Z",
+        "site": "HotChick-Award-WinningSaucyFriedChicken(Gloucester-BondendLn)",
+        "brand": "Hot Chick"
+      }
+    ],
+    "reviews": []
   }
 }
