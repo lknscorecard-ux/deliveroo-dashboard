@@ -415,7 +415,7 @@
   },
   "2026-07-07": {
     "scraped_date": "2026-07-07",
-    "last_updated": "2026-07-07T20:03:11Z",
+    "last_updated": "2026-07-07T23:32:57Z",
     "cancelled_orders_date": "2026-07-06",
     "cancelled_orders": [
       {
@@ -436,6 +436,13 @@
         "rating": 5,
         "text": "Super mid! Letting you know so you don\u2019t buy into the hype by accident, the burger was alright but the wings were like frozen food \ud83e\udd2a",
         "created": "2026-07-07T17:10:46Z"
+      },
+      {
+        "site": "Twisted London (Epsom - Kingston Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "i ordered burgers. spoke to the restaurant said sending pizza and dessert.\nNo idea.\n\nRestaurant has no identity. sells everything under different names!",
+        "created": "2026-07-07T23:06:41Z"
       },
       {
         "site": "Kuro Smash (Farnworth - Market St)",
