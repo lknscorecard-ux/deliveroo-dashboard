@@ -415,7 +415,7 @@
   },
   "2026-07-07": {
     "scraped_date": "2026-07-07",
-    "last_updated": "2026-07-07T14:03:18Z",
+    "last_updated": "2026-07-07T16:03:01Z",
     "cancelled_orders_date": "2026-07-06",
     "cancelled_orders": [
       {
@@ -429,6 +429,21 @@
         "brand": "Hot Chick"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Kuro Smash (Farnworth - Market St)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Wow wow, this food get&#39;s better every time I order!",
+        "created": "2026-07-07T14:15:18Z"
+      },
+      {
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Farnworth - Market St)",
+        "brand": "Wing Fest",
+        "rating": 5,
+        "text": "Amazing food, as always! Such a favourite!",
+        "created": "2026-07-07T14:14:55Z"
+      }
+    ]
   }
 }
