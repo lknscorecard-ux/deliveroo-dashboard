@@ -483,7 +483,7 @@
   },
   "2026-07-08": {
     "scraped_date": "2026-07-08",
-    "last_updated": "2026-07-08T14:03:20Z",
+    "last_updated": "2026-07-08T16:03:39Z",
     "cancelled_orders_date": "2026-07-07",
     "cancelled_orders": [
       {
@@ -498,13 +498,6 @@
       }
     ],
     "reviews": [
-      {
-        "site": "Koreatown-(Birmingham-BuckinghamSt)",
-        "brand": "Koreatown",
-        "rating": 5,
-        "text": "AMAZING FOOD, as always!!!!!",
-        "created": "2026-07-08T07:58:17Z"
-      },
       {
         "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Kenilworth - Warwick Rd)",
         "brand": "Hot Chick",
