@@ -480,5 +480,23 @@
         "created": "2026-07-07T18:59:27Z"
       }
     ]
+  },
+  "2026-07-08": {
+    "scraped_date": "2026-07-08",
+    "last_updated": "2026-07-08T00:03:00Z",
+    "cancelled_orders_date": "2026-07-07",
+    "cancelled_orders": [
+      {
+        "time": "2026-07-07T22:22:06Z",
+        "site": "Koreatown-KoreanFriedChicken(Aylesbury-BuckinghamSt)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-07-07T17:47:02Z",
+        "site": "Twisted London (Bingley - Bradford Rd)",
+        "brand": "Twisted London"
+      }
+    ],
+    "reviews": []
   }
 }
