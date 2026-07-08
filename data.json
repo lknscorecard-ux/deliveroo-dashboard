@@ -483,7 +483,7 @@
   },
   "2026-07-08": {
     "scraped_date": "2026-07-08",
-    "last_updated": "2026-07-08T21:57:21Z",
+    "last_updated": "2026-07-08T22:03:20Z",
     "cancelled_orders_date": "2026-07-07",
     "cancelled_orders": [
       {
@@ -497,6 +497,63 @@
         "brand": "Twisted London"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Twisted London (Epsom - Kingston Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "i ordered burgers. spoke to the restaurant said sending pizza and dessert.\nNo idea.\n\nRestaurant has no identity. sells everything under different names!",
+        "created": "2026-07-07T23:06:41Z"
+      },
+      {
+        "site": "Koreatown-(Birmingham-BuckinghamSt)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "AMAZING FOOD, as always!!!!!",
+        "created": "2026-07-08T07:58:17Z"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Benfleet - High Rd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "This was our first time ordering from here and there were quite a few issues with our order. The coleslaw was just lettuce with sauce, the rice was some type of yellow rice instead of white rice, with some of the rice stained red, and there was a piece of a plastic fork found in one of our bowls.\n\nI thought it tasted okay at first, but the more I ate, the more I was disappointed and realised more issues with it.",
+        "created": "2026-07-08T20:12:38Z"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Kenilworth - Warwick Rd)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "This food is AMAZING!!! I really recommend the Doritos Loaded bowls they do. They are FULL of flavour! Can&#39;t go wrong!!",
+        "created": "2026-07-08T07:58:39Z"
+      },
+      {
+        "site": "Twisted London (Norwich - Earlham West Centre)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Small portion size, tangy not Smokey, and extremely wet. Such poor food quality means two things. One they don\u2019t care about the people they serve or two they are laundering for their money",
+        "created": "2026-07-08T20:40:30Z"
+      },
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "DONT WASTE YOUR MONEY ! Genuinely the worst smash burger I\u2019ve had! No flavour at all in the burger and no sauce other than truffle sauce also barely any of it. So bland and 90% oil - bread was soaked in oil had to remove it and tried to eat the patty - no flavour very bland. Waste of money and will not be buying again.",
+        "created": "2026-07-08T12:00:11Z"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Bristol - Southmead Rd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "The description of the food is totally misleading. We ordered two rice bowls and a gyoza. The rice bowl was just plain boiled rice. A bit of iceberg lettuce salad and picked red cabbage. The chicken was fine but we ordered bbq chicken and it came with mayo. The gyoza was just one large vegetable samosa.",
+        "created": "2026-07-08T19:36:51Z"
+      },
+      {
+        "site": "Twisted London (Deptford)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "It was so delicious.",
+        "created": "2026-07-08T17:21:31Z"
+      }
+    ]
   }
 }
