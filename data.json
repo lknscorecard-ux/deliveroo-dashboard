@@ -483,7 +483,7 @@
   },
   "2026-07-08": {
     "scraped_date": "2026-07-08",
-    "last_updated": "2026-07-08T16:18:06Z",
+    "last_updated": "2026-07-08T17:07:15Z",
     "cancelled_orders_date": "2026-07-07",
     "cancelled_orders": [
       {
@@ -497,28 +497,6 @@
         "brand": "Twisted London"
       }
     ],
-    "reviews": [
-      {
-        "site": "Koreatown-(Birmingham-BuckinghamSt)",
-        "brand": "Koreatown",
-        "rating": 5,
-        "text": "AMAZING FOOD, as always!!!!!",
-        "created": "2026-07-08T07:58:17Z"
-      },
-      {
-        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Kenilworth - Warwick Rd)",
-        "brand": "Hot Chick",
-        "rating": 5,
-        "text": "This food is AMAZING!!! I really recommend the Doritos Loaded bowls they do. They are FULL of flavour! Can&#39;t go wrong!!",
-        "created": "2026-07-08T07:58:39Z"
-      },
-      {
-        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
-        "brand": "Twisted London",
-        "rating": 1,
-        "text": "DONT WASTE YOUR MONEY ! Genuinely the worst smash burger I\u2019ve had! No flavour at all in the burger and no sauce other than truffle sauce also barely any of it. So bland and 90% oil - bread was soaked in oil had to remove it and tried to eat the patty - no flavour very bland. Waste of money and will not be buying again.",
-        "created": "2026-07-08T12:00:11Z"
-      }
-    ]
+    "reviews": []
   }
 }
