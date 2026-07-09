@@ -483,18 +483,18 @@
   },
   "2026-07-08": {
     "scraped_date": "2026-07-08",
-    "last_updated": "2026-07-08T22:03:20Z",
+    "last_updated": "2026-07-09T10:31:38Z",
     "cancelled_orders_date": "2026-07-07",
     "cancelled_orders": [
       {
-        "time": "2026-07-07T22:22:06Z",
-        "site": "Koreatown-KoreanFriedChicken(Aylesbury-BuckinghamSt)",
-        "brand": "Koreatown"
+        "time": "2026-07-08T19:15:39Z",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bingley - Bradford Rd)",
+        "brand": "Hot Chick"
       },
       {
-        "time": "2026-07-07T17:47:02Z",
-        "site": "Twisted London (Bingley - Bradford Rd)",
-        "brand": "Twisted London"
+        "time": "2026-07-08T18:35:39Z",
+        "site": "Koreatown - Korean Fried Chicken (Winchester - Stockbridge Rd)",
+        "brand": "Koreatown"
       }
     ],
     "reviews": [
@@ -558,20 +558,8 @@
   },
   "2026-07-09": {
     "scraped_date": "2026-07-09",
-    "last_updated": "2026-07-09T08:12:38Z",
-    "cancelled_orders_date": "2026-07-08",
-    "cancelled_orders": [
-      {
-        "time": "2026-07-08T19:15:39Z",
-        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bingley - Bradford Rd)",
-        "brand": "Hot Chick"
-      },
-      {
-        "time": "2026-07-08T18:35:39Z",
-        "site": "Koreatown - Korean Fried Chicken (Winchester - Stockbridge Rd)",
-        "brand": "Koreatown"
-      }
-    ],
+    "last_updated": "2026-07-09T10:31:38Z",
+    "cancelled_orders": [],
     "reviews": []
   }
 }
