@@ -558,8 +558,24 @@
   },
   "2026-07-09": {
     "scraped_date": "2026-07-09",
-    "last_updated": "2026-07-09T22:03:03Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-07-09T23:55:32Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-07-09T20:57:24Z",
+        "site": "Hot Chick (Chatham - Silverweed Road)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-07-09T18:39:36Z",
+        "site": "Koreatown - (Newcastle - Shields Rd)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-07-09T14:04:08Z",
+        "site": "Ben & Jerry's Scoop Shop (Edinburg - Castle Street)",
+        "brand": "Other"
+      }
+    ],
     "reviews": [
       {
         "site": "Hot Chick (Swansea - Pontardulais Rd)",
@@ -583,5 +599,11 @@
         "created": "2026-07-09T12:01:41Z"
       }
     ]
+  },
+  "2026-07-10": {
+    "scraped_date": "2026-07-10",
+    "last_updated": "2026-07-09T23:55:32Z",
+    "cancelled_orders": [],
+    "reviews": []
   }
 }
