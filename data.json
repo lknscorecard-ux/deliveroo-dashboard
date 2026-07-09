@@ -555,5 +555,23 @@
         "created": "2026-07-08T17:21:31Z"
       }
     ]
+  },
+  "2026-07-09": {
+    "scraped_date": "2026-07-09",
+    "last_updated": "2026-07-09T00:03:48Z",
+    "cancelled_orders_date": "2026-07-08",
+    "cancelled_orders": [
+      {
+        "time": "2026-07-08T19:15:39Z",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bingley - Bradford Rd)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-07-08T18:35:39Z",
+        "site": "Koreatown - Korean Fried Chicken (Winchester - Stockbridge Rd)",
+        "brand": "Koreatown"
+      }
+    ],
+    "reviews": []
   }
 }
