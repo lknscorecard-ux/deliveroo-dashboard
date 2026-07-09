@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LKN — Deliveroo Daily Dashboard</title>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3.11.0/dist/tabler-icons.min.css" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Inter',sans-serif;background:#F4F2EA;color:#14161A;min-height:100vh}
+#dashboard{display:block;max-width:920px;margin:0 auto;padding:20px}
+
+.topbar{background:#14161A;border-radius:10px 10px 0 0;padding:9px 20px;display:flex;align-items:center;justify-content:space-between}
+.topbar-left{display:flex;align-items:center;gap:8px}
+.live-dot{width:6px;height:6px;border-radius:50%;background:#EAFF00;animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+.topbar-left span{font-size:11px;letter-spacing:.08em;color:#EAFF00;text-transform:uppercase;font-weight:600}
+.topbar-right{font-size:11px;color:rgba(245,245,240,.55)}
+
+.main-card{background:#F4F2EA;border-radius:0 0 12px 12px;padding:20px;border:.5px solid rgba(0,0,0,.06);border-top:none}
+
+.header-row{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px;margin-bottom:16px}
+.logo-area{display:flex;align-items:center;gap:14px}
+.logo-area img{height:52px;display:block;object-fit:contain}
+.brand-title{font-family:'Archivo Black',sans-serif;font-size:14px;letter-spacing:.02em}
+.brand-sub{font-size:12px;color:#6B6E73;margin-top:2px}
+.header-right{display:flex;align-items:center;gap:8px}
+
+/* ── Date range picker trigger ── */
+.date-range-btn{display:flex;align-items:center;gap:8px;background:#fff;border:.5px solid rgba(0,0,0,.12);border-radius:8px;padding:7px 12px;font-size:12px;font-family:'Inter',sans-serif;color:#14161A;cursor:pointer;min-width:180px}
+.date-range-btn:hover{border-color:#14161A}
+.date-range-btn i{color:#6B6E73;font-size:14px}
+.date-range-btn span{flex:1}
+.refresh-btn{display:flex;align-items:center;gap:6px;background:#EAFF00;border:none;color:#14161A;font-size:12px;font-weight:600;padding:8px 14px;border-radius:8px;cursor:pointer;font-family:'Inter',sans-serif}
+.refresh-btn:hover{background:#d4e600}
+
+/* ── Calendar dropdown ── */
+.cal-wrap{position:relative;display:inline-block}
+.cal-dropdown{display:none;position:absolute;top:calc(100% + 6px);right:0;background:#fff;border:.5px solid rgba(0,0,0,.12);border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,.12);z-index:100;padding:16px;min-width:280px}
+.cal-dropdown.open{display:block}
+.cal-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px}
+.cal-nav{background:none;border:none;cursor:pointer;padding:4px 8px;border-radius:6px;color:#14161A;font-size:16px;line-height:1}
+.cal-nav:hover{background:rgba(0,0,0,.06)}
+.cal-month{font-size:13px;font-weight:600;color:#14161A}
+.cal-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:2px}
+.cal-dow{font-size:10px;color:#9B9E9F;text-align:center;padding:4px 0;font-weight:600;letter-spacing:.04em}
+.cal-day{width:34px;height:34px;border-radius:6px;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:500;color:#14161A;cursor:default;margin:0 auto}
+.cal-day.has-data{cursor:pointer;color:#14161A}
+.cal-day.has-data:hover{background:rgba(0,0,0,.06)}
+.cal-day.in-range{background:rgba(20,22,26,.08);border-radius:0}
+.cal-day.range-start,.cal-day.range-end{background:#14161A;color:#EAFF00;font-weight:700;border-radius:6px}
+.cal-day.range-start.range-end{border-radius:6px}
+.cal-day.range-start{border-radius:6px 0 0 6px}
+.cal-day.range-end{border-radius:0 6px 6px 0}
+.cal-day.no-data{color:#C8CACC}
+.cal-day.empty{visibility:hidden}
+.cal-footer{margin-top:12px;padding-top:10px;border-top:.5px solid rgba(0,0,0,.08);display:flex;flex-direction:column;gap:8px}
+.cal-hint{font-size:11px;color:#6B6E73;text-align:center;min-height:16px}
+.cal-actions{display:flex;gap:6px}
+.cal-clear{flex:1;font-size:11px;color:#6B6E73;cursor:pointer;background:none;border:.5px solid rgba(0,0,0,.12);font-family:'Inter',sans-serif;padding:7px 10px;border-radius:7px}
+.cal-clear:hover{background:rgba(0,0,0,.04);color:#14161A}
+.cal-apply{flex:2;font-size:12px;font-weight:600;color:#14161A;cursor:pointer;background:#EAFF00;border:none;font-family:'Inter',sans-serif;padding:7px 10px;border-radius:7px}
+.cal-apply:hover{background:#d4e600}
+.cal-apply:disabled{background:rgba(0,0,0,.06);color:#9B9E9F;cursor:not-allowed}
+
+/* ── KPI cards ── */
+.kpi-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin-bottom:16px}
+.kpi-card{background:#fff;border:.5px solid rgba(0,0,0,.08);border-radius:10px;padding:14px 14px 12px;position:relative}
+.kpi-card::before{content:"";position:absolute;top:0;left:14px;right:14px;height:1px;background-image:repeating-linear-gradient(90deg,rgba(0,0,0,.12) 0 6px,transparent 6px 12px)}
+.kpi-card.dark{background:#14161A}
+.kpi-card.dark::before{background-image:repeating-linear-gradient(90deg,rgba(255,255,255,.12) 0 6px,transparent 6px 12px)}
+.kpi-label{display:flex;align-items:center;gap:6px;font-size:11px;color:#6B6E73;text-transform:uppercase;letter-spacing:.05em;margin-bottom:8px}
+.kpi-card.dark .kpi-label{color:rgba(245,245,240,.6)}
+.kpi-value{font-family:'Archivo Black',sans-serif;font-size:26px;line-height:1.1}
+.kpi-card.dark .kpi-value{color:#EAFF00}
+.kpi-sub{font-size:11px;color:#6B6E73;margin-top:4px}
+.kpi-card.dark .kpi-sub{color:rgba(245,245,240,.6)}
+.kpi-up{color:#D64545}
+.kpi-dn{color:#2EA842}
+
+.charts-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px;margin-bottom:16px}
+.chart-card{background:#fff;border:.5px solid rgba(0,0,0,.08);border-radius:10px;padding:16px}
+.chart-title{font-size:12px;font-weight:600;color:#14161A;margin-bottom:12px}
+.bar-row{display:grid;grid-template-columns:96px 1fr 24px;align-items:center;gap:8px;margin-bottom:9px}
+.bar-row.narrow{grid-template-columns:44px 1fr 24px}
+.bar-row:last-child{margin-bottom:0}
+.bar-label{font-size:11px;color:#6B6E73;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.bar-track{background:rgba(0,0,0,.06);border-radius:4px;height:8px;overflow:hidden}
+.bar-fill{height:100%;border-radius:4px}
+.bar-fill.red{background:#D64545}
+.bar-fill.ylw{background:#C7D400}
+.bar-count{font-size:11px;color:#6B6E73;text-align:right}
+
+.table-card{background:#fff;border:.5px solid rgba(0,0,0,.08);border-radius:10px;padding:16px;margin-bottom:10px}
+.card-title{font-size:12px;font-weight:600;color:#14161A;margin-bottom:10px}
+table{width:100%;border-collapse:collapse;font-size:11px}
+th{color:#6B6E73;text-align:left;font-weight:500;padding:0 0 8px;text-transform:uppercase;letter-spacing:.04em;font-size:10px}
+td{padding:7px 0;color:#14161A;border-top:.5px solid rgba(0,0,0,.08);vertical-align:top}
+td.muted{color:#6B6E73}
+td.date-col{color:#9B9E9F;font-size:10px;font-weight:600}
+
+.reviews-card{background:#fff;border:.5px solid rgba(0,0,0,.08);border-radius:10px;padding:16px}
+.review-item{display:flex;gap:10px;align-items:flex-start;border-top:.5px solid rgba(0,0,0,.08);padding-top:10px;margin-top:10px}
+.review-item:first-child{border-top:none;margin-top:0;padding-top:0}
+.star-badge{font-size:10px;font-weight:600;padding:3px 7px;border-radius:5px;flex-shrink:0;line-height:1.6}
+.star-hi{background:#14161A;color:#EAFF00}
+.star-mid{background:rgba(199,212,0,.15);color:#7A8500}
+.star-lo{background:rgba(214,69,69,.12);color:#B23434}
+.review-site{color:#14161A;font-weight:500;font-size:11px}
+.review-text{color:#6B6E73;font-size:11px;line-height:1.55;margin-top:2px}
+.review-date{font-size:10px;color:#9B9E9F;margin-top:3px}
+.empty{color:#6B6E73;font-size:12px;padding:8px 0}
+</style>
+</head>
+<body>
+<div id="dashboard">
+  <div class="topbar">
+    <div class="topbar-left">
+      <div class="live-dot"></div>
+      <span id="topbar-label">Deliveroo performance — live</span>
+    </div>
+    <div class="topbar-right" id="scrape-time">Loading…</div>
+  </div>
+  <div class="main-card">
+    <div class="header-row">
+      <div class="logo-area">
+        <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB3aWR0aD0iNTIiIGhlaWdodD0iNTIiPgogIDxyZWN0IHg9IjEuNSIgeT0iMS41IiB3aWR0aD0iOTciIGhlaWdodD0iOTciIHN0eWxlPSJmaWxsOiNmZmZmZmY7c3Ryb2tlOiMxYTFhMWE7c3Ryb2tlLXdpZHRoOjIuNSIvPgogIDx0ZXh0IHg9IjUwIiB5PSI0MSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgc3R5bGU9ImZvbnQtZmFtaWx5OkltcGFjdCxBcmlhbCBCbGFjayxzYW5zLXNlcmlmO2ZvbnQtd2VpZ2h0OjkwMDtmb250LXNpemU6MzhweDtmaWxsOiMxYTFhMWE7bGV0dGVyLXNwYWNpbmc6LTFweCI+TEVBTjwvdGV4dD4KICA8dGV4dCB4PSI1MCIgeT0iNjQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIHN0eWxlPSJmb250LWZhbWlseTpJbXBhY3QsQXJpYWwgQmxhY2ssc2Fucy1zZXJpZjtmb250LXdlaWdodDo5MDA7Zm9udC1zaXplOjIxcHg7ZmlsbDojMWExYTFhO2xldHRlci1zcGFjaW5nOi0wLjVweCI+S0lUQ0hFTjwvdGV4dD4KICA8dGV4dCB4PSI1MCIgeT0iODgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIHN0eWxlPSJmb250LWZhbWlseTpJbXBhY3QsQXJpYWwgQmxhY2ssc2Fucy1zZXJpZjtmb250LXdlaWdodDo5MDA7Zm9udC1zaXplOjIxcHg7ZmlsbDojMWExYTFhO2xldHRlci1zcGFjaW5nOi0wLjVweCI+TkVUV09SSzwvdGV4dD4KPC9zdmc+" alt="LKN" style="height:52px;display:block;flex-shrink:0">
+        <div>
+          <div class="brand-title">LEAN KITCHEN NETWORK</div>
+          <div class="brand-sub">Deliveroo daily dashboard</div>
+        </div>
+      </div>
+      <div class="header-right">
+        <!-- Calendar range picker -->
+        <div class="cal-wrap" id="cal-wrap">
+          <button class="date-range-btn" onclick="toggleCal()" id="range-btn">
+            <i class="ti ti-calendar"></i>
+            <span id="range-label">Loading…</span>
+            <i class="ti ti-chevron-down" style="font-size:12px;color:#9B9E9F"></i>
+          </button>
+          <div class="cal-dropdown" id="cal-dropdown">
+            <div class="cal-header">
+              <button class="cal-nav" onclick="shiftMonth(-1)">&#8249;</button>
+              <span class="cal-month" id="cal-month-label"></span>
+              <button class="cal-nav" onclick="shiftMonth(1)">&#8250;</button>
+            </div>
+            <div class="cal-grid" id="cal-grid"></div>
+            <div class="cal-footer">
+              <span class="cal-hint" id="cal-hint">Click a start date</span>
+              <div class="cal-actions">
+                <button class="cal-clear" onclick="clearRange()">Reset</button>
+                <button class="cal-apply" id="cal-apply-btn" onclick="applyRange()" disabled>Apply</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <button class="refresh-btn" onclick="loadAndRender()">
+          <i class="ti ti-refresh"></i> Refresh
+        </button>
+      </div>
+    </div>
+
+    <div class="kpi-grid" id="kpi-grid"></div>
+    <div class="charts-grid" id="charts-grid"></div>
+    <div id="cancelled-table"></div>
+    <div id="reviews-section"></div>
+  </div>
+</div>
+
+<script>
+let allData={};
+// Applied to dashboard
+let rangeStart=null, rangeEnd=null;
+// Pending selection inside the open calendar (not applied yet)
+let pendingStart=null, pendingEnd=null;
+let calYear, calMonth;
+
+setInterval(loadAndRender,20*60*1000);
+loadAndRender();
+
+// Close calendar when clicking outside
+document.addEventListener('click',e=>{
+  if(!document.getElementById('cal-wrap').contains(e.target)){
+    document.getElementById('cal-dropdown').classList.remove('open');
+  }
+});
+
+function todayUTC(){
+  // Use UK date (Europe/London) as the business day reference
+  return new Date().toLocaleDateString('en-CA',{timeZone:'Europe/London'});
+}
+
+async function loadAndRender(){
+  try{
+    const r=await fetch('data.json?v='+Date.now());
+    allData=await r.json();
+    if(allData.target_date||allData.scraped_date){
+      const d=allData.target_date||allData.scraped_date;
+      allData={[d]:allData};
+    }
+    const dates=Object.keys(allData).sort();
+    const today=todayUTC();
+    if(!rangeStart){
+      rangeStart=dates.includes(today)?today:dates[dates.length-1];
+      rangeEnd=rangeStart;
+    }
+    const ref=new Date((rangeEnd||rangeStart||today)+'T12:00:00Z');
+    calYear=ref.getUTCFullYear();
+    calMonth=ref.getUTCMonth();
+    renderDashboard();
+    updateRangeLabel();
+  }catch(e){
+    const isLocal=location.protocol==='file:';
+    document.getElementById('scrape-time').innerHTML=isLocal
+      ?'Open via <a href="https://lknscorecard-ux.github.io/deliveroo-dashboard/" style="color:#EAFF00" target="_blank">GitHub Pages</a> — file:// cannot fetch data'
+      :'Error loading data.json — try refreshing';
+  }
+}
+
+/* ── Calendar ── */
+function toggleCal(){
+  const dd=document.getElementById('cal-dropdown');
+  const opening=!dd.classList.contains('open');
+  dd.classList.toggle('open');
+  if(opening){
+    // Sync pending to current applied selection when opening
+    pendingStart=rangeStart; pendingEnd=rangeEnd;
+    // Navigate to the month of the current selection
+    const ref=new Date((pendingEnd||pendingStart||todayUTC())+'T12:00:00Z');
+    calYear=ref.getUTCFullYear(); calMonth=ref.getUTCMonth();
+    updateApplyBtn();
+    renderCalendar();
+  }
+}
+
+function shiftMonth(dir){
+  calMonth+=dir;
+  if(calMonth>11){calMonth=0;calYear++;}
+  if(calMonth<0){calMonth=11;calYear--;}
+  renderCalendar();
+}
+
+function renderCalendar(){
+  const MONTHS=['January','February','March','April','May','June',
+                'July','August','September','October','November','December'];
+  document.getElementById('cal-month-label').textContent=`${MONTHS[calMonth]} ${calYear}`;
+
+  const firstDay=new Date(Date.UTC(calYear,calMonth,1)).getUTCDay();
+  const daysInMonth=new Date(Date.UTC(calYear,calMonth+1,0)).getUTCDate();
+  const availDates=new Set(Object.keys(allData));
+
+  let html='<div class="cal-dow">Su</div><div class="cal-dow">Mo</div><div class="cal-dow">Tu</div><div class="cal-dow">We</div><div class="cal-dow">Th</div><div class="cal-dow">Fr</div><div class="cal-dow">Sa</div>';
+  for(let i=0;i<firstDay;i++) html+='<div class="cal-day empty"></div>';
+
+  for(let d=1;d<=daysInMonth;d++){
+    const iso=`${calYear}-${String(calMonth+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
+    const hasData=availDates.has(iso);
+    const isStart=iso===pendingStart;
+    const isEnd=iso===pendingEnd;
+    // For in-range highlight, use pending values
+    const s=pendingStart, e=pendingEnd;
+    const inRange=s&&e&&iso>s&&iso<e;
+
+    let cls='cal-day';
+    cls+=hasData?' has-data':' no-data';
+    if(inRange) cls+=' in-range';
+    if(isStart&&isEnd) cls+=' range-start range-end';
+    else if(isStart) cls+=' range-start';
+    else if(isEnd) cls+=' range-end';
+
+    const click=hasData?`onclick="pickDate(event,'${iso}')"`:' ';
+    html+=`<div class="${cls}" ${click}>${d}</div>`;
+  }
+
+  document.getElementById('cal-grid').innerHTML=html;
+}
+
+function pickDate(ev,iso){
+  ev.stopPropagation();
+  if(!pendingStart || pendingEnd){
+    // State 1: nothing or previous complete → set new start
+    pendingStart=iso; pendingEnd=null;
+    document.getElementById('cal-hint').textContent=`Start: ${fmtChip(iso)} — now click an end date`;
+  } else {
+    // State 2: have start, waiting for end
+    let s=pendingStart, e=iso;
+    if(e<s){const tmp=s;s=e;e=tmp;}
+    pendingStart=s; pendingEnd=e;
+    const days=Object.keys(allData).filter(d=>d>=s&&d<=e).length;
+    if(s===e){
+      document.getElementById('cal-hint').textContent=`${fmtChip(s)} selected — hit Apply`;
+    } else {
+      document.getElementById('cal-hint').textContent=`${fmtChip(s)} → ${fmtChip(e)} (${days} day${days!==1?'s':''}) — hit Apply`;
+    }
+  }
+  updateApplyBtn();
+  renderCalendar();
+}
+
+function updateApplyBtn(){
+  const btn=document.getElementById('cal-apply-btn');
+  btn.disabled=!pendingStart||!pendingEnd;
+}
+
+function applyRange(){
+  if(!pendingStart||!pendingEnd) return;
+  rangeStart=pendingStart; rangeEnd=pendingEnd;
+  document.getElementById('cal-dropdown').classList.remove('open');
+  document.getElementById('cal-hint').textContent='Click a start date';
+  updateRangeLabel();
+  renderDashboard();
+}
+
+function clearRange(){
+  const dates=Object.keys(allData).sort();
+  const today=todayUTC();
+  const def=dates.includes(today)?today:dates[dates.length-1];
+  pendingStart=def; pendingEnd=def;
+  rangeStart=def; rangeEnd=def;
+  document.getElementById('cal-hint').textContent='Click a start date';
+  updateApplyBtn();
+  renderCalendar();
+  renderDashboard();
+  updateRangeLabel();
+}
+
+function updateRangeLabel(){
+  if(!rangeStart){document.getElementById('range-label').textContent='Select dates';return;}
+  if(!rangeEnd||rangeStart===rangeEnd){
+    document.getElementById('range-label').textContent=fmtDate(rangeStart);
+  } else {
+    document.getElementById('range-label').textContent=`${fmtChip(rangeStart)} → ${fmtChip(rangeEnd)}`;
+  }
+}
+
+/* ── Dashboard render ── */
+function renderDashboard(){
+  const today=todayUTC();
+  const start=rangeStart||today;
+  const end=rangeEnd||rangeStart||today;
+  const isMulti=start!==end;
+  const isSingleToday=!isMulti&&start===today;
+
+  // Collect all dates in range that have data
+  const selectedDates=Object.keys(allData).filter(d=>d>=start&&d<=end).sort();
+
+  let allCancelled=[],allReviews=[];
+  for(const d of selectedDates){
+    const day=allData[d]; if(!day) continue;
+    (day.cancelled_orders||[]).forEach(c=>allCancelled.push({...c,_date:d}));
+    (day.reviews||[]).forEach(r=>allReviews.push({...r,_date:d}));
+  }
+
+  // Topbar
+  if(isMulti){
+    document.getElementById('topbar-label').textContent='Deliveroo performance — range view';
+    document.getElementById('scrape-time').textContent=
+      `${fmtChip(start)} – ${fmtChip(end)} · ${selectedDates.length} day${selectedDates.length!==1?'s':''} · ${allCancelled.length} cancellations`;
+  } else {
+    const day=allData[start]||{};
+    document.getElementById('topbar-label').textContent=
+      isSingleToday?'Deliveroo performance — live':'Deliveroo performance — historical';
+    if(day.last_updated){
+      const mins=Math.round((Date.now()-new Date(day.last_updated))/60000);
+      const ago=mins<60?`${mins}m ago`:`${Math.floor(mins/60)}h ${mins%60}m ago`;
+      const cancelDate=day.cancelled_orders_date||start;
+      document.getElementById('scrape-time').textContent=
+        isSingleToday?`Reviews: live · Cancellations: ${fmtDate(cancelDate)} · updated ${ago} · UK Time`:`Data for ${fmtDate(start)} (UK Date)`;
+    } else {
+      document.getElementById('scrape-time').textContent=
+        allData[start]?`Data for ${fmtDate(start)}`:'No data for this date';
+    }
+  }
+
+  let prev=null;
+  if(!isMulti){
+    const dates=Object.keys(allData).sort();
+    const idx=dates.indexOf(start);
+    if(idx>0) prev=allData[dates[idx-1]].cancelled_orders||[];
+  }
+
+  renderKPIs(allCancelled,allReviews,prev,isSingleToday,isMulti);
+  renderCharts(allCancelled,allReviews);
+  renderTable(allCancelled,isMulti);
+  renderReviews(allReviews,isMulti);
+}
+
+function renderKPIs(cancelled,reviews,prev,isLive,isMulti){
+  const avg=reviews.length?(reviews.reduce((s,r)=>s+(r.rating||0),0)/reviews.length).toFixed(1):'—';
+  const sites=new Set(cancelled.map(c=>c.site)).size;
+  let diffHtml='<div class="kpi-sub">first-order auto-rejections</div>';
+  if(prev!==null&&!isMulti){
+    const d=cancelled.length-prev.length;
+    if(d>0)diffHtml=`<div class="kpi-sub kpi-up">▲ ${d} vs prev day</div>`;
+    else if(d<0)diffHtml=`<div class="kpi-sub kpi-dn">▼ ${Math.abs(d)} vs prev day</div>`;
+    else diffHtml='<div class="kpi-sub">— same as prev day</div>';
+  }
+  const liveBadge=isLive?`<span style="display:inline-block;background:#EAFF00;color:#14161A;font-size:9px;font-weight:700;padding:2px 6px;border-radius:4px;letter-spacing:.05em;margin-left:6px;vertical-align:middle">LIVE</span>`:'';
+  const cancelLabel='Cancellations';
+  document.getElementById('kpi-grid').innerHTML=`
+    <div class="kpi-card">
+      <div class="kpi-label"><i class="ti ti-ban" style="font-size:14px;color:#D64545"></i>${cancelLabel}${liveBadge}</div>
+      <div class="kpi-value">${cancelled.length}</div>${diffHtml}
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label"><i class="ti ti-map-pin" style="font-size:14px"></i>Sites affected</div>
+      <div class="kpi-value">${sites}</div>
+      <div class="kpi-sub">unique locations</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-label"><i class="ti ti-message-circle" style="font-size:14px"></i>Reviews${liveBadge}</div>
+      <div class="kpi-value">${reviews.length}</div>
+      <div class="kpi-sub">customer reviews</div>
+    </div>
+    <div class="kpi-card dark">
+      <div class="kpi-label"><i class="ti ti-star" style="font-size:14px;color:#EAFF00"></i>Avg rating</div>
+      <div class="kpi-value">${avg}</div>
+      <div class="kpi-sub">out of 5 stars</div>
+    </div>`;
+}
+
+function renderCharts(cancelled,reviews){
+  const bc={};
+  for(const c of cancelled){const b=c.brand||'Other';bc[b]=(bc[b]||0)+1;}
+  const sb=Object.entries(bc).sort((a,b)=>b[1]-a[1]);
+  const mx=sb[0]?.[1]||1;
+  const brandBars=sb.length?sb.map(([b,n])=>`
+    <div class="bar-row">
+      <span class="bar-label" title="${esc(b)}">${esc(b)}</span>
+      <div class="bar-track"><div class="bar-fill red" style="width:${(n/mx*100).toFixed(0)}%"></div></div>
+      <span class="bar-count">${n}</span>
+    </div>`).join(''):'<div class="empty">No cancellations</div>';
+  const rc={5:0,4:0,3:0,2:0,1:0};
+  for(const r of reviews){if(r.rating>=1&&r.rating<=5)rc[r.rating]++;}
+  const mr=Math.max(...Object.values(rc),1);
+  const ratingBars=[5,4,3,2,1].map(s=>`
+    <div class="bar-row narrow">
+      <span class="bar-label">${s} stars</span>
+      <div class="bar-track"><div class="bar-fill ylw" style="width:${(rc[s]/mr*100).toFixed(0)}%"></div></div>
+      <span class="bar-count">${rc[s]}</span>
+    </div>`).join('');
+  document.getElementById('charts-grid').innerHTML=`
+    <div class="chart-card"><div class="chart-title">Cancellations by brand</div>${brandBars}</div>
+    <div class="chart-card"><div class="chart-title">Review rating distribution</div>${ratingBars}</div>`;
+}
+
+function renderTable(cancelled,isMulti){
+  const sorted=[...cancelled].sort((a,b)=>b.time.localeCompare(a.time));
+  const rows=sorted.length?sorted.map(c=>{
+    const{loc}=parseSite(c.site);
+    const dateCol=isMulti?`<td class="date-col">${fmtChip(c._date)}</td>`:'';
+    return`<tr>${dateCol}<td>${fmtBST(c.time)}</td><td>${esc(c.brand||parseSite(c.site).brand)}</td><td class="muted">${esc(loc)}</td></tr>`;
+  }).join(''):`<tr><td colspan="${isMulti?4:3}" class="empty">No cancellations recorded</td></tr>`;
+  const dateHeader=isMulti?'<th>Date</th>':'';
+  document.getElementById('cancelled-table').innerHTML=`
+    <div class="table-card">
+      <div class="card-title">First order cancelled / auto-rejected</div>
+      <table><tr>${dateHeader}<th>Time (BST)</th><th>Brand</th><th>Location</th></tr>${rows}</table>
+    </div>`;
+}
+
+function renderReviews(reviews,isMulti){
+  const sorted=[...reviews].sort((a,b)=>(a.rating||0)-(b.rating||0));
+  const items=sorted.length?sorted.map(r=>{
+    const cls=r.rating>=4?'star-hi':r.rating>=3?'star-mid':'star-lo';
+    const{loc}=parseSite(r.site);
+    const brand=r.brand||parseSite(r.site).brand;
+    const dateTag=isMulti?`<div class="review-date">${fmtDate(r._date)}</div>`:'';
+    return`<div class="review-item">
+      <span class="star-badge ${cls}">${r.rating} ★</span>
+      <div>
+        <div class="review-site">${esc(brand)} · ${esc(loc)}</div>
+        <div class="review-text">${esc(r.text||'(no comment left)')}</div>
+        ${dateTag}
+      </div>
+    </div>`;
+  }).join(''):'<div class="empty">No reviews for this date</div>';
+  document.getElementById('reviews-section').innerHTML=`
+    <div class="reviews-card"><div class="card-title">Customer reviews</div>${items}</div>`;
+}
+
+function parseSite(s){
+  if(!s)return{brand:'Unknown',loc:''};
+  const m=s.match(/\(([^)]+)\)\s*\d*$/);
+  if(m)return{brand:s.replace(/\s*\([^)]+\)\s*\d*$/,'').trim(),loc:m[1].trim()};
+  return{brand:s,loc:''};
+}
+function fmtBST(u){
+  if(!u)return'—';
+  try{return new Date(u).toLocaleTimeString('en-GB',{timeZone:'Europe/London',hour:'2-digit',minute:'2-digit'});}
+  catch{return u.slice(11,16);}
+}
+function fmtDate(d){
+  if(!d)return'—';
+  try{return new Date(d+'T12:00:00Z').toLocaleDateString('en-GB',{weekday:'short',day:'2-digit',month:'short'});}
+  catch{return d;}
+}
+function fmtChip(d){
+  if(!d)return'—';
+  try{return new Date(d+'T12:00:00Z').toLocaleDateString('en-GB',{day:'2-digit',month:'short'});}
+  catch{return d;}
+}
+function esc(s){
+  if(!s)return'';
+  return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+</script>
+</body>
+</html>
