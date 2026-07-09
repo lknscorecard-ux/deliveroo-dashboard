@@ -483,7 +483,7 @@
   },
   "2026-07-08": {
     "scraped_date": "2026-07-08",
-    "last_updated": "2026-07-09T16:03:48Z",
+    "last_updated": "2026-07-09T18:03:23Z",
     "cancelled_orders_date": "2026-07-07",
     "cancelled_orders": [
       {
@@ -558,9 +558,23 @@
   },
   "2026-07-09": {
     "scraped_date": "2026-07-09",
-    "last_updated": "2026-07-09T16:03:48Z",
+    "last_updated": "2026-07-09T18:03:23Z",
     "cancelled_orders": [],
     "reviews": [
+      {
+        "site": "Hot Chick (Swansea - Pontardulais Rd)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "It didn\u2019t taste fresh the sauce on the obvs was nice but the wings seemed like they weren\u2019t fresh enough. The burger had a weird burnt taste and the chips were cold with no flavour.",
+        "created": "2026-07-09T10:22:32Z"
+      },
+      {
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Leeds - Britannia St)",
+        "brand": "WTF",
+        "rating": 3,
+        "text": "The burgers are really good, but the loaded fries portion sizes are too small. You get double the amount elsewhere for the same price or less. Given the cost of a meal, you expect more.",
+        "created": "2026-07-09T09:15:01Z"
+      },
       {
         "site": "Twisted London (Plymouth - Drake Circus)",
         "brand": "Twisted London",
