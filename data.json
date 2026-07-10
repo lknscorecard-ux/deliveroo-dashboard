@@ -558,7 +558,7 @@
   },
   "2026-07-09": {
     "scraped_date": "2026-07-09",
-    "last_updated": "2026-07-10T16:08:50Z",
+    "last_updated": "2026-07-10T18:05:23Z",
     "cancelled_orders": [
       {
         "time": "2026-07-09T20:57:24Z",
@@ -602,9 +602,23 @@
   },
   "2026-07-10": {
     "scraped_date": "2026-07-10",
-    "last_updated": "2026-07-10T16:08:50Z",
+    "last_updated": "2026-07-10T18:05:23Z",
     "cancelled_orders": [],
     "reviews": [
+      {
+        "site": "Wing Fest All Stars (Colchester - Challenge Way)",
+        "brand": "Wing Fest",
+        "rating": 1,
+        "text": "Burger was not like the picture taste was terrible said Korean bbq that was not the taste at all just a terrible bbq sauce! Wings where terrible just absolutely cover in thick horrible sauce",
+        "created": "2026-07-10T17:24:54Z"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Kingston - Richmond Road)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "I would pay the stuff to eat those soggy burgers like cmon",
+        "created": "2026-07-10T01:25:22Z"
+      },
       {
         "site": "Koreatown - Korean Fried Chicken (Coventry - Corporation St)",
         "brand": "Koreatown",
