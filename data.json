@@ -558,7 +558,7 @@
   },
   "2026-07-09": {
     "scraped_date": "2026-07-09",
-    "last_updated": "2026-07-10T12:03:37Z",
+    "last_updated": "2026-07-10T14:11:01Z",
     "cancelled_orders": [
       {
         "time": "2026-07-09T20:57:24Z",
@@ -602,15 +602,15 @@
   },
   "2026-07-10": {
     "scraped_date": "2026-07-10",
-    "last_updated": "2026-07-10T12:03:37Z",
+    "last_updated": "2026-07-10T14:11:01Z",
     "cancelled_orders": [],
     "reviews": [
       {
-        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Kingston - Richmond Road)",
-        "brand": "Hot Chick",
+        "site": "Koreatown - Korean Fried Chicken (Coventry - Corporation St)",
+        "brand": "Koreatown",
         "rating": 1,
-        "text": "I would pay the stuff to eat those soggy burgers like cmon",
-        "created": "2026-07-10T01:25:22Z"
+        "text": "I ordered two burgers and it was spoiled. It was a stingy smell comeing from the salads",
+        "created": "2026-07-10T13:13:59Z"
       }
     ]
   }
