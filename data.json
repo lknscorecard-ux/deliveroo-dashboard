@@ -558,7 +558,7 @@
   },
   "2026-07-09": {
     "scraped_date": "2026-07-09",
-    "last_updated": "2026-07-10T18:05:23Z",
+    "last_updated": "2026-07-10T18:10:22Z",
     "cancelled_orders": [
       {
         "time": "2026-07-09T20:57:24Z",
@@ -602,9 +602,23 @@
   },
   "2026-07-10": {
     "scraped_date": "2026-07-10",
-    "last_updated": "2026-07-10T18:05:23Z",
+    "last_updated": "2026-07-10T18:10:22Z",
     "cancelled_orders": [],
     "reviews": [
+      {
+        "site": "Twisted London (Wednesbury - Lower High St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Had a great meal the day before from here, I ordered again the next day and received absolute slop, eating food out a bin would\u2019ve been better",
+        "created": "2026-07-10T09:16:04Z"
+      },
+      {
+        "site": "Koreatown (Norwich - Aylsham Cres)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Amazing Food! WOW WOW!",
+        "created": "2026-07-10T15:04:57Z"
+      },
       {
         "site": "Wing Fest All Stars (Colchester - Challenge Way)",
         "brand": "Wing Fest",
