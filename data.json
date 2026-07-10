@@ -558,7 +558,7 @@
   },
   "2026-07-09": {
     "scraped_date": "2026-07-09",
-    "last_updated": "2026-07-10T04:03:30Z",
+    "last_updated": "2026-07-10T06:12:17Z",
     "cancelled_orders": [
       {
         "time": "2026-07-09T20:57:24Z",
@@ -602,16 +602,8 @@
   },
   "2026-07-10": {
     "scraped_date": "2026-07-10",
-    "last_updated": "2026-07-10T04:03:30Z",
+    "last_updated": "2026-07-10T06:12:17Z",
     "cancelled_orders": [],
-    "reviews": [
-      {
-        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Kingston - Richmond Road)",
-        "brand": "Hot Chick",
-        "rating": 1,
-        "text": "I would pay the stuff to eat those soggy burgers like cmon",
-        "created": "2026-07-10T01:25:22Z"
-      }
-    ]
+    "reviews": []
   }
 }
