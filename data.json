@@ -602,7 +602,7 @@
   },
   "2026-07-10": {
     "scraped_date": "2026-07-10",
-    "last_updated": "2026-07-11T22:05:48Z",
+    "last_updated": "2026-07-11T22:44:05Z",
     "cancelled_orders": [
       {
         "time": "2026-07-10T22:10:10Z",
@@ -680,37 +680,8 @@
   },
   "2026-07-11": {
     "scraped_date": "2026-07-11",
-    "last_updated": "2026-07-11T22:05:48Z",
+    "last_updated": "2026-07-11T22:44:05Z",
     "cancelled_orders": [],
-    "reviews": [
-      {
-        "site": "WTF! - Mind-Blowing Vegan Burgers\ud83c\udf31(Kensal Rise - Station Terrace)",
-        "brand": "WTF",
-        "rating": 1,
-        "text": "Missing part of order and my burger is wrong I can\u2019t eat it",
-        "created": "2026-07-10T23:09:47Z"
-      },
-      {
-        "site": "Twisted London (Plymouth - Drake Circus)",
-        "brand": "Twisted London",
-        "rating": 5,
-        "text": "we ordered some different burgers , loaded fries and chicken bites and the food was amazing . Really tasty beautiful flavours and most importantly the food was hot , the chips were still crispy and none of the food was soggy which normally happens when you get a home delivery. I would highly recommend the roundabout to anyone who wants a fantastic burger ,chips or loaded fries. the pricing is quite good and competitive with other venues",
-        "created": "2026-07-11T21:00:39Z"
-      },
-      {
-        "site": "Twisted London (Inverness - Church Street)",
-        "brand": "Twisted London",
-        "rating": 5,
-        "text": "The food taste and packaging exceeded my expectations. This was my first order and I promise there would be more. Cheers!",
-        "created": "2026-07-11T21:24:06Z"
-      },
-      {
-        "site": "Kuro Smash (Norwich - Earlham West Centre)",
-        "brand": "Kuro Smash",
-        "rating": 3,
-        "text": "Burgers are just too small...",
-        "created": "2026-07-11T14:12:07Z"
-      }
-    ]
+    "reviews": []
   }
 }
