@@ -602,7 +602,7 @@
   },
   "2026-07-10": {
     "scraped_date": "2026-07-10",
-    "last_updated": "2026-07-11T16:08:53Z",
+    "last_updated": "2026-07-11T18:13:01Z",
     "cancelled_orders": [
       {
         "time": "2026-07-10T22:10:10Z",
@@ -680,23 +680,8 @@
   },
   "2026-07-11": {
     "scraped_date": "2026-07-11",
-    "last_updated": "2026-07-11T16:08:53Z",
+    "last_updated": "2026-07-11T18:13:01Z",
     "cancelled_orders": [],
-    "reviews": [
-      {
-        "site": "Twisted London (Kensal Rise - Station Terrace)",
-        "brand": "Twisted London",
-        "rating": 1,
-        "text": "found hair in my food requested a refund and they have ignored",
-        "created": "2026-07-11T10:27:06Z"
-      },
-      {
-        "site": "Twisted London (Kensal Rise - Station Terrace)",
-        "brand": "Twisted London",
-        "rating": 2,
-        "text": "Cold and sloppy chips weren\u2019t cooked properly",
-        "created": "2026-07-11T09:48:18Z"
-      }
-    ]
+    "reviews": []
   }
 }
