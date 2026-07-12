@@ -680,15 +680,29 @@
   },
   "2026-07-11": {
     "scraped_date": "2026-07-11",
-    "last_updated": "2026-07-12T18:05:41Z",
+    "last_updated": "2026-07-12T20:01:37Z",
     "cancelled_orders": [],
     "reviews": []
   },
   "2026-07-12": {
     "scraped_date": "2026-07-12",
-    "last_updated": "2026-07-12T18:05:41Z",
+    "last_updated": "2026-07-12T20:01:37Z",
     "cancelled_orders": [],
     "reviews": [
+      {
+        "site": "Koreatown (Norwich - Aylsham Cres)",
+        "brand": "Koreatown",
+        "rating": 2,
+        "text": "Nearly \u00a314 for 2 of the smallest portions of food I\u2019ve ever received\u2026 will not be using again",
+        "created": "2026-07-12T17:16:08Z"
+      },
+      {
+        "site": "Twisted London (Deptford)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Burger smelled foul, frankly. Not good, fries were poor too. Won\u2019t order again",
+        "created": "2026-07-12T18:44:14Z"
+      },
       {
         "site": "Koreatown (Southampton - Commercial Rd)",
         "brand": "Koreatown",
@@ -702,6 +716,13 @@
         "rating": 1,
         "text": "burger had no taste , just meat and buns\n\nchips were cold and soggy",
         "created": "2026-07-12T00:26:59Z"
+      },
+      {
+        "site": "Twisted London (Ayr*)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "food arrived on time but all the food was cold and the chips were still frozen chicken wings were cold and looked like they had been sitting in grease for days not happy wont be back",
+        "created": "2026-07-12T18:27:45Z"
       },
       {
         "site": "Koreatown (Burgess Hill - Church Rd)",
