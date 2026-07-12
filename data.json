@@ -680,15 +680,22 @@
   },
   "2026-07-11": {
     "scraped_date": "2026-07-11",
-    "last_updated": "2026-07-12T12:05:13Z",
+    "last_updated": "2026-07-12T14:05:05Z",
     "cancelled_orders": [],
     "reviews": []
   },
   "2026-07-12": {
     "scraped_date": "2026-07-12",
-    "last_updated": "2026-07-12T12:05:13Z",
+    "last_updated": "2026-07-12T14:05:05Z",
     "cancelled_orders": [],
     "reviews": [
+      {
+        "site": "WTF! - Mind-Blowing Vegan Burgers\ud83c\udf31(Kensal Rise - Station Terrace)",
+        "brand": "WTF",
+        "rating": 2,
+        "text": "burgers were a bit disappointing and they missed out my onion rings completely and gave a regular burger instead of a chicken burger. all round not a great experience",
+        "created": "2026-07-11T23:38:00Z"
+      },
       {
         "site": "Twisted London (Epsom - Kingston Rd)",
         "brand": "Twisted London",
@@ -704,11 +711,11 @@
         "created": "2026-07-12T00:26:59Z"
       },
       {
-        "site": "WTF! - Mind-Blowing Vegan Burgers\ud83c\udf31(Kensal Rise - Station Terrace)",
-        "brand": "WTF",
-        "rating": 2,
-        "text": "burgers were a bit disappointing and they missed out my onion rings completely and gave a regular burger instead of a chicken burger. all round not a great experience",
-        "created": "2026-07-11T23:38:00Z"
+        "site": "Koreatown (Burgess Hill - Church Rd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "not to my taste",
+        "created": "2026-07-12T13:25:20Z"
       }
     ]
   }
