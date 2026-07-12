@@ -680,13 +680,13 @@
   },
   "2026-07-11": {
     "scraped_date": "2026-07-11",
-    "last_updated": "2026-07-12T15:41:13Z",
+    "last_updated": "2026-07-12T16:03:22Z",
     "cancelled_orders": [],
     "reviews": []
   },
   "2026-07-12": {
     "scraped_date": "2026-07-12",
-    "last_updated": "2026-07-12T15:41:13Z",
+    "last_updated": "2026-07-12T16:03:22Z",
     "cancelled_orders": [],
     "reviews": [
       {
@@ -695,13 +695,6 @@
         "rating": 2,
         "text": "burgers were a bit disappointing and they missed out my onion rings completely and gave a regular burger instead of a chicken burger. all round not a great experience",
         "created": "2026-07-11T23:38:00Z"
-      },
-      {
-        "site": "Twisted London (Epsom - Kingston Rd)",
-        "brand": "Twisted London",
-        "rating": 3,
-        "text": "Burger was good! Chips weren\u2019t great, felt hard and overcooked. Onion rings were very overcooked and had no flavour other than overdone batter",
-        "created": "2026-07-12T09:45:08Z"
       },
       {
         "site": "Koreatown (Southampton - Commercial Rd)",
