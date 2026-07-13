@@ -686,7 +686,7 @@
   },
   "2026-07-12": {
     "scraped_date": "2026-07-12",
-    "last_updated": "2026-07-13T16:03:15Z",
+    "last_updated": "2026-07-13T18:03:00Z",
     "cancelled_orders": [
       {
         "time": "2026-07-12T19:02:42Z",
@@ -763,7 +763,7 @@
   },
   "2026-07-13": {
     "scraped_date": "2026-07-13",
-    "last_updated": "2026-07-13T16:03:15Z",
+    "last_updated": "2026-07-13T18:03:00Z",
     "cancelled_orders": [],
     "reviews": [
       {
@@ -774,11 +774,39 @@
         "created": "2026-07-12T23:51:17Z"
       },
       {
+        "site": "Twisted London (Epsom - Kingston Rd)",
+        "brand": "Twisted London",
+        "rating": 4,
+        "text": "everything was really good just the buns on the burger was abit greasy but the meat was fresh seasoned well and overall was a really good burger the chips had the same problem just abit greasy but still tasted good wings wear decent aswell",
+        "created": "2026-07-13T16:32:12Z"
+      },
+      {
+        "site": "Kuro Smash (Norwich - Earlham West Centre)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Incredibly tasty food! Would deffo reccomend",
+        "created": "2026-07-13T16:06:33Z"
+      },
+      {
+        "site": "Twisted London (Plymouth - Drake Circus)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "lots of better options elsewhere",
+        "created": "2026-07-13T17:50:02Z"
+      },
+      {
         "site": "Twisted London (Norwich - Earlham West Centre)",
         "brand": "Twisted London",
         "rating": 5,
         "text": "Speedy Delivery, Tasty Food and all round amazing bite to eat",
         "created": "2026-07-13T15:44:54Z"
+      },
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "Disappointed with all of 3 burgers we ordered. 2 Chicken burgers felt like their ware warmed up rather than cooked fresh, honey burger instead off sweet &amp; spicy was more on sour side flavour and and I could not feel any honey. Size of the burgers was pretty small for the price compared with other places in same price range... only good point of our ordered ware Skin on fries.",
+        "created": "2026-07-13T16:17:15Z"
       }
     ]
   }
