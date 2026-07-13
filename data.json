@@ -686,7 +686,7 @@
   },
   "2026-07-12": {
     "scraped_date": "2026-07-12",
-    "last_updated": "2026-07-13T20:05:23Z",
+    "last_updated": "2026-07-13T22:03:15Z",
     "cancelled_orders": [
       {
         "time": "2026-07-12T19:02:42Z",
@@ -763,7 +763,7 @@
   },
   "2026-07-13": {
     "scraped_date": "2026-07-13",
-    "last_updated": "2026-07-13T20:05:23Z",
+    "last_updated": "2026-07-13T22:03:15Z",
     "cancelled_orders": [],
     "reviews": [
       {
@@ -772,6 +772,13 @@
         "rating": 2,
         "text": "i ordered extra hot ranch and honey buffalo wings but there was no honey buffalo sauce in it. just spice and lil ranch.. quite dissapointed",
         "created": "2026-07-12T23:51:17Z"
+      },
+      {
+        "site": "Twisted London (Deptford)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "The burger was flavourless got the bbq bacon one terrible the wings lowkey saved the meal they were good but I wouldn\u2019t order again \ud83d\ude15",
+        "created": "2026-07-13T21:13:23Z"
       },
       {
         "site": "Twisted London (Epsom - Kingston Rd)",
@@ -807,6 +814,13 @@
         "rating": 3,
         "text": "Disappointed with all of 3 burgers we ordered. 2 Chicken burgers felt like their ware warmed up rather than cooked fresh, honey burger instead off sweet &amp; spicy was more on sour side flavour and and I could not feel any honey. Size of the burgers was pretty small for the price compared with other places in same price range... only good point of our ordered ware Skin on fries.",
         "created": "2026-07-13T16:17:15Z"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Tunbridge Wells - Tunbridge Rd)",
+        "brand": "Hot Chick",
+        "rating": 3,
+        "text": "the food teases a bit weird",
+        "created": "2026-07-13T20:35:14Z"
       }
     ]
   }
