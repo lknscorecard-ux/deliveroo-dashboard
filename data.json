@@ -686,8 +686,29 @@
   },
   "2026-07-12": {
     "scraped_date": "2026-07-12",
-    "last_updated": "2026-07-12T22:36:49Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-07-13T00:04:20Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-07-12T19:02:42Z",
+        "site": "Twisted London (Chatham - Silverweed Road)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-07-12T18:41:47Z",
+        "site": "Koreatown (Dudley - Martin Hill)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-07-12T14:40:40Z",
+        "site": "Hot Chick (Morecambe - Glentworth Rd West)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-07-12T02:19:08Z",
+        "site": "Hot Chick(Guildford - Southway)",
+        "brand": "Hot Chick"
+      }
+    ],
     "reviews": [
       {
         "site": "Twisted London (Epsom - Kingston Rd)",
@@ -737,6 +758,20 @@
         "rating": 1,
         "text": "not to my taste",
         "created": "2026-07-12T13:25:20Z"
+      }
+    ]
+  },
+  "2026-07-13": {
+    "scraped_date": "2026-07-13",
+    "last_updated": "2026-07-13T00:04:20Z",
+    "cancelled_orders": [],
+    "reviews": [
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Kingston - Richmond Road)",
+        "brand": "Hot Chick",
+        "rating": 2,
+        "text": "i ordered extra hot ranch and honey buffalo wings but there was no honey buffalo sauce in it. just spice and lil ranch.. quite dissapointed",
+        "created": "2026-07-12T23:51:17Z"
       }
     ]
   }
