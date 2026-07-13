@@ -763,8 +763,24 @@
   },
   "2026-07-13": {
     "scraped_date": "2026-07-13",
-    "last_updated": "2026-07-13T22:03:15Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-07-13T23:18:18Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-07-13T19:08:10Z",
+        "site": "Twisted London (Liverpool - Bold Street)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-07-13T15:27:01Z",
+        "site": "HotChick-Award-WinningSaucyFriedChicken(Gloucester-BondendLn)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-07-13T12:48:30Z",
+        "site": "Koreatown - Korean Fried Chicken (Bristol - Southmead Rd)",
+        "brand": "Koreatown"
+      }
+    ],
     "reviews": [
       {
         "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Kingston - Richmond Road)",
@@ -823,5 +839,11 @@
         "created": "2026-07-13T20:35:14Z"
       }
     ]
+  },
+  "2026-07-14": {
+    "scraped_date": "2026-07-14",
+    "last_updated": "2026-07-13T23:18:18Z",
+    "cancelled_orders": [],
+    "reviews": []
   }
 }
