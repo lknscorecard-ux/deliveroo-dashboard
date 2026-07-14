@@ -842,7 +842,7 @@
   },
   "2026-07-14": {
     "scraped_date": "2026-07-14",
-    "last_updated": "2026-07-14T18:00:26Z",
+    "last_updated": "2026-07-14T18:03:13Z",
     "cancelled_orders": [
       {
         "time": "2026-07-14T18:34:23",
@@ -865,6 +865,21 @@
         "brand": "Twisted London"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Koreatown (Swansea - Pontardulais Rd)",
+        "brand": "Koreatown",
+        "rating": 4,
+        "text": "The food itself was good but it would be better to provide disposable cutlery.",
+        "created": "2026-07-14T12:53:33Z"
+      },
+      {
+        "site": "Koreatown (Bristol - Soundwell Rd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "Our order arrived with missing items, and the quality is rubbish. The \u2018shredded beef\u2019 is just cheap mince. What a joke.",
+        "created": "2026-07-14T16:53:24Z"
+      }
+    ]
   }
 }
