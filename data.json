@@ -842,8 +842,27 @@
   },
   "2026-07-14": {
     "scraped_date": "2026-07-14",
-    "last_updated": "2026-07-14T12:50:50Z",
-    "cancelled_orders": [],
-    "reviews": []
+    "last_updated": "2026-07-14T13:01:08Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-07-14T13:51:59",
+        "site": "Koreatown (Burgess Hill - Church Rd)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-07-14T01:32:33",
+        "site": "Twisted London (Wembley - Ealing Rd)",
+        "brand": "Twisted London"
+      }
+    ],
+    "reviews": [
+      {
+        "site": "Koreatown (Swansea - Pontardulais Rd)",
+        "brand": "Koreatown",
+        "rating": 4,
+        "text": "The food itself was good but it would be better to provide disposable cutlery.",
+        "created": "2026-07-14T12:53:33Z"
+      }
+    ]
   }
 }
