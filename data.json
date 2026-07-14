@@ -842,7 +842,7 @@
   },
   "2026-07-14": {
     "scraped_date": "2026-07-14",
-    "last_updated": "2026-07-14T21:43:38Z",
+    "last_updated": "2026-07-14T22:05:47Z",
     "cancelled_orders": [
       {
         "time": "2026-07-14T21:17:38",
@@ -885,6 +885,35 @@
         "brand": "Twisted London"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Twisted London (Wembley - Ealing Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Delivered wrong, very sad looking \u201cburgers\u201d - if you can call them so. Tesco probably does better pre-made burgers. Single meet patty - not smashed ! No grilled onions, no creamy sauce. Never again from this Twisted London branch !",
+        "created": "2026-07-14T21:34:38Z"
+      },
+      {
+        "site": "Twisted London (Feltham)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Absolutely rubbish. Contacted them directly to inform them and was hung up on twice and then my calls weren\u2019t picked up. Worst customer service ever.",
+        "created": "2026-07-14T17:47:29Z"
+      },
+      {
+        "site": "Koreatown (Swansea - Pontardulais Rd)",
+        "brand": "Koreatown",
+        "rating": 4,
+        "text": "The food itself was good but it would be better to provide disposable cutlery.",
+        "created": "2026-07-14T12:53:33Z"
+      },
+      {
+        "site": "Koreatown (Bristol - Soundwell Rd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "Our order arrived with missing items, and the quality is rubbish. The \u2018shredded beef\u2019 is just cheap mince. What a joke.",
+        "created": "2026-07-14T16:53:24Z"
+      }
+    ]
   }
 }
