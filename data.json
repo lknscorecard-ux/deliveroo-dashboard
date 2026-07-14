@@ -842,8 +842,23 @@
   },
   "2026-07-14": {
     "scraped_date": "2026-07-14",
-    "last_updated": "2026-07-14T18:03:13Z",
+    "last_updated": "2026-07-14T20:12:39Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-14T20:52:30",
+        "site": "Twisted London (Liverpool - Bold Street)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-07-14T20:23:47",
+        "site": "WTF (Bognor Regis - York Rd)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-07-14T20:18:33",
+        "site": "Koreatown - Korean Fried Chicken (Bognor Regis - York Rd)",
+        "brand": "Koreatown"
+      },
       {
         "time": "2026-07-14T18:34:23",
         "site": "Twisted London (Bognor Regis - York Rd)",
@@ -865,21 +880,6 @@
         "brand": "Twisted London"
       }
     ],
-    "reviews": [
-      {
-        "site": "Koreatown (Swansea - Pontardulais Rd)",
-        "brand": "Koreatown",
-        "rating": 4,
-        "text": "The food itself was good but it would be better to provide disposable cutlery.",
-        "created": "2026-07-14T12:53:33Z"
-      },
-      {
-        "site": "Koreatown (Bristol - Soundwell Rd)",
-        "brand": "Koreatown",
-        "rating": 1,
-        "text": "Our order arrived with missing items, and the quality is rubbish. The \u2018shredded beef\u2019 is just cheap mince. What a joke.",
-        "created": "2026-07-14T16:53:24Z"
-      }
-    ]
+    "reviews": []
   }
 }
