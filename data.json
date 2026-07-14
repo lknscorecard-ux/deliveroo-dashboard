@@ -842,8 +842,13 @@
   },
   "2026-07-14": {
     "scraped_date": "2026-07-14",
-    "last_updated": "2026-07-14T20:12:39Z",
+    "last_updated": "2026-07-14T21:43:38Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-14T21:17:38",
+        "site": "Twisted London (Bingley - Bradford Rd)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-07-14T20:52:30",
         "site": "Twisted London (Liverpool - Bold Street)",
