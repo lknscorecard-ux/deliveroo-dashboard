@@ -918,8 +918,16 @@
   },
   "2026-07-15": {
     "scraped_date": "2026-07-15",
-    "last_updated": "2026-07-15T00:12:24Z",
+    "last_updated": "2026-07-15T02:02:44Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "WTF! - Mind-Blowing Vegan Burgers\ud83c\udf31(Kensal Rise - Station Terrace)",
+        "brand": "WTF",
+        "rating": 1,
+        "text": "ordered a vegan burger and was given chicken nuggets in a bun instead",
+        "created": "2026-07-15T00:26:29Z"
+      }
+    ]
   }
 }
