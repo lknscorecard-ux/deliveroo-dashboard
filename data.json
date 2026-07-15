@@ -918,8 +918,29 @@
   },
   "2026-07-15": {
     "scraped_date": "2026-07-15",
-    "last_updated": "2026-07-15T12:12:30Z",
-    "cancelled_orders": [],
-    "reviews": []
+    "last_updated": "2026-07-15T12:56:37Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-07-15T13:47:48",
+        "site": "Koreatown - Korean Fried Chicken (Bristol - Southmead Rd)",
+        "brand": "Koreatown"
+      }
+    ],
+    "reviews": [
+      {
+        "site": "Twisted London (Plymouth - Drake Circus)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "waaaaaaay better this time geddon",
+        "created": "2026-07-15T11:55:47Z"
+      },
+      {
+        "site": "WTF! - Mind-Blowing Vegan Burgers\ud83c\udf31(Kensal Rise - Station Terrace)",
+        "brand": "WTF",
+        "rating": 1,
+        "text": "ordered a vegan burger and was given chicken nuggets in a bun instead",
+        "created": "2026-07-15T00:26:29Z"
+      }
+    ]
   }
 }
