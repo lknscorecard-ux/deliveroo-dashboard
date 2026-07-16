@@ -952,7 +952,7 @@
   },
   "2026-07-16": {
     "scraped_date": "2026-07-16",
-    "last_updated": "2026-07-16T18:02:51Z",
+    "last_updated": "2026-07-16T20:04:39Z",
     "cancelled_orders": [
       {
         "time": "2026-07-16T18:44:44",
@@ -979,6 +979,13 @@
         "rating": 3,
         "text": "was meh tbh sweaty buns",
         "created": "2026-07-16T16:21:49Z"
+      },
+      {
+        "site": "Twisted London (Macclesfield - Chestergate)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "poor packageing burgers came very squashed",
+        "created": "2026-07-16T18:16:18Z"
       }
     ]
   }
