@@ -952,8 +952,13 @@
   },
   "2026-07-16": {
     "scraped_date": "2026-07-16",
-    "last_updated": "2026-07-16T16:03:05Z",
+    "last_updated": "2026-07-16T17:58:49Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-16T18:44:44",
+        "site": "Kuro Smash (Leicester - Allandale Rd)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-07-16T13:32:33",
         "site": "Wing Fest All Stars (Sheffield - Bellhouse Road)",
@@ -967,6 +972,13 @@
         "rating": 3,
         "text": "burger was nice but part of my order was missing.",
         "created": "2026-07-16T11:52:11Z"
+      },
+      {
+        "site": "Wing Fest All Stars (Windsor - Oxford Rd)",
+        "brand": "Wing Fest",
+        "rating": 3,
+        "text": "was meh tbh sweaty buns",
+        "created": "2026-07-16T16:21:49Z"
       }
     ]
   }
