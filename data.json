@@ -952,7 +952,7 @@
   },
   "2026-07-16": {
     "scraped_date": "2026-07-16",
-    "last_updated": "2026-07-16T20:04:39Z",
+    "last_updated": "2026-07-16T21:51:23Z",
     "cancelled_orders": [
       {
         "time": "2026-07-16T18:44:44",
@@ -967,18 +967,18 @@
     ],
     "reviews": [
       {
-        "site": "Wing Fest All Stars (Worthing - Chapel Rd)",
-        "brand": "Wing Fest",
-        "rating": 3,
-        "text": "burger was nice but part of my order was missing.",
-        "created": "2026-07-16T11:52:11Z"
-      },
-      {
         "site": "Wing Fest All Stars (Windsor - Oxford Rd)",
         "brand": "Wing Fest",
         "rating": 3,
         "text": "was meh tbh sweaty buns",
         "created": "2026-07-16T16:21:49Z"
+      },
+      {
+        "site": "Twisted London (Hayes - Uxbridge Rd)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "it was fine but honestly nothing special. the ranch definitely isn&#39;t ranch sauce and the burgers just tasted like something cheap. not great quality",
+        "created": "2026-07-16T20:45:27Z"
       },
       {
         "site": "Twisted London (Macclesfield - Chestergate)",
