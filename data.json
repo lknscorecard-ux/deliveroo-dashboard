@@ -952,7 +952,7 @@
   },
   "2026-07-16": {
     "scraped_date": "2026-07-16",
-    "last_updated": "2026-07-16T21:51:23Z",
+    "last_updated": "2026-07-16T22:02:43Z",
     "cancelled_orders": [
       {
         "time": "2026-07-16T18:44:44",
@@ -966,6 +966,13 @@
       }
     ],
     "reviews": [
+      {
+        "site": "Wing Fest All Stars (Worthing - Chapel Rd)",
+        "brand": "Wing Fest",
+        "rating": 3,
+        "text": "burger was nice but part of my order was missing.",
+        "created": "2026-07-16T11:52:11Z"
+      },
       {
         "site": "Wing Fest All Stars (Windsor - Oxford Rd)",
         "brand": "Wing Fest",
