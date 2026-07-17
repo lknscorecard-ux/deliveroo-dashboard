@@ -998,8 +998,18 @@
   },
   "2026-07-17": {
     "scraped_date": "2026-07-17",
-    "last_updated": "2026-07-17T16:05:13Z",
+    "last_updated": "2026-07-17T17:55:58Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-17T17:48:48",
+        "site": "Koreatown (Southampton - Commercial Rd)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-07-17T17:27:31",
+        "site": "Kuro Smash (Southampton - Commercial Rd)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-07-17T14:52:31",
         "site": "Twisted London (Liverpool - Bold Street)",
@@ -1011,14 +1021,6 @@
         "brand": "Twisted London"
       }
     ],
-    "reviews": [
-      {
-        "site": "Twisted London (Salisbury - Castle St)1",
-        "brand": "Twisted London",
-        "rating": 5,
-        "text": "AMAZING FOOD OMG!!!! Was so so so tasty",
-        "created": "2026-07-17T14:36:20Z"
-      }
-    ]
+    "reviews": []
   }
 }
