@@ -998,8 +998,13 @@
   },
   "2026-07-17": {
     "scraped_date": "2026-07-17",
-    "last_updated": "2026-07-17T20:40:46Z",
+    "last_updated": "2026-07-17T22:03:25Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-17T22:01:08",
+        "site": "Kuro Smash (Leicester - Allandale Rd)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-07-17T19:37:13",
         "site": "Koreatown (Dudley - Martin Hill)",
@@ -1033,6 +1038,13 @@
         "rating": 5,
         "text": "Tasty burgers and the two for one deal is spot on cos the burgers are pretty small",
         "created": "2026-07-17T05:54:31Z"
+      },
+      {
+        "site": "Twisted London (Brixton)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "BBQ bacon burger was so delicious!",
+        "created": "2026-07-17T21:15:09Z"
       },
       {
         "site": "Kuro Smash (Norwich - Earlham West Centre)",
