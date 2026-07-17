@@ -998,8 +998,16 @@
   },
   "2026-07-17": {
     "scraped_date": "2026-07-17",
-    "last_updated": "2026-07-17T12:13:21Z",
+    "last_updated": "2026-07-17T12:24:27Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Kuro Smash - (Kensal Rise - Station Terrace)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Tasty burgers and the two for one deal is spot on cos the burgers are pretty small",
+        "created": "2026-07-17T05:54:31Z"
+      }
+    ]
   }
 }
