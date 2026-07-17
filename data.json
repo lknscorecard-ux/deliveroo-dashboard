@@ -998,8 +998,19 @@
   },
   "2026-07-17": {
     "scraped_date": "2026-07-17",
-    "last_updated": "2026-07-17T12:24:27Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-07-17T14:03:03Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-07-17T14:52:31",
+        "site": "Twisted London (Liverpool - Bold Street)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-07-17T14:04:39",
+        "site": "Twisted London (Aylesbury - High St)",
+        "brand": "Twisted London"
+      }
+    ],
     "reviews": [
       {
         "site": "Kuro Smash - (Kensal Rise - Station Terrace)",
