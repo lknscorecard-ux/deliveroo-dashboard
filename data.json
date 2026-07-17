@@ -998,8 +998,13 @@
   },
   "2026-07-17": {
     "scraped_date": "2026-07-17",
-    "last_updated": "2026-07-17T18:03:58Z",
+    "last_updated": "2026-07-17T20:04:06Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-17T19:37:13",
+        "site": "Koreatown (Dudley - Martin Hill)",
+        "brand": "Koreatown"
+      },
       {
         "time": "2026-07-17T17:48:48",
         "site": "Koreatown (Southampton - Commercial Rd)",
@@ -1030,6 +1035,20 @@
         "created": "2026-07-17T05:54:31Z"
       },
       {
+        "site": "Kuro Smash (Norwich - Earlham West Centre)",
+        "brand": "Kuro Smash",
+        "rating": 2,
+        "text": "burger were tiny and blend, meat had no flavour.\n\nnot seasoned at all waste of money!",
+        "created": "2026-07-17T19:42:46Z"
+      },
+      {
+        "site": "Koreatown (Burgess Hill - Church Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Good portion, very delicious",
+        "created": "2026-07-17T19:22:56Z"
+      },
+      {
         "site": "Kuro Smash (Bristol - Soundwell Rd)",
         "brand": "Kuro Smash",
         "rating": 4,
@@ -1042,6 +1061,20 @@
         "rating": 5,
         "text": "AMAZING FOOD OMG!!!! Was so so so tasty",
         "created": "2026-07-17T14:36:20Z"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Wednesbury - Lower High St)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "Food was disgusting used to be good",
+        "created": "2026-07-17T19:58:19Z"
+      },
+      {
+        "site": "Koreatown (Bristol - Soundwell Rd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "This was not a good meal. Rice bowl arrived with overcooked rice slathered in what tasted like plain mayo, with overcooked gyozas. Absolutely would NOT recommend or ever buy from again",
+        "created": "2026-07-17T19:42:01Z"
       }
     ]
   }
