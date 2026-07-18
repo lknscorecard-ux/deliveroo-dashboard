@@ -1092,7 +1092,7 @@
   },
   "2026-07-18": {
     "scraped_date": "2026-07-18",
-    "last_updated": "2026-07-18T18:12:57Z",
+    "last_updated": "2026-07-18T20:00:33Z",
     "cancelled_orders": [
       {
         "time": "2026-07-18T14:09:57",
@@ -1105,6 +1105,21 @@
         "brand": "Hot Chick"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Kuro Smash (Bristol - Soundwell Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "love it",
+        "created": "2026-07-18T19:24:18Z"
+      },
+      {
+        "site": "Hot Chick(Guildford - Southway)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Great chicken",
+        "created": "2026-07-18T17:52:52Z"
+      }
+    ]
   }
 }
