@@ -1092,7 +1092,7 @@
   },
   "2026-07-18": {
     "scraped_date": "2026-07-18",
-    "last_updated": "2026-07-18T22:13:00Z",
+    "last_updated": "2026-07-18T22:36:40Z",
     "cancelled_orders": [
       {
         "time": "2026-07-18T14:09:57",
@@ -1105,6 +1105,35 @@
         "brand": "Hot Chick"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Koreatown (Bristol - Soundwell Rd)",
+        "brand": "Koreatown",
+        "rating": 2,
+        "text": "The mince beef bowl is a burger patty with a dribble of sauce, comes with about 3 edamame, and 95% overcooked rice. Pictures on menu must be AI because they look nothing like the actual products",
+        "created": "2026-07-18T01:18:57Z"
+      },
+      {
+        "site": "Kuro Smash (Bristol - Soundwell Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "love it",
+        "created": "2026-07-18T19:24:18Z"
+      },
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 4,
+        "text": "Chips portion was smaller than expected for the price",
+        "created": "2026-07-18T10:57:04Z"
+      },
+      {
+        "site": "Hot Chick(Guildford - Southway)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Great chicken",
+        "created": "2026-07-18T17:52:52Z"
+      }
+    ]
   }
 }
