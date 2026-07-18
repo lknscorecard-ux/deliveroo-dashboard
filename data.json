@@ -1089,5 +1089,11 @@
         "created": "2026-07-17T19:42:01Z"
       }
     ]
+  },
+  "2026-07-18": {
+    "scraped_date": "2026-07-18",
+    "last_updated": "2026-07-18T00:12:13Z",
+    "cancelled_orders": [],
+    "reviews": []
   }
 }
