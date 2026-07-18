@@ -1092,7 +1092,7 @@
   },
   "2026-07-18": {
     "scraped_date": "2026-07-18",
-    "last_updated": "2026-07-18T20:08:42Z",
+    "last_updated": "2026-07-18T22:13:00Z",
     "cancelled_orders": [
       {
         "time": "2026-07-18T14:09:57",
@@ -1105,21 +1105,6 @@
         "brand": "Hot Chick"
       }
     ],
-    "reviews": [
-      {
-        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
-        "brand": "Twisted London",
-        "rating": 4,
-        "text": "Chips portion was smaller than expected for the price",
-        "created": "2026-07-18T10:57:04Z"
-      },
-      {
-        "site": "Hot Chick(Guildford - Southway)",
-        "brand": "Hot Chick",
-        "rating": 5,
-        "text": "Great chicken",
-        "created": "2026-07-18T17:52:52Z"
-      }
-    ]
+    "reviews": []
   }
 }
