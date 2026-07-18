@@ -1092,8 +1092,16 @@
   },
   "2026-07-18": {
     "scraped_date": "2026-07-18",
-    "last_updated": "2026-07-18T10:13:41Z",
+    "last_updated": "2026-07-18T10:57:16Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Koreatown (Bristol - Soundwell Rd)",
+        "brand": "Koreatown",
+        "rating": 2,
+        "text": "The mince beef bowl is a burger patty with a dribble of sauce, comes with about 3 edamame, and 95% overcooked rice. Pictures on menu must be AI because they look nothing like the actual products",
+        "created": "2026-07-18T01:18:57Z"
+      }
+    ]
   }
 }
