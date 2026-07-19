@@ -1138,8 +1138,14 @@
   },
   "2026-07-19": {
     "scraped_date": "2026-07-19",
-    "last_updated": "2026-07-19T00:04:42Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-07-19T02:06:55Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-07-19T01:07:06",
+        "site": "Wing Fest All Stars (Stockport - Buxton Rd)",
+        "brand": "Wing Fest"
+      }
+    ],
     "reviews": []
   }
 }
