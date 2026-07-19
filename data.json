@@ -1138,7 +1138,7 @@
   },
   "2026-07-19": {
     "scraped_date": "2026-07-19",
-    "last_updated": "2026-07-19T15:34:54Z",
+    "last_updated": "2026-07-19T16:13:08Z",
     "cancelled_orders": [
       {
         "time": "2026-07-19T16:27:16",
@@ -1161,21 +1161,6 @@
         "brand": "Wing Fest"
       }
     ],
-    "reviews": [
-      {
-        "site": "Koreatown - Korean Fried Chicken (Harrow)",
-        "brand": "Koreatown",
-        "rating": 2,
-        "text": "not good. food was late and cold",
-        "created": "2026-07-19T09:19:56Z"
-      },
-      {
-        "site": "Twisted London (Deptford)",
-        "brand": "Twisted London",
-        "rating": 5,
-        "text": "Clearly the best place without a doubt \u2705",
-        "created": "2026-07-19T11:31:27Z"
-      }
-    ]
+    "reviews": []
   }
 }
