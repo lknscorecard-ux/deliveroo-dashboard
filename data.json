@@ -1138,7 +1138,7 @@
   },
   "2026-07-19": {
     "scraped_date": "2026-07-19",
-    "last_updated": "2026-07-19T22:05:07Z",
+    "last_updated": "2026-07-19T22:40:13Z",
     "cancelled_orders": [
       {
         "time": "2026-07-19T22:01:52",
@@ -1173,6 +1173,27 @@
     ],
     "reviews": [
       {
+        "site": "Twisted London (Margate - High St)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Really good!",
+        "created": "2026-07-19T10:24:00Z"
+      },
+      {
+        "site": "Twisted London (Deptford)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Clearly the best place without a doubt \u2705",
+        "created": "2026-07-19T11:31:27Z"
+      },
+      {
+        "site": "Hot Chick(Guildford - Southway)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "Sorry to leave a bad review, but the burger was very very dry, barely any sauce and had barely any Korean bbq flavour. The wings were quite soggy as well. Had high expectations from other reviews but this was not worth the money",
+        "created": "2026-07-19T19:54:55Z"
+      },
+      {
         "site": "Twisted London (Norwich - Earlham West Centre)",
         "brand": "Twisted London",
         "rating": 2,
@@ -1192,6 +1213,13 @@
         "rating": 5,
         "text": "Excellent",
         "created": "2026-07-19T18:36:14Z"
+      },
+      {
+        "site": "Wing Fest All Stars (Bristol - Southmead Rd)",
+        "brand": "Wing Fest",
+        "rating": 5,
+        "text": "Yeah the foods dank mate, would definitely recommend",
+        "created": "2026-07-19T20:45:57Z"
       }
     ]
   }
