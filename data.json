@@ -1138,7 +1138,7 @@
   },
   "2026-07-19": {
     "scraped_date": "2026-07-19",
-    "last_updated": "2026-07-19T18:07:29Z",
+    "last_updated": "2026-07-19T20:01:26Z",
     "cancelled_orders": [
       {
         "time": "2026-07-19T18:27:03",
@@ -1168,6 +1168,34 @@
     ],
     "reviews": [
       {
+        "site": "Koreatown - Korean Fried Chicken (Harrow)",
+        "brand": "Koreatown",
+        "rating": 2,
+        "text": "not good. food was late and cold",
+        "created": "2026-07-19T09:19:56Z"
+      },
+      {
+        "site": "Twisted London (Margate - High St)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Really good!",
+        "created": "2026-07-19T10:24:00Z"
+      },
+      {
+        "site": "Twisted London (Deptford)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Clearly the best place without a doubt \u2705",
+        "created": "2026-07-19T11:31:27Z"
+      },
+      {
+        "site": "Hot Chick(Guildford - Southway)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "Sorry to leave a bad review, but the burger was very very dry, barely any sauce and had barely any Korean bbq flavour. The wings were quite soggy as well. Had high expectations from other reviews but this was not worth the money",
+        "created": "2026-07-19T19:54:55Z"
+      },
+      {
         "site": "Twisted London (Norwich - Earlham West Centre)",
         "brand": "Twisted London",
         "rating": 2,
@@ -1180,6 +1208,13 @@
         "rating": 5,
         "text": "Best buffalo wings around \ud83d\udc4c\ud83c\udffd",
         "created": "2026-07-19T17:00:09Z"
+      },
+      {
+        "site": "Kuro Smash (Whyteleaf - Godstone Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Excellent",
+        "created": "2026-07-19T18:36:14Z"
       }
     ]
   }
