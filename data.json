@@ -1138,8 +1138,18 @@
   },
   "2026-07-19": {
     "scraped_date": "2026-07-19",
-    "last_updated": "2026-07-19T14:13:38Z",
+    "last_updated": "2026-07-19T15:34:54Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-19T16:27:16",
+        "site": "WTF (Bognor Regis - York Rd)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-07-19T16:02:40",
+        "site": "Twisted London (Glasgow - Ingram St)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-07-19T10:52:31",
         "site": "Kuro Smash (Dorking - High St)",
@@ -1151,6 +1161,21 @@
         "brand": "Wing Fest"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Koreatown - Korean Fried Chicken (Harrow)",
+        "brand": "Koreatown",
+        "rating": 2,
+        "text": "not good. food was late and cold",
+        "created": "2026-07-19T09:19:56Z"
+      },
+      {
+        "site": "Twisted London (Deptford)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Clearly the best place without a doubt \u2705",
+        "created": "2026-07-19T11:31:27Z"
+      }
+    ]
   }
 }
