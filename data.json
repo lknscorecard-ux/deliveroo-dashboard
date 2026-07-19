@@ -1138,7 +1138,7 @@
   },
   "2026-07-19": {
     "scraped_date": "2026-07-19",
-    "last_updated": "2026-07-19T11:51:31Z",
+    "last_updated": "2026-07-19T12:04:10Z",
     "cancelled_orders": [
       {
         "time": "2026-07-19T10:52:31",
@@ -1151,6 +1151,21 @@
         "brand": "Wing Fest"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Twisted London (Deptford)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Clearly the best place without a doubt \u2705",
+        "created": "2026-07-19T11:31:27Z"
+      },
+      {
+        "site": "Twisted London (Margate - High St)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Really good!",
+        "created": "2026-07-19T10:24:00Z"
+      }
+    ]
   }
 }
