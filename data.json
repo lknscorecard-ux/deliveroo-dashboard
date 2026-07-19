@@ -1138,8 +1138,13 @@
   },
   "2026-07-19": {
     "scraped_date": "2026-07-19",
-    "last_updated": "2026-07-19T08:11:48Z",
+    "last_updated": "2026-07-19T10:08:51Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-19T10:52:31",
+        "site": "Kuro Smash (Dorking - High St)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-07-19T01:07:06",
         "site": "Wing Fest All Stars (Stockport - Buxton Rd)",
