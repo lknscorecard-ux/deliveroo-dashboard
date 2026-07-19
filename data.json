@@ -1138,8 +1138,13 @@
   },
   "2026-07-19": {
     "scraped_date": "2026-07-19",
-    "last_updated": "2026-07-19T16:13:08Z",
+    "last_updated": "2026-07-19T18:07:29Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-19T18:27:03",
+        "site": "Twisted London (Bingley - Bradford Rd)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-07-19T16:27:16",
         "site": "WTF (Bognor Regis - York Rd)",
@@ -1161,6 +1166,21 @@
         "brand": "Wing Fest"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Twisted London (Norwich - Earlham West Centre)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "Food was cold. Onions rings were over cooked and dry. it looked like they were a mix of old rings that had been sat in the heater and freshly cooked obnes. The fries were half cooked and no truffle sauce was added. It tasted like burger sauce. Not happy",
+        "created": "2026-07-19T17:50:39Z"
+      },
+      {
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Farnworth - Market St)",
+        "brand": "Wing Fest",
+        "rating": 5,
+        "text": "Best buffalo wings around \ud83d\udc4c\ud83c\udffd",
+        "created": "2026-07-19T17:00:09Z"
+      }
+    ]
   }
 }
