@@ -1225,8 +1225,16 @@
   },
   "2026-07-20": {
     "scraped_date": "2026-07-20",
-    "last_updated": "2026-07-20T17:14:57Z",
+    "last_updated": "2026-07-20T18:03:43Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Leeds - Britannia St)",
+        "brand": "WTF",
+        "rating": 5,
+        "text": "Best burger I\u2019ve had in a long time!",
+        "created": "2026-07-20T16:19:27Z"
+      }
+    ]
   }
 }
