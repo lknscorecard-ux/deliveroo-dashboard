@@ -1225,16 +1225,8 @@
   },
   "2026-07-20": {
     "scraped_date": "2026-07-20",
-    "last_updated": "2026-07-20T20:05:22Z",
+    "last_updated": "2026-07-20T22:01:42Z",
     "cancelled_orders": [],
-    "reviews": [
-      {
-        "site": "Koreatown (Swansea - Pontardulais Rd)",
-        "brand": "Koreatown",
-        "rating": 5,
-        "text": "Very happy with our order. The food was lovely and very tasty! My husband and I will be ordering again. Thank you!",
-        "created": "2026-07-20T18:31:12Z"
-      }
-    ]
+    "reviews": []
   }
 }
