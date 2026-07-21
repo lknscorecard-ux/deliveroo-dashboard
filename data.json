@@ -1231,7 +1231,7 @@
   },
   "2026-07-21": {
     "scraped_date": "2026-07-21",
-    "last_updated": "2026-07-21T16:05:18Z",
+    "last_updated": "2026-07-21T17:40:11Z",
     "cancelled_orders": [
       {
         "time": "2026-07-21T15:51:28",
@@ -1249,6 +1249,21 @@
         "brand": "Hot Chick"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Twisted London (Norwich - Earlham West Centre)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "burgers were absolutely tiny, and finished in two bites. all items were cold. Onion rings were burnt. Simple terrible and not worth the money. Dont bother.",
+        "created": "2026-07-21T16:03:41Z"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Salisbury - Castle St)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Absolutely scintillating! Will be trying again",
+        "created": "2026-07-21T16:47:21Z"
+      }
+    ]
   }
 }
