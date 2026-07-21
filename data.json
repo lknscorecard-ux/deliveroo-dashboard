@@ -1231,8 +1231,18 @@
   },
   "2026-07-21": {
     "scraped_date": "2026-07-21",
-    "last_updated": "2026-07-21T14:03:35Z",
+    "last_updated": "2026-07-21T16:05:18Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-21T15:51:28",
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Crewe - Nantwich Rd)",
+        "brand": "Wing Fest"
+      },
+      {
+        "time": "2026-07-21T15:18:11",
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Crewe - Nantwich Rd)",
+        "brand": "Wing Fest"
+      },
       {
         "time": "2026-07-21T00:27:57",
         "site": "Hot Chick (Oldham - Featherstall Rd)",
