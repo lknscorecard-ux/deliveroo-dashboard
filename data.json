@@ -1231,8 +1231,18 @@
   },
   "2026-07-21": {
     "scraped_date": "2026-07-21",
-    "last_updated": "2026-07-21T20:02:57Z",
+    "last_updated": "2026-07-21T22:02:55Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-21T22:50:04",
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Cheam - Upper Mulgrave Rd)",
+        "brand": "Wing Fest"
+      },
+      {
+        "time": "2026-07-21T22:17:19",
+        "site": "Hot Chick (Coatbridge - Main St)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-07-21T19:58:14",
         "site": "WTF (Bognor Regis - York Rd)",
