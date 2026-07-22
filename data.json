@@ -1290,9 +1290,16 @@
   },
   "2026-07-22": {
     "scraped_date": "2026-07-22",
-    "last_updated": "2026-07-22T18:06:41Z",
+    "last_updated": "2026-07-22T20:03:12Z",
     "cancelled_orders": [],
     "reviews": [
+      {
+        "site": "Wing Fest All Stars (Lambeth - Zennor Rd)",
+        "brand": "Wing Fest",
+        "rating": 2,
+        "text": "Order here all the time, always tasty.. the wings had about half a teaspoon of sauce (zero ranch) and the \u201cKorean BBQ bites\u2019 you couldn\u2019t call Korean, they were plane popcorn bites with no sauce. Disappointing and will trust the next time is better, but this was awful",
+        "created": "2026-07-22T18:58:00Z"
+      },
       {
         "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Cheam - Upper Mulgrave Rd)",
         "brand": "Wing Fest",
