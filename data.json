@@ -1290,23 +1290,8 @@
   },
   "2026-07-22": {
     "scraped_date": "2026-07-22",
-    "last_updated": "2026-07-22T15:55:16Z",
+    "last_updated": "2026-07-22T16:11:26Z",
     "cancelled_orders": [],
-    "reviews": [
-      {
-        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Cheam - Upper Mulgrave Rd)",
-        "brand": "Wing Fest",
-        "rating": 1,
-        "text": "food was very poor not a lot of flavour to it , won&#39;t order there again",
-        "created": "2026-07-22T15:45:06Z"
-      },
-      {
-        "site": "Kuro Smash (Nottingham - Castle Blvd)",
-        "brand": "Kuro Smash",
-        "rating": 5,
-        "text": "So good, will be ordering again soon!",
-        "created": "2026-07-22T14:13:01Z"
-      }
-    ]
+    "reviews": []
   }
 }
