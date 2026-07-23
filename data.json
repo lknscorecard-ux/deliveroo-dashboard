@@ -1318,7 +1318,7 @@
   },
   "2026-07-23": {
     "scraped_date": "2026-07-23",
-    "last_updated": "2026-07-23T18:11:30Z",
+    "last_updated": "2026-07-23T18:23:44Z",
     "cancelled_orders": [
       {
         "time": "2026-07-23T14:37:58",
@@ -1326,6 +1326,14 @@
         "brand": "Twisted London"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "WTF!-(Pinner-PinnerGr)",
+        "brand": "WTF",
+        "rating": 4,
+        "text": "Great vegan options and the food was nice. But the burger could\u2019ve done with some fresh veg - lettuce, tomatoes, etc. Even with the lovely sauce, it became a bit dry towards the end. Would order again though.",
+        "created": "2026-07-23T17:29:54Z"
+      }
+    ]
   }
 }
