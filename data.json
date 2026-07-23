@@ -1318,8 +1318,18 @@
   },
   "2026-07-23": {
     "scraped_date": "2026-07-23",
-    "last_updated": "2026-07-23T18:23:44Z",
+    "last_updated": "2026-07-23T20:03:35Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-23T20:55:39",
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Crewe - Nantwich Rd)",
+        "brand": "Wing Fest"
+      },
+      {
+        "time": "2026-07-23T19:44:00",
+        "site": "WTF (Bognor Regis - York Rd)",
+        "brand": "WTF"
+      },
       {
         "time": "2026-07-23T14:37:58",
         "site": "Twisted London (Uxbridge-High St)",
@@ -1333,6 +1343,13 @@
         "rating": 4,
         "text": "Great vegan options and the food was nice. But the burger could\u2019ve done with some fresh veg - lettuce, tomatoes, etc. Even with the lovely sauce, it became a bit dry towards the end. Would order again though.",
         "created": "2026-07-23T17:29:54Z"
+      },
+      {
+        "site": "Koreatown (Wallington - Beddington Park)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "Dreadful food. Had water in the rice bowl, was covered in mayo and tasted horrific",
+        "created": "2026-07-23T18:35:58Z"
       }
     ]
   }
