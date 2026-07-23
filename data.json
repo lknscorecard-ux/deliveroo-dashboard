@@ -1318,8 +1318,14 @@
   },
   "2026-07-23": {
     "scraped_date": "2026-07-23",
-    "last_updated": "2026-07-23T13:21:12Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-07-23T14:11:35Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-07-23T14:37:58",
+        "site": "Twisted London (Uxbridge-High St)",
+        "brand": "Twisted London"
+      }
+    ],
     "reviews": []
   }
 }
