@@ -1345,8 +1345,23 @@
   },
   "2026-07-24": {
     "scraped_date": "2026-07-24",
-    "last_updated": "2026-07-24T12:11:14Z",
+    "last_updated": "2026-07-24T14:02:57Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-24T14:21:54",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Kingston - Richmond Road)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-07-24T13:45:44",
+        "site": "Koreatown - Korean Fried Chicken (Kingston - Richmond Rd)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-07-24T13:44:43",
+        "site": "Koreatown - Korean Fried Chicken (Kingston - Richmond Rd)",
+        "brand": "Koreatown"
+      },
       {
         "time": "2026-07-24T12:49:45",
         "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bristol - Southmead Rd)",
