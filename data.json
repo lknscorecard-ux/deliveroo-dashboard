@@ -1345,8 +1345,13 @@
   },
   "2026-07-24": {
     "scraped_date": "2026-07-24",
-    "last_updated": "2026-07-24T10:11:37Z",
+    "last_updated": "2026-07-24T12:11:14Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-24T12:49:45",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bristol - Southmead Rd)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-07-24T01:23:38",
         "site": "Koreatown - Korean Fried Chicken (Leicester - Fosse Rd)",
