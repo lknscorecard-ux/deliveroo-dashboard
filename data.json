@@ -1345,8 +1345,13 @@
   },
   "2026-07-24": {
     "scraped_date": "2026-07-24",
-    "last_updated": "2026-07-24T15:23:03Z",
+    "last_updated": "2026-07-24T16:05:14Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-24T16:21:11",
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Crewe - Nantwich Rd)",
+        "brand": "Wing Fest"
+      },
       {
         "time": "2026-07-24T15:11:00",
         "site": "HotChick-(Shadwell-ChapmanSt)",
