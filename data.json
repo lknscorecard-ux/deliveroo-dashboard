@@ -1345,8 +1345,43 @@
   },
   "2026-07-24": {
     "scraped_date": "2026-07-24",
-    "last_updated": "2026-07-24T18:02:47Z",
+    "last_updated": "2026-07-24T20:04:04Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-24T21:01:38",
+        "site": "Kuro Smash (Leicester - Allandale Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-07-24T20:40:50",
+        "site": "Twisted London (Bognor Regis - York Rd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-07-24T20:12:41",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bognor Regis - York Rd)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-07-24T20:11:34",
+        "site": "Twisted London (Bognor Regis - York Rd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-07-24T20:09:41",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bognor Regis - York Rd)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-07-24T20:06:45",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bognor Regis - York Rd)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-07-24T19:46:54",
+        "site": "Kuro Smash (Bristol - Soundwell Rd)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-07-24T18:39:02",
         "site": "Koreatown - Korean Fried Chicken (Kingston - Richmond Rd)",
@@ -1407,11 +1442,32 @@
         "created": "2026-07-23T23:33:11Z"
       },
       {
+        "site": "Koreatown (Swansea - Pontardulais Rd)",
+        "brand": "Koreatown",
+        "rating": 2,
+        "text": "It was okay. Nothing special. Not worth the price tag. Lukewarm food, bland and poor portion size. Won\u2019t return.",
+        "created": "2026-07-24T18:43:41Z"
+      },
+      {
+        "site": "Twisted London (Deptford)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "So I think it was good but could\u2019ve been amazing but the question is why didn\u2019t you fry the patties more even onions was under done. Like it was made by a first time cook. \ud83e\udd26\ud83c\udffd\u200d\u2640\ufe0f",
+        "created": "2026-07-24T18:46:50Z"
+      },
+      {
         "site": "Kuro Smash (Norwich - Earlham West Centre)",
         "brand": "Kuro Smash",
         "rating": 3,
         "text": "The fries were soggy and slightly mealy, like they had been reheated. The burgers were okay, good soft buns but rather small and the fillings were more of a suggestion than a reality. Had to go hunting to find the cheese. It was there, hiding in shame between the one pickle and one slice of jalapeno.\nDefinitly overpriced. This is McDonalds budget burger levels of size and content.",
         "created": "2026-07-24T16:17:14Z"
+      },
+      {
+        "site": "Twisted London (Colchester)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Don\u2019t recommend, not the best burger and the fries were stale. My drink was also warm. I won\u2019t ever order from here again there are much better places.",
+        "created": "2026-07-24T19:30:04Z"
       },
       {
         "site": "Koreatown (Wallington - Beddington Park)",
