@@ -1345,8 +1345,14 @@
   },
   "2026-07-24": {
     "scraped_date": "2026-07-24",
-    "last_updated": "2026-07-24T00:02:34Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-07-24T02:02:54Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-07-24T01:23:38",
+        "site": "Koreatown - Korean Fried Chicken (Leicester - Fosse Rd)",
+        "brand": "Koreatown"
+      }
+    ],
     "reviews": []
   }
 }
