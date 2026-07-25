@@ -1495,7 +1495,7 @@
   },
   "2026-07-25": {
     "scraped_date": "2026-07-25",
-    "last_updated": "2026-07-25T14:08:11Z",
+    "last_updated": "2026-07-25T15:49:16Z",
     "cancelled_orders": [
       {
         "time": "2026-07-25T12:04:26",
@@ -1529,6 +1529,13 @@
       }
     ],
     "reviews": [
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "Small portions, not worth imo",
+        "created": "2026-07-25T14:57:31Z"
+      },
       {
         "site": "Twisted London (Kensal Rise - Station Terrace)",
         "brand": "Twisted London",
