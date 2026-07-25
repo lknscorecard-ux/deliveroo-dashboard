@@ -1495,8 +1495,13 @@
   },
   "2026-07-25": {
     "scraped_date": "2026-07-25",
-    "last_updated": "2026-07-25T10:05:12Z",
+    "last_updated": "2026-07-25T11:57:43Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-25T12:04:26",
+        "site": "Twisted London (Croydon - South end)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-07-25T02:24:10",
         "site": "Twisted London (Guildford - Southway)",
@@ -1523,14 +1528,6 @@
         "brand": "Other"
       }
     ],
-    "reviews": [
-      {
-        "site": "Twisted London (Kensal Rise - Station Terrace)",
-        "brand": "Twisted London",
-        "rating": 1,
-        "text": "Clearly a reheated frozen patty and not a fresh patty. Nothing like description or pictures shown. Didn\u2019t have pickles or double patty either. I would strongly suggest NOT ordering from here. Absolutely disgraceful.",
-        "created": "2026-07-25T05:30:46Z"
-      }
-    ]
+    "reviews": []
   }
 }
