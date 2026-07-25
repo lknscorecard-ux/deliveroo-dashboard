@@ -1495,8 +1495,23 @@
   },
   "2026-07-25": {
     "scraped_date": "2026-07-25",
-    "last_updated": "2026-07-25T00:11:53Z",
+    "last_updated": "2026-07-25T02:09:06Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-25T02:24:10",
+        "site": "Twisted London (Guildford - Southway)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-07-25T01:47:06",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Wembley - Ealing Rd)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-07-25T01:18:28",
+        "site": "Kuro Smash (Southampton - Commercial Rd)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-07-25T00:54:41",
         "site": "Hot Chick (Stockport - Buxton Rd)",
