@@ -1495,7 +1495,7 @@
   },
   "2026-07-25": {
     "scraped_date": "2026-07-25",
-    "last_updated": "2026-07-25T12:11:10Z",
+    "last_updated": "2026-07-25T14:08:11Z",
     "cancelled_orders": [
       {
         "time": "2026-07-25T12:04:26",
@@ -1528,6 +1528,14 @@
         "brand": "Other"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Clearly a reheated frozen patty and not a fresh patty. Nothing like description or pictures shown. Didn\u2019t have pickles or double patty either. I would strongly suggest NOT ordering from here. Absolutely disgraceful.",
+        "created": "2026-07-25T05:30:46Z"
+      }
+    ]
   }
 }
