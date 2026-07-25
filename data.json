@@ -1492,5 +1492,22 @@
         "created": "2026-07-24T17:53:51Z"
       }
     ]
+  },
+  "2026-07-25": {
+    "scraped_date": "2026-07-25",
+    "last_updated": "2026-07-25T00:11:53Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-07-25T00:54:41",
+        "site": "Hot Chick (Stockport - Buxton Rd)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-07-25T00:35:04",
+        "site": "Twisted Burgers (Coventry)",
+        "brand": "Other"
+      }
+    ],
+    "reviews": []
   }
 }
