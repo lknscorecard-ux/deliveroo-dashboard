@@ -1495,8 +1495,18 @@
   },
   "2026-07-25": {
     "scraped_date": "2026-07-25",
-    "last_updated": "2026-07-25T18:10:22Z",
+    "last_updated": "2026-07-25T20:10:45Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-25T20:31:30",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Kingston - Richmond Road)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-07-25T20:27:54",
+        "site": "Koreatown (Newport - Charles St)",
+        "brand": "Koreatown"
+      },
       {
         "time": "2026-07-25T12:04:26",
         "site": "Twisted London (Croydon - South end)",
@@ -1528,6 +1538,21 @@
         "brand": "Other"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Twisted London (Hatfield-The Common)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Very tasty and good sizes too",
+        "created": "2026-07-25T09:16:58Z"
+      },
+      {
+        "site": "Wing Fest (Bexleyheath - Broadway)",
+        "brand": "Wing Fest",
+        "rating": 1,
+        "text": "Forgot chips",
+        "created": "2026-07-25T18:28:25Z"
+      }
+    ]
   }
 }
