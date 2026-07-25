@@ -1495,7 +1495,7 @@
   },
   "2026-07-25": {
     "scraped_date": "2026-07-25",
-    "last_updated": "2026-07-25T20:10:45Z",
+    "last_updated": "2026-07-25T20:19:36Z",
     "cancelled_orders": [
       {
         "time": "2026-07-25T20:31:30",
@@ -1540,18 +1540,25 @@
     ],
     "reviews": [
       {
-        "site": "Twisted London (Hatfield-The Common)",
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
         "brand": "Twisted London",
-        "rating": 5,
-        "text": "Very tasty and good sizes too",
-        "created": "2026-07-25T09:16:58Z"
+        "rating": 3,
+        "text": "Small portions, not worth imo",
+        "created": "2026-07-25T14:57:31Z"
       },
       {
-        "site": "Wing Fest (Bexleyheath - Broadway)",
-        "brand": "Wing Fest",
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
         "rating": 1,
-        "text": "Forgot chips",
-        "created": "2026-07-25T18:28:25Z"
+        "text": "Clearly a reheated frozen patty and not a fresh patty. Nothing like description or pictures shown. Didn\u2019t have pickles or double patty either. I would strongly suggest NOT ordering from here. Absolutely disgraceful.",
+        "created": "2026-07-25T05:30:46Z"
+      },
+      {
+        "site": "Twisted London (Plymouth - Drake Circus)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "The BBQ burger is meant to taste like BBQ, but instead you can taste the metallic mayo/ranch and grease. The patties were good and soft, but that\u2019s it. Shame. Also, liquid cheese? Is this America or something. Disgusting.",
+        "created": "2026-07-25T16:05:21Z"
       }
     ]
   }
