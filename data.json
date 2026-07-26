@@ -1590,7 +1590,7 @@
   },
   "2026-07-26": {
     "scraped_date": "2026-07-26",
-    "last_updated": "2026-07-26T17:03:10Z",
+    "last_updated": "2026-07-26T18:03:34Z",
     "cancelled_orders": [
       {
         "time": "2026-07-26T17:37:23",
@@ -1645,20 +1645,6 @@
     ],
     "reviews": [
       {
-        "site": "Koreatown (Aberdeen - Hutcheon St)",
-        "brand": "Koreatown",
-        "rating": 3,
-        "text": "Rice bowl was awfully sweet",
-        "created": "2026-07-26T02:17:56Z"
-      },
-      {
-        "site": "Twisted Burgers (Coventry)",
-        "brand": "Other",
-        "rating": 5,
-        "text": "beautiful smash burgers",
-        "created": "2026-07-26T01:06:38Z"
-      },
-      {
         "site": "Kuro Smash (Nottingham - Castle Blvd)",
         "brand": "Kuro Smash",
         "rating": 4,
@@ -1671,6 +1657,13 @@
         "rating": 5,
         "text": "Have had food from here many a time \nAlways really good",
         "created": "2026-07-26T16:37:19Z"
+      },
+      {
+        "site": "Kuro Smash (Farnworth - Market St)",
+        "brand": "Kuro Smash",
+        "rating": 2,
+        "text": "I am really disappointed with the portion size and the exorbitant prices. The fries were a small portion and very little meat for so called loaded fries and yet they charged almost 7 quid for them.",
+        "created": "2026-07-26T17:15:21Z"
       }
     ]
   }
