@@ -1590,7 +1590,7 @@
   },
   "2026-07-26": {
     "scraped_date": "2026-07-26",
-    "last_updated": "2026-07-26T19:15:28Z",
+    "last_updated": "2026-07-26T20:10:18Z",
     "cancelled_orders": [
       {
         "time": "2026-07-26T17:37:23",
@@ -1643,35 +1643,6 @@
         "brand": "Hot Chick"
       }
     ],
-    "reviews": [
-      {
-        "site": "Twisted Burgers (Coventry)",
-        "brand": "Other",
-        "rating": 5,
-        "text": "beautiful smash burgers",
-        "created": "2026-07-26T01:06:38Z"
-      },
-      {
-        "site": "Kuro Smash (Nottingham - Castle Blvd)",
-        "brand": "Kuro Smash",
-        "rating": 4,
-        "text": "I\u2019d give the burger 8/10. The bun, sauce and toppings are very good. I would say the way the meat is cooked could be better though. The patties in the picture are thinner than what I received. The meat was too thick, and a bit dry. I\u2019m a massive fan of smash burgers, and think if they smashed them properly in the same style as Amsterdam\u2019s Le Smash, or London\u2019s Supernova Burger, then it has the potential to be the best burger in Nottingham. What I had couldn\u2019t really be called a smash burger though, as the patties were the same thickness as you would get in a standard fast food burger chain. Please smash them properly. It would greatly improve the eating experience. I ended up removing a patty from the burger to compensate for this, and it was significantly tastier after I did this. Regardless, it\u2019s a very enjoyable burger.",
-        "created": "2026-07-26T12:33:15Z"
-      },
-      {
-        "site": "Koreatown - Korean Fried Chicken (Benfleet - High Rd)",
-        "brand": "Koreatown",
-        "rating": 5,
-        "text": "Have had food from here many a time \nAlways really good",
-        "created": "2026-07-26T16:37:19Z"
-      },
-      {
-        "site": "Kuro Smash (Farnworth - Market St)",
-        "brand": "Kuro Smash",
-        "rating": 2,
-        "text": "I am really disappointed with the portion size and the exorbitant prices. The fries were a small portion and very little meat for so called loaded fries and yet they charged almost 7 quid for them.",
-        "created": "2026-07-26T17:15:21Z"
-      }
-    ]
+    "reviews": []
   }
 }
