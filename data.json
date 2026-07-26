@@ -1590,8 +1590,13 @@
   },
   "2026-07-26": {
     "scraped_date": "2026-07-26",
-    "last_updated": "2026-07-26T08:03:08Z",
+    "last_updated": "2026-07-26T10:05:31Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-26T10:24:52",
+        "site": "Kuro Smash (Dorking - High St)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-07-26T03:39:47",
         "site": "Twisted London (Guildford - Southway)",
