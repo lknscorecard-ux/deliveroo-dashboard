@@ -1590,7 +1590,7 @@
   },
   "2026-07-26": {
     "scraped_date": "2026-07-26",
-    "last_updated": "2026-07-26T14:09:14Z",
+    "last_updated": "2026-07-26T15:11:32Z",
     "cancelled_orders": [
       {
         "time": "2026-07-26T10:24:52",
@@ -1638,6 +1638,28 @@
         "brand": "Hot Chick"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Koreatown (Aberdeen - Hutcheon St)",
+        "brand": "Koreatown",
+        "rating": 3,
+        "text": "Rice bowl was awfully sweet",
+        "created": "2026-07-26T02:17:56Z"
+      },
+      {
+        "site": "Twisted Burgers (Coventry)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "beautiful smash burgers",
+        "created": "2026-07-26T01:06:38Z"
+      },
+      {
+        "site": "Twisted London (Eltham - Newmarket Grn)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "As always, the food was very delicious \ud83d\udc4c\ud83c\udffc",
+        "created": "2026-07-26T11:43:15Z"
+      }
+    ]
   }
 }
