@@ -1590,8 +1590,13 @@
   },
   "2026-07-26": {
     "scraped_date": "2026-07-26",
-    "last_updated": "2026-07-26T22:08:03Z",
+    "last_updated": "2026-07-26T23:07:39Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-26T23:54:36",
+        "site": "Hot Chick (Coatbridge - Main St)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-07-26T17:37:23",
         "site": "Kuro Smash (Southampton - Commercial Rd)",
@@ -1643,14 +1648,6 @@
         "brand": "Hot Chick"
       }
     ],
-    "reviews": [
-      {
-        "site": "Kuro Smash (Nottingham - Castle Blvd)",
-        "brand": "Kuro Smash",
-        "rating": 4,
-        "text": "I\u2019d give the burger 8/10. The bun, sauce and toppings are very good. I would say the way the meat is cooked could be better though. The patties in the picture are thinner than what I received. The meat was too thick, and a bit dry. I\u2019m a massive fan of smash burgers, and think if they smashed them properly in the same style as Amsterdam\u2019s Le Smash, or London\u2019s Supernova Burger, then it has the potential to be the best burger in Nottingham. What I had couldn\u2019t really be called a smash burger though, as the patties were the same thickness as you would get in a standard fast food burger chain. Please smash them properly. It would greatly improve the eating experience. I ended up removing a patty from the burger to compensate for this, and it was significantly tastier after I did this. Regardless, it\u2019s a very enjoyable burger.",
-        "created": "2026-07-26T12:33:15Z"
-      }
-    ]
+    "reviews": []
   }
 }
