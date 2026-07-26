@@ -1590,7 +1590,7 @@
   },
   "2026-07-26": {
     "scraped_date": "2026-07-26",
-    "last_updated": "2026-07-26T10:05:31Z",
+    "last_updated": "2026-07-26T11:55:00Z",
     "cancelled_orders": [
       {
         "time": "2026-07-26T10:24:52",
@@ -1638,14 +1638,6 @@
         "brand": "Hot Chick"
       }
     ],
-    "reviews": [
-      {
-        "site": "Koreatown (Aberdeen - Hutcheon St)",
-        "brand": "Koreatown",
-        "rating": 3,
-        "text": "Rice bowl was awfully sweet",
-        "created": "2026-07-26T02:17:56Z"
-      }
-    ]
+    "reviews": []
   }
 }
