@@ -1590,7 +1590,7 @@
   },
   "2026-07-26": {
     "scraped_date": "2026-07-26",
-    "last_updated": "2026-07-26T18:03:34Z",
+    "last_updated": "2026-07-26T19:15:28Z",
     "cancelled_orders": [
       {
         "time": "2026-07-26T17:37:23",
@@ -1644,6 +1644,13 @@
       }
     ],
     "reviews": [
+      {
+        "site": "Twisted Burgers (Coventry)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "beautiful smash burgers",
+        "created": "2026-07-26T01:06:38Z"
+      },
       {
         "site": "Kuro Smash (Nottingham - Castle Blvd)",
         "brand": "Kuro Smash",
