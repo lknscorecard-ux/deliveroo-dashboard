@@ -1587,5 +1587,17 @@
         "created": "2026-07-25T18:28:25Z"
       }
     ]
+  },
+  "2026-07-26": {
+    "scraped_date": "2026-07-26",
+    "last_updated": "2026-07-26T00:06:13Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-07-26T00:43:50",
+        "site": "Hot Chick (Stockport - Buxton Rd)",
+        "brand": "Hot Chick"
+      }
+    ],
+    "reviews": []
   }
 }
