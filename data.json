@@ -1652,7 +1652,7 @@
   },
   "2026-07-27": {
     "scraped_date": "2026-07-27",
-    "last_updated": "2026-07-27T19:30:46Z",
+    "last_updated": "2026-07-27T20:02:49Z",
     "cancelled_orders": [
       {
         "time": "2026-07-27T18:23:41",
@@ -1671,6 +1671,41 @@
       }
     ],
     "reviews": [
+      {
+        "site": "Kuro Smash (Farnworth - Market St)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Amazing food! WOW! WOW!",
+        "created": "2026-07-27T08:10:00Z"
+      },
+      {
+        "site": "Koreatown (Aberdeen - Hutcheon St)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Amazing food! Wow Wow!",
+        "created": "2026-07-27T08:08:22Z"
+      },
+      {
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Farnworth - Market St)",
+        "brand": "Wing Fest",
+        "rating": 5,
+        "text": "Amazing food as always! I will keep coming back!",
+        "created": "2026-07-27T08:09:08Z"
+      },
+      {
+        "site": "Twisted London (Eltham - Newmarket Grn)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Fantastic, me and my partner really enjoyed!",
+        "created": "2026-07-27T16:46:23Z"
+      },
+      {
+        "site": "Hot Chick(Guildford - Southway)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "The food slaps \ud83d\ude4c\ud83c\udffc love it",
+        "created": "2026-07-27T18:09:37Z"
+      },
       {
         "site": "Twisted London (Inverness - Church Street)",
         "brand": "Twisted London",
