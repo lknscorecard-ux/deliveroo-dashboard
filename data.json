@@ -1652,8 +1652,13 @@
   },
   "2026-07-27": {
     "scraped_date": "2026-07-27",
-    "last_updated": "2026-07-27T16:02:58Z",
+    "last_updated": "2026-07-27T17:43:29Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-27T18:23:41",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bingley - Bradford Rd)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-07-27T14:57:03",
         "site": "Twisted London (Croydon - South end)",
@@ -1686,6 +1691,20 @@
         "rating": 5,
         "text": "Amazing food as always! I will keep coming back!",
         "created": "2026-07-27T08:09:08Z"
+      },
+      {
+        "site": "Twisted London (Eltham - Newmarket Grn)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Fantastic, me and my partner really enjoyed!",
+        "created": "2026-07-27T16:46:23Z"
+      },
+      {
+        "site": "Twisted London (Inverness - Church Street)",
+        "brand": "Twisted London",
+        "rating": 4,
+        "text": "Highly recommend the smash burgers!!",
+        "created": "2026-07-27T17:23:44Z"
       }
     ]
   }
