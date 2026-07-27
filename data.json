@@ -1652,7 +1652,7 @@
   },
   "2026-07-27": {
     "scraped_date": "2026-07-27",
-    "last_updated": "2026-07-27T14:03:07Z",
+    "last_updated": "2026-07-27T14:36:38Z",
     "cancelled_orders": [
       {
         "time": "2026-07-27T14:57:03",
@@ -1665,28 +1665,6 @@
         "brand": "Hot Chick"
       }
     ],
-    "reviews": [
-      {
-        "site": "Kuro Smash (Farnworth - Market St)",
-        "brand": "Kuro Smash",
-        "rating": 5,
-        "text": "Amazing food! WOW! WOW!",
-        "created": "2026-07-27T08:10:00Z"
-      },
-      {
-        "site": "Koreatown (Aberdeen - Hutcheon St)",
-        "brand": "Koreatown",
-        "rating": 5,
-        "text": "Amazing food! Wow Wow!",
-        "created": "2026-07-27T08:08:22Z"
-      },
-      {
-        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Farnworth - Market St)",
-        "brand": "Wing Fest",
-        "rating": 5,
-        "text": "Amazing food as always! I will keep coming back!",
-        "created": "2026-07-27T08:09:08Z"
-      }
-    ]
+    "reviews": []
   }
 }
