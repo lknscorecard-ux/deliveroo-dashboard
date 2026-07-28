@@ -1717,8 +1717,16 @@
   },
   "2026-07-28": {
     "scraped_date": "2026-07-28",
-    "last_updated": "2026-07-28T16:07:44Z",
+    "last_updated": "2026-07-28T17:28:04Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Twisted London (Brixton)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Delicious. First time ordered and we I\u2019ll be back.",
+        "created": "2026-07-28T11:50:39Z"
+      }
+    ]
   }
 }
