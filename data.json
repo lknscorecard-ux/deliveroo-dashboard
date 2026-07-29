@@ -1729,7 +1729,7 @@
   },
   "2026-07-29": {
     "scraped_date": "2026-07-29",
-    "last_updated": "2026-07-29T17:15:42Z",
+    "last_updated": "2026-07-29T18:04:55Z",
     "cancelled_orders": [
       {
         "time": "2026-07-29T16:17:07",
@@ -1749,6 +1749,13 @@
         "rating": 1,
         "text": "Burgers weren\u2019t very nice",
         "created": "2026-07-29T10:19:39Z"
+      },
+      {
+        "site": "Twisted London (Plymouth - Drake Circus)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Lovely wings",
+        "created": "2026-07-29T10:55:43Z"
       },
       {
         "site": "Twisted London (Kensal Rise - Station Terrace)",
