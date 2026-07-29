@@ -1729,7 +1729,7 @@
   },
   "2026-07-29": {
     "scraped_date": "2026-07-29",
-    "last_updated": "2026-07-29T22:10:32Z",
+    "last_updated": "2026-07-29T23:01:49Z",
     "cancelled_orders": [
       {
         "time": "2026-07-29T16:17:07",
@@ -1742,6 +1742,28 @@
         "brand": "Kuro Smash"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Kuro Smash (Farnworth - Market St)",
+        "brand": "Kuro Smash",
+        "rating": 3,
+        "text": "It was fine, but they were missing items of my order, which considering the price of the restaurant is kind of ridiculous.",
+        "created": "2026-07-29T20:29:40Z"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "I received the cheeseburger instead of the bbq bacon burger and they also missed out my jalapeno poppers I believe they gave me a completely different order",
+        "created": "2026-07-29T14:24:46Z"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Harrow)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "The patty was super dry and had absolutely no taste. I could barely gulp it down my throat, it was that bad. The kimchi in the burger was genuinely good but the patty could definitely have an improvement.",
+        "created": "2026-07-29T18:16:31Z"
+      }
+    ]
   }
 }
