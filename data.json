@@ -1729,16 +1729,8 @@
   },
   "2026-07-29": {
     "scraped_date": "2026-07-29",
-    "last_updated": "2026-07-29T12:02:56Z",
+    "last_updated": "2026-07-29T14:07:27Z",
     "cancelled_orders": [],
-    "reviews": [
-      {
-        "site": "Twisted London (Plymouth - Drake Circus)",
-        "brand": "Twisted London",
-        "rating": 5,
-        "text": "Lovely wings",
-        "created": "2026-07-29T10:55:43Z"
-      }
-    ]
+    "reviews": []
   }
 }
