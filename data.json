@@ -1768,23 +1768,8 @@
   },
   "2026-07-30": {
     "scraped_date": "2026-07-30",
-    "last_updated": "2026-07-30T16:03:40Z",
+    "last_updated": "2026-07-30T17:36:28Z",
     "cancelled_orders": [],
-    "reviews": [
-      {
-        "site": "Twisted London (Gosport - Forton Rd)",
-        "brand": "Twisted London",
-        "rating": 3,
-        "text": "Disappointing - arrived not very warm, burger was ok but nothing special - onion rings greasy and cold - McD\u2019s better quality and certainly better value for money!",
-        "created": "2026-07-30T11:55:39Z"
-      },
-      {
-        "site": "Twisted London (Ayr*)",
-        "brand": "Twisted London",
-        "rating": 5,
-        "text": "Absolutely class food, got to me in quick time and the burger was great- would recommend if you\u2019ve not had food from here before",
-        "created": "2026-07-30T14:45:46Z"
-      }
-    ]
+    "reviews": []
   }
 }
