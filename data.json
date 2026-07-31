@@ -1774,9 +1774,103 @@
   },
   "2026-07-31": {
     "scraped_date": "2026-07-31",
-    "last_updated": "2026-07-31T16:09:38Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-07-31T17:30:41Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-07-31T17:35:37",
+        "site": "Koreatown (Southampton - Commercial Rd)",
+        "brand": "Koreatown"
+      }
+    ],
     "reviews": [
+      {
+        "site": "Twisted London (Ayr*)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Absolutely class food, got to me in quick time and the burger was great- would recommend if you\u2019ve not had food from here before",
+        "created": "2026-07-30T14:45:46Z",
+        "date": "2026-07-30"
+      },
+      {
+        "site": "WTF!-(Birmingham-BuckinghamSt)",
+        "brand": "WTF",
+        "rating": 5,
+        "text": "Super yum and crisp vegan nuggetz. Ordered before and would order again!!",
+        "created": "2026-07-31T11:37:09Z",
+        "date": "2026-07-31"
+      },
+      {
+        "site": "Twisted London (Maidstone - Ashford Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "First time ordering from here an oohhhhh my lardddd it\u2019s tastyyyyy as hell the flavours compliment each other superbly making it an absolute delight to eat, the bacon was cooked just like I like not that thin crispy American rubber good ol British bacon\u2026.deffo recommend if you haven\u2019t tried it yet!!!!",
+        "created": "2026-07-30T17:34:27Z",
+        "date": "2026-07-30"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Folkestone- Fleming Way)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Really tasty food and would deffo order again",
+        "created": "2026-07-30T15:34:48Z",
+        "date": "2026-07-30"
+      },
+      {
+        "site": "Wing Fest All Stars (Kingston - Richmond Rd)",
+        "brand": "Wing Fest",
+        "rating": 1,
+        "text": "Firstly there was a burger missing from a bundle meal, the food was cold the cheese in the burger was not even melted i had to geat it all up, the burger was abit sickly. the chicken pieces where TINY little cubes the wings were mediocre they also never garnished the wings or chicken pieces it was so underwhelming I would not order here again",
+        "created": "2026-07-31T11:16:48Z",
+        "date": "2026-07-31"
+      },
+      {
+        "site": "Koreatown (Swansea - Pontardulais Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Nice food burger and rice bowls are my favourite",
+        "created": "2026-07-30T17:45:13Z",
+        "date": "2026-07-30"
+      },
+      {
+        "site": "Koreatown-(Birmingham-BuckinghamSt)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Was crispy fries made so quickly!! YUM! Will order again",
+        "created": "2026-07-30T16:31:15Z",
+        "date": "2026-07-30"
+      },
+      {
+        "site": "Hot Chick - (Leicester-Narborough Rd)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "This was yummy and crispy. Would so buy again!",
+        "created": "2026-07-30T15:57:05Z",
+        "date": "2026-07-30"
+      },
+      {
+        "site": "Hot Chick (Salford - Media City)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Soooo nice! Speedy service and food was super flavoursome and piping hot too. Would definitely recommend",
+        "created": "2026-07-30T13:51:19Z",
+        "date": "2026-07-30"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Excellent burger.  Xxxx",
+        "created": "2026-07-30T23:07:03Z",
+        "date": "2026-07-31"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "I received the cheeseburger instead of the bbq bacon burger and they also missed out my jalapeno poppers I believe they gave me a completely different order",
+        "created": "2026-07-29T14:24:46Z",
+        "date": "2026-07-29"
+      },
       {
         "site": "Twisted London (Gosport - Forton Rd)",
         "brand": "Twisted London",
@@ -1791,6 +1885,14 @@
         "rating": 1,
         "text": "one of th\u00e9 worst burgers i ever had..... \n\nflooded in sauce that i can&#39;t even hold that thing.... Bacon wasnt Bacon but some kind of cheap salami...horrible horrible horrible.  never again\n\nnot even talking about the buns",
         "created": "2026-07-31T15:43:18Z",
+        "date": "2026-07-31"
+      },
+      {
+        "site": "Hot Chick (Epsom - Kingston Rd)",
+        "brand": "Hot Chick",
+        "rating": 3,
+        "text": "this time chicken wasnt cooked properly from inside. \nkingston one is better",
+        "created": "2026-07-31T16:34:15Z",
         "date": "2026-07-31"
       },
       {
