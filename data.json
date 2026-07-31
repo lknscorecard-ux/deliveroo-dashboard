@@ -1774,8 +1774,13 @@
   },
   "2026-07-31": {
     "scraped_date": "2026-07-31",
-    "last_updated": "2026-07-31T22:03:43Z",
+    "last_updated": "2026-07-31T23:01:32Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-31T23:35:05",
+        "site": "Koreatown (London - Greycoat Pl)",
+        "brand": "Koreatown"
+      },
       {
         "time": "2026-07-31T22:37:01",
         "site": "Hot Chick - (Bracknell - Market St)",
