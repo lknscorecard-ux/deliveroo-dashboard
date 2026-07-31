@@ -1774,8 +1774,13 @@
   },
   "2026-07-31": {
     "scraped_date": "2026-07-31",
-    "last_updated": "2026-07-31T18:03:45Z",
+    "last_updated": "2026-07-31T19:25:53Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-31T19:02:28",
+        "site": "Wing Fest (Bexleyheath - Broadway)",
+        "brand": "Wing Fest"
+      },
       {
         "time": "2026-07-31T17:35:37",
         "site": "Koreatown (Southampton - Commercial Rd)",
@@ -1877,6 +1882,14 @@
         "rating": 5,
         "text": "Order arrived slightly late but tasted Devine. Best smash burgers and fries were still hot, crisp and nicely seasoned. First choice place for me",
         "created": "2026-07-31T12:18:25Z",
+        "date": "2026-07-31"
+      },
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "Burger was OK. Stated &#34;pickles&#34;, got half a pickle.\nSoft buns, burgers a little dry - sauce was only in the middle of the burger, needed to be more spread.\nChips are pretty good... good flavour with the BBQ sauce and bacon loaded. Overall, pretty average.",
+        "created": "2026-07-31T19:05:49Z",
         "date": "2026-07-31"
       },
       {
