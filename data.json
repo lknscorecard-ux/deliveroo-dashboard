@@ -1774,8 +1774,23 @@
   },
   "2026-07-31": {
     "scraped_date": "2026-07-31",
-    "last_updated": "2026-07-31T21:05:44Z",
+    "last_updated": "2026-07-31T22:03:43Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-31T22:37:01",
+        "site": "Hot Chick - (Bracknell - Market St)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-07-31T22:20:56",
+        "site": "Hot Chick - (Bracknell - Market St)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-07-31T22:17:10",
+        "site": "Hot Chick - (Bracknell - Market St)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-07-31T20:44:16",
         "site": "Koreatown - (Bracknell - Market St)",
