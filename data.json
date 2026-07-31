@@ -1774,44 +1774,8 @@
   },
   "2026-07-31": {
     "scraped_date": "2026-07-31",
-    "last_updated": "2026-07-31T14:02:48Z",
+    "last_updated": "2026-07-31T14:27:01Z",
     "cancelled_orders": [],
-    "reviews": [
-      {
-        "site": "WTF!-(Birmingham-BuckinghamSt)",
-        "brand": "WTF",
-        "rating": 5,
-        "text": "Super yum and crisp vegan nuggetz. Ordered before and would order again!!",
-        "created": "2026-07-31T11:37:09Z"
-      },
-      {
-        "site": "Wing Fest All Stars (Kingston - Richmond Rd)",
-        "brand": "Wing Fest",
-        "rating": 1,
-        "text": "Firstly there was a burger missing from a bundle meal, the food was cold the cheese in the burger was not even melted i had to geat it all up, the burger was abit sickly. the chicken pieces where TINY little cubes the wings were mediocre they also never garnished the wings or chicken pieces it was so underwhelming I would not order here again",
-        "created": "2026-07-31T11:16:48Z"
-      },
-      {
-        "site": "Twisted London (Kensal Rise - Station Terrace)",
-        "brand": "Twisted London",
-        "rating": 5,
-        "text": "Excellent burger.  Xxxx",
-        "created": "2026-07-30T23:07:03Z"
-      },
-      {
-        "site": "Twisted London (Gosport - Forton Rd)",
-        "brand": "Twisted London",
-        "rating": 5,
-        "text": "Order arrived slightly late but tasted Devine. Best smash burgers and fries were still hot, crisp and nicely seasoned. First choice place for me",
-        "created": "2026-07-31T12:18:25Z"
-      },
-      {
-        "site": "Hot Chick (Barnstaple - The Square)",
-        "brand": "Hot Chick",
-        "rating": 1,
-        "text": "Firstly the order took 2 hours to arrive and we paid priority delivery! It amazes me how this place is advertised as award winning chicken, quality is extremely poor and not good at all would avoid this place. After doing some research it appears to be a ghost kitchen operating out of Scoffs Fish &amp; Chips on the square. Needless to say really disappointed. One positive is Deliveroo gave us a full refund and handled the situation very well.",
-        "created": "2026-07-31T05:51:20Z"
-      }
-    ]
+    "reviews": []
   }
 }
