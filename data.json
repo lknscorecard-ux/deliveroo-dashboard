@@ -1774,8 +1774,13 @@
   },
   "2026-07-31": {
     "scraped_date": "2026-07-31",
-    "last_updated": "2026-07-31T19:25:53Z",
+    "last_updated": "2026-07-31T20:03:36Z",
     "cancelled_orders": [
+      {
+        "time": "2026-07-31T20:44:16",
+        "site": "Koreatown - (Bracknell - Market St)",
+        "brand": "Koreatown"
+      },
       {
         "time": "2026-07-31T19:02:28",
         "site": "Wing Fest (Bexleyheath - Broadway)",
