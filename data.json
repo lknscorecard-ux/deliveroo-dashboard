@@ -1774,23 +1774,8 @@
   },
   "2026-07-31": {
     "scraped_date": "2026-07-31",
-    "last_updated": "2026-07-31T10:39:30Z",
+    "last_updated": "2026-07-31T12:10:12Z",
     "cancelled_orders": [],
-    "reviews": [
-      {
-        "site": "Twisted London (Kensal Rise - Station Terrace)",
-        "brand": "Twisted London",
-        "rating": 5,
-        "text": "Excellent burger.  Xxxx",
-        "created": "2026-07-30T23:07:03Z"
-      },
-      {
-        "site": "Hot Chick (Barnstaple - The Square)",
-        "brand": "Hot Chick",
-        "rating": 1,
-        "text": "Firstly the order took 2 hours to arrive and we paid priority delivery! It amazes me how this place is advertised as award winning chicken, quality is extremely poor and not good at all would avoid this place. After doing some research it appears to be a ghost kitchen operating out of Scoffs Fish &amp; Chips on the square. Needless to say really disappointed. One positive is Deliveroo gave us a full refund and handled the situation very well.",
-        "created": "2026-07-31T05:51:20Z"
-      }
-    ]
+    "reviews": []
   }
 }
