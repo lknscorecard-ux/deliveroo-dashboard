@@ -1774,31 +1774,23 @@
   },
   "2026-07-31": {
     "scraped_date": "2026-07-31",
-    "last_updated": "2026-07-31T15:08:13Z",
+    "last_updated": "2026-07-31T16:09:38Z",
     "cancelled_orders": [],
     "reviews": [
-      {
-        "site": "Twisted London (Maidstone - Ashford Rd)",
-        "brand": "Twisted London",
-        "rating": 5,
-        "text": "First time ordering from here an oohhhhh my lardddd it\u2019s tastyyyyy as hell the flavours compliment each other superbly making it an absolute delight to eat, the bacon was cooked just like I like not that thin crispy American rubber good ol British bacon\u2026.deffo recommend if you haven\u2019t tried it yet!!!!",
-        "created": "2026-07-30T17:34:27Z",
-        "date": "2026-07-30"
-      },
-      {
-        "site": "Koreatown (Swansea - Pontardulais Rd)",
-        "brand": "Koreatown",
-        "rating": 5,
-        "text": "Nice food burger and rice bowls are my favourite",
-        "created": "2026-07-30T17:45:13Z",
-        "date": "2026-07-30"
-      },
       {
         "site": "Twisted London (Gosport - Forton Rd)",
         "brand": "Twisted London",
         "rating": 5,
         "text": "Order arrived slightly late but tasted Devine. Best smash burgers and fries were still hot, crisp and nicely seasoned. First choice place for me",
         "created": "2026-07-31T12:18:25Z",
+        "date": "2026-07-31"
+      },
+      {
+        "site": "Twisted London (Croydon - South end)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "one of th\u00e9 worst burgers i ever had..... \n\nflooded in sauce that i can&#39;t even hold that thing.... Bacon wasnt Bacon but some kind of cheap salami...horrible horrible horrible.  never again\n\nnot even talking about the buns",
+        "created": "2026-07-31T15:43:18Z",
         "date": "2026-07-31"
       },
       {
