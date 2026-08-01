@@ -1953,8 +1953,13 @@
   },
   "2026-08-01": {
     "scraped_date": "2026-08-01",
-    "last_updated": "2026-08-01T17:00:53Z",
+    "last_updated": "2026-08-01T18:03:42Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-01T18:18:59",
+        "site": "Hot Chick (Morecambe - Glentworth Rd West)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-08-01T16:28:37",
         "site": "Koreatown (Southampton - Commercial Rd)",
