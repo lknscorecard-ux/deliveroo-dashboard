@@ -1953,7 +1953,7 @@
   },
   "2026-08-01": {
     "scraped_date": "2026-08-01",
-    "last_updated": "2026-08-01T19:09:24Z",
+    "last_updated": "2026-08-01T20:03:36Z",
     "cancelled_orders": [
       {
         "time": "2026-08-01T18:18:59",
@@ -2055,6 +2055,14 @@
         "rating": 2,
         "text": "tasty food, arrived a whole hour late",
         "created": "2026-08-01T06:38:09Z",
+        "date": "2026-08-01"
+      },
+      {
+        "site": "Hot Chick (Norwich - Aylsham Cres)",
+        "brand": "Hot Chick",
+        "rating": 4,
+        "text": "Great",
+        "created": "2026-08-01T19:29:23Z",
         "date": "2026-08-01"
       }
     ]
