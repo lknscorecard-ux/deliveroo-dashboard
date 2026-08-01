@@ -1953,8 +1953,19 @@
   },
   "2026-08-01": {
     "scraped_date": "2026-08-01",
-    "last_updated": "2026-08-01T13:20:23Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-08-01T14:03:50Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-08-01T15:01:42",
+        "site": "Twisted London (Bristol North)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-08-01T14:43:53",
+        "site": "Kuro Smash - Umami Burgers (Sheffield - Bellhouse Road)",
+        "brand": "Kuro Smash"
+      }
+    ],
     "reviews": [
       {
         "site": "Kuro Smash-Umami Burgers (Deptford-Tanners Hill)",
