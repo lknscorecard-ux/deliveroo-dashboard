@@ -1953,9 +1953,81 @@
   },
   "2026-08-01": {
     "scraped_date": "2026-08-01",
-    "last_updated": "2026-08-01T12:03:37Z",
+    "last_updated": "2026-08-01T13:20:23Z",
     "cancelled_orders": [],
     "reviews": [
+      {
+        "site": "Kuro Smash-Umami Burgers (Deptford-Tanners Hill)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Great portion sizes and fast delivery. Professional and warm customer service who were very accommodating to our dietary requirements. Would order again.",
+        "created": "2026-07-31T21:40:11Z",
+        "date": "2026-07-31"
+      },
+      {
+        "site": "Hot Chick (Epsom - Kingston Rd)",
+        "brand": "Hot Chick",
+        "rating": 3,
+        "text": "this time chicken wasnt cooked properly from inside. \nkingston one is better",
+        "created": "2026-07-31T16:34:15Z",
+        "date": "2026-07-31"
+      },
+      {
+        "site": "Twisted London (Dover - Tower Hamlets Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "BBQ \u2018bacon\u2019 cheeseburger served with some sort of disgusting vegetarian / fake bacon. Inedible for those of us expecting what we ordered. Clearly another one of these strange virtual kitchens offering low quality fake food.  Got a refund - avoid.",
+        "created": "2026-07-31T19:31:54Z",
+        "date": "2026-07-31"
+      },
+      {
+        "site": "Hot Chick (Dover - Tower Hamlets Rd)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "Very disappointed with the spice level. I was expecting something that would be hot. I had a glass of milk ready. \n\nThe taste was nice but not spicy at all. Just false advertising. \n\nThis was my order:\n\n1x XXX Ghost Chilli Hot Wings \ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\n8 Wings\nEXTRA HOT Honey Buffalo &amp; Ranch wings\n\n1x Jalape\u00f1os Poppers (v)\nCreamy Ranch Dip (Ve)\n\n1x Onion Rings (ve)\n\n1x Skin-on Fries (ve)\n\n1x XXX Ghost Chilli Hot Wings \ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\ud83c\udf36\ufe0f\nBURNING Hot Smokey BBQ wings\n8 Wings\n\n1x Korean BBQ Wings\n12 Wings",
+        "created": "2026-07-31T15:52:30Z",
+        "date": "2026-07-31"
+      },
+      {
+        "site": "WTF! (Windsor - Oxford Road)",
+        "brand": "WTF",
+        "rating": 5,
+        "text": "Food was great. Great for vegans.",
+        "created": "2026-07-31T16:18:35Z",
+        "date": "2026-07-31"
+      },
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "Burger was OK. Stated &#34;pickles&#34;, got half a pickle.\nSoft buns, burgers a little dry - sauce was only in the middle of the burger, needed to be more spread.\nChips are pretty good... good flavour with the BBQ sauce and bacon loaded. Overall, pretty average.",
+        "created": "2026-07-31T19:05:49Z",
+        "date": "2026-07-31"
+      },
+      {
+        "site": "Twisted London (Croydon - South end)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "one of th\u00e9 worst burgers i ever had..... \n\nflooded in sauce that i can&#39;t even hold that thing.... Bacon wasnt Bacon but some kind of cheap salami...horrible horrible horrible.  never again\n\nnot even talking about the buns",
+        "created": "2026-07-31T15:43:18Z",
+        "date": "2026-07-31"
+      },
+      {
+        "site": "Twisted London (Leatherhead - High St)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Fabulous burgers!",
+        "created": "2026-07-31T21:12:55Z",
+        "date": "2026-07-31"
+      },
+      {
+        "site": "Twisted London (Bridgewater)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "buffalo wings were missing buffalo sauce, bbq burger had barely any bbq sauce (if any)",
+        "created": "2026-07-31T17:24:25Z",
+        "date": "2026-07-31"
+      },
       {
         "site": "Kuro Smash (Bristol - Soundwell Rd)",
         "brand": "Kuro Smash",
