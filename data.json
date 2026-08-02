@@ -2069,8 +2069,13 @@
   },
   "2026-08-02": {
     "scraped_date": "2026-08-02",
-    "last_updated": "2026-08-02T20:03:09Z",
+    "last_updated": "2026-08-02T20:56:41Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-02T21:41:59",
+        "site": "Kuro Smash (Leicester - Allandale Rd)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-08-02T19:27:35",
         "site": "Hot Chick - (Bracknell - Market St)",
@@ -2160,6 +2165,14 @@
         "date": "2026-08-01"
       },
       {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "absolutely banging",
+        "created": "2026-08-02T20:45:44Z",
+        "date": "2026-08-02"
+      },
+      {
         "site": "Twisted London (Leatherhead - High St)",
         "brand": "Twisted London",
         "rating": 2,
@@ -2189,6 +2202,14 @@
         "rating": 5,
         "text": "I ordered umami miso mayo burger. It was super delicious and juicy . Loved it .",
         "created": "2026-08-02T16:10:38Z",
+        "date": "2026-08-02"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Tunbridge Wells - Tunbridge Rd)",
+        "brand": "Hot Chick",
+        "rating": 4,
+        "text": "Great food, the mayo wasn\u2019t included in the bag so only gave 1 star for this as didn\u2019t receive",
+        "created": "2026-08-02T20:45:47Z",
         "date": "2026-08-02"
       }
     ]
