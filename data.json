@@ -2069,8 +2069,13 @@
   },
   "2026-08-02": {
     "scraped_date": "2026-08-02",
-    "last_updated": "2026-08-02T18:03:16Z",
+    "last_updated": "2026-08-02T19:10:03Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-02T19:27:35",
+        "site": "Hot Chick - (Bracknell - Market St)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-08-02T17:39:15",
         "site": "Hot Chick - (Bracknell - Market St)",
@@ -2153,6 +2158,14 @@
         "text": "Compared to Uxbridge one this seems a fake franchise as chicken patty is way different to what was in Uxbridge branch despite similar order. Stay away from this",
         "created": "2026-08-01T19:38:59Z",
         "date": "2026-08-01"
+      },
+      {
+        "site": "Twisted London (Leatherhead - High St)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "burger was decent flavour was good but th3 fries were dead way to crunchy like burnt crunchy and I got the 4 sause pots and there was barely any sause I each pot like there running out of the stuff. meat quality was good but the frys and sause let it down",
+        "created": "2026-08-02T18:43:24Z",
+        "date": "2026-08-02"
       },
       {
         "site": "Twisted London (Kensal Rise - Station Terrace)",
