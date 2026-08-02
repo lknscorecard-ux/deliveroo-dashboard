@@ -2069,7 +2069,7 @@
   },
   "2026-08-02": {
     "scraped_date": "2026-08-02",
-    "last_updated": "2026-08-02T14:03:42Z",
+    "last_updated": "2026-08-02T15:04:30Z",
     "cancelled_orders": [
       {
         "time": "2026-08-02T13:36:51",
@@ -2087,6 +2087,63 @@
         "brand": "Twisted London"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Kingston - Richmond Road)",
+        "brand": "Hot Chick",
+        "rating": 2,
+        "text": "Burger was stone cold even tho delivery time was less that 10 minutes, think the chicken was cooked hours ago and just put into the burger and assembled at time of order. The jalepeno poppers are not great, the lidl own brand frozen ones are easily just as good if not better. Won\u2019t order again.",
+        "created": "2026-08-02T02:52:00Z",
+        "date": "2026-08-02"
+      },
+      {
+        "site": "Kuro Smash - (Leatherhead - High St)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "delivery can be a bit hit and miss with timings but food is great.",
+        "created": "2026-08-01T15:55:21Z",
+        "date": "2026-08-01"
+      },
+      {
+        "site": "Kuro Smash (Bristol - Soundwell Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Tasty &amp; great value with 2 4 1 offer",
+        "created": "2026-08-02T01:23:02Z",
+        "date": "2026-08-02"
+      },
+      {
+        "site": "Kuro Smash (Bristol - Soundwell Rd)",
+        "brand": "Kuro Smash",
+        "rating": 2,
+        "text": "tasty food, arrived a whole hour late",
+        "created": "2026-08-01T06:38:09Z",
+        "date": "2026-08-01"
+      },
+      {
+        "site": "Hot Chick (Norwich - Aylsham Cres)",
+        "brand": "Hot Chick",
+        "rating": 4,
+        "text": "Great",
+        "created": "2026-08-01T19:29:23Z",
+        "date": "2026-08-01"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Hounslow- Great West Rd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "Compared to Uxbridge one this seems a fake franchise as chicken patty is way different to what was in Uxbridge branch despite similar order. Stay away from this",
+        "created": "2026-08-01T19:38:59Z",
+        "date": "2026-08-01"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "Chicken was totally dry and tasteless",
+        "created": "2026-08-02T14:05:30Z",
+        "date": "2026-08-02"
+      }
+    ]
   }
 }
