@@ -2069,8 +2069,23 @@
   },
   "2026-08-02": {
     "scraped_date": "2026-08-02",
-    "last_updated": "2026-08-02T00:02:48Z",
-    "cancelled_orders": [],
-    "reviews": []
+    "last_updated": "2026-08-02T02:02:52Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-08-02T02:44:39",
+        "site": "Twisted London (Guildford - Southway)",
+        "brand": "Twisted London"
+      }
+    ],
+    "reviews": [
+      {
+        "site": "Kuro Smash (Bristol - Soundwell Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Tasty &amp; great value with 2 4 1 offer",
+        "created": "2026-08-02T01:23:02Z",
+        "date": "2026-08-02"
+      }
+    ]
   }
 }
