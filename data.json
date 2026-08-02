@@ -2069,7 +2069,7 @@
   },
   "2026-08-02": {
     "scraped_date": "2026-08-02",
-    "last_updated": "2026-08-02T19:10:03Z",
+    "last_updated": "2026-08-02T20:03:09Z",
     "cancelled_orders": [
       {
         "time": "2026-08-02T19:27:35",
@@ -2173,6 +2173,14 @@
         "rating": 2,
         "text": "Chicken was totally dry and tasteless",
         "created": "2026-08-02T14:05:30Z",
+        "date": "2026-08-02"
+      },
+      {
+        "site": "Koreatown (Aberdeen - Hutcheon St)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "100% recommend :) #smashedit",
+        "created": "2026-08-02T19:36:59Z",
         "date": "2026-08-02"
       },
       {
