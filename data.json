@@ -2069,8 +2069,13 @@
   },
   "2026-08-02": {
     "scraped_date": "2026-08-02",
-    "last_updated": "2026-08-02T16:03:23Z",
+    "last_updated": "2026-08-02T16:59:35Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-02T17:39:15",
+        "site": "Hot Chick - (Bracknell - Market St)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-08-02T16:22:59",
         "site": "WTF! (Windsor - Oxford Road)",
@@ -2128,6 +2133,14 @@
       {
         "site": "Hot Chick (Norwich - Aylsham Cres)",
         "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Buffalo wings were mega",
+        "created": "2026-08-02T16:52:38Z",
+        "date": "2026-08-02"
+      },
+      {
+        "site": "Hot Chick (Norwich - Aylsham Cres)",
+        "brand": "Hot Chick",
         "rating": 4,
         "text": "Great",
         "created": "2026-08-01T19:29:23Z",
@@ -2147,6 +2160,14 @@
         "rating": 2,
         "text": "Chicken was totally dry and tasteless",
         "created": "2026-08-02T14:05:30Z",
+        "date": "2026-08-02"
+      },
+      {
+        "site": "Koreatown (Bristol - Soundwell Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "I ordered umami miso mayo burger. It was super delicious and juicy . Loved it .",
+        "created": "2026-08-02T16:10:38Z",
         "date": "2026-08-02"
       }
     ]
