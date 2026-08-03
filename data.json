@@ -2216,7 +2216,7 @@
   },
   "2026-08-03": {
     "scraped_date": "2026-08-03",
-    "last_updated": "2026-08-03T10:03:10Z",
+    "last_updated": "2026-08-03T11:23:43Z",
     "cancelled_orders": [
       {
         "time": "2026-08-03T04:40:49",
@@ -2234,6 +2234,15 @@
         "brand": "Hot Chick"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Koreatown (Bristol - Soundwell Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Loved it !!!",
+        "created": "2026-08-03T11:21:33Z",
+        "date": "2026-08-03"
+      }
+    ]
   }
 }
