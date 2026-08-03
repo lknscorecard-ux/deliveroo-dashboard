@@ -2216,7 +2216,7 @@
   },
   "2026-08-03": {
     "scraped_date": "2026-08-03",
-    "last_updated": "2026-08-03T19:31:17Z",
+    "last_updated": "2026-08-03T20:03:39Z",
     "cancelled_orders": [
       {
         "time": "2026-08-03T12:56:12",
@@ -2316,6 +2316,14 @@
         "text": "Great food, the mayo wasn\u2019t included in the bag so only gave 1 star for this as didn\u2019t receive",
         "created": "2026-08-02T20:45:47Z",
         "date": "2026-08-02"
+      },
+      {
+        "site": "Kuro Smash (Bristol - Soundwell Rd)",
+        "brand": "Kuro Smash",
+        "rating": 4,
+        "text": "Fries were OK, Gangnam burger was absolutely excellent and I will definitely reorder again.",
+        "created": "2026-08-03T19:41:38Z",
+        "date": "2026-08-03"
       },
       {
         "site": "Koreatown - Korean Fried Chicken (Benfleet - High Rd)",
