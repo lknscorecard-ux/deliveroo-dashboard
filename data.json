@@ -2216,7 +2216,7 @@
   },
   "2026-08-03": {
     "scraped_date": "2026-08-03",
-    "last_updated": "2026-08-03T12:03:06Z",
+    "last_updated": "2026-08-03T14:03:51Z",
     "cancelled_orders": [
       {
         "time": "2026-08-03T12:56:12",
@@ -2252,6 +2252,70 @@
         "text": "Loved it !!!",
         "created": "2026-08-03T11:21:33Z",
         "date": "2026-08-03"
+      },
+      {
+        "site": "Koreatown (Bristol - Soundwell Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "I ordered umami miso mayo burger. It was super delicious and juicy . Loved it .",
+        "created": "2026-08-02T16:10:38Z",
+        "date": "2026-08-02"
+      },
+      {
+        "site": "Koreatown (Aberdeen - Hutcheon St)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "100% recommend :) #smashedit",
+        "created": "2026-08-02T19:36:59Z",
+        "date": "2026-08-02"
+      },
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "absolutely banging",
+        "created": "2026-08-02T20:45:44Z",
+        "date": "2026-08-02"
+      },
+      {
+        "site": "Hot Chick (Norwich - Aylsham Cres)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Buffalo wings were mega",
+        "created": "2026-08-02T16:52:38Z",
+        "date": "2026-08-02"
+      },
+      {
+        "site": "Hot Chick (Norwich - Aylsham Cres)",
+        "brand": "Hot Chick",
+        "rating": 4,
+        "text": "Great",
+        "created": "2026-08-01T19:29:23Z",
+        "date": "2026-08-01"
+      },
+      {
+        "site": "Wing Fest All Stars (Kenilworth - Warwick Rd)",
+        "brand": "Wing Fest",
+        "rating": 2,
+        "text": "Chicken Burger was really good.\n\n Churros portion did not match the image, 5 pieces rather than 6 and had sauce drizzled over them rather than served on the side as described.",
+        "created": "2026-08-02T14:10:56Z",
+        "date": "2026-08-02"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "Chicken was totally dry and tasteless",
+        "created": "2026-08-02T14:05:30Z",
+        "date": "2026-08-02"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Tunbridge Wells - Tunbridge Rd)",
+        "brand": "Hot Chick",
+        "rating": 4,
+        "text": "Great food, the mayo wasn\u2019t included in the bag so only gave 1 star for this as didn\u2019t receive",
+        "created": "2026-08-02T20:45:47Z",
+        "date": "2026-08-02"
       }
     ]
   }
