@@ -2213,5 +2213,11 @@
         "date": "2026-08-02"
       }
     ]
+  },
+  "2026-08-03": {
+    "scraped_date": "2026-08-03",
+    "last_updated": "2026-08-03T00:03:02Z",
+    "cancelled_orders": [],
+    "reviews": []
   }
 }
