@@ -2216,8 +2216,18 @@
   },
   "2026-08-03": {
     "scraped_date": "2026-08-03",
-    "last_updated": "2026-08-03T02:43:55Z",
+    "last_updated": "2026-08-03T04:02:45Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-03T04:40:49",
+        "site": "HotChick-(CanningTown-NorthWoolwichRd)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-08-03T04:22:26",
+        "site": "TwistedLondon(CanningTown-NorthWoolwichRd)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-08-03T02:49:40",
         "site": "Hot Chick (Colchester)",
