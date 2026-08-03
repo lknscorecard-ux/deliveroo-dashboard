@@ -2216,8 +2216,14 @@
   },
   "2026-08-03": {
     "scraped_date": "2026-08-03",
-    "last_updated": "2026-08-03T00:03:02Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-08-03T02:02:50Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-08-03T02:49:40",
+        "site": "Hot Chick (Colchester)",
+        "brand": "Hot Chick"
+      }
+    ],
     "reviews": []
   }
 }
