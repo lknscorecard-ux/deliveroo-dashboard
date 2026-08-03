@@ -2216,7 +2216,7 @@
   },
   "2026-08-03": {
     "scraped_date": "2026-08-03",
-    "last_updated": "2026-08-03T18:03:50Z",
+    "last_updated": "2026-08-03T19:31:17Z",
     "cancelled_orders": [
       {
         "time": "2026-08-03T12:56:12",
@@ -2316,6 +2316,14 @@
         "text": "Great food, the mayo wasn\u2019t included in the bag so only gave 1 star for this as didn\u2019t receive",
         "created": "2026-08-02T20:45:47Z",
         "date": "2026-08-02"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Benfleet - High Rd)",
+        "brand": "Koreatown",
+        "rating": 4,
+        "text": "I appreciate that the restaurant removed the cheese (since I\u2019m allergic) However, the beef bulgogi was not bulgogi. The separate fries I ordered were nice but the fries with the bulgogi and sauce were not great. I think their burgers are probably good but as someone who was craving Bulgogi.. was slightly disappointed \u2639\ufe0f",
+        "created": "2026-08-03T18:26:25Z",
+        "date": "2026-08-03"
       }
     ]
   }
