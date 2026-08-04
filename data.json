@@ -2347,8 +2347,25 @@
   },
   "2026-08-04": {
     "scraped_date": "2026-08-04",
-    "last_updated": "2026-08-04T08:03:01Z",
+    "last_updated": "2026-08-04T10:39:18Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Koreatown (Aberdeen - Hutcheon St)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Absolutely delicious! The food arrived hot, fresh, and well-packaged. The portions were generous, and everything was full of flavor. Will definitely order again!",
+        "created": "2026-08-04T08:29:49Z",
+        "date": "2026-08-04"
+      },
+      {
+        "site": "Twisted London (Gosport - Forton Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "First time trying this since moving into the area. Burgers were amazing. Nice and fresh.",
+        "created": "2026-08-04T09:10:15Z",
+        "date": "2026-08-04"
+      }
+    ]
   }
 }
