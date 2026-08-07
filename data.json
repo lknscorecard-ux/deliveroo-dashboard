@@ -2367,5 +2367,50 @@
         "date": "2026-08-04"
       }
     ]
+  },
+  "2026-08-07": {
+    "scraped_date": "2026-08-07",
+    "last_updated": "2026-08-07T14:17:58Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-08-07T04:36:45",
+        "site": "Wing Fest All Stars (Clifton - Byron Pl)",
+        "brand": "Wing Fest"
+      }
+    ],
+    "reviews": [
+      {
+        "site": "Twisted London (Feltham)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "100% the best food in the area. had a wobble a few months ago but back to being the best about to order again literlay now. proper good food",
+        "created": "2026-08-06T19:41:24Z",
+        "date": "2026-08-06"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bristol - Bordeaux Quay)",
+        "brand": "Hot Chick",
+        "rating": 3,
+        "text": "tenders, tasted like a frozen product\n\nburger was tiny and dry\n\nonion rings were pretty good",
+        "created": "2026-08-07T10:27:21Z",
+        "date": "2026-08-07"
+      },
+      {
+        "site": "Koreatown (Burgess Hill - Church Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Really enjoyed our meal! Nice to have something like this locally",
+        "created": "2026-08-06T16:12:03Z",
+        "date": "2026-08-06"
+      },
+      {
+        "site": "Kuro Smash (West Green - High St)",
+        "brand": "Kuro Smash",
+        "rating": 3,
+        "text": "Didn&#39;t really hit the mark not for me",
+        "created": "2026-08-06T17:34:14Z",
+        "date": "2026-08-06"
+      }
+    ]
   }
 }
