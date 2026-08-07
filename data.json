@@ -2370,8 +2370,13 @@
   },
   "2026-08-07": {
     "scraped_date": "2026-08-07",
-    "last_updated": "2026-08-07T18:56:50Z",
+    "last_updated": "2026-08-07T20:41:54Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-07T21:06:52",
+        "site": "Kuro Smash (Leicester - Allandale Rd)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-08-07T04:36:45",
         "site": "Wing Fest All Stars (Clifton - Byron Pl)",
@@ -2410,6 +2415,14 @@
         "text": "Didn&#39;t really hit the mark not for me",
         "created": "2026-08-06T17:34:14Z",
         "date": "2026-08-06"
+      },
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "So yummy! The best burger!",
+        "created": "2026-08-07T20:03:46Z",
+        "date": "2026-08-07"
       },
       {
         "site": "Hot Chick (Dover - Tower Hamlets Rd)",
