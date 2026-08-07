@@ -2370,7 +2370,7 @@
   },
   "2026-08-07": {
     "scraped_date": "2026-08-07",
-    "last_updated": "2026-08-07T16:57:06Z",
+    "last_updated": "2026-08-07T18:56:50Z",
     "cancelled_orders": [
       {
         "time": "2026-08-07T04:36:45",
@@ -2412,11 +2412,27 @@
         "date": "2026-08-06"
       },
       {
+        "site": "Hot Chick (Dover - Tower Hamlets Rd)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "You order 6 onion rings and get 4???? Useless never again",
+        "created": "2026-08-07T17:59:14Z",
+        "date": "2026-08-07"
+      },
+      {
         "site": "Twisted London (Croydon - South end)",
         "brand": "Twisted London",
         "rating": 2,
         "text": "Meeeeedy - feels like something from Frankie &amp; Benny\u2019s, I wouldn\u2019t order again",
         "created": "2026-08-07T14:42:19Z",
+        "date": "2026-08-07"
+      },
+      {
+        "site": "Twisted London (Plymouth - Drake Circus)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Although the delivery time kept changing and it got later and later . When the food did turn up, it was still piping hot. And delicious. So we will definitely try them again.",
+        "created": "2026-08-07T17:58:27Z",
         "date": "2026-08-07"
       }
     ]
