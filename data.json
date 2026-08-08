@@ -2467,7 +2467,7 @@
   },
   "2026-08-08": {
     "scraped_date": "2026-08-08",
-    "last_updated": "2026-08-08T16:34:08Z",
+    "last_updated": "2026-08-08T18:37:38Z",
     "cancelled_orders": [],
     "reviews": [
       {
@@ -2533,6 +2533,14 @@
         "text": "Food poisoning",
         "created": "2026-08-07T21:44:50Z",
         "date": "2026-08-07"
+      },
+      {
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Cheam - Upper Mulgrave Rd)",
+        "brand": "Wing Fest",
+        "rating": 1,
+        "text": "Badly packaged. All items fell outside the porch as the delivery person took out of his sealed bag.",
+        "created": "2026-08-08T17:52:13Z",
+        "date": "2026-08-08"
       }
     ]
   }
