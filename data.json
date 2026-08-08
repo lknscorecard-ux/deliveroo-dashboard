@@ -2467,9 +2467,17 @@
   },
   "2026-08-08": {
     "scraped_date": "2026-08-08",
-    "last_updated": "2026-08-08T12:46:55Z",
+    "last_updated": "2026-08-08T14:33:14Z",
     "cancelled_orders": [],
     "reviews": [
+      {
+        "site": "Wing Fest All Stars (Basildon - Britannia Ct)",
+        "brand": "Wing Fest",
+        "rating": 1,
+        "text": "Under cooked",
+        "created": "2026-08-07T18:29:24Z",
+        "date": "2026-08-07"
+      },
       {
         "site": "Twisted Burgers (Coventry)",
         "brand": "Other",
@@ -2477,6 +2485,54 @@
         "text": "Tasty as always",
         "created": "2026-08-08T10:55:32Z",
         "date": "2026-08-08"
+      },
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "So yummy! The best burger!",
+        "created": "2026-08-07T20:03:46Z",
+        "date": "2026-08-07"
+      },
+      {
+        "site": "Twisted London (Croydon - South end)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "Meeeeedy - feels like something from Frankie &amp; Benny\u2019s, I wouldn\u2019t order again",
+        "created": "2026-08-07T14:42:19Z",
+        "date": "2026-08-07"
+      },
+      {
+        "site": "Koreatown-KoreanFriedChicken(Aylesbury-BuckinghamSt)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Very tasty. Curbed my cravings and delivery driver was lovely",
+        "created": "2026-08-07T20:32:17Z",
+        "date": "2026-08-07"
+      },
+      {
+        "site": "Koreatown-KoreanFriedChicken(Aylesbury-BuckinghamSt)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "Dry &amp; tasteless - was a shame because my partner had this before &amp; loved it a few months back",
+        "created": "2026-08-07T19:29:43Z",
+        "date": "2026-08-07"
+      },
+      {
+        "site": "Wing Fest All Stars (Coventry - Corporation St)",
+        "brand": "Wing Fest",
+        "rating": 1,
+        "text": "Chicken was average and half of my food was missing.",
+        "created": "2026-08-07T16:07:04Z",
+        "date": "2026-08-07"
+      },
+      {
+        "site": "Hot Chick - (Reading)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "Food poisoning",
+        "created": "2026-08-07T21:44:50Z",
+        "date": "2026-08-07"
       }
     ]
   }
