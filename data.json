@@ -2467,8 +2467,14 @@
   },
   "2026-08-08": {
     "scraped_date": "2026-08-08",
-    "last_updated": "2026-08-08T18:37:38Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-08-08T20:31:07Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-08-08T21:20:05",
+        "site": "Hot Chick (Croydon - South End)",
+        "brand": "Hot Chick"
+      }
+    ],
     "reviews": [
       {
         "site": "Wing Fest All Stars (Basildon - Britannia Ct)",
