@@ -2552,9 +2552,17 @@
   },
   "2026-08-09": {
     "scraped_date": "2026-08-09",
-    "last_updated": "2026-08-09T10:34:49Z",
+    "last_updated": "2026-08-09T12:49:10Z",
     "cancelled_orders": [],
     "reviews": [
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "order didn\u2019t arrive",
+        "created": "2026-08-09T12:36:53Z",
+        "date": "2026-08-09"
+      },
       {
         "site": "The Scoop feat. Ben & Jerry\u2019s (Wellingborough - Pebble Ln)",
         "brand": "Other",
