@@ -2552,8 +2552,13 @@
   },
   "2026-08-09": {
     "scraped_date": "2026-08-09",
-    "last_updated": "2026-08-09T18:40:38Z",
+    "last_updated": "2026-08-09T20:32:47Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-09T19:46:29",
+        "site": "Kuro Smash (Leicester - Allandale Rd)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-08-09T15:10:28",
         "site": "TwistedLondon(Shadwell-ChapmanSt)",
@@ -2615,6 +2620,14 @@
         "rating": 1,
         "text": "order didn\u2019t arrive",
         "created": "2026-08-09T12:36:53Z",
+        "date": "2026-08-09"
+      },
+      {
+        "site": "Kuro Smash (Nottingham - Castle Blvd)",
+        "brand": "Kuro Smash",
+        "rating": 2,
+        "text": "Not as good as was exspecting",
+        "created": "2026-08-09T19:31:09Z",
         "date": "2026-08-09"
       }
     ]
