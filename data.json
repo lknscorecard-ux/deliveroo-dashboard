@@ -2552,16 +2552,46 @@
   },
   "2026-08-09": {
     "scraped_date": "2026-08-09",
-    "last_updated": "2026-08-09T12:49:10Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-08-09T14:35:23Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-08-09T15:10:28",
+        "site": "TwistedLondon(Shadwell-ChapmanSt)",
+        "brand": "Twisted London"
+      }
+    ],
     "reviews": [
       {
-        "site": "Twisted London (Kensal Rise - Station Terrace)",
-        "brand": "Twisted London",
-        "rating": 1,
-        "text": "order didn\u2019t arrive",
-        "created": "2026-08-09T12:36:53Z",
+        "site": "Hot Chick (Plymouth - Drake Circus)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Very good",
+        "created": "2026-08-08T17:46:22Z",
+        "date": "2026-08-08"
+      },
+      {
+        "site": "Kuro Smash (London - Greycoat Pl)",
+        "brand": "Kuro Smash",
+        "rating": 4,
+        "text": "Smash burger was really good, tender and some crunch and caramelisation. Couldn\u2019t really taste any miso.",
+        "created": "2026-08-09T10:51:04Z",
         "date": "2026-08-09"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Abingdon -Marcham Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "very nice burgers and onion ring fabulous",
+        "created": "2026-08-08T16:14:43Z",
+        "date": "2026-08-08"
+      },
+      {
+        "site": "WTF!-Mind-BlowingVeganBurgers\ud83c\udf31(StAlbans-HighOaks)",
+        "brand": "WTF",
+        "rating": 5,
+        "text": "So great to have a full vegan place. Great value and tasty",
+        "created": "2026-08-08T16:40:14Z",
+        "date": "2026-08-08"
       },
       {
         "site": "The Scoop feat. Ben & Jerry\u2019s (Wellingborough - Pebble Ln)",
@@ -2569,6 +2599,14 @@
         "rating": 1,
         "text": "Not even slightly worth the money.",
         "created": "2026-08-09T00:53:25Z",
+        "date": "2026-08-09"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "order didn\u2019t arrive",
+        "created": "2026-08-09T12:36:53Z",
         "date": "2026-08-09"
       }
     ]
