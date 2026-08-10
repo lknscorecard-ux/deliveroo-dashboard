@@ -2634,8 +2634,17 @@
   },
   "2026-08-10": {
     "scraped_date": "2026-08-10",
-    "last_updated": "2026-08-10T05:27:09Z",
+    "last_updated": "2026-08-10T07:40:32Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Hot Chick (Epsom - Kingston Rd)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Great",
+        "created": "2026-08-10T05:59:52Z",
+        "date": "2026-08-10"
+      }
+    ]
   }
 }
