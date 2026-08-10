@@ -2634,8 +2634,13 @@
   },
   "2026-08-10": {
     "scraped_date": "2026-08-10",
-    "last_updated": "2026-08-10T20:44:19Z",
+    "last_updated": "2026-08-10T22:38:39Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-10T21:48:00",
+        "site": "Kuro Smash (Northolt - The Heights)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-08-10T21:12:13",
         "site": "Kuro Smash (Wallington - Beddington Park)",
@@ -2712,6 +2717,14 @@
         "rating": 5,
         "text": "Food was tasty , speedy delivery and good value",
         "created": "2026-08-10T11:17:41Z",
+        "date": "2026-08-10"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "Start by labelling the actual food/burgers as they all look the same. Small portion sizes looks like a happy meal burger. Taste was ok. Definitely not worth the price.",
+        "created": "2026-08-10T21:41:25Z",
         "date": "2026-08-10"
       },
       {
