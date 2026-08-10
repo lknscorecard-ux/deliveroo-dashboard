@@ -2634,7 +2634,7 @@
   },
   "2026-08-10": {
     "scraped_date": "2026-08-10",
-    "last_updated": "2026-08-10T16:55:52Z",
+    "last_updated": "2026-08-10T18:57:57Z",
     "cancelled_orders": [],
     "reviews": [
       {
@@ -2723,6 +2723,14 @@
         "rating": 5,
         "text": "Amazing. Came on time, driver polite!",
         "created": "2026-08-10T14:44:22Z",
+        "date": "2026-08-10"
+      },
+      {
+        "site": "Twisted London (Plymouth - Drake Circus)",
+        "brand": "Twisted London",
+        "rating": 4,
+        "text": "pros: good food, cooked well and delivered quickly. I recommend the buffalo wings.\ncons: I would&#39;ve ordered something different if it was possible to remove the sauce from a burger. Also it would be great if they had cheese and bacon loaded fries without BBQ sauce",
+        "created": "2026-08-10T17:36:14Z",
         "date": "2026-08-10"
       }
     ]
