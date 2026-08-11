@@ -2768,5 +2768,32 @@
         "date": "2026-08-10"
       }
     ]
+  },
+  "2026-08-11": {
+    "scraped_date": "2026-08-11",
+    "last_updated": "2026-08-11T01:41:21Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-08-11T01:09:39",
+        "site": "Wing Fest All Stars (Colchester - Challenge Way)",
+        "brand": "Wing Fest"
+      },
+      {
+        "time": "2026-08-11T00:41:06",
+        "site": "Twisted London (Colchester)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-08-11T00:40:25",
+        "site": "Twisted London (Colchester)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-08-11T00:40:07",
+        "site": "Koreatown - Korean Fried Chicken (Colchester)",
+        "brand": "Koreatown"
+      }
+    ],
+    "reviews": []
   }
 }
