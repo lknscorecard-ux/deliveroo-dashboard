@@ -2771,8 +2771,23 @@
   },
   "2026-08-11": {
     "scraped_date": "2026-08-11",
-    "last_updated": "2026-08-11T19:02:27Z",
+    "last_updated": "2026-08-11T20:43:32Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-11T20:52:59",
+        "site": "Kuro Smash (Leicester - Allandale Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-08-11T20:16:24",
+        "site": "Kuro Smash (Wallington - Beddington Park)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-08-11T20:15:03",
+        "site": "Hot Chick (Coatbridge - Main St)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-08-11T19:31:33",
         "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bingley - Bradford Rd)",
