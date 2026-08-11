@@ -2771,8 +2771,13 @@
   },
   "2026-08-11": {
     "scraped_date": "2026-08-11",
-    "last_updated": "2026-08-11T16:58:48Z",
+    "last_updated": "2026-08-11T19:02:27Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-11T19:31:33",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bingley - Bradford Rd)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-08-11T14:07:53",
         "site": "Kuro Smash (Wallington - Beddington Park)",
@@ -2815,6 +2820,22 @@
         "text": "Amazing. Came on time, driver polite!",
         "created": "2026-08-10T14:44:22Z",
         "date": "2026-08-10"
+      },
+      {
+        "site": "Kuro Smash - (Clifton - Byron Pl)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "Wasn\u2019t even my order that was delivered. Delivery receipt had the correct order",
+        "created": "2026-08-11T18:42:18Z",
+        "date": "2026-08-11"
+      },
+      {
+        "site": "Kuro Smash - (Clifton - Byron Pl)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "unfortunately I ordered nachos burger and chips. there was no burger. It also took an age to arrive, the nachos were soggy the chips stone cold. The packaging they were in didn&#39;t give either much chance.",
+        "created": "2026-08-11T18:13:05Z",
+        "date": "2026-08-11"
       },
       {
         "site": "Kuro Smash - (Clifton - Byron Pl)",
@@ -2862,6 +2883,14 @@
         "rating": 3,
         "text": "Worse chips I\u2019ve had so far in the UK. I\u2019d personally skip .  The boneless wings aka nuggets were a bit dry and really do need sauce . Breading was thick and a bit bland . Lil umami cheeseburger was solid . The Korean bbq sauce also had a bold authentic flavor",
         "created": "2026-08-11T13:27:41Z",
+        "date": "2026-08-11"
+      },
+      {
+        "site": "Koreatown (Bristol - Soundwell Rd)",
+        "brand": "Koreatown",
+        "rating": 3,
+        "text": "The rice bowl was overall nice and tasty but some of the edamame beans were frozen :(",
+        "created": "2026-08-11T18:37:10Z",
         "date": "2026-08-11"
       }
     ]
