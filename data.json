@@ -2771,8 +2771,28 @@
   },
   "2026-08-11": {
     "scraped_date": "2026-08-11",
-    "last_updated": "2026-08-11T20:43:32Z",
+    "last_updated": "2026-08-11T22:42:20Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-11T23:01:12",
+        "site": "Koreatown-(Birmingham-BuckinghamSt)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-08-11T22:17:42",
+        "site": "Kuro Smash (Leicester - Allandale Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-08-11T21:59:19",
+        "site": "Kuro Smash (Leicester - Allandale Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-08-11T21:50:11",
+        "site": "Twisted London (Coatbridge - Main St)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-08-11T20:52:59",
         "site": "Kuro Smash (Leicester - Allandale Rd)",
