@@ -2771,8 +2771,13 @@
   },
   "2026-08-11": {
     "scraped_date": "2026-08-11",
-    "last_updated": "2026-08-11T13:03:32Z",
+    "last_updated": "2026-08-11T14:58:39Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-11T14:07:53",
+        "site": "Kuro Smash (Wallington - Beddington Park)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-08-11T01:09:39",
         "site": "Wing Fest All Stars (Colchester - Challenge Way)",
@@ -2794,6 +2799,71 @@
         "brand": "Koreatown"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Kuro Smash (Aberdeen - Hutcheon St)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Tasty",
+        "created": "2026-08-10T13:59:47Z",
+        "date": "2026-08-10"
+      },
+      {
+        "site": "WTF (Uxbridge - High St)",
+        "brand": "WTF",
+        "rating": 5,
+        "text": "Amazing. Came on time, driver polite!",
+        "created": "2026-08-10T14:44:22Z",
+        "date": "2026-08-10"
+      },
+      {
+        "site": "Kuro Smash - (Clifton - Byron Pl)",
+        "brand": "Kuro Smash",
+        "rating": 2,
+        "text": "Burger was severely undercooked. Not willing to try ever again. Disappointed that the basics are not done correctly.",
+        "created": "2026-08-10T21:13:35Z",
+        "date": "2026-08-10"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "Start by labelling the actual food/burgers as they all look the same. Small portion sizes looks like a happy meal burger. Taste was ok. Definitely not worth the price.",
+        "created": "2026-08-10T21:41:25Z",
+        "date": "2026-08-10"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Missing items in the burgers, burgers were crushed and burnt to an inch of their life. No taste or flavour. Any smaller, they would be called sliders. Terrible.",
+        "created": "2026-08-09T16:42:09Z",
+        "date": "2026-08-09"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "order didn\u2019t arrive",
+        "created": "2026-08-09T12:36:53Z",
+        "date": "2026-08-09"
+      },
+      {
+        "site": "Twisted London (Plymouth - Drake Circus)",
+        "brand": "Twisted London",
+        "rating": 4,
+        "text": "pros: good food, cooked well and delivered quickly. I recommend the buffalo wings.\ncons: I would&#39;ve ordered something different if it was possible to remove the sauce from a burger. Also it would be great if they had cheese and bacon loaded fries without BBQ sauce",
+        "created": "2026-08-10T17:36:14Z",
+        "date": "2026-08-10"
+      },
+      {
+        "site": "Kuro Smash (West Green - High St)",
+        "brand": "Kuro Smash",
+        "rating": 3,
+        "text": "Worse chips I\u2019ve had so far in the UK. I\u2019d personally skip .  The boneless wings aka nuggets were a bit dry and really do need sauce . Breading was thick and a bit bland . Lil umami cheeseburger was solid . The Korean bbq sauce also had a bold authentic flavor",
+        "created": "2026-08-11T13:27:41Z",
+        "date": "2026-08-11"
+      }
+    ]
   }
 }
