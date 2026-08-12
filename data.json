@@ -2932,7 +2932,7 @@
   },
   "2026-08-12": {
     "scraped_date": "2026-08-12",
-    "last_updated": "2026-08-12T14:57:56Z",
+    "last_updated": "2026-08-12T16:58:29Z",
     "cancelled_orders": [],
     "reviews": [
       {
@@ -3032,6 +3032,14 @@
         "date": "2026-08-12"
       },
       {
+        "site": "Twisted London (Norwich - Plumstead Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Great tasting burger, wings and fries... very prompt, would order again.",
+        "created": "2026-08-12T16:37:21Z",
+        "date": "2026-08-12"
+      },
+      {
         "site": "Koreatown (Aberdeen - Hutcheon St)",
         "brand": "Koreatown",
         "rating": 5,
@@ -3040,11 +3048,27 @@
         "date": "2026-08-12"
       },
       {
+        "site": "Hot Chick - (Leicester-Narborough Rd)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Great wfh lunch date - such good value for money and comes so quickly!! I am always going bacck!",
+        "created": "2026-08-12T16:36:18Z",
+        "date": "2026-08-12"
+      },
+      {
         "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Farnworth - Market St)",
         "brand": "Wing Fest",
         "rating": 5,
         "text": "The meal deal is the perfect lunchtime treat - I am always going back for more. Thank you Wing fest, yet again!! &lt;3",
         "created": "2026-08-12T12:05:11Z",
+        "date": "2026-08-12"
+      },
+      {
+        "site": "Twisted London (Epsom - Kingston Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "The burger was stacked perfectly and held together well.",
+        "created": "2026-08-12T16:27:55Z",
         "date": "2026-08-12"
       }
     ]
