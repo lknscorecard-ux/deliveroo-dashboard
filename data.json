@@ -2932,8 +2932,17 @@
   },
   "2026-08-12": {
     "scraped_date": "2026-08-12",
-    "last_updated": "2026-08-12T11:01:15Z",
+    "last_updated": "2026-08-12T13:07:32Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Farnworth - Market St)",
+        "brand": "Wing Fest",
+        "rating": 5,
+        "text": "The meal deal is the perfect lunchtime treat - I am always going back for more. Thank you Wing fest, yet again!! &lt;3",
+        "created": "2026-08-12T12:05:11Z",
+        "date": "2026-08-12"
+      }
+    ]
   }
 }
