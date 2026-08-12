@@ -2932,8 +2932,14 @@
   },
   "2026-08-12": {
     "scraped_date": "2026-08-12",
-    "last_updated": "2026-08-12T16:58:29Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-08-12T19:02:45Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-08-12T18:34:35",
+        "site": "Kuro Smash (Leicester - Allandale Rd)",
+        "brand": "Kuro Smash"
+      }
+    ],
     "reviews": [
       {
         "site": "Wing Fest All Stars (Stockport - Buxton Rd)",
