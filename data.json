@@ -2932,9 +2932,113 @@
   },
   "2026-08-12": {
     "scraped_date": "2026-08-12",
-    "last_updated": "2026-08-12T13:07:32Z",
+    "last_updated": "2026-08-12T14:57:56Z",
     "cancelled_orders": [],
     "reviews": [
+      {
+        "site": "Wing Fest All Stars (Stockport - Buxton Rd)",
+        "brand": "Wing Fest",
+        "rating": 1,
+        "text": "Paid over \u00a350 for just 2 burgers to turn up. All tenders missing, all bites and all fries. One or two items missing could happen but for 90% of your order to be missing is just not acceptable. Its a shame because it had such good reviews too",
+        "created": "2026-08-11T20:56:23Z",
+        "date": "2026-08-11"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Leicester - Fosse Rd)",
+        "brand": "Koreatown",
+        "rating": 4,
+        "text": "Good food for decent price",
+        "created": "2026-08-11T22:38:17Z",
+        "date": "2026-08-11"
+      },
+      {
+        "site": "Koreatown (Bristol - Soundwell Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "You can tell the ingredients are good quality.",
+        "created": "2026-08-12T14:38:21Z",
+        "date": "2026-08-12"
+      },
+      {
+        "site": "Koreatown (Bristol - Soundwell Rd)",
+        "brand": "Koreatown",
+        "rating": 3,
+        "text": "The rice bowl was overall nice and tasty but some of the edamame beans were frozen :(",
+        "created": "2026-08-11T18:37:10Z",
+        "date": "2026-08-11"
+      },
+      {
+        "site": "Koreatown (Brighton - Western Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "The food looked just as good as the photos.",
+        "created": "2026-08-12T11:47:42Z",
+        "date": "2026-08-12"
+      },
+      {
+        "site": "Kuro Smash - (Clifton - Byron Pl)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "Wasn\u2019t even my order that was delivered. Delivery receipt had the correct order",
+        "created": "2026-08-11T18:42:18Z",
+        "date": "2026-08-11"
+      },
+      {
+        "site": "Kuro Smash - (Clifton - Byron Pl)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "unfortunately I ordered nachos burger and chips. there was no burger. It also took an age to arrive, the nachos were soggy the chips stone cold. The packaging they were in didn&#39;t give either much chance.",
+        "created": "2026-08-11T18:13:05Z",
+        "date": "2026-08-11"
+      },
+      {
+        "site": "Kuro Smash - (Clifton - Byron Pl)",
+        "brand": "Kuro Smash",
+        "rating": 2,
+        "text": "Burger was severely undercooked. Not willing to try ever again. Disappointed that the basics are not done correctly.",
+        "created": "2026-08-10T21:13:35Z",
+        "date": "2026-08-10"
+      },
+      {
+        "site": "Hot Chick (Morecambe - Glentworth Rd West)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Good!",
+        "created": "2026-08-11T13:29:17Z",
+        "date": "2026-08-11"
+      },
+      {
+        "site": "Kuro Smash (West Green - High St)",
+        "brand": "Kuro Smash",
+        "rating": 3,
+        "text": "Worse chips I\u2019ve had so far in the UK. I\u2019d personally skip .  The boneless wings aka nuggets were a bit dry and really do need sauce . Breading was thick and a bit bland . Lil umami cheeseburger was solid . The Korean bbq sauce also had a bold authentic flavor",
+        "created": "2026-08-11T13:27:41Z",
+        "date": "2026-08-11"
+      },
+      {
+        "site": "Kuro Smash (Walthamstow - Wood St)",
+        "brand": "Kuro Smash",
+        "rating": 4,
+        "text": "Patties were dry and a bit tough",
+        "created": "2026-08-11T13:39:54Z",
+        "date": "2026-08-11"
+      },
+      {
+        "site": "Twisted London (Morecambe - Glentworth Rd West)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Such a delish wfh lunch. My go to for a midweek treat. YUM!!",
+        "created": "2026-08-12T13:08:36Z",
+        "date": "2026-08-12"
+      },
+      {
+        "site": "Koreatown (Aberdeen - Hutcheon St)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Such a good birthday lunch treat for my boyf and I ! So yummy everytime!!",
+        "created": "2026-08-12T13:49:29Z",
+        "date": "2026-08-12"
+      },
       {
         "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Farnworth - Market St)",
         "brand": "Wing Fest",
