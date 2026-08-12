@@ -2932,8 +2932,13 @@
   },
   "2026-08-12": {
     "scraped_date": "2026-08-12",
-    "last_updated": "2026-08-12T20:44:39Z",
+    "last_updated": "2026-08-12T22:41:48Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-12T22:35:21",
+        "site": "Koreatown (Cheam - Upper Mulgrave Rd)",
+        "brand": "Koreatown"
+      },
       {
         "time": "2026-08-12T18:34:35",
         "site": "Kuro Smash (Leicester - Allandale Rd)",
@@ -3075,6 +3080,14 @@
         "rating": 5,
         "text": "The burger was stacked perfectly and held together well.",
         "created": "2026-08-12T16:27:55Z",
+        "date": "2026-08-12"
+      },
+      {
+        "site": "Twisted London (Harrow - Northolt Rd)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "I have had this ordered before a few times during the day. But tonight it was not great. Sorry but wanted to inform you.",
+        "created": "2026-08-12T20:42:44Z",
         "date": "2026-08-12"
       }
     ]
