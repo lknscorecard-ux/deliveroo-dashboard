@@ -3094,8 +3094,97 @@
   },
   "2026-08-13": {
     "scraped_date": "2026-08-13",
-    "last_updated": "2026-08-13T13:08:14Z",
+    "last_updated": "2026-08-13T14:58:42Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Twisted London (Norwich - Plumstead Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Great tasting burger, wings and fries... very prompt, would order again.",
+        "created": "2026-08-12T16:37:21Z",
+        "date": "2026-08-12"
+      },
+      {
+        "site": "Koreatown (Bristol - Soundwell Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "You can tell the ingredients are good quality.",
+        "created": "2026-08-12T14:38:21Z",
+        "date": "2026-08-12"
+      },
+      {
+        "site": "Koreatown (Bristol - Soundwell Rd)",
+        "brand": "Koreatown",
+        "rating": 3,
+        "text": "The rice bowl was overall nice and tasty but some of the edamame beans were frozen :(",
+        "created": "2026-08-11T18:37:10Z",
+        "date": "2026-08-11"
+      },
+      {
+        "site": "Koreatown (Clapham - Lavender Hill)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "Very bad",
+        "created": "2026-08-12T13:22:44Z",
+        "date": "2026-08-12"
+      },
+      {
+        "site": "Twisted London (Uxbridge-High St)",
+        "brand": "Twisted London",
+        "rating": 4,
+        "text": "great food, just was a little disappointed with the portion size of the chicken bites for the price I paid for them.",
+        "created": "2026-08-12T18:57:37Z",
+        "date": "2026-08-12"
+      },
+      {
+        "site": "Twisted London (Epsom - Kingston Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "The burger was stacked perfectly and held together well.",
+        "created": "2026-08-12T16:27:55Z",
+        "date": "2026-08-12"
+      },
+      {
+        "site": "Koreatown (Aberdeen - Hutcheon St)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Such a good birthday lunch treat for my boyf and I ! So yummy everytime!!",
+        "created": "2026-08-12T13:49:29Z",
+        "date": "2026-08-12"
+      },
+      {
+        "site": "Twisted London (Harrow - Northolt Rd)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "I have had this ordered before a few times during the day. But tonight it was not great. Sorry but wanted to inform you.",
+        "created": "2026-08-12T20:42:44Z",
+        "date": "2026-08-12"
+      },
+      {
+        "site": "Hot Chick - (Leicester-Narborough Rd)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Great wfh lunch date - such good value for money and comes so quickly!! I am always going bacck!",
+        "created": "2026-08-12T16:36:18Z",
+        "date": "2026-08-12"
+      },
+      {
+        "site": "Twisted London (Morecambe - Glentworth Rd West)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Such a delish wfh lunch. My go to for a midweek treat. YUM!!",
+        "created": "2026-08-12T13:08:36Z",
+        "date": "2026-08-12"
+      },
+      {
+        "site": "Kuro Smash (West Green - High St)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Everything tasted really well balanced.",
+        "created": "2026-08-13T14:57:14Z",
+        "date": "2026-08-13"
+      }
+    ]
   }
 }
