@@ -3221,9 +3221,17 @@
   },
   "2026-08-14": {
     "scraped_date": "2026-08-14",
-    "last_updated": "2026-08-14T09:07:42Z",
+    "last_updated": "2026-08-14T10:58:25Z",
     "cancelled_orders": [],
     "reviews": [
+      {
+        "site": "Koreatown (Aberdeen - Hutcheon St)",
+        "brand": "Koreatown",
+        "rating": 4,
+        "text": "Wings were amazing 10/10 but the beef bulgogi fries were 4/10 mid , tasted nothing like Korean bulgogi",
+        "created": "2026-08-14T10:07:51Z",
+        "date": "2026-08-14"
+      },
       {
         "site": "Kuro Smash - (Kensal Rise - Station Terrace)",
         "brand": "Kuro Smash",
