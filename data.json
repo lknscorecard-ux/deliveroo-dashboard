@@ -3221,8 +3221,13 @@
   },
   "2026-08-14": {
     "scraped_date": "2026-08-14",
-    "last_updated": "2026-08-14T16:53:22Z",
+    "last_updated": "2026-08-14T18:54:38Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-14T18:30:06",
+        "site": "Twisted London (Worthing - Chapel Rd)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-08-14T16:59:33",
         "site": "Twisted London (Brixton)",
