@@ -3367,7 +3367,7 @@
   },
   "2026-08-15": {
     "scraped_date": "2026-08-15",
-    "last_updated": "2026-08-15T10:22:37Z",
+    "last_updated": "2026-08-15T12:36:43Z",
     "cancelled_orders": [
       {
         "time": "2026-08-15T03:43:59",
@@ -3385,6 +3385,15 @@
         "brand": "Twisted London"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Twisted London (Colchester)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Terrible taste, chewy meat and tough bacon. Please don&#39;t order this.",
+        "created": "2026-08-15T12:20:37Z",
+        "date": "2026-08-15"
+      }
+    ]
   }
 }
