@@ -3367,8 +3367,24 @@
   },
   "2026-08-15": {
     "scraped_date": "2026-08-15",
-    "last_updated": "2026-08-15T01:11:29Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-08-15T02:52:49Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-08-15T03:43:59",
+        "site": "Hot Chick(Guildford - Southway)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-08-15T03:42:34",
+        "site": "Hot Chick(Guildford - Southway)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-08-15T02:43:05",
+        "site": "Twisted London (Guildford - Southway)",
+        "brand": "Twisted London"
+      }
+    ],
     "reviews": []
   }
 }
