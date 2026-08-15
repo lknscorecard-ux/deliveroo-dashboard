@@ -3367,7 +3367,7 @@
   },
   "2026-08-15": {
     "scraped_date": "2026-08-15",
-    "last_updated": "2026-08-15T16:24:10Z",
+    "last_updated": "2026-08-15T18:29:22Z",
     "cancelled_orders": [
       {
         "time": "2026-08-15T16:49:31",
@@ -3437,6 +3437,14 @@
         "rating": 5,
         "text": "The burger is so juicy and lovely- really happy with this find",
         "created": "2026-08-15T15:11:24Z",
+        "date": "2026-08-15"
+      },
+      {
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "not smash burgers and had one tiny bit of bacon in bit of a joke really for the price",
+        "created": "2026-08-15T17:04:59Z",
         "date": "2026-08-15"
       },
       {
