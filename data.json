@@ -3367,8 +3367,13 @@
   },
   "2026-08-15": {
     "scraped_date": "2026-08-15",
-    "last_updated": "2026-08-15T14:22:42Z",
+    "last_updated": "2026-08-15T16:24:10Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-15T16:49:31",
+        "site": "Twisted London (Bridgewater)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-08-15T03:43:59",
         "site": "Hot Chick(Guildford - Southway)",
@@ -3417,6 +3422,22 @@
         "text": "Wings were amazing 10/10 but the beef bulgogi fries were 4/10 mid , tasted nothing like Korean bulgogi",
         "created": "2026-08-14T10:07:51Z",
         "date": "2026-08-14"
+      },
+      {
+        "site": "Twisted London (Hatfield-The Common)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Hot delicious food every time. fries are excellent and the burgers are incredible. Their straight cheeseburger is amazing but if you want a special treat, go with the twisted truffle. best ranch dip ever.",
+        "created": "2026-08-15T14:41:16Z",
+        "date": "2026-08-15"
+      },
+      {
+        "site": "Twisted London (Eltham - Newmarket Grn)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "The burger is so juicy and lovely- really happy with this find",
+        "created": "2026-08-15T15:11:24Z",
+        "date": "2026-08-15"
       },
       {
         "site": "Twisted London (Colchester)",
