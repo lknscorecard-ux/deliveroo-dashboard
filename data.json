@@ -3367,8 +3367,13 @@
   },
   "2026-08-15": {
     "scraped_date": "2026-08-15",
-    "last_updated": "2026-08-15T18:29:22Z",
+    "last_updated": "2026-08-15T20:22:22Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-15T20:21:26",
+        "site": "Hot Chick (Chatham - Silverweed Road)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-08-15T16:49:31",
         "site": "Twisted London (Bridgewater)",
@@ -3445,6 +3450,14 @@
         "rating": 1,
         "text": "not smash burgers and had one tiny bit of bacon in bit of a joke really for the price",
         "created": "2026-08-15T17:04:59Z",
+        "date": "2026-08-15"
+      },
+      {
+        "site": "Twisted London (Bristol - Bordeaux Quay)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "Truffle fries didn\u2019t was just a box of regular fries with the smallest amount of sauce. The burger didn\u2019t really taste like anything",
+        "created": "2026-08-15T19:21:06Z",
         "date": "2026-08-15"
       },
       {
