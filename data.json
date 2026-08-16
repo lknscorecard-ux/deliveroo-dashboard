@@ -3472,8 +3472,13 @@
   },
   "2026-08-16": {
     "scraped_date": "2026-08-16",
-    "last_updated": "2026-08-16T01:15:13Z",
+    "last_updated": "2026-08-16T03:01:00Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-16T02:16:01",
+        "site": "TwistedLondon(Shadwell-ChapmanSt)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-08-16T00:30:48",
         "site": "Koreatown - (Newcastle - Shields Rd)",
