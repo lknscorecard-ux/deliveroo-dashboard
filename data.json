@@ -3472,7 +3472,7 @@
   },
   "2026-08-16": {
     "scraped_date": "2026-08-16",
-    "last_updated": "2026-08-16T16:24:33Z",
+    "last_updated": "2026-08-16T18:29:05Z",
     "cancelled_orders": [
       {
         "time": "2026-08-16T16:49:45",
@@ -3555,6 +3555,22 @@
         "rating": 1,
         "text": "Food WAY too salty, you can deal with food under salted because you can add it later but you can\u2019t eat food that\u2019s just too salty. The chips were bathed in salt, the wings over salty, the rice bowl was a bowl of salt. To b honest the food was very very poor unfortunately. Only good thing was that it wasn\u2019t that expensive compared to other things but I will not be ordering from here again",
         "created": "2026-08-15T23:11:02Z",
+        "date": "2026-08-16"
+      },
+      {
+        "site": "Twisted London (Norwich - Earlham West Centre)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "The double cheeseburger had the single tiniest square of cheese, the flavour was very &#34;Morrisons KFC clone&#34; style. Burgers unimpressive, again, very discount isle texture and flavour. Chips were undercooked and the topping underwhelming. The chicken coating reminds me of the clone KFC they do at Morrisons. For the price they charge, and compared to other similar places, not great! Definitely not worth the price.",
+        "created": "2026-08-16T17:36:46Z",
+        "date": "2026-08-16"
+      },
+      {
+        "site": "Hot Chick (Dover - Tower Hamlets Rd)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "disappointed with the flavour and the timing of delivery. onion rings cremated. buffalo burger was not spicy. the gherkin was the highlight of my burger.",
+        "created": "2026-08-16T16:57:49Z",
         "date": "2026-08-16"
       },
       {
