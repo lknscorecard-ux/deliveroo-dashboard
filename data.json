@@ -3472,7 +3472,7 @@
   },
   "2026-08-16": {
     "scraped_date": "2026-08-16",
-    "last_updated": "2026-08-16T12:38:08Z",
+    "last_updated": "2026-08-16T14:23:08Z",
     "cancelled_orders": [
       {
         "time": "2026-08-16T02:16:01",
@@ -3487,12 +3487,52 @@
     ],
     "reviews": [
       {
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "not smash burgers and had one tiny bit of bacon in bit of a joke really for the price",
+        "created": "2026-08-15T17:04:59Z",
+        "date": "2026-08-15"
+      },
+      {
+        "site": "Twisted London (Bristol - Bordeaux Quay)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "Truffle fries didn\u2019t was just a box of regular fries with the smallest amount of sauce. The burger didn\u2019t really taste like anything",
+        "created": "2026-08-15T19:21:06Z",
+        "date": "2026-08-15"
+      },
+      {
+        "site": "Twisted London (Hatfield-The Common)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Hot delicious food every time. fries are excellent and the burgers are incredible. Their straight cheeseburger is amazing but if you want a special treat, go with the twisted truffle. best ranch dip ever.",
+        "created": "2026-08-15T14:41:16Z",
+        "date": "2026-08-15"
+      },
+      {
+        "site": "Kuro Smash (Grangetown - Holmesdale St)",
+        "brand": "Kuro Smash",
+        "rating": 3,
+        "text": "Dips are terrible, tried 3 all taste of nothing and same. Burgers and kuro fries taste great, burgers kinda small for the price.",
+        "created": "2026-08-15T13:42:39Z",
+        "date": "2026-08-15"
+      },
+      {
         "site": "Hot Chick(Guildford - Southway)",
         "brand": "Hot Chick",
         "rating": 1,
         "text": "How this is award winning I\u2019ll never know. Worst wings ever",
         "created": "2026-08-16T08:43:22Z",
         "date": "2026-08-16"
+      },
+      {
+        "site": "Twisted London (Eltham - Newmarket Grn)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "The burger is so juicy and lovely- really happy with this find",
+        "created": "2026-08-15T15:11:24Z",
+        "date": "2026-08-15"
       },
       {
         "site": "Koreatown (Bexleyheath - Broadway)",
