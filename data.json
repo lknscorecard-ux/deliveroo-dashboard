@@ -3469,5 +3469,26 @@
         "date": "2026-08-15"
       }
     ]
+  },
+  "2026-08-16": {
+    "scraped_date": "2026-08-16",
+    "last_updated": "2026-08-16T01:15:13Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-08-16T00:30:48",
+        "site": "Koreatown - (Newcastle - Shields Rd)",
+        "brand": "Koreatown"
+      }
+    ],
+    "reviews": [
+      {
+        "site": "Koreatown (Bexleyheath - Broadway)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "Food WAY too salty, you can deal with food under salted because you can add it later but you can\u2019t eat food that\u2019s just too salty. The chips were bathed in salt, the wings over salty, the rice bowl was a bowl of salt. To b honest the food was very very poor unfortunately. Only good thing was that it wasn\u2019t that expensive compared to other things but I will not be ordering from here again",
+        "created": "2026-08-15T23:11:02Z",
+        "date": "2026-08-16"
+      }
+    ]
   }
 }
