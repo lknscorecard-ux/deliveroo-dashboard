@@ -3472,8 +3472,23 @@
   },
   "2026-08-16": {
     "scraped_date": "2026-08-16",
-    "last_updated": "2026-08-16T14:23:08Z",
+    "last_updated": "2026-08-16T16:24:33Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-16T16:49:45",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Blackpool - Market St)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-08-16T16:40:18",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Blackpool - Market St)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-08-16T16:29:55",
+        "site": "HotChick-(Shadwell-ChapmanSt)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-08-16T02:16:01",
         "site": "TwistedLondon(Shadwell-ChapmanSt)",
@@ -3540,6 +3555,14 @@
         "rating": 1,
         "text": "Food WAY too salty, you can deal with food under salted because you can add it later but you can\u2019t eat food that\u2019s just too salty. The chips were bathed in salt, the wings over salty, the rice bowl was a bowl of salt. To b honest the food was very very poor unfortunately. Only good thing was that it wasn\u2019t that expensive compared to other things but I will not be ordering from here again",
         "created": "2026-08-15T23:11:02Z",
+        "date": "2026-08-16"
+      },
+      {
+        "site": "Twisted London (Leatherhead - High St)",
+        "brand": "Twisted London",
+        "rating": 4,
+        "text": "I ordered the meal for one which was very generous indeed. I found the burger slightly too greasy for my taste. The chicken wings with hot honey etc, were delicious.",
+        "created": "2026-08-16T15:24:29Z",
         "date": "2026-08-16"
       }
     ]
