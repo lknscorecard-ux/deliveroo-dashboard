@@ -3585,8 +3585,81 @@
   },
   "2026-08-17": {
     "scraped_date": "2026-08-17",
-    "last_updated": "2026-08-17T12:42:26Z",
+    "last_updated": "2026-08-17T14:28:29Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Twisted London (Lambeth - Zenor Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Ordered arrived hot and ready to eat.  Even the distance didn\u2019t comprise that.  Really tasty.  If I could say one thing - the option to remove the gherkins would be good (but not gonna to stop me ordering again)",
+        "created": "2026-08-16T20:21:57Z",
+        "date": "2026-08-16"
+      },
+      {
+        "site": "Twisted London (Worthing - Chapel Rd)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "My bacon double cheeseburger had no bacon in it. The fries were missing the crispy onions and spring onions. The wings were pretty decent but overall obviously very disappointing with the missing elements.",
+        "created": "2026-08-16T20:37:05Z",
+        "date": "2026-08-16"
+      },
+      {
+        "site": "HotChick-(Airdrie-ChapelSt)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "THE BEST FRIDAY EASY DATE FOR TWO! I KEEP GOING BACK!!",
+        "created": "2026-08-17T11:14:26Z",
+        "date": "2026-08-17"
+      },
+      {
+        "site": "Hot Chick (Coatbridge - Main St)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Such a yummy and easy date night for two !! I always go back for more",
+        "created": "2026-08-17T11:15:55Z",
+        "date": "2026-08-17"
+      },
+      {
+        "site": "Hot Chick (Dover - Tower Hamlets Rd)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "disappointed with the flavour and the timing of delivery. onion rings cremated. buffalo burger was not spicy. the gherkin was the highlight of my burger.",
+        "created": "2026-08-16T16:57:49Z",
+        "date": "2026-08-16"
+      },
+      {
+        "site": "Kuro Smash (Brighton - Western Rd)",
+        "brand": "Kuro Smash",
+        "rating": 3,
+        "text": "They need to add vegetables to the burgers. Over all the only thing you taste in the burgers is the sauce. They don\u2019t even put jalape\u00f1os in the teriyaki jalape\u00f1o burger. The chips are the lowest quality frozen chip I\u2019ve ever had",
+        "created": "2026-08-16T18:27:21Z",
+        "date": "2026-08-16"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Kenilworth - Warwick Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "All the food was good. A limited menu. But sometimes you don\u2019t want to be boged down with a lot of choice. One point I would make for the packing. The sauce contains are not made to withstand heat and should not be backed inside a food container with hot food. My soy sauce was inside the food container with the gyorsurs and melted. So I hope someone from the packing team reads this.",
+        "created": "2026-08-16T16:04:59Z",
+        "date": "2026-08-16"
+      },
+      {
+        "site": "Twisted London (Leatherhead - High St)",
+        "brand": "Twisted London",
+        "rating": 4,
+        "text": "I ordered the meal for one which was very generous indeed. I found the burger slightly too greasy for my taste. The chicken wings with hot honey etc, were delicious.",
+        "created": "2026-08-16T15:24:29Z",
+        "date": "2026-08-16"
+      },
+      {
+        "site": "Koreatown (Burgess Hill - Church Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Our 1st order and it was all good.",
+        "created": "2026-08-17T14:12:10Z",
+        "date": "2026-08-17"
+      }
+    ]
   }
 }
