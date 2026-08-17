@@ -3585,8 +3585,14 @@
   },
   "2026-08-17": {
     "scraped_date": "2026-08-17",
-    "last_updated": "2026-08-17T16:27:41Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-08-17T18:40:47Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-08-17T19:25:24",
+        "site": "Twisted London (Dover - Tower Hamlets Rd)",
+        "brand": "Twisted London"
+      }
+    ],
     "reviews": [
       {
         "site": "Twisted London (Lambeth - Zenor Rd)",
