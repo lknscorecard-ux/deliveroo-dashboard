@@ -3670,8 +3670,17 @@
   },
   "2026-08-18": {
     "scraped_date": "2026-08-18",
-    "last_updated": "2026-08-18T10:29:12Z",
+    "last_updated": "2026-08-18T12:43:44Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Koreatown - Korean Fried Chicken (Westcliff-on-Sea - London Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Great chicken and fillets. I order here all the time.",
+        "created": "2026-08-18T12:26:59Z",
+        "date": "2026-08-18"
+      }
+    ]
   }
 }
