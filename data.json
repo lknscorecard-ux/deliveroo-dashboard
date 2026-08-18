@@ -3670,8 +3670,14 @@
   },
   "2026-08-18": {
     "scraped_date": "2026-08-18",
-    "last_updated": "2026-08-18T14:34:18Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-08-18T18:38:34Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-08-18T18:20:07",
+        "site": "Hot Chick (Coatbridge - Main St)",
+        "brand": "Hot Chick"
+      }
+    ],
     "reviews": [
       {
         "site": "Koreatown - Korean Fried Chicken (Worcester - Barbourne Road)",
@@ -3706,11 +3712,35 @@
         "date": "2026-08-17"
       },
       {
+        "site": "Twisted London (Norwich - Plumstead Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "All food was cold, tried to discuss with Deliveroo and was told as delivered in the time expected nothing they could do unable to eat until warmed up. Onion rings were burnt",
+        "created": "2026-08-18T16:53:54Z",
+        "date": "2026-08-18"
+      },
+      {
+        "site": "The Scoop feat. Ben & Jerry\u2019s (Wellingborough - Pebble Ln)",
+        "brand": "Other",
+        "rating": 1,
+        "text": "never order from here",
+        "created": "2026-08-18T16:57:27Z",
+        "date": "2026-08-18"
+      },
+      {
         "site": "Koreatown - Korean Fried Chicken (Westcliff-on-Sea - London Rd)",
         "brand": "Koreatown",
         "rating": 5,
         "text": "Great chicken and fillets. I order here all the time.",
         "created": "2026-08-18T12:26:59Z",
+        "date": "2026-08-18"
+      },
+      {
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Cheam - Upper Mulgrave Rd)",
+        "brand": "Wing Fest",
+        "rating": 5,
+        "text": "Good amount of filling and toppings in every bite.",
+        "created": "2026-08-18T16:07:26Z",
         "date": "2026-08-18"
       }
     ]
