@@ -3670,7 +3670,7 @@
   },
   "2026-08-18": {
     "scraped_date": "2026-08-18",
-    "last_updated": "2026-08-18T20:24:01Z",
+    "last_updated": "2026-08-18T22:23:44Z",
     "cancelled_orders": [
       {
         "time": "2026-08-18T18:20:07",
@@ -3717,6 +3717,14 @@
         "rating": 1,
         "text": "All food was cold, tried to discuss with Deliveroo and was told as delivered in the time expected nothing they could do unable to eat until warmed up. Onion rings were burnt",
         "created": "2026-08-18T16:53:54Z",
+        "date": "2026-08-18"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "If you love smash burgers this is the place to order from.",
+        "created": "2026-08-18T21:40:54Z",
         "date": "2026-08-18"
       },
       {
