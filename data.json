@@ -3670,9 +3670,41 @@
   },
   "2026-08-18": {
     "scraped_date": "2026-08-18",
-    "last_updated": "2026-08-18T12:43:44Z",
+    "last_updated": "2026-08-18T14:34:18Z",
     "cancelled_orders": [],
     "reviews": [
+      {
+        "site": "Koreatown - Korean Fried Chicken (Worcester - Barbourne Road)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "Forgot the sauce for one dish. the fries on the other dish came with Korean sauce and spring onions when we just wanted the spices. the rice bowl was generic and tasteless. its a shame",
+        "created": "2026-08-17T17:30:10Z",
+        "date": "2026-08-17"
+      },
+      {
+        "site": "Twisted London (Guildford - Southway)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "I been on the toilet the past two hours ,trying to get better and it keeps making me worse i dont know if something was expired . Also its the only food i ate yesterday.",
+        "created": "2026-08-17T15:21:04Z",
+        "date": "2026-08-17"
+      },
+      {
+        "site": "WTF! (Windsor - Oxford Road)",
+        "brand": "WTF",
+        "rating": 1,
+        "text": "Cold food.\n\u201cVegan nuggets\u201d that are clearly a cut up vegetable burger, cold chips that are not \u201cloaded\u201d.\nI\u2019m also suspicious about the \u201cvegan burgers\u201d\u2026\nWill not order again.",
+        "created": "2026-08-17T18:46:37Z",
+        "date": "2026-08-17"
+      },
+      {
+        "site": "Koreatown (Burgess Hill - Church Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Our 1st order and it was all good.",
+        "created": "2026-08-17T14:12:10Z",
+        "date": "2026-08-17"
+      },
       {
         "site": "Koreatown - Korean Fried Chicken (Westcliff-on-Sea - London Rd)",
         "brand": "Koreatown",
