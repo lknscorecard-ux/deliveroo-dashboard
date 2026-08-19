@@ -3755,8 +3755,13 @@
   },
   "2026-08-19": {
     "scraped_date": "2026-08-19",
-    "last_updated": "2026-08-19T16:34:09Z",
+    "last_updated": "2026-08-19T18:36:19Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-19T19:02:16",
+        "site": "Wing Fest All Stars (Bristol - Southmead Rd)",
+        "brand": "Wing Fest"
+      },
       {
         "time": "2026-08-19T12:11:56",
         "site": "Hot Chick (Darlington - Victoria Rd)",
@@ -3792,6 +3797,14 @@
         "text": "If you love smash burgers this is the place to order from.",
         "created": "2026-08-18T21:40:54Z",
         "date": "2026-08-18"
+      },
+      {
+        "site": "Koreatown (Bristol - Soundwell Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Their chicken fillets are top notch, great value to money\ud83d\udc4c",
+        "created": "2026-08-19T16:59:00Z",
+        "date": "2026-08-19"
       }
     ]
   }
