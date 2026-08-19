@@ -3755,8 +3755,13 @@
   },
   "2026-08-19": {
     "scraped_date": "2026-08-19",
-    "last_updated": "2026-08-19T10:28:29Z",
+    "last_updated": "2026-08-19T12:44:35Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-19T12:11:56",
+        "site": "Hot Chick (Darlington - Victoria Rd)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-08-19T00:35:08",
         "site": "Twisted London (Kensal Rise - Station Terrace)",
