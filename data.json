@@ -3755,8 +3755,13 @@
   },
   "2026-08-19": {
     "scraped_date": "2026-08-19",
-    "last_updated": "2026-08-19T18:36:19Z",
+    "last_updated": "2026-08-19T20:30:51Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-19T21:19:36",
+        "site": "Hot Chick (Luton - Selbourne Rd)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-08-19T19:02:16",
         "site": "Wing Fest All Stars (Bristol - Southmead Rd)",
