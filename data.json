@@ -3752,5 +3752,17 @@
         "date": "2026-08-18"
       }
     ]
+  },
+  "2026-08-19": {
+    "scraped_date": "2026-08-19",
+    "last_updated": "2026-08-19T01:11:29Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-08-19T00:35:08",
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London"
+      }
+    ],
+    "reviews": []
   }
 }
