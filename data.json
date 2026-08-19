@@ -3755,7 +3755,7 @@
   },
   "2026-08-19": {
     "scraped_date": "2026-08-19",
-    "last_updated": "2026-08-19T12:44:35Z",
+    "last_updated": "2026-08-19T14:40:48Z",
     "cancelled_orders": [
       {
         "time": "2026-08-19T12:11:56",
@@ -3768,6 +3768,31 @@
         "brand": "Twisted London"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "WTF (Gosport - Forton Rd)",
+        "brand": "WTF",
+        "rating": 3,
+        "text": "Fries were amazing and onions rings nice",
+        "created": "2026-08-18T16:33:16Z",
+        "date": "2026-08-18"
+      },
+      {
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Cheam - Upper Mulgrave Rd)",
+        "brand": "Wing Fest",
+        "rating": 5,
+        "text": "Good amount of filling and toppings in every bite.",
+        "created": "2026-08-18T16:07:26Z",
+        "date": "2026-08-18"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "If you love smash burgers this is the place to order from.",
+        "created": "2026-08-18T21:40:54Z",
+        "date": "2026-08-18"
+      }
+    ]
   }
 }
