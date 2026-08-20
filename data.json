@@ -3815,8 +3815,13 @@
   },
   "2026-08-20": {
     "scraped_date": "2026-08-20",
-    "last_updated": "2026-08-20T14:36:57Z",
+    "last_updated": "2026-08-20T16:36:09Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-20T16:50:01",
+        "site": "Wing Fest All Stars (Deptford - Tanners Hill)",
+        "brand": "Wing Fest"
+      },
       {
         "time": "2026-08-20T01:00:49",
         "site": "Koreatown - Korean Fried Chicken (Leicester - Fosse Rd)",
