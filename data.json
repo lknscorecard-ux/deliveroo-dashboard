@@ -3815,7 +3815,7 @@
   },
   "2026-08-20": {
     "scraped_date": "2026-08-20",
-    "last_updated": "2026-08-20T10:30:07Z",
+    "last_updated": "2026-08-20T12:47:40Z",
     "cancelled_orders": [
       {
         "time": "2026-08-20T01:00:49",
@@ -3823,6 +3823,15 @@
         "brand": "Koreatown"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Twisted London (Plymouth - Drake Circus)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "the burger was 15/10, the chips were 20/10 ORDER HERE",
+        "created": "2026-08-20T12:09:49Z",
+        "date": "2026-08-20"
+      }
+    ]
   }
 }
