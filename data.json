@@ -3894,8 +3894,13 @@
   },
   "2026-08-21": {
     "scraped_date": "2026-08-21",
-    "last_updated": "2026-08-21T12:44:48Z",
+    "last_updated": "2026-08-21T14:35:48Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-21T14:05:48",
+        "site": "Twisted London (Norwich - Earlham West Centre)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-08-21T01:17:31",
         "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Wembley - Ealing Rd)",
@@ -3908,6 +3913,38 @@
       }
     ],
     "reviews": [
+      {
+        "site": "Koreatown - Korean Fried Chicken (Leicester - Fosse Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Delicious food",
+        "created": "2026-08-20T19:40:04Z",
+        "date": "2026-08-20"
+      },
+      {
+        "site": "Wing Fest All Stars (Deptford - Tanners Hill)",
+        "brand": "Wing Fest",
+        "rating": 5,
+        "text": "Ordered from here multiple times, for a local joint the wings and tenders are top tier. Contender at wingfest the sauces are unreal, 10/10 would recommend even sent me extra tenders for free when they ran out of wings.",
+        "created": "2026-08-20T21:20:03Z",
+        "date": "2026-08-20"
+      },
+      {
+        "site": "Wing Fest All Stars (Leigh-On-Sea - London Rd )",
+        "brand": "Wing Fest",
+        "rating": 5,
+        "text": "never disappoints \ud83d\udc4d\ud83c\udffb",
+        "created": "2026-08-20T15:22:53Z",
+        "date": "2026-08-20"
+      },
+      {
+        "site": "Kuro Smash-Umami Burgers (Deptford-Tanners Hill)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "Ordered from here a few months ago on buy one get one free promo, ordered another one today, quality of meat is poor now.",
+        "created": "2026-08-21T13:32:51Z",
+        "date": "2026-08-21"
+      },
       {
         "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Leeds - Britannia St)",
         "brand": "Hot Chick",
