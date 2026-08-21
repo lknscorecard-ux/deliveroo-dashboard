@@ -3894,7 +3894,7 @@
   },
   "2026-08-21": {
     "scraped_date": "2026-08-21",
-    "last_updated": "2026-08-21T10:30:44Z",
+    "last_updated": "2026-08-21T12:44:48Z",
     "cancelled_orders": [
       {
         "time": "2026-08-21T01:17:31",
@@ -3907,6 +3907,15 @@
         "brand": "Wing Fest"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Leeds - Britannia St)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Very delicious",
+        "created": "2026-08-21T12:29:57Z",
+        "date": "2026-08-21"
+      }
+    ]
   }
 }
