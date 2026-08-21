@@ -3894,8 +3894,28 @@
   },
   "2026-08-21": {
     "scraped_date": "2026-08-21",
-    "last_updated": "2026-08-21T18:37:05Z",
+    "last_updated": "2026-08-21T20:26:00Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-21T21:14:40",
+        "site": "Koreatown (Grangetown - Holmesdale St)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-08-21T20:29:13",
+        "site": "Twisted London (Bridgewater)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-08-21T20:28:10",
+        "site": "Twisted London (Bridgewater)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-08-21T20:26:44",
+        "site": "Twisted London (Bridgewater)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-08-21T14:05:48",
         "site": "Twisted London (Norwich - Earlham West Centre)",
@@ -3954,11 +3974,35 @@
         "date": "2026-08-21"
       },
       {
+        "site": "Kuro Smash (Aberdeen - Hutcheon St)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Burgers were really fine",
+        "created": "2026-08-21T19:45:18Z",
+        "date": "2026-08-21"
+      },
+      {
         "site": "Twisted London (Croydon - South end)",
         "brand": "Twisted London",
         "rating": 1,
         "text": "Burger was undercooked, had cheap bacon on the top which was grim and the burgers looked nothing like the photos. Never again.",
         "created": "2026-08-21T18:05:11Z",
+        "date": "2026-08-21"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bristol - Bordeaux Quay)",
+        "brand": "Hot Chick",
+        "rating": 4,
+        "text": "Could tell the care put into presentation, the food itself was very tasty, great textures and sizes of chopped ingredients, speedy in receiving and in sending out order as well. Satisfied craving. Thanks (:",
+        "created": "2026-08-21T18:58:21Z",
+        "date": "2026-08-21"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Kingston - Richmond Road)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "AVOID - Warning, this place is not a chicken shop. It\u2019s a pizza shop churning out frozen food cooked in old oil. Food looks nothing like the pictures which are AI",
+        "created": "2026-08-21T19:26:39Z",
         "date": "2026-08-21"
       },
       {
