@@ -3894,7 +3894,7 @@
   },
   "2026-08-21": {
     "scraped_date": "2026-08-21",
-    "last_updated": "2026-08-21T16:34:56Z",
+    "last_updated": "2026-08-21T18:37:05Z",
     "cancelled_orders": [
       {
         "time": "2026-08-21T14:05:48",
@@ -3936,6 +3936,30 @@
         "text": "never disappoints \ud83d\udc4d\ud83c\udffb",
         "created": "2026-08-20T15:22:53Z",
         "date": "2026-08-20"
+      },
+      {
+        "site": "Twisted London (Glasgow - Ingram St)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "The truffle burger was amazing, and the skin on chips were so good that we didn&#39;t need salt or vinegar.  We will definitely be ordering again.",
+        "created": "2026-08-21T17:30:30Z",
+        "date": "2026-08-21"
+      },
+      {
+        "site": "Twisted London (Hayes - Uxbridge Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Both burgers were burnt",
+        "created": "2026-08-21T18:07:33Z",
+        "date": "2026-08-21"
+      },
+      {
+        "site": "Twisted London (Croydon - South end)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Burger was undercooked, had cheap bacon on the top which was grim and the burgers looked nothing like the photos. Never again.",
+        "created": "2026-08-21T18:05:11Z",
+        "date": "2026-08-21"
       },
       {
         "site": "Kuro Smash-Umami Burgers (Deptford-Tanners Hill)",
