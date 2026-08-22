@@ -4030,8 +4030,14 @@
   },
   "2026-08-22": {
     "scraped_date": "2026-08-22",
-    "last_updated": "2026-08-22T10:23:19Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-08-22T12:37:42Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-08-22T12:40:38",
+        "site": "Koreatown-KoreanFriedChicken(Aylesbury-BuckinghamSt)",
+        "brand": "Koreatown"
+      }
+    ],
     "reviews": [
       {
         "site": "Koreatown (Bristol - Soundwell Rd)",
