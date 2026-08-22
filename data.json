@@ -4030,8 +4030,13 @@
   },
   "2026-08-22": {
     "scraped_date": "2026-08-22",
-    "last_updated": "2026-08-22T12:37:42Z",
+    "last_updated": "2026-08-22T14:22:39Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-22T13:42:30",
+        "site": "Twisted London (Norwich - Earlham West Centre)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-08-22T12:40:38",
         "site": "Koreatown-KoreanFriedChicken(Aylesbury-BuckinghamSt)",
@@ -4039,6 +4044,22 @@
       }
     ],
     "reviews": [
+      {
+        "site": "Kuro Smash (Aberdeen - Hutcheon St)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Burgers were really fine",
+        "created": "2026-08-21T19:45:18Z",
+        "date": "2026-08-21"
+      },
+      {
+        "site": "Koreatown (Walthamstow - Wood St)",
+        "brand": "Koreatown",
+        "rating": 2,
+        "text": "I was excited to try a Korean &#34;style&#34; burger but I&#39;m sad to say this food was nothing close to authentic Korean. The burger was soggy and not crunchy at all. The loaded fried was just a piece of meat covered in Garlic sauce and onions. Will not be ordering again and advise others the same. Very disappointed",
+        "created": "2026-08-21T21:26:05Z",
+        "date": "2026-08-21"
+      },
       {
         "site": "Koreatown (Bristol - Soundwell Rd)",
         "brand": "Koreatown",
@@ -4048,12 +4069,100 @@
         "date": "2026-08-22"
       },
       {
+        "site": "Kuro Smash-Umami Burgers (Deptford-Tanners Hill)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "Ordered from here a few months ago on buy one get one free promo, ordered another one today, quality of meat is poor now.",
+        "created": "2026-08-21T13:32:51Z",
+        "date": "2026-08-21"
+      },
+      {
+        "site": "Twisted London (Wembley - Ealing Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "These are NOT smash burgers. Worst burger I&#39;ve ever had.",
+        "created": "2026-08-21T19:00:15Z",
+        "date": "2026-08-21"
+      },
+      {
+        "site": "Koreatown (London - Greycoat Pl)",
+        "brand": "Koreatown",
+        "rating": 2,
+        "text": "Order was wrong, cold and missing the sauce I ordered",
+        "created": "2026-08-21T19:57:27Z",
+        "date": "2026-08-21"
+      },
+      {
         "site": "Twisted London (Colchester)",
         "brand": "Twisted London",
         "rating": 3,
         "text": "got the deal as it was the 2 for one offer I got the 2 burgers however one was more or less bun not much inside other burger but better for nearly \u00a39 a burger would expect to be filled out",
         "created": "2026-08-22T08:19:30Z",
         "date": "2026-08-22"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bristol - Bordeaux Quay)",
+        "brand": "Hot Chick",
+        "rating": 4,
+        "text": "Could tell the care put into presentation, the food itself was very tasty, great textures and sizes of chopped ingredients, speedy in receiving and in sending out order as well. Satisfied craving. Thanks (:",
+        "created": "2026-08-21T18:58:21Z",
+        "date": "2026-08-21"
+      },
+      {
+        "site": "Twisted London (Glasgow - Ingram St)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "The truffle burger was amazing, and the skin on chips were so good that we didn&#39;t need salt or vinegar.  We will definitely be ordering again.",
+        "created": "2026-08-21T17:30:30Z",
+        "date": "2026-08-21"
+      },
+      {
+        "site": "Twisted London (Glasgow - Ingram St)",
+        "brand": "Twisted London",
+        "rating": 4,
+        "text": "Pretty good",
+        "created": "2026-08-20T09:46:43Z",
+        "date": "2026-08-20"
+      },
+      {
+        "site": "Hot Chick (Coventry)",
+        "brand": "Hot Chick",
+        "rating": 3,
+        "text": "The burger was pretty basic, nowhere near their claim of award winning and doesn&#39;t look anything like the pictures displayed. Small for the prize.",
+        "created": "2026-08-21T21:07:17Z",
+        "date": "2026-08-21"
+      },
+      {
+        "site": "Twisted London (Hayes - Uxbridge Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Both burgers were burnt",
+        "created": "2026-08-21T18:07:33Z",
+        "date": "2026-08-21"
+      },
+      {
+        "site": "Twisted London (Croydon - South end)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Burger was undercooked, had cheap bacon on the top which was grim and the burgers looked nothing like the photos. Never again.",
+        "created": "2026-08-21T18:05:11Z",
+        "date": "2026-08-21"
+      },
+      {
+        "site": "Twisted London (Middlesbrough - King's Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Wowwwwww this is so tasty!!! I\u2019ll be coming back here in a hurry nom nom",
+        "created": "2026-08-21T13:44:36Z",
+        "date": "2026-08-21"
+      },
+      {
+        "site": "Twisted London (Benfleet - High Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Meet is smelling very bad, I&#39;ve ordered classic fries, I&#39;ve received with chilli on the. Bacon not cooked",
+        "created": "2026-08-21T19:25:16Z",
+        "date": "2026-08-21"
       }
     ]
   }
