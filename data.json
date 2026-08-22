@@ -4030,8 +4030,13 @@
   },
   "2026-08-22": {
     "scraped_date": "2026-08-22",
-    "last_updated": "2026-08-22T14:22:39Z",
+    "last_updated": "2026-08-22T16:24:22Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-22T16:29:44",
+        "site": "Kuro Smash (Norwich - Earlham West Centre)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-08-22T13:42:30",
         "site": "Twisted London (Norwich - Earlham West Centre)",
@@ -4163,6 +4168,22 @@
         "text": "Meet is smelling very bad, I&#39;ve ordered classic fries, I&#39;ve received with chilli on the. Bacon not cooked",
         "created": "2026-08-21T19:25:16Z",
         "date": "2026-08-21"
+      },
+      {
+        "site": "Twisted London (Feltham)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Wow, The best burger in ages!!! Well done twisted",
+        "created": "2026-08-22T15:53:01Z",
+        "date": "2026-08-22"
+      },
+      {
+        "site": "Koreatown (Newport - Charles St)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Good food, slight contamination of burger bits in the dressed up chips but overall a pleasant experience and I appreciated the free can of pop.",
+        "created": "2026-08-22T16:18:12Z",
+        "date": "2026-08-22"
       }
     ]
   }
