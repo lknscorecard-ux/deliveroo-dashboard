@@ -4030,8 +4030,13 @@
   },
   "2026-08-22": {
     "scraped_date": "2026-08-22",
-    "last_updated": "2026-08-22T20:23:23Z",
+    "last_updated": "2026-08-22T22:22:58Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-22T22:16:22",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Birmingham - Broad St)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-08-22T20:25:31",
         "site": "Kuro Smash (Norwich - Earlham West Centre)",
