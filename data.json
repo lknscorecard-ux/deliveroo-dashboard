@@ -4027,5 +4027,20 @@
         "date": "2026-08-21"
       }
     ]
+  },
+  "2026-08-22": {
+    "scraped_date": "2026-08-22",
+    "last_updated": "2026-08-22T01:10:38Z",
+    "cancelled_orders": [],
+    "reviews": [
+      {
+        "site": "Koreatown (Bristol - Soundwell Rd)",
+        "brand": "Koreatown",
+        "rating": 2,
+        "text": "Arrived just barely warm and that was the toughest, hard to chew chicken I ever had in my life. Sauce was the best part of the sandwich. I won&#39;t be ordering from them again.",
+        "created": "2026-08-21T23:03:20Z",
+        "date": "2026-08-22"
+      }
+    ]
   }
 }
