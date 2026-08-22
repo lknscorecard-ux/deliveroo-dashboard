@@ -4030,7 +4030,7 @@
   },
   "2026-08-22": {
     "scraped_date": "2026-08-22",
-    "last_updated": "2026-08-22T16:24:22Z",
+    "last_updated": "2026-08-22T18:31:21Z",
     "cancelled_orders": [
       {
         "time": "2026-08-22T16:29:44",
@@ -4168,6 +4168,14 @@
         "text": "Meet is smelling very bad, I&#39;ve ordered classic fries, I&#39;ve received with chilli on the. Bacon not cooked",
         "created": "2026-08-21T19:25:16Z",
         "date": "2026-08-21"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Leicester - Fosse Rd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "Missed off my bbq tenders, the bulgogi rice bowl didn\u2019t have Edamame, the chicken was super dry, bulgogi beef was so sweet, do not recommend at all",
+        "created": "2026-08-22T17:54:49Z",
+        "date": "2026-08-22"
       },
       {
         "site": "Twisted London (Feltham)",
