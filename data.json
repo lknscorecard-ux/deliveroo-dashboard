@@ -4030,7 +4030,7 @@
   },
   "2026-08-22": {
     "scraped_date": "2026-08-22",
-    "last_updated": "2026-08-22T06:38:54Z",
+    "last_updated": "2026-08-22T08:29:42Z",
     "cancelled_orders": [],
     "reviews": [
       {
@@ -4039,6 +4039,14 @@
         "rating": 2,
         "text": "Arrived just barely warm and that was the toughest, hard to chew chicken I ever had in my life. Sauce was the best part of the sandwich. I won&#39;t be ordering from them again.",
         "created": "2026-08-21T23:03:20Z",
+        "date": "2026-08-22"
+      },
+      {
+        "site": "Twisted London (Colchester)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "got the deal as it was the 2 for one offer I got the 2 burgers however one was more or less bun not much inside other burger but better for nearly \u00a39 a burger would expect to be filled out",
+        "created": "2026-08-22T08:19:30Z",
         "date": "2026-08-22"
       }
     ]
