@@ -4204,5 +4204,22 @@
         "date": "2026-08-22"
       }
     ]
+  },
+  "2026-08-23": {
+    "scraped_date": "2026-08-23",
+    "last_updated": "2026-08-23T01:16:03Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-08-23T01:53:21",
+        "site": "HotChick-(Shadwell-ChapmanSt)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-08-23T00:00:02",
+        "site": "Kuro Smash (Norwich - Earlham West Centre)",
+        "brand": "Kuro Smash"
+      }
+    ],
+    "reviews": []
   }
 }
