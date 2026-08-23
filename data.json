@@ -4207,8 +4207,18 @@
   },
   "2026-08-23": {
     "scraped_date": "2026-08-23",
-    "last_updated": "2026-08-23T18:30:28Z",
+    "last_updated": "2026-08-23T20:23:16Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-23T20:56:37",
+        "site": "Twisted London (Salisbury - Castle St)1",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-08-23T19:35:52",
+        "site": "Twisted London (Bingley - Bradford Rd)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-08-23T19:17:21",
         "site": "Kuro Smash (Norwich - Earlham West Centre)",
@@ -4312,6 +4322,14 @@
         "text": "My wife diarrhea after eating wings and rice last night . Still she has loose motion. The rice dish didn\u2019t have the items shown in the menu photo",
         "created": "2026-08-22T20:17:17Z",
         "date": "2026-08-22"
+      },
+      {
+        "site": "Koreatown (Bexleyheath - Broadway)",
+        "brand": "Koreatown",
+        "rating": 2,
+        "text": "Wings were too salty  - I could not eat it, fries were in the box where you couldnt mix the sauce at all without falling out. fries were dry &amp; cold. i am quite disappointed.",
+        "created": "2026-08-23T20:15:56Z",
+        "date": "2026-08-23"
       },
       {
         "site": "Kuro Smash - (Kensal Rise - Station Terrace)",
