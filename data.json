@@ -4207,8 +4207,13 @@
   },
   "2026-08-23": {
     "scraped_date": "2026-08-23",
-    "last_updated": "2026-08-23T14:25:12Z",
+    "last_updated": "2026-08-23T16:26:09Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-23T16:05:44",
+        "site": "Kuro Smash (Norwich - Earlham West Centre)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-08-23T13:04:15",
         "site": "Twisted London (Norwich - Earlham West Centre)",
@@ -4304,6 +4309,14 @@
         "date": "2026-08-22"
       },
       {
+        "site": "Kuro Smash - (Kensal Rise - Station Terrace)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "I received completely different not the same garnish like the once in the picture",
+        "created": "2026-08-23T15:21:30Z",
+        "date": "2026-08-23"
+      },
+      {
         "site": "Kuro Smash (Walthamstow - Wood St)",
         "brand": "Kuro Smash",
         "rating": 3,
@@ -4317,6 +4330,14 @@
         "rating": 5,
         "text": "Absolutely amazing vegan burgers. So so delicious and good portion size. I feel so blessed to have them around as a vegan it can be hard to find good places sometimes. Recommend this place 100 percent. \u2728",
         "created": "2026-08-23T11:59:49Z",
+        "date": "2026-08-23"
+      },
+      {
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Farnworth - Market St)",
+        "brand": "Wing Fest",
+        "rating": 4,
+        "text": "Lovely, tasty &amp; fresh as always.",
+        "created": "2026-08-23T15:38:20Z",
         "date": "2026-08-23"
       }
     ]
