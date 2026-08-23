@@ -4207,8 +4207,118 @@
   },
   "2026-08-23": {
     "scraped_date": "2026-08-23",
-    "last_updated": "2026-08-23T12:38:23Z",
-    "cancelled_orders": [],
-    "reviews": []
+    "last_updated": "2026-08-23T14:25:12Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-08-23T13:04:15",
+        "site": "Twisted London (Norwich - Earlham West Centre)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-08-23T09:58:19",
+        "site": "Koreatown (Clapham - Lavender Hill)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-08-23T01:53:21",
+        "site": "HotChick-(Shadwell-ChapmanSt)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-08-23T00:00:02",
+        "site": "Kuro Smash (Norwich - Earlham West Centre)",
+        "brand": "Kuro Smash"
+      }
+    ],
+    "reviews": [
+      {
+        "site": "Koreatown - (Newcastle - Shields Rd)",
+        "brand": "Koreatown",
+        "rating": 4,
+        "text": "Burger was awsome, loaded fries not worthy",
+        "created": "2026-08-22T21:03:33Z",
+        "date": "2026-08-22"
+      },
+      {
+        "site": "Twisted London (Feltham)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Wow, The best burger in ages!!! Well done twisted",
+        "created": "2026-08-22T15:53:01Z",
+        "date": "2026-08-22"
+      },
+      {
+        "site": "WTF!-Mind-BlowingVeganBurgers\ud83c\udf31(Bournemouth-StanfieldRd)",
+        "brand": "WTF",
+        "rating": 2,
+        "text": "Food and portions look nothing like the pictures, probably half the size. Loaded fries had 3 little pieces of \u2018chicken\u2019. Ordered Pepsi max and they sent full sugar coke",
+        "created": "2026-08-22T20:29:25Z",
+        "date": "2026-08-22"
+      },
+      {
+        "site": "WTF! - (Reading)",
+        "brand": "WTF",
+        "rating": 5,
+        "text": "amazing burgers as always\nthe food is very tasty and the portions are generous \ud83d\ude0b",
+        "created": "2026-08-22T22:37:14Z",
+        "date": "2026-08-22"
+      },
+      {
+        "site": "Koreatown (Newport - Charles St)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Good food, slight contamination of burger bits in the dressed up chips but overall a pleasant experience and I appreciated the free can of pop.",
+        "created": "2026-08-22T16:18:12Z",
+        "date": "2026-08-22"
+      },
+      {
+        "site": "Twisted London (Bristol North)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Food is really nice and quick delivery, food still hot on arrival, thank you",
+        "created": "2026-08-22T16:13:10Z",
+        "date": "2026-08-22"
+      },
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "This is my go to for a tasty burger but, after this delivery I won\u2019t order again . The meat tasted old, cheap and if cold fat. The burgers had clearly been cooked and sizzled some time before and re heated and the sauce portion was skimpy. Wondering what changed??",
+        "created": "2026-08-23T06:40:07Z",
+        "date": "2026-08-23"
+      },
+      {
+        "site": "Kuro Smash (Reading - Southampton St)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "received my order and my burgers were still raw and cold i have pictures to prove this as well",
+        "created": "2026-08-22T15:07:19Z",
+        "date": "2026-08-22"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (St Albans-High Oaks)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "My wife diarrhea after eating wings and rice last night . Still she has loose motion. The rice dish didn\u2019t have the items shown in the menu photo",
+        "created": "2026-08-22T20:17:17Z",
+        "date": "2026-08-22"
+      },
+      {
+        "site": "Kuro Smash (Walthamstow - Wood St)",
+        "brand": "Kuro Smash",
+        "rating": 3,
+        "text": "The burger meat is kind of dry and doesn\u2019t taste so fresh.  Burger needs more sauce, it\u2019s just dry burger meat with processed American cheese. I\u2019ve had better smash burgers.",
+        "created": "2026-08-23T14:12:28Z",
+        "date": "2026-08-23"
+      },
+      {
+        "site": "WTF (Uxbridge - High St)",
+        "brand": "WTF",
+        "rating": 5,
+        "text": "Absolutely amazing vegan burgers. So so delicious and good portion size. I feel so blessed to have them around as a vegan it can be hard to find good places sometimes. Recommend this place 100 percent. \u2728",
+        "created": "2026-08-23T11:59:49Z",
+        "date": "2026-08-23"
+      }
+    ]
   }
 }
