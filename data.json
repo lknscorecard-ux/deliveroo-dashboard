@@ -4207,7 +4207,7 @@
   },
   "2026-08-23": {
     "scraped_date": "2026-08-23",
-    "last_updated": "2026-08-23T06:40:17Z",
+    "last_updated": "2026-08-23T08:29:46Z",
     "cancelled_orders": [
       {
         "time": "2026-08-23T01:53:21",
@@ -4220,6 +4220,15 @@
         "brand": "Kuro Smash"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "This is my go to for a tasty burger but, after this delivery I won\u2019t order again . The meat tasted old, cheap and if cold fat. The burgers had clearly been cooked and sizzled some time before and re heated and the sauce portion was skimpy. Wondering what changed??",
+        "created": "2026-08-23T06:40:07Z",
+        "date": "2026-08-23"
+      }
+    ]
   }
 }
