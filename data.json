@@ -4207,8 +4207,13 @@
   },
   "2026-08-23": {
     "scraped_date": "2026-08-23",
-    "last_updated": "2026-08-23T16:26:09Z",
+    "last_updated": "2026-08-23T18:30:28Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-23T19:17:21",
+        "site": "Kuro Smash (Norwich - Earlham West Centre)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-08-23T16:05:44",
         "site": "Kuro Smash (Norwich - Earlham West Centre)",
@@ -4311,6 +4316,14 @@
       {
         "site": "Kuro Smash - (Kensal Rise - Station Terrace)",
         "brand": "Kuro Smash",
+        "rating": 4,
+        "text": "My fries weren\u2019t included this is the second time ive either not received something or received something completely incorrect",
+        "created": "2026-08-23T18:20:01Z",
+        "date": "2026-08-23"
+      },
+      {
+        "site": "Kuro Smash - (Kensal Rise - Station Terrace)",
+        "brand": "Kuro Smash",
         "rating": 1,
         "text": "I received completely different not the same garnish like the once in the picture",
         "created": "2026-08-23T15:21:30Z",
@@ -4330,6 +4343,14 @@
         "rating": 5,
         "text": "Absolutely amazing vegan burgers. So so delicious and good portion size. I feel so blessed to have them around as a vegan it can be hard to find good places sometimes. Recommend this place 100 percent. \u2728",
         "created": "2026-08-23T11:59:49Z",
+        "date": "2026-08-23"
+      },
+      {
+        "site": "Hot Chick (Norwich - Aylsham Cres)",
+        "brand": "Hot Chick",
+        "rating": 2,
+        "text": "Ranch fries were nothing like pictured, generally poor quality for price and cold. Korean chicken burger better but lacking some flavour and quality ingredients.",
+        "created": "2026-08-23T17:17:02Z",
         "date": "2026-08-23"
       },
       {
