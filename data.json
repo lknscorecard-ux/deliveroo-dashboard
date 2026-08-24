@@ -4391,8 +4391,13 @@
   },
   "2026-08-24": {
     "scraped_date": "2026-08-24",
-    "last_updated": "2026-08-24T08:47:46Z",
+    "last_updated": "2026-08-24T10:37:43Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-24T10:43:10",
+        "site": "Kuro Smash (Dorking - High St)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-08-24T00:14:16",
         "site": "Kuro Smash (Norwich - Earlham West Centre)",
