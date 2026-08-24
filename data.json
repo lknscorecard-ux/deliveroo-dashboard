@@ -4391,7 +4391,7 @@
   },
   "2026-08-24": {
     "scraped_date": "2026-08-24",
-    "last_updated": "2026-08-24T12:49:10Z",
+    "last_updated": "2026-08-24T14:42:45Z",
     "cancelled_orders": [
       {
         "time": "2026-08-24T10:43:10",
@@ -4411,12 +4411,116 @@
     ],
     "reviews": [
       {
+        "site": "WTF!-(Eltham-NewmarketGrn)",
+        "brand": "WTF",
+        "rating": 5,
+        "text": "the dirty fries portions are large and the burgers are very good value. lots to choose from and all vegan",
+        "created": "2026-08-23T16:24:10Z",
+        "date": "2026-08-23"
+      },
+      {
+        "site": "Kuro Smash - (Kensal Rise - Station Terrace)",
+        "brand": "Kuro Smash",
+        "rating": 4,
+        "text": "My fries weren\u2019t included this is the second time ive either not received something or received something completely incorrect",
+        "created": "2026-08-23T18:20:01Z",
+        "date": "2026-08-23"
+      },
+      {
+        "site": "Kuro Smash - (Kensal Rise - Station Terrace)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "I received completely different not the same garnish like the once in the picture",
+        "created": "2026-08-23T15:21:30Z",
+        "date": "2026-08-23"
+      },
+      {
+        "site": "WTF!-Mind-BlowingVeganBurgers\ud83c\udf31(Wednesbury-LowerHighSt)",
+        "brand": "WTF",
+        "rating": 4,
+        "text": "nice food especially when bogof!!",
+        "created": "2026-08-23T18:56:02Z",
+        "date": "2026-08-23"
+      },
+      {
+        "site": "Hot Chick (Hounslow - Great West Rd)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "worst experience never had that tasteless food",
+        "created": "2026-08-24T01:16:41Z",
+        "date": "2026-08-24"
+      },
+      {
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Leeds - Britannia St)",
+        "brand": "WTF",
+        "rating": 5,
+        "text": "Super tasty burgers and loved the fries with the salty onions, so good.",
+        "created": "2026-08-23T21:12:13Z",
+        "date": "2026-08-23"
+      },
+      {
+        "site": "Koreatown (Whyteleaf - Godstone Rd)",
+        "brand": "Koreatown",
+        "rating": 3,
+        "text": "The sauce was leaking in the bag as they didn\u2019t even wrap it !!!",
+        "created": "2026-08-23T23:00:57Z",
+        "date": "2026-08-24"
+      },
+      {
+        "site": "Twisted London (Salisbury - Castle St)1",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "was great , everything you want from a burger and fries",
+        "created": "2026-08-24T11:52:42Z",
+        "date": "2026-08-24"
+      },
+      {
+        "site": "Twisted London (Salisbury - Castle St)1",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "what a great burger and frys , people you have to try the food,\n banging",
+        "created": "2026-08-24T09:41:42Z",
+        "date": "2026-08-24"
+      },
+      {
         "site": "Kuro Smash (West Green - High St)",
         "brand": "Kuro Smash",
         "rating": 5,
         "text": "Perfect",
         "created": "2026-08-24T11:35:28Z",
         "date": "2026-08-24"
+      },
+      {
+        "site": "Hot Chick (Sunderland - John St)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "staff were really helpful when I called to make a change to my order. They adjusted it quickly and smoothly, and the whole process was effortless. I really enjoyed the food too",
+        "created": "2026-08-23T16:58:05Z",
+        "date": "2026-08-23"
+      },
+      {
+        "site": "Kuro Smash (Walthamstow - Wood St)",
+        "brand": "Kuro Smash",
+        "rating": 3,
+        "text": "The burger meat is kind of dry and doesn\u2019t taste so fresh.  Burger needs more sauce, it\u2019s just dry burger meat with processed American cheese. I\u2019ve had better smash burgers.",
+        "created": "2026-08-23T14:12:28Z",
+        "date": "2026-08-23"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bristol - Southmead Rd)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "Very bad doesn\u2019t look like anything in the photo. It looks like a cheap McDonald\u2019s burger.",
+        "created": "2026-08-23T13:54:17Z",
+        "date": "2026-08-23"
+      },
+      {
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Farnworth - Market St)",
+        "brand": "Wing Fest",
+        "rating": 4,
+        "text": "Lovely, tasty &amp; fresh as always.",
+        "created": "2026-08-23T15:38:20Z",
+        "date": "2026-08-23"
       }
     ]
   }
