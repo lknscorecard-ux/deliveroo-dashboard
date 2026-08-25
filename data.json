@@ -4544,8 +4544,41 @@
   },
   "2026-08-25": {
     "scraped_date": "2026-08-25",
-    "last_updated": "2026-08-25T12:45:27Z",
+    "last_updated": "2026-08-25T14:45:43Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Dorking - High St)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "Missing items",
+        "created": "2026-08-25T06:04:25Z",
+        "date": "2026-08-25"
+      },
+      {
+        "site": "Twisted London (Eltham - Newmarket Grn)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "Jalapeno poppers had a weird cream cheese filling. Veggie burger patty tasted like bread it could have been better. Loaded fries were good",
+        "created": "2026-08-24T17:32:55Z",
+        "date": "2026-08-24"
+      },
+      {
+        "site": "TwistedLondon(Shadwell-ChapmanSt)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "food was great will order from them again in the future \ud83d\ude04",
+        "created": "2026-08-24T23:51:33Z",
+        "date": "2026-08-25"
+      },
+      {
+        "site": "Koreatown (Norwich - Aylsham Cres)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "The yummiest wfh meal for two - i keep going back for more!!",
+        "created": "2026-08-25T14:34:30Z",
+        "date": "2026-08-25"
+      }
+    ]
   }
 }
