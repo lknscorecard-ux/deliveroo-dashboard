@@ -4544,8 +4544,23 @@
   },
   "2026-08-25": {
     "scraped_date": "2026-08-25",
-    "last_updated": "2026-08-25T18:40:07Z",
+    "last_updated": "2026-08-25T20:29:28Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-25T21:23:16",
+        "site": "Hot Chick (Coatbridge - Main St)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-08-25T20:35:34",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bingley - Bradford Rd)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-08-25T20:28:45",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bognor Regis - York Rd)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-08-25T18:46:16",
         "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bognor Regis - York Rd)",
