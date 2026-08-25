@@ -4544,8 +4544,18 @@
   },
   "2026-08-25": {
     "scraped_date": "2026-08-25",
-    "last_updated": "2026-08-25T20:29:28Z",
+    "last_updated": "2026-08-25T22:27:55Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-25T22:35:24",
+        "site": "Twisted London (Darlington - Victoria Rd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-08-25T22:01:33",
+        "site": "Twisted London (Salford - Media City)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-08-25T21:23:16",
         "site": "Hot Chick (Coatbridge - Main St)",
@@ -4598,6 +4608,14 @@
         "rating": 5,
         "text": "Best burgers to come to Middlesborough - I will be back for more!!!",
         "created": "2026-08-25T16:06:39Z",
+        "date": "2026-08-25"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Leicester - Fosse Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "the food was absolutely delicious. was still hot when it got to me and very fresh",
+        "created": "2026-08-25T21:42:59Z",
         "date": "2026-08-25"
       },
       {
