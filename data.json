@@ -4544,8 +4544,14 @@
   },
   "2026-08-25": {
     "scraped_date": "2026-08-25",
-    "last_updated": "2026-08-25T16:37:53Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-08-25T18:40:07Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-08-25T18:46:16",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bognor Regis - York Rd)",
+        "brand": "Hot Chick"
+      }
+    ],
     "reviews": [
       {
         "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Dorking - High St)",
