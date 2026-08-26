@@ -4635,5 +4635,17 @@
         "date": "2026-08-25"
       }
     ]
+  },
+  "2026-08-26": {
+    "scraped_date": "2026-08-26",
+    "last_updated": "2026-08-26T01:14:54Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-08-26T00:23:49",
+        "site": "Kuro Smash (Norwich - Earlham West Centre)",
+        "brand": "Kuro Smash"
+      }
+    ],
+    "reviews": []
   }
 }
