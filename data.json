@@ -4638,8 +4638,23 @@
   },
   "2026-08-26": {
     "scraped_date": "2026-08-26",
-    "last_updated": "2026-08-26T16:49:44Z",
+    "last_updated": "2026-08-26T19:49:27Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-26T20:24:10",
+        "site": "Twisted London (Eastbourne)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-08-26T20:05:18",
+        "site": "Twisted London (Eastbourne)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-08-26T18:42:14",
+        "site": "Kuro Smash (Whyteleaf - Godstone Rd)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-08-26T00:23:49",
         "site": "Kuro Smash (Norwich - Earlham West Centre)",
@@ -4717,6 +4732,14 @@
         "rating": 5,
         "text": "Great experience from beginning to end.",
         "created": "2026-08-26T15:39:50Z",
+        "date": "2026-08-26"
+      },
+      {
+        "site": "Twisted London (Epsom - Kingston Rd)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "the chicken wings were not cooked properly 3 massive wings were still red inside the rest were tiny you cant cook them at the same time and was not crispy either",
+        "created": "2026-08-26T18:52:19Z",
         "date": "2026-08-26"
       },
       {
