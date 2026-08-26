@@ -4638,8 +4638,13 @@
   },
   "2026-08-26": {
     "scraped_date": "2026-08-26",
-    "last_updated": "2026-08-26T19:49:27Z",
+    "last_updated": "2026-08-26T22:46:18Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-26T20:49:04",
+        "site": "Twisted London (Chatham - Silverweed Road)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-08-26T20:24:10",
         "site": "Twisted London (Eastbourne)",
@@ -4732,6 +4737,14 @@
         "rating": 5,
         "text": "Great experience from beginning to end.",
         "created": "2026-08-26T15:39:50Z",
+        "date": "2026-08-26"
+      },
+      {
+        "site": "Twisted London (Croydon - South end)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Delicious! I really love the spacy jalape\u00f1os cheeseburger, however in this occasion it was spicy at all. That\u2019s the only complaint, naked wings 10/10 as always!",
+        "created": "2026-08-26T21:12:26Z",
         "date": "2026-08-26"
       },
       {
