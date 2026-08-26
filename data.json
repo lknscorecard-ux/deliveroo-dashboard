@@ -4638,7 +4638,7 @@
   },
   "2026-08-26": {
     "scraped_date": "2026-08-26",
-    "last_updated": "2026-08-26T12:51:16Z",
+    "last_updated": "2026-08-26T14:44:57Z",
     "cancelled_orders": [
       {
         "time": "2026-08-26T00:23:49",
@@ -4646,6 +4646,63 @@
         "brand": "Kuro Smash"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Koreatown - Korean Fried Chicken (Leicester - Fosse Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "the food was absolutely delicious. was still hot when it got to me and very fresh",
+        "created": "2026-08-25T21:42:59Z",
+        "date": "2026-08-25"
+      },
+      {
+        "site": "Hot Chick Award-Winning Saucy Fried Chicken (Middlesbrough - King's Rd)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "The crispiest chicken burger i have ever had as a takeaway - I will be back !!!",
+        "created": "2026-08-25T16:07:08Z",
+        "date": "2026-08-25"
+      },
+      {
+        "site": "Kuro Smash (Bournemouth - Stanfield Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Very yummy !",
+        "created": "2026-08-25T16:39:01Z",
+        "date": "2026-08-25"
+      },
+      {
+        "site": "Hot Chick (Oldham - Featherstall Rd)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "Didn\u2019t enjoy at all waste of money",
+        "created": "2026-08-26T00:54:53Z",
+        "date": "2026-08-26"
+      },
+      {
+        "site": "Koreatown (Aberdeen - Hutcheon St)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Fab early meal deal for two - it is alway my go to!!",
+        "created": "2026-08-25T16:06:02Z",
+        "date": "2026-08-25"
+      },
+      {
+        "site": "Twisted London (Middlesbrough - King's Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Best burgers to come to Middlesborough - I will be back for more!!!",
+        "created": "2026-08-25T16:06:39Z",
+        "date": "2026-08-25"
+      },
+      {
+        "site": "Koreatown (Norwich - Aylsham Cres)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "The yummiest wfh meal for two - i keep going back for more!!",
+        "created": "2026-08-25T14:34:30Z",
+        "date": "2026-08-25"
+      }
+    ]
   }
 }
