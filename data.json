@@ -4767,8 +4767,87 @@
   },
   "2026-08-27": {
     "scraped_date": "2026-08-27",
-    "last_updated": "2026-08-27T07:28:17Z",
-    "cancelled_orders": [],
-    "reviews": []
+    "last_updated": "2026-08-27T18:53:46Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-08-27T14:20:00",
+        "site": "Twisted London (Bristol - Bordeaux Quay)",
+        "brand": "Twisted London"
+      }
+    ],
+    "reviews": [
+      {
+        "site": "Koreatown (Bristol - Soundwell Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Great experience from beginning to end.",
+        "created": "2026-08-26T15:39:50Z",
+        "date": "2026-08-26"
+      },
+      {
+        "site": "Twisted London (Epsom - Kingston Rd)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "the chicken wings were not cooked properly 3 massive wings were still red inside the rest were tiny you cant cook them at the same time and was not crispy either",
+        "created": "2026-08-26T18:52:19Z",
+        "date": "2026-08-26"
+      },
+      {
+        "site": "Twisted London (Epsom - Kingston Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "The portions were generous without compromising quality",
+        "created": "2026-08-26T14:55:40Z",
+        "date": "2026-08-26"
+      },
+      {
+        "site": "Twisted London (Croydon - South end)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Delicious! I really love the spacy jalape\u00f1os cheeseburger, however in this occasion it was spicy at all. That\u2019s the only complaint, naked wings 10/10 as always!",
+        "created": "2026-08-26T21:12:26Z",
+        "date": "2026-08-26"
+      },
+      {
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Farnworth - Market St)",
+        "brand": "Wing Fest",
+        "rating": 5,
+        "text": "The best meal ever ! Crispiest chicken you will ever get!!",
+        "created": "2026-08-26T15:28:22Z",
+        "date": "2026-08-26"
+      },
+      {
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Leeds - Britannia St)",
+        "brand": "WTF",
+        "rating": 1,
+        "text": "My food arrived cold",
+        "created": "2026-08-27T15:16:09Z",
+        "date": "2026-08-27"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bristol - Southmead Rd)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "The portions were generous without compromising quality.",
+        "created": "2026-08-27T16:39:40Z",
+        "date": "2026-08-27"
+      },
+      {
+        "site": "Twisted London (Glasgow - Ingram St)",
+        "brand": "Twisted London",
+        "rating": 4,
+        "text": "Had the smoky bbq burger and fries \ud83c\udf5f was absolutely smashing considering I was hesitant due to the lack of reviews!!",
+        "created": "2026-08-27T13:14:25Z",
+        "date": "2026-08-27"
+      },
+      {
+        "site": "WTF! (Windsor - Oxford Road)",
+        "brand": "WTF",
+        "rating": 1,
+        "text": "Awful vegan food, the &#34;nuggets&#34; were a burger chopped into pieces. The burger was subpar as well. The only edible thing were the onion rings. Will not be ordering from here again.",
+        "created": "2026-08-27T17:38:46Z",
+        "date": "2026-08-27"
+      }
+    ]
   }
 }
