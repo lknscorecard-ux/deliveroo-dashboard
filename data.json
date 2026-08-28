@@ -4849,5 +4849,17 @@
         "date": "2026-08-27"
       }
     ]
+  },
+  "2026-08-28": {
+    "scraped_date": "2026-08-28",
+    "last_updated": "2026-08-28T04:04:44Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-08-28T00:23:46",
+        "site": "Twisted London (Norwich - Earlham West Centre)",
+        "brand": "Twisted London"
+      }
+    ],
+    "reviews": []
   }
 }
