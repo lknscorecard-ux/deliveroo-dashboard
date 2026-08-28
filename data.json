@@ -4852,14 +4852,96 @@
   },
   "2026-08-28": {
     "scraped_date": "2026-08-28",
-    "last_updated": "2026-08-28T04:04:44Z",
+    "last_updated": "2026-08-28T18:15:51Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-28T18:49:51",
+        "site": "Kuro Smash (Norwich - Earlham West Centre)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-08-28T17:27:19",
+        "site": "Kuro Smash (Wallington - Beddington Park)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-08-28T16:17:58",
+        "site": "Kuro Smash (Norwich - Earlham West Centre)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-08-28T15:41:12",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Leeds - Britannia St)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-08-28T06:31:07",
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-08-28T00:23:46",
         "site": "Twisted London (Norwich - Earlham West Centre)",
         "brand": "Twisted London"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Twisted London (Reading - Oxford Rd)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "Everything looked really good however the cheeseburger just didn\u2019t have a taste actually it tasted artificial. The chicken burger was better. The chips were very crispy and tasty and the truffle mustard very good. The burger let down the meal.",
+        "created": "2026-08-28T00:51:07Z",
+        "date": "2026-08-28"
+      },
+      {
+        "site": "WTF! (Windsor - Oxford Road)",
+        "brand": "WTF",
+        "rating": 1,
+        "text": "Awful vegan food, the &#34;nuggets&#34; were a burger chopped into pieces. The burger was subpar as well. The only edible thing were the onion rings. Will not be ordering from here again.",
+        "created": "2026-08-27T17:38:46Z",
+        "date": "2026-08-27"
+      },
+      {
+        "site": "Twisted London (Glasgow - Ingram St)",
+        "brand": "Twisted London",
+        "rating": 4,
+        "text": "Had the smoky bbq burger and fries \ud83c\udf5f was absolutely smashing considering I was hesitant due to the lack of reviews!!",
+        "created": "2026-08-27T13:14:25Z",
+        "date": "2026-08-27"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 4,
+        "text": "Small portion sizes but really good burgers",
+        "created": "2026-08-28T11:21:47Z",
+        "date": "2026-08-28"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bristol - Southmead Rd)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "The portions were generous without compromising quality.",
+        "created": "2026-08-27T16:39:40Z",
+        "date": "2026-08-27"
+      },
+      {
+        "site": "Koreatown (Norwich - Aylsham Cres)",
+        "brand": "Koreatown",
+        "rating": 4,
+        "text": "The burger was nice, I wish it had a little more coleslaw and onion, it had just a very small amount.\nUnfortunately the fries were oily and cold, not the best.",
+        "created": "2026-08-28T17:54:27Z",
+        "date": "2026-08-28"
+      },
+      {
+        "site": "Wing Fest All Stars (Deptford - Tanners Hill)",
+        "brand": "Wing Fest",
+        "rating": 1,
+        "text": "It was raw and nasty.",
+        "created": "2026-08-28T17:56:56Z",
+        "date": "2026-08-28"
+      }
+    ]
   }
 }
