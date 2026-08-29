@@ -4943,5 +4943,42 @@
         "date": "2026-08-28"
       }
     ]
+  },
+  "2026-08-29": {
+    "scraped_date": "2026-08-29",
+    "last_updated": "2026-08-29T02:45:21Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-08-29T03:13:47",
+        "site": "Hot Chick(Guildford - Southway)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-08-29T03:11:43",
+        "site": "Hot Chick(Guildford - Southway)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-08-29T02:06:12",
+        "site": "Twisted London (Wembley - Ealing Rd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-08-29T01:31:35",
+        "site": "HotChick-(Shadwell-ChapmanSt)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-08-29T00:39:47",
+        "site": "TwistedLondon(Shadwell-ChapmanSt)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-08-29T00:29:27",
+        "site": "TwistedLondon(Shadwell-ChapmanSt)",
+        "brand": "Twisted London"
+      }
+    ],
+    "reviews": []
   }
 }
