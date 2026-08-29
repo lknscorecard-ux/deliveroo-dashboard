@@ -4946,8 +4946,23 @@
   },
   "2026-08-29": {
     "scraped_date": "2026-08-29",
-    "last_updated": "2026-08-29T16:17:47Z",
+    "last_updated": "2026-08-29T20:30:08Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-29T21:21:37",
+        "site": "WTF (Bognor Regis - York Rd)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-08-29T19:42:49",
+        "site": "WTF (Uxbridge - High St)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-08-29T19:32:02",
+        "site": "HotChick-(Shadwell-ChapmanSt)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-08-29T16:40:18",
         "site": "Kuro Smash (Norwich - Earlham West Centre)",
@@ -5083,6 +5098,22 @@
         "date": "2026-08-28"
       },
       {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Really disappointed, the burgers had no flavour came looking like they had been sat on, flat, chips were dry",
+        "created": "2026-08-29T17:54:15Z",
+        "date": "2026-08-29"
+      },
+      {
+        "site": "Twisted London (Eltham - Newmarket Grn)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Order came super quick, food was hot. Burger flavoursome and juicy. Loaded chips weren\u2019t soggy like some places. My partner (who can be fussy with burgers) LOVED it and said we will order again 10/10",
+        "created": "2026-08-29T19:43:10Z",
+        "date": "2026-08-29"
+      },
+      {
         "site": "Twisted London (Eltham - Newmarket Grn)",
         "brand": "Twisted London",
         "rating": 5,
@@ -5104,6 +5135,14 @@
         "rating": 5,
         "text": "the food was incredible! my partner and i are both vegetarian so it was lovely seeing all of the veggie options on the menu. the veggie burger tasted amazinggggg 10/10",
         "created": "2026-08-29T12:43:06Z",
+        "date": "2026-08-29"
+      },
+      {
+        "site": "Twisted Burgers (Coventry)",
+        "brand": "Other",
+        "rating": 3,
+        "text": "burgers are small as hell",
+        "created": "2026-08-29T20:24:20Z",
         "date": "2026-08-29"
       }
     ]
