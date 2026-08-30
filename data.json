@@ -5149,8 +5149,43 @@
   },
   "2026-08-30": {
     "scraped_date": "2026-08-30",
-    "last_updated": "2026-08-30T19:06:21Z",
+    "last_updated": "2026-08-30T22:28:02Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-30T23:05:07",
+        "site": "Twisted London (Norwich - Earlham West Centre)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-08-30T22:37:41",
+        "site": "WTF (Bognor Regis - York Rd)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-08-30T22:24:06",
+        "site": "Twisted London (Inverness - Church Street)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-08-30T21:34:29",
+        "site": "Twisted London (Norwich - Earlham West Centre)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-08-30T21:16:47",
+        "site": "Twisted London (Norwich - Earlham West Centre)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-08-30T20:53:13",
+        "site": "Twisted London (Norwich - Earlham West Centre)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-08-30T20:24:40",
+        "site": "HotChick-(CanningTown-NorthWoolwichRd)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-08-30T17:49:10",
         "site": "WTF!-Mind-BlowingVeganBurgers\ud83c\udf31(Harrow-NortholtRd)",
@@ -5263,6 +5298,14 @@
       {
         "site": "Twisted London (Eltham - Newmarket Grn)",
         "brand": "Twisted London",
+        "rating": 3,
+        "text": "It was good but the patties were too thick, meaning that some of it wasn\u2019t fully cooked through and so it doesn\u2019t have the great crispy texture",
+        "created": "2026-08-30T21:08:08Z",
+        "date": "2026-08-30"
+      },
+      {
+        "site": "Twisted London (Eltham - Newmarket Grn)",
+        "brand": "Twisted London",
         "rating": 5,
         "text": "Order came super quick, food was hot. Burger flavoursome and juicy. Loaded chips weren\u2019t soggy like some places. My partner (who can be fussy with burgers) LOVED it and said we will order again 10/10",
         "created": "2026-08-29T19:43:10Z",
@@ -5333,6 +5376,14 @@
         "date": "2026-08-30"
       },
       {
+        "site": "Twisted London (Feltham)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Very good",
+        "created": "2026-08-30T22:04:34Z",
+        "date": "2026-08-30"
+      },
+      {
         "site": "Twisted London (Westcliff-on-Sea - London Rd)",
         "brand": "Twisted London",
         "rating": 5,
@@ -5357,19 +5408,19 @@
         "date": "2026-08-30"
       },
       {
+        "site": "Twisted London (Norwich - Plumstead Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "The patties were burned not cooked to perfection so disappointed!",
+        "created": "2026-08-30T19:05:59Z",
+        "date": "2026-08-30"
+      },
+      {
         "site": "Kuro Smash - (Leatherhead - High St)",
         "brand": "Kuro Smash",
         "rating": 5,
         "text": "delicious burgers, not greasy at all. maybe a tad too salty for me, ideally. nevertheless, very nice burgers, and beautifully wrapped!",
         "created": "2026-08-30T17:05:28Z",
-        "date": "2026-08-30"
-      },
-      {
-        "site": "Koreatown-(Birmingham-BuckinghamSt)",
-        "brand": "Koreatown",
-        "rating": 2,
-        "text": "Food was cold &amp; looked a mess! Missed out a whole meal bundle and was over an hour late.",
-        "created": "2026-08-30T16:29:46Z",
         "date": "2026-08-30"
       }
     ]
