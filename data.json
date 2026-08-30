@@ -5149,8 +5149,13 @@
   },
   "2026-08-30": {
     "scraped_date": "2026-08-30",
-    "last_updated": "2026-08-30T14:44:42Z",
+    "last_updated": "2026-08-30T19:06:21Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-30T17:49:10",
+        "site": "WTF!-Mind-BlowingVeganBurgers\ud83c\udf31(Harrow-NortholtRd)",
+        "brand": "WTF"
+      },
       {
         "time": "2026-08-30T13:44:57",
         "site": "Hot Chick (Newport - Upper Dock St)",
@@ -5325,6 +5330,46 @@
         "rating": 5,
         "text": "10/10 flavoursome burgers !",
         "created": "2026-08-30T13:24:42Z",
+        "date": "2026-08-30"
+      },
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "First order from Twisted, will be ordering again everything was hot, fresh and tasty. The buffalo wings were particularly delicious!",
+        "created": "2026-08-30T17:39:57Z",
+        "date": "2026-08-30"
+      },
+      {
+        "site": "Kuro Smash (Aberdeen - Hutcheon St)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "Order soggy beyond eating it by the time it arrived and stone cold. Waste of money",
+        "created": "2026-08-30T17:04:24Z",
+        "date": "2026-08-30"
+      },
+      {
+        "site": "Twisted London (Guildford - Southway)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Absolutely loved this burger! \ud83c\udf54 Everything was so delicious, especially the toppings. Sometimes burgers can taste a bit tasteless, the meat doesn\u2019t have much flavour, or the sauces just aren\u2019t very good \u2014 but this one was completely different. The meat was delicious, the sauces were perfect, and the onions and pickles were especially good. Everything worked so well together. Definitely one of the best burgers I\u2019ve had! \ud83e\udd24",
+        "created": "2026-08-30T16:32:12Z",
+        "date": "2026-08-30"
+      },
+      {
+        "site": "Kuro Smash - (Leatherhead - High St)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "delicious burgers, not greasy at all. maybe a tad too salty for me, ideally. nevertheless, very nice burgers, and beautifully wrapped!",
+        "created": "2026-08-30T17:05:28Z",
+        "date": "2026-08-30"
+      },
+      {
+        "site": "Koreatown-(Birmingham-BuckinghamSt)",
+        "brand": "Koreatown",
+        "rating": 2,
+        "text": "Food was cold &amp; looked a mess! Missed out a whole meal bundle and was over an hour late.",
+        "created": "2026-08-30T16:29:46Z",
         "date": "2026-08-30"
       }
     ]
