@@ -5149,8 +5149,18 @@
   },
   "2026-08-30": {
     "scraped_date": "2026-08-30",
-    "last_updated": "2026-08-30T09:47:08Z",
+    "last_updated": "2026-08-30T14:44:42Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-30T13:44:57",
+        "site": "Hot Chick (Newport - Upper Dock St)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-08-30T13:28:59",
+        "site": "HotChick-(Shadwell-ChapmanSt)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-08-30T02:16:33",
         "site": "TwistedLondon(Shadwell-ChapmanSt)",
@@ -5174,12 +5184,12 @@
     ],
     "reviews": [
       {
-        "site": "Kuro Smash (Brighton - Western Rd)",
-        "brand": "Kuro Smash",
+        "site": "Wing Fest (Chingford - Hale End Rd)",
+        "brand": "Wing Fest",
         "rating": 5,
-        "text": "Burger and Tenders were excellent, and the umami mayo dip complimented both the fries and tenders very well. Fries could have been crispier/crunchier but otherwise were fine.",
-        "created": "2026-08-30T09:36:29Z",
-        "date": "2026-08-30"
+        "text": "Banging burgers",
+        "created": "2026-08-29T21:08:32Z",
+        "date": "2026-08-29"
       },
       {
         "site": "Koreatown (Margate - High St)",
@@ -5190,11 +5200,131 @@
         "date": "2026-08-30"
       },
       {
+        "site": "Twisted London (Deptford)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Rate it. Would highly recommend \ud83d\ude0d",
+        "created": "2026-08-29T19:53:57Z",
+        "date": "2026-08-29"
+      },
+      {
+        "site": "Kuro Smash (Brighton - Western Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Burger and Tenders were excellent, and the umami mayo dip complimented both the fries and tenders very well. Fries could have been crispier/crunchier but otherwise were fine.",
+        "created": "2026-08-30T09:36:29Z",
+        "date": "2026-08-30"
+      },
+      {
+        "site": "Kuro Smash (Brighton - Western Rd)",
+        "brand": "Kuro Smash",
+        "rating": 2,
+        "text": "ordered for korean household no korean bulgogi flavours, burger ok but real disappointment on flavours.",
+        "created": "2026-08-28T18:39:07Z",
+        "date": "2026-08-28"
+      },
+      {
+        "site": "Twisted Burgers (Coventry)",
+        "brand": "Other",
+        "rating": 3,
+        "text": "burgers are small as hell",
+        "created": "2026-08-29T20:24:20Z",
+        "date": "2026-08-29"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bolton - Manchester Rd)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "Got the wrong food asked for Chilean and instead got beef and I only got refunded for 1. Do not buy from there food is bland flavourless and has no soul.",
+        "created": "2026-08-29T19:12:56Z",
+        "date": "2026-08-29"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Salisbury - Castle St)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "is this the best takeaway in Salisbury? I think it just might be! the ranch sauce is the best I&#39;ve ever tasted, chips were fresh and crispy, jalapeno poppers were crunchy and creamy, bloody brilliant food! \u2b50\u2b50\u2b50\u2b50\u2b50",
+        "created": "2026-08-29T16:18:34Z",
+        "date": "2026-08-29"
+      },
+      {
+        "site": "WTF! (Deptford)",
+        "brand": "WTF",
+        "rating": 3,
+        "text": "Chips size is very small..",
+        "created": "2026-08-29T17:36:07Z",
+        "date": "2026-08-29"
+      },
+      {
+        "site": "Twisted London (Eltham - Newmarket Grn)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Order came super quick, food was hot. Burger flavoursome and juicy. Loaded chips weren\u2019t soggy like some places. My partner (who can be fussy with burgers) LOVED it and said we will order again 10/10",
+        "created": "2026-08-29T19:43:10Z",
+        "date": "2026-08-29"
+      },
+      {
+        "site": "Twisted London (Eltham - Newmarket Grn)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Thee, if not the ONLY best cheeseburgers ABOUT! 100% get a cheeseburger from the place.. it will blow your mind. Can\u2019t wait to order from here again! Thank you!",
+        "created": "2026-08-29T13:00:03Z",
+        "date": "2026-08-29"
+      },
+      {
         "site": "Twisted London (Morecambe - Glentworth Rd West)",
         "brand": "Twisted London",
         "rating": 3,
         "text": "taking a star off for each burger that was missing its bacon and crispy onions - also, why on earth did it come in a SoBe burger bag? if they weren&#39;t buy one get one free I&#39;d be rating one star",
         "created": "2026-08-30T09:38:58Z",
+        "date": "2026-08-30"
+      },
+      {
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Crewe - Nantwich Rd)",
+        "brand": "Wing Fest",
+        "rating": 2,
+        "text": "Chicken burger was stone cold on arrival even though we are a short distance from the store, completely cold all the way through with soggy bread. Wings and tenders were hot but not very flavourful; certainly not \u201caward winning\u201d sauces. \u00a333 for rubbish. Will not buy again",
+        "created": "2026-08-29T22:31:42Z",
+        "date": "2026-08-29"
+      },
+      {
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Crewe - Nantwich Rd)",
+        "brand": "Wing Fest",
+        "rating": 1,
+        "text": "Probably the worst order I\u2019ve ever had. Tenders aren\u2019t as described. Got my chips wrong, it was cold and took ages",
+        "created": "2026-08-28T18:25:08Z",
+        "date": "2026-08-28"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Really disappointed, the burgers had no flavour came looking like they had been sat on, flat, chips were dry",
+        "created": "2026-08-29T17:54:15Z",
+        "date": "2026-08-29"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 4,
+        "text": "Small portion sizes but really good burgers",
+        "created": "2026-08-28T11:21:47Z",
+        "date": "2026-08-28"
+      },
+      {
+        "site": "Twisted London (Benfleet - High Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Food turned up hot was nice lots of flavours and good quality for money we payed",
+        "created": "2026-08-29T16:01:09Z",
+        "date": "2026-08-29"
+      },
+      {
+        "site": "Twisted London (Croydon - South end)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "10/10 flavoursome burgers !",
+        "created": "2026-08-30T13:24:42Z",
         "date": "2026-08-30"
       }
     ]
