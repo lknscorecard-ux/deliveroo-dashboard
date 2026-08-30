@@ -5149,7 +5149,7 @@
   },
   "2026-08-30": {
     "scraped_date": "2026-08-30",
-    "last_updated": "2026-08-30T03:50:00Z",
+    "last_updated": "2026-08-30T09:47:08Z",
     "cancelled_orders": [
       {
         "time": "2026-08-30T02:16:33",
@@ -5174,11 +5174,27 @@
     ],
     "reviews": [
       {
+        "site": "Kuro Smash (Brighton - Western Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Burger and Tenders were excellent, and the umami mayo dip complimented both the fries and tenders very well. Fries could have been crispier/crunchier but otherwise were fine.",
+        "created": "2026-08-30T09:36:29Z",
+        "date": "2026-08-30"
+      },
+      {
         "site": "Koreatown (Margate - High St)",
         "brand": "Koreatown",
         "rating": 5,
         "text": "banging as usual top food if you like the chicken",
         "created": "2026-08-30T01:25:16Z",
+        "date": "2026-08-30"
+      },
+      {
+        "site": "Twisted London (Morecambe - Glentworth Rd West)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "taking a star off for each burger that was missing its bacon and crispy onions - also, why on earth did it come in a SoBe burger bag? if they weren&#39;t buy one get one free I&#39;d be rating one star",
+        "created": "2026-08-30T09:38:58Z",
         "date": "2026-08-30"
       }
     ]
