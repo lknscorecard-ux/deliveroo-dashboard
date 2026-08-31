@@ -5427,7 +5427,7 @@
   },
   "2026-08-31": {
     "scraped_date": "2026-08-31",
-    "last_updated": "2026-08-31T03:51:31Z",
+    "last_updated": "2026-08-31T10:36:11Z",
     "cancelled_orders": [
       {
         "time": "2026-08-31T04:21:51",
@@ -5451,6 +5451,14 @@
       }
     ],
     "reviews": [
+      {
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Had a better burger at a fairground, like rubber !!",
+        "created": "2026-08-31T07:08:22Z",
+        "date": "2026-08-31"
+      },
       {
         "site": "Koreatown-KoreanFriedChicken(Aylesbury-BuckinghamSt)",
         "brand": "Koreatown",
