@@ -5427,8 +5427,58 @@
   },
   "2026-08-31": {
     "scraped_date": "2026-08-31",
-    "last_updated": "2026-08-31T10:36:11Z",
+    "last_updated": "2026-08-31T18:52:12Z",
     "cancelled_orders": [
+      {
+        "time": "2026-08-31T19:32:23",
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-08-31T19:17:38",
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-08-31T19:07:07",
+        "site": "Twisted London (Folkestone - Fleming Way)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-08-31T18:38:11",
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-08-31T17:18:06",
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-08-31T14:39:04",
+        "site": "Twisted London (Bognor Regis - York Rd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-08-31T14:14:02",
+        "site": "Wing Fest All Stars (Leigh-On-Sea - London Rd )",
+        "brand": "Wing Fest"
+      },
+      {
+        "time": "2026-08-31T13:13:19",
+        "site": "Kuro Smash (Norwich - Earlham West Centre)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-08-31T13:08:30",
+        "site": "Kuro Smash (Norwich - Earlham West Centre)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-08-31T11:40:42",
+        "site": "Hot Chick (Datchet - Mill Place)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-08-31T04:21:51",
         "site": "TwistedLondon(CanningTown-NorthWoolwichRd)",
@@ -5452,6 +5502,22 @@
     ],
     "reviews": [
       {
+        "site": "Kuro Smash (Aberdeen - Hutcheon St)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "Order soggy beyond eating it by the time it arrived and stone cold. Waste of money",
+        "created": "2026-08-30T17:04:24Z",
+        "date": "2026-08-30"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Inverness - Church Street)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "tried the bae-con burger, the best burger I have ever had",
+        "created": "2026-08-30T20:25:30Z",
+        "date": "2026-08-30"
+      },
+      {
         "site": "Twisted London (Dorking - High St)",
         "brand": "Twisted London",
         "rating": 1,
@@ -5460,11 +5526,147 @@
         "date": "2026-08-31"
       },
       {
+        "site": "Twisted London (Norwich - Plumstead Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "The patties were burned not cooked to perfection so disappointed!",
+        "created": "2026-08-30T19:05:59Z",
+        "date": "2026-08-30"
+      },
+      {
+        "site": "Twisted London (Feltham)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Very good",
+        "created": "2026-08-30T22:04:34Z",
+        "date": "2026-08-30"
+      },
+      {
+        "site": "WTF! (Colchester)",
+        "brand": "WTF",
+        "rating": 4,
+        "text": "Great delivery. Great packaging. Great selection to choose from. Nice vegan food. We had the Signature fries (we shared them) and 2 for 1 vegan burgers. It was nice and filling. We&#39;ll be ordering grub here again.",
+        "created": "2026-08-30T21:00:39Z",
+        "date": "2026-08-30"
+      },
+      {
+        "site": "Kuro Smash - (Leatherhead - High St)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "delicious burgers, not greasy at all. maybe a tad too salty for me, ideally. nevertheless, very nice burgers, and beautifully wrapped!",
+        "created": "2026-08-30T17:05:28Z",
+        "date": "2026-08-30"
+      },
+      {
+        "site": "Twisted London (Guildford - Southway)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Absolutely loved this burger! \ud83c\udf54 Everything was so delicious, especially the toppings. Sometimes burgers can taste a bit tasteless, the meat doesn\u2019t have much flavour, or the sauces just aren\u2019t very good \u2014 but this one was completely different. The meat was delicious, the sauces were perfect, and the onions and pickles were especially good. Everything worked so well together. Definitely one of the best burgers I\u2019ve had! \ud83e\udd24",
+        "created": "2026-08-30T16:32:12Z",
+        "date": "2026-08-30"
+      },
+      {
+        "site": "Twisted London (Salford - Media City)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Food was amazing! Deffo gonna order again",
+        "created": "2026-08-30T19:45:01Z",
+        "date": "2026-08-30"
+      },
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "First order from Twisted, will be ordering again everything was hot, fresh and tasty. The buffalo wings were particularly delicious!",
+        "created": "2026-08-30T17:39:57Z",
+        "date": "2026-08-30"
+      },
+      {
+        "site": "Koreatown-(Birmingham-BuckinghamSt)",
+        "brand": "Koreatown",
+        "rating": 2,
+        "text": "Food was cold &amp; looked a mess! Missed out a whole meal bundle and was over an hour late.",
+        "created": "2026-08-30T16:29:46Z",
+        "date": "2026-08-30"
+      },
+      {
+        "site": "Twisted London (Croydon - South end)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "10/10 flavoursome burgers !",
+        "created": "2026-08-30T13:24:42Z",
+        "date": "2026-08-30"
+      },
+      {
+        "site": "Twisted London (Eltham - Newmarket Grn)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Great burgers, moist but not greasy! Only thing I can suggest would be the introduction of a kids menu. Will be ordering from here again!",
+        "created": "2026-08-31T18:19:36Z",
+        "date": "2026-08-31"
+      },
+      {
+        "site": "Twisted London (Eltham - Newmarket Grn)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "It was good but the patties were too thick, meaning that some of it wasn\u2019t fully cooked through and so it doesn\u2019t have the great crispy texture",
+        "created": "2026-08-30T21:08:08Z",
+        "date": "2026-08-30"
+      },
+      {
+        "site": "Twisted London (Eltham - Newmarket Grn)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Order came super quick, food was hot. Burger flavoursome and juicy. Loaded chips weren\u2019t soggy like some places. My partner (who can be fussy with burgers) LOVED it and said we will order again 10/10",
+        "created": "2026-08-29T19:43:10Z",
+        "date": "2026-08-29"
+      },
+      {
+        "site": "Twisted London (Eltham - Newmarket Grn)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Thee, if not the ONLY best cheeseburgers ABOUT! 100% get a cheeseburger from the place.. it will blow your mind. Can\u2019t wait to order from here again! Thank you!",
+        "created": "2026-08-29T13:00:03Z",
+        "date": "2026-08-29"
+      },
+      {
         "site": "Koreatown-KoreanFriedChicken(Aylesbury-BuckinghamSt)",
         "brand": "Koreatown",
         "rating": 2,
         "text": "This was our third order from \u201cKoreatown\u201d. The first two were excellent, however there was a massive drop in food quality this time. The breaded chicken pieces were full of cooking oil and were burnt. The rice was sticky and stodgy where previous orders had been perfect. Only half the chosen sauces were delivered. Will not be ordering from \u201cKoreatown\u201d again. Cannot recommend.",
         "created": "2026-08-31T03:11:41Z",
+        "date": "2026-08-31"
+      },
+      {
+        "site": "Koreatown (Hatfield - The Common)",
+        "brand": "Koreatown",
+        "rating": 2,
+        "text": "No edamame whatsoever in the bowl, the beef was dried together and the salad just thrown in, in a very unpresentable and unappetising manner.",
+        "created": "2026-08-30T19:10:48Z",
+        "date": "2026-08-30"
+      },
+      {
+        "site": "WTF! (Windsor - Oxford Road)",
+        "brand": "WTF",
+        "rating": 1,
+        "text": "ordered a vegan bacon cheeseburger and onion rings, burger didn&#39;t have any bacon in it and the onion rings never had onions in them",
+        "created": "2026-08-31T18:07:22Z",
+        "date": "2026-08-31"
+      },
+      {
+        "site": "Kuro Smash - (Kensal Rise - Station Terrace)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "A bag of Doritos does not constitute \u2018Loaded Doritos\u2019 Absolute cowboys. I would recommend saving yourself the grief and ordering elsewhere",
+        "created": "2026-08-31T17:07:29Z",
+        "date": "2026-08-31"
+      },
+      {
+        "site": "Twisted London (Wembley - Ealing Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "sorry but this food is very bad",
+        "created": "2026-08-31T18:19:40Z",
         "date": "2026-08-31"
       }
     ]
