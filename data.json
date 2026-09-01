@@ -5673,8 +5673,38 @@
   },
   "2026-09-01": {
     "scraped_date": "2026-09-01",
-    "last_updated": "2026-09-01T19:15:51Z",
+    "last_updated": "2026-09-01T22:26:39Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-01T23:18:12",
+        "site": "Twisted London (Coatbridge - Main St)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-01T23:09:13",
+        "site": "Kuro Smash (Southampton - Commercial Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-09-01T21:11:09",
+        "site": "Twisted London (Norwich - Earlham West Centre)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-01T20:49:33",
+        "site": "Twisted London (Norwich - Earlham West Centre)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-01T20:48:48",
+        "site": "Kuro Smash - Umami Burgers (Sheffield - Bellhouse Road)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-09-01T20:20:59",
+        "site": "Kuro Smash - Umami Burgers (Sheffield - Bellhouse Road)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-09-01T19:46:18",
         "site": "Twisted London (Eastbourne)",
