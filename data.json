@@ -5673,8 +5673,116 @@
   },
   "2026-09-01": {
     "scraped_date": "2026-09-01",
-    "last_updated": "2026-09-01T09:13:08Z",
-    "cancelled_orders": [],
-    "reviews": []
+    "last_updated": "2026-09-01T14:34:27Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-09-01T15:27:02",
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-01T15:20:27",
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London"
+      }
+    ],
+    "reviews": [
+      {
+        "site": "Twisted London (Macclesfield - Chestergate)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "Food was excellent, but we ordered with an estimate of 20-35 minutes and it didn&#39;t arrive for 1h15m",
+        "created": "2026-09-01T08:08:57Z",
+        "date": "2026-09-01"
+      },
+      {
+        "site": "Kuro Smash - (Kensal Rise - Station Terrace)",
+        "brand": "Kuro Smash",
+        "rating": 3,
+        "text": "the burger was very underwhelming and very disappointing in every aspect. fries were quite oily and warm when they arrived. didn&#39;t even receive the coke i ordered.",
+        "created": "2026-08-31T18:50:38Z",
+        "date": "2026-08-31"
+      },
+      {
+        "site": "Kuro Smash - (Kensal Rise - Station Terrace)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "A bag of Doritos does not constitute \u2018Loaded Doritos\u2019 Absolute cowboys. I would recommend saving yourself the grief and ordering elsewhere",
+        "created": "2026-08-31T17:07:29Z",
+        "date": "2026-08-31"
+      },
+      {
+        "site": "Koreatown (Grangetown - Holmesdale St)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "The garlic honey chicken burger was superb! First time ordering so it was great one, and the food is super tasty! Will order again",
+        "created": "2026-08-31T22:24:27Z",
+        "date": "2026-08-31"
+      },
+      {
+        "site": "Twisted London (Wembley - Ealing Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "sorry but this food is very bad",
+        "created": "2026-08-31T18:19:40Z",
+        "date": "2026-08-31"
+      },
+      {
+        "site": "Twisted London (Colchester)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "It was burnt",
+        "created": "2026-08-31T20:14:31Z",
+        "date": "2026-08-31"
+      },
+      {
+        "site": "Kuro Smash (Bristol - Soundwell Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "The burgers are super delicious",
+        "created": "2026-09-01T11:07:39Z",
+        "date": "2026-09-01"
+      },
+      {
+        "site": "WTF! (Windsor - Oxford Road)",
+        "brand": "WTF",
+        "rating": 1,
+        "text": "ordered a vegan bacon cheeseburger and onion rings, burger didn&#39;t have any bacon in it and the onion rings never had onions in them",
+        "created": "2026-08-31T18:07:22Z",
+        "date": "2026-08-31"
+      },
+      {
+        "site": "Twisted Burgers (Coventry)",
+        "brand": "Other",
+        "rating": 4,
+        "text": "burger good as always X missing items x",
+        "created": "2026-08-31T21:02:54Z",
+        "date": "2026-08-31"
+      },
+      {
+        "site": "Twisted London (Eltham - Newmarket Grn)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Great burgers, moist but not greasy! Only thing I can suggest would be the introduction of a kids menu. Will be ordering from here again!",
+        "created": "2026-08-31T18:19:36Z",
+        "date": "2026-08-31"
+      },
+      {
+        "site": "Twisted London (Eltham - Newmarket Grn)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "It was good but the patties were too thick, meaning that some of it wasn\u2019t fully cooked through and so it doesn\u2019t have the great crispy texture",
+        "created": "2026-08-30T21:08:08Z",
+        "date": "2026-08-30"
+      },
+      {
+        "site": "Hot Chick Award-Winning Saucy Fried Chicken (Middlesbrough - King's Rd)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "AMAZING OMG",
+        "created": "2026-09-01T14:04:42Z",
+        "date": "2026-09-01"
+      }
+    ]
   }
 }
