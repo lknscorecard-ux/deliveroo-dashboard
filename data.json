@@ -5673,8 +5673,53 @@
   },
   "2026-09-01": {
     "scraped_date": "2026-09-01",
-    "last_updated": "2026-09-01T14:34:27Z",
+    "last_updated": "2026-09-01T19:15:51Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-01T19:46:18",
+        "site": "Twisted London (Eastbourne)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-01T19:30:59",
+        "site": "Twisted London (Bognor Regis - York Rd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-01T19:24:35",
+        "site": "Twisted London (Bognor Regis - York Rd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-01T19:15:12",
+        "site": "Twisted London (Eastbourne)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-01T18:46:45",
+        "site": "Koreatown - Korean Fried Chicken (Bognor Regis - York Rd)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-09-01T18:29:08",
+        "site": "Twisted London (Eastbourne)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-01T18:11:48",
+        "site": "Kuro Smash - Umami Burgers (Sheffield - Bellhouse Road)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-09-01T18:07:22",
+        "site": "HotChick-Award-WinningSaucyFriedChicken(BurgessHill-KeymerRd)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-09-01T16:50:22",
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-09-01T15:27:02",
         "site": "Twisted London (Dorking - High St)",
@@ -5776,11 +5821,35 @@
         "date": "2026-08-30"
       },
       {
+        "site": "Kuro Smash (Aberdeen - Hutcheon St)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Bit messy as bun was wet, tasty though, would order again",
+        "created": "2026-09-01T18:54:11Z",
+        "date": "2026-09-01"
+      },
+      {
         "site": "Hot Chick Award-Winning Saucy Fried Chicken (Middlesbrough - King's Rd)",
         "brand": "Hot Chick",
         "rating": 5,
         "text": "AMAZING OMG",
         "created": "2026-09-01T14:04:42Z",
+        "date": "2026-09-01"
+      },
+      {
+        "site": "TwistedLondon(Shadwell-ChapmanSt)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Fries were soggy with a few bits of cremated bacon. The burger was sad and flavourless, also stone cold and soggy too.",
+        "created": "2026-09-01T18:42:54Z",
+        "date": "2026-09-01"
+      },
+      {
+        "site": "Kuro Smash - (Clifton - Byron Pl)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "they send you freezing cold nacho cheese sauce. they DO NOT  put any guacamole or sour cream on the nachos. The chicken bites are deep fried with in an inch of its life and the fajitas chicken tastes like tandoori chicken",
+        "created": "2026-09-01T15:43:52Z",
         "date": "2026-09-01"
       }
     ]
