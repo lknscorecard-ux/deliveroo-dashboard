@@ -5886,8 +5886,38 @@
   },
   "2026-09-02": {
     "scraped_date": "2026-09-02",
-    "last_updated": "2026-09-02T14:08:28Z",
+    "last_updated": "2026-09-02T19:16:36Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-02T20:11:40",
+        "site": "Kuro Smash (Southampton - Commercial Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-09-02T19:30:41",
+        "site": "Kuro Smash (Nottingham - Castle Blvd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-09-02T19:04:45",
+        "site": "Kuro Smash - Umami Burgers (Sheffield - Bellhouse Road)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-09-02T18:44:59",
+        "site": "Koreatown (Southampton - Commercial Rd)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-09-02T17:32:21",
+        "site": "Kuro Smash (Nottingham - Castle Blvd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-09-02T16:52:56",
+        "site": "Twisted London (Norwich - Earlham West Centre)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-09-02T14:03:44",
         "site": "Wing Fest All Stars (Bristol - Southmead Rd)",
@@ -5907,6 +5937,14 @@
         "site": "Hot Chick Award-Winning Saucy Fried Chicken (Middlesbrough - King's Rd)",
         "brand": "Hot Chick",
         "rating": 5,
+        "text": "Best chicken dinner for two - I will keep coming back!",
+        "created": "2026-09-02T16:14:28Z",
+        "date": "2026-09-02"
+      },
+      {
+        "site": "Hot Chick Award-Winning Saucy Fried Chicken (Middlesbrough - King's Rd)",
+        "brand": "Hot Chick",
+        "rating": 5,
         "text": "AMAZING OMG",
         "created": "2026-09-01T14:04:42Z",
         "date": "2026-09-01"
@@ -5918,6 +5956,14 @@
         "text": "I ordered 2 OG bacon burgers and I received 2 something with some red cabbages probably what\u2019s was left by the end of the shift. Disgst",
         "created": "2026-09-01T22:32:02Z",
         "date": "2026-09-01"
+      },
+      {
+        "site": "Hot Chick - (York)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Just top!",
+        "created": "2026-09-02T14:55:43Z",
+        "date": "2026-09-02"
       },
       {
         "site": "Hot Chick - (York)",
@@ -5966,6 +6012,38 @@
         "text": "Fries were soggy with a few bits of cremated bacon. The burger was sad and flavourless, also stone cold and soggy too.",
         "created": "2026-09-01T18:42:54Z",
         "date": "2026-09-01"
+      },
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "very tasty meal the burger was great quality recommend it",
+        "created": "2026-09-02T15:36:03Z",
+        "date": "2026-09-02"
+      },
+      {
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Crewe - Nantwich Rd)",
+        "brand": "Wing Fest",
+        "rating": 5,
+        "text": "Best chicken wings on earth!!!",
+        "created": "2026-09-02T16:31:54Z",
+        "date": "2026-09-02"
+      },
+      {
+        "site": "Twisted London (Middlesbrough - King's Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Yummy meal for two ! Will always keep coming back",
+        "created": "2026-09-02T16:33:11Z",
+        "date": "2026-09-02"
+      },
+      {
+        "site": "Koreatown (Whyteleaf - Godstone Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Great attention to detail with the presentation.",
+        "created": "2026-09-02T18:05:56Z",
+        "date": "2026-09-02"
       }
     ]
   }
