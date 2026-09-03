@@ -6049,23 +6049,8 @@
   },
   "2026-09-03": {
     "scraped_date": "2026-09-03",
-    "last_updated": "2026-09-03T08:35:34Z",
-    "cancelled_orders": [
-      {
-        "time": "2026-09-03T00:55:06",
-        "site": "TwistedLondon(Shadwell-ChapmanSt)",
-        "brand": "Twisted London"
-      }
-    ],
-    "reviews": [
-      {
-        "site": "Kuro Smash - (Clifton - Byron Pl)",
-        "brand": "Kuro Smash",
-        "rating": 1,
-        "text": "very poor quality meal. not worth it.",
-        "created": "2026-09-03T01:33:26Z",
-        "date": "2026-09-03"
-      }
-    ]
+    "last_updated": "2026-09-03T19:08:28Z",
+    "cancelled_orders": [],
+    "reviews": []
   }
 }
