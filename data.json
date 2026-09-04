@@ -6179,8 +6179,24 @@
   },
   "2026-09-04": {
     "scraped_date": "2026-09-04",
-    "last_updated": "2026-09-04T14:02:36Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-09-04T18:51:51Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-09-04T18:59:37",
+        "site": "TwistedLondon(BurgessHill-KeymerRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-04T18:58:51",
+        "site": "TwistedLondon(BurgessHill-KeymerRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-04T15:34:57",
+        "site": "HotChick-(Shadwell-ChapmanSt)",
+        "brand": "Hot Chick"
+      }
+    ],
     "reviews": [
       {
         "site": "Koreatown (Bristol - Soundwell Rd)",
@@ -6201,10 +6217,50 @@
       {
         "site": "Koreatown (Norwich - Aylsham Cres)",
         "brand": "Koreatown",
+        "rating": 4,
+        "text": "One of the best chicken burgers I have had, loaded fries were lush to. Korean fries let it down, cold and plain",
+        "created": "2026-09-04T17:59:47Z",
+        "date": "2026-09-04"
+      },
+      {
+        "site": "Koreatown (Norwich - Aylsham Cres)",
+        "brand": "Koreatown",
         "rating": 2,
         "text": "We weren\u2019t a fan of the flavour some bits tasted better than others some bits were dry some bits didn\u2019t taste nice, For first time ordering it\u2019s definitely not for us again",
         "created": "2026-09-03T17:43:58Z",
         "date": "2026-09-03"
+      },
+      {
+        "site": "Twisted London (Deptford)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "I ordered but I wish I read the negative reviews in regards to smash burger I suppose I was too excited getting buy one get one free but don&#39;t fall for it funky off smell coming from burgers like out of date then both patties in each double burger seriously undercooked not even edible. The burger seemed like it had been rehashed together literally falling apart and then smothered in so much sauce  to hide the fact of terrible undercooked meat!  I mean how do you undercook a smash burger ? When it&#39;s thin already and needs a few minutes each side only and finished under a closh with cheese on top how hard is it ? These burgers looked grey don&#39;t order from them waste of time and have to throw all away",
+        "created": "2026-09-04T15:31:08Z",
+        "date": "2026-09-04"
+      },
+      {
+        "site": "Kuro Smash (Brighton - Western Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Brilliant! Packed full of flavour and generous portions.",
+        "created": "2026-09-04T18:46:11Z",
+        "date": "2026-09-04"
+      },
+      {
+        "site": "Twisted London (Epsom - Kingston Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Crispy food actually stayed crispy after delivery!",
+        "created": "2026-09-04T15:56:13Z",
+        "date": "2026-09-04"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Dorking - High St)",
+        "brand": "Hot Chick",
+        "rating": 4,
+        "text": "everything was fine except the chips which were cold",
+        "created": "2026-09-04T16:26:02Z",
+        "date": "2026-09-04"
       }
     ]
   }
