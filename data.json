@@ -6179,8 +6179,33 @@
   },
   "2026-09-04": {
     "scraped_date": "2026-09-04",
-    "last_updated": "2026-09-04T08:31:36Z",
+    "last_updated": "2026-09-04T14:02:36Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Koreatown (Bristol - Soundwell Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "The flavours were amazing and worked really well together.",
+        "created": "2026-09-04T13:45:51Z",
+        "date": "2026-09-04"
+      },
+      {
+        "site": "Koreatown (Bristol - Soundwell Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Absolutely amazing",
+        "created": "2026-09-03T13:07:31Z",
+        "date": "2026-09-03"
+      },
+      {
+        "site": "Koreatown (Norwich - Aylsham Cres)",
+        "brand": "Koreatown",
+        "rating": 2,
+        "text": "We weren\u2019t a fan of the flavour some bits tasted better than others some bits were dry some bits didn\u2019t taste nice, For first time ordering it\u2019s definitely not for us again",
+        "created": "2026-09-03T17:43:58Z",
+        "date": "2026-09-03"
+      }
+    ]
   }
 }
