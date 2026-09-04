@@ -6179,8 +6179,13 @@
   },
   "2026-09-04": {
     "scraped_date": "2026-09-04",
-    "last_updated": "2026-09-04T18:51:51Z",
+    "last_updated": "2026-09-04T22:10:17Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-04T22:14:46",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Liverpool - Bold Street)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-09-04T18:59:37",
         "site": "TwistedLondon(BurgessHill-KeymerRd)",
@@ -6260,6 +6265,14 @@
         "rating": 4,
         "text": "everything was fine except the chips which were cold",
         "created": "2026-09-04T16:26:02Z",
+        "date": "2026-09-04"
+      },
+      {
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Leeds - Britannia St)",
+        "brand": "WTF",
+        "rating": 4,
+        "text": "When the food arrived, I was disappointed with the portion size of the loaded fries, considering the size advertised\u2026.but not gonna lie, the vegan burger and fries were delicious!! I don\u2019t think the portion was worth over \u00a317- maybe if I was eating out with friends, but the quality was still good.",
+        "created": "2026-09-04T20:15:25Z",
         "date": "2026-09-04"
       }
     ]
