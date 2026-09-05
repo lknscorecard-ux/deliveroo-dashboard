@@ -6279,7 +6279,7 @@
   },
   "2026-09-05": {
     "scraped_date": "2026-09-05",
-    "last_updated": "2026-09-05T20:00:23Z",
+    "last_updated": "2026-09-05T22:02:14Z",
     "cancelled_orders": [
       {
         "time": "2026-09-05T20:16:54",
@@ -6405,6 +6405,14 @@
         "rating": 1,
         "text": "Bad experience, avoid. I ordered the truffle burger and there wasn\u2019t a single bit of truffle in it. Sauces were bad and would never order from here again. Please stay away.",
         "created": "2026-09-05T18:07:14Z",
+        "date": "2026-09-05"
+      },
+      {
+        "site": "Twisted London (Hatfield-The Common)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Deliveroo did not drop my order he got lost and took a picture of the bag outside a neighbour\u2019s door then drove off with the food",
+        "created": "2026-09-05T21:43:16Z",
         "date": "2026-09-05"
       }
     ]
