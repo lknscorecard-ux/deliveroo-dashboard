@@ -6279,8 +6279,29 @@
   },
   "2026-09-05": {
     "scraped_date": "2026-09-05",
-    "last_updated": "2026-09-05T16:35:50Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-09-05T20:00:23Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-09-05T20:16:54",
+        "site": "WTF! (Slough - Burnham Ln)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-09-05T20:12:19",
+        "site": "WTF!-(Welwyn-LondonRd)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-09-05T19:57:29",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Hull - Grange Park Ln)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-09-05T18:01:17",
+        "site": "TwistedLondon(BurgessHill-KeymerRd)",
+        "brand": "Twisted London"
+      }
+    ],
     "reviews": [
       {
         "site": "Hot Chick (Harlow - Southern Way)",
@@ -6377,6 +6398,14 @@
         "text": "Holy moly this stuff is good! Can\u2019t believe there\u2019s a Byron around here now!!",
         "created": "2026-09-04T13:36:03Z",
         "date": "2026-09-04"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Bad experience, avoid. I ordered the truffle burger and there wasn\u2019t a single bit of truffle in it. Sauces were bad and would never order from here again. Please stay away.",
+        "created": "2026-09-05T18:07:14Z",
+        "date": "2026-09-05"
       }
     ]
   }
