@@ -6279,8 +6279,17 @@
   },
   "2026-09-05": {
     "scraped_date": "2026-09-05",
-    "last_updated": "2026-09-05T08:06:04Z",
+    "last_updated": "2026-09-05T13:17:11Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Kuro Smash (Brighton - Western Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Lovely tasty, but tender burger and nice fries.",
+        "created": "2026-09-05T11:55:44Z",
+        "date": "2026-09-05"
+      }
+    ]
   }
 }
