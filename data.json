@@ -6279,9 +6279,33 @@
   },
   "2026-09-05": {
     "scraped_date": "2026-09-05",
-    "last_updated": "2026-09-05T13:17:11Z",
+    "last_updated": "2026-09-05T16:35:50Z",
     "cancelled_orders": [],
     "reviews": [
+      {
+        "site": "Hot Chick (Harlow - Southern Way)",
+        "brand": "Hot Chick",
+        "rating": 2,
+        "text": "The Korean BBQ chicken wings were just missing the sesame seeds, ranch drizzle and spring onions and the food didn&#39;t look as good on the pictures\ud83d\ude14 maybe a one time thing but I wouldn&#39;t risk it. the food was decent anyways , the burger was fine. For a restaurant that won the reward for their wings I&#39;m kind of disappointed that they missed a few things, even if it was small, Paying for something and missing parts of it doesn&#39;t feel good which completely ruined it for me.",
+        "created": "2026-09-04T18:25:14Z",
+        "date": "2026-09-04"
+      },
+      {
+        "site": "Twisted London (Epsom - Kingston Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Crispy food actually stayed crispy after delivery!",
+        "created": "2026-09-04T15:56:13Z",
+        "date": "2026-09-04"
+      },
+      {
+        "site": "TwistedLondon(Abingdon-MarchamRd)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "over half order missing,but the ones that arrived was very nice",
+        "created": "2026-09-04T16:45:20Z",
+        "date": "2026-09-04"
+      },
       {
         "site": "Kuro Smash (Brighton - Western Rd)",
         "brand": "Kuro Smash",
@@ -6289,6 +6313,70 @@
         "text": "Lovely tasty, but tender burger and nice fries.",
         "created": "2026-09-05T11:55:44Z",
         "date": "2026-09-05"
+      },
+      {
+        "site": "Kuro Smash (Brighton - Western Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Brilliant! Packed full of flavour and generous portions.",
+        "created": "2026-09-04T18:46:11Z",
+        "date": "2026-09-04"
+      },
+      {
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Leeds - Britannia St)",
+        "brand": "WTF",
+        "rating": 4,
+        "text": "When the food arrived, I was disappointed with the portion size of the loaded fries, considering the size advertised\u2026.but not gonna lie, the vegan burger and fries were delicious!! I don\u2019t think the portion was worth over \u00a317- maybe if I was eating out with friends, but the quality was still good.",
+        "created": "2026-09-04T20:15:25Z",
+        "date": "2026-09-04"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Dorking - High St)",
+        "brand": "Hot Chick",
+        "rating": 4,
+        "text": "everything was fine except the chips which were cold",
+        "created": "2026-09-04T16:26:02Z",
+        "date": "2026-09-04"
+      },
+      {
+        "site": "Koreatown (Norwich - Aylsham Cres)",
+        "brand": "Koreatown",
+        "rating": 4,
+        "text": "One of the best chicken burgers I have had, loaded fries were lush to. Korean fries let it down, cold and plain",
+        "created": "2026-09-04T17:59:47Z",
+        "date": "2026-09-04"
+      },
+      {
+        "site": "Koreatown (Norwich - Aylsham Cres)",
+        "brand": "Koreatown",
+        "rating": 2,
+        "text": "We weren\u2019t a fan of the flavour some bits tasted better than others some bits were dry some bits didn\u2019t taste nice, For first time ordering it\u2019s definitely not for us again",
+        "created": "2026-09-03T17:43:58Z",
+        "date": "2026-09-03"
+      },
+      {
+        "site": "Wing Fest All Stars (Folkestone - Fleming Way)",
+        "brand": "Wing Fest",
+        "rating": 1,
+        "text": "The taste is good but the bun was extremely burnt.",
+        "created": "2026-09-04T19:04:08Z",
+        "date": "2026-09-04"
+      },
+      {
+        "site": "Byron (Burgess Hill - Church Rd)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "Yay Byron in town amazing burgers!!\ud83c\udf54",
+        "created": "2026-09-04T15:44:09Z",
+        "date": "2026-09-04"
+      },
+      {
+        "site": "Byron (Burgess Hill - Church Rd)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "Holy moly this stuff is good! Can\u2019t believe there\u2019s a Byron around here now!!",
+        "created": "2026-09-04T13:36:03Z",
+        "date": "2026-09-04"
       }
     ]
   }
