@@ -6419,8 +6419,19 @@
   },
   "2026-09-06": {
     "scraped_date": "2026-09-06",
-    "last_updated": "2026-09-05T23:48:07Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-09-06T03:06:20Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-09-06T03:37:57",
+        "site": "HotChick-(CanningTown-NorthWoolwichRd)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-09-06T03:08:37",
+        "site": "Twisted London (Guildford - Southway)",
+        "brand": "Twisted London"
+      }
+    ],
     "reviews": []
   }
 }
