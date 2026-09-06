@@ -6419,8 +6419,13 @@
   },
   "2026-09-06": {
     "scraped_date": "2026-09-06",
-    "last_updated": "2026-09-06T03:06:20Z",
+    "last_updated": "2026-09-06T08:24:22Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-06T04:39:34",
+        "site": "TwistedLondon(CanningTown-NorthWoolwichRd)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-09-06T03:37:57",
         "site": "HotChick-(CanningTown-NorthWoolwichRd)",
