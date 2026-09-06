@@ -6575,5 +6575,17 @@
         "date": "2026-09-06"
       }
     ]
+  },
+  "2026-09-07": {
+    "scraped_date": "2026-09-07",
+    "last_updated": "2026-09-06T23:31:39Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-09-07T00:23:29",
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Reading - Southampton St)",
+        "brand": "Wing Fest"
+      }
+    ],
+    "reviews": []
   }
 }
