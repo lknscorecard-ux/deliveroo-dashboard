@@ -6419,8 +6419,28 @@
   },
   "2026-09-06": {
     "scraped_date": "2026-09-06",
-    "last_updated": "2026-09-06T16:45:06Z",
+    "last_updated": "2026-09-06T20:04:30Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-06T20:47:58",
+        "site": "Wing Fest All Stars (West Ealing - Uxbridge Rd)",
+        "brand": "Wing Fest"
+      },
+      {
+        "time": "2026-09-06T19:49:33",
+        "site": "TwistedLondon(BurgessHill-KeymerRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-06T19:48:49",
+        "site": "TwistedLondon(BurgessHill-KeymerRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-06T19:48:30",
+        "site": "TwistedLondon(BurgessHill-KeymerRd)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-09-06T17:40:16",
         "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Stratford - Romford Rd)",
@@ -6507,11 +6527,51 @@
         "date": "2026-09-05"
       },
       {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Burgers, onion rings and chicken tenders are off the chart delicious!!!!",
+        "created": "2026-09-06T18:59:56Z",
+        "date": "2026-09-06"
+      },
+      {
+        "site": "Kuro Smash (Whyteleaf - Godstone Rd)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "It\u2019s actually a mini burger with no fries or drink and the burger doesn\u2019t even look like nothing displayed there!! Fake advertisement",
+        "created": "2026-09-06T18:59:30Z",
+        "date": "2026-09-06"
+      },
+      {
         "site": "Kuro Smash - (Clifton - Byron Pl)",
         "brand": "Kuro Smash",
         "rating": 1,
         "text": "Cold, overpriced , Dorito to beef ratio was awful",
         "created": "2026-09-06T14:02:03Z",
+        "date": "2026-09-06"
+      },
+      {
+        "site": "Twisted London (Guildford - Southway)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Awful couldn\u2019t even finish it the chicken was pure rubber and cold chips",
+        "created": "2026-09-06T18:46:13Z",
+        "date": "2026-09-06"
+      },
+      {
+        "site": "Koreatown-KoreanFriedChicken(Aylesbury-BuckinghamSt)",
+        "brand": "Koreatown",
+        "rating": 4,
+        "text": "bit stingy with beef but amazing succulent food",
+        "created": "2026-09-06T18:32:35Z",
+        "date": "2026-09-06"
+      },
+      {
+        "site": "Koreatown - (Newcastle - Shields Rd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "total false advertising not remotely like the photos and hardly any flavour at all.",
+        "created": "2026-09-06T19:58:30Z",
         "date": "2026-09-06"
       }
     ]
