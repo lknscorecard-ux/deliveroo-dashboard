@@ -6419,8 +6419,13 @@
   },
   "2026-09-06": {
     "scraped_date": "2026-09-06",
-    "last_updated": "2026-09-06T08:24:22Z",
+    "last_updated": "2026-09-06T13:27:08Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-06T14:17:13",
+        "site": "TwistedLondon(Welwyn-LondonRd)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-09-06T04:39:34",
         "site": "TwistedLondon(CanningTown-NorthWoolwichRd)",
@@ -6437,6 +6442,55 @@
         "brand": "Twisted London"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "WTF! - Mind-Blowing Vegan Burgers\ud83c\udf31(Kensal Rise - Station Terrace)",
+        "brand": "WTF",
+        "rating": 2,
+        "text": "Burgers were small for price, squished and one was not what we ordered. Taste was fine.",
+        "created": "2026-09-05T22:26:54Z",
+        "date": "2026-09-05"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Leeds - Britannia St)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "Rice was uncooked",
+        "created": "2026-09-06T01:58:44Z",
+        "date": "2026-09-06"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Uxbridge-High St)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "The rice bowl is like 95% rice and 5% chicken",
+        "created": "2026-09-05T14:05:44Z",
+        "date": "2026-09-05"
+      },
+      {
+        "site": "KuroSmash-UmamiBurgers(Hayes-WelbeckAv)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "The teriyaki burger tasted burnt and quite fishy. I&#39;m not sure why but it seems something is wrong in their grilling/cooking/frying process. The chicken burger was terrible with every bite. The chicken was hard as if it wasn&#39;t defrosted properly. Never ordering from here again.",
+        "created": "2026-09-05T15:03:58Z",
+        "date": "2026-09-05"
+      },
+      {
+        "site": "WTF! (Deptford)",
+        "brand": "WTF",
+        "rating": 1,
+        "text": "What is happening?? You making the burgers smaller and smaller. Chips are also such a small portion for 7\u00a3!!! The other location does normal size, you are making them now 50% smaller...\nNo more orders from me",
+        "created": "2026-09-05T22:09:01Z",
+        "date": "2026-09-05"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Bad experience, avoid. I ordered the truffle burger and there wasn\u2019t a single bit of truffle in it. Sauces were bad and would never order from here again. Please stay away.",
+        "created": "2026-09-05T18:07:14Z",
+        "date": "2026-09-05"
+      }
+    ]
   }
 }
