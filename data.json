@@ -6578,8 +6578,13 @@
   },
   "2026-09-07": {
     "scraped_date": "2026-09-07",
-    "last_updated": "2026-09-07T19:38:23Z",
+    "last_updated": "2026-09-07T22:33:15Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-07T21:18:06",
+        "site": "Koreatown (Swansea - Pontardulais Rd)",
+        "brand": "Koreatown"
+      },
       {
         "time": "2026-09-07T18:24:02",
         "site": "WTF! (Slough - Burnham Ln)",
@@ -6697,6 +6702,14 @@
         "rating": 5,
         "text": "So good to see byron is back!! It was so yum !!",
         "created": "2026-09-07T15:44:37Z",
+        "date": "2026-09-07"
+      },
+      {
+        "site": "Wing Fest All Stars (Bristol - Southmead Rd)",
+        "brand": "Wing Fest",
+        "rating": 2,
+        "text": "I didn\u2019t enjoy the food from here at all. The burger was over flavoured and the wings were too crispy and undercooked on the inside. Oh terrible.",
+        "created": "2026-09-07T20:46:04Z",
         "date": "2026-09-07"
       },
       {
