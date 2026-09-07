@@ -6578,8 +6578,18 @@
   },
   "2026-09-07": {
     "scraped_date": "2026-09-07",
-    "last_updated": "2026-09-07T08:58:36Z",
+    "last_updated": "2026-09-07T15:33:15Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-07T15:35:02",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bristol - Bordeaux Quay)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-09-07T12:52:08",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bristol - Bordeaux Quay)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-09-07T06:34:36",
         "site": "Koreatown-(Birmingham-BuckinghamSt)",
@@ -6598,6 +6608,22 @@
     ],
     "reviews": [
       {
+        "site": "Koreatown (Bristol - Soundwell Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Loved it",
+        "created": "2026-09-06T23:52:52Z",
+        "date": "2026-09-07"
+      },
+      {
+        "site": "Koreatown - (Newcastle - Shields Rd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "total false advertising not remotely like the photos and hardly any flavour at all.",
+        "created": "2026-09-06T19:58:30Z",
+        "date": "2026-09-06"
+      },
+      {
         "site": "WTF! - Mind-Blowing Vegan Burgers\ud83c\udf31(Kensal Rise - Station Terrace)",
         "brand": "WTF",
         "rating": 4,
@@ -6606,11 +6632,51 @@
         "date": "2026-09-07"
       },
       {
-        "site": "Koreatown (Bristol - Soundwell Rd)",
-        "brand": "Koreatown",
+        "site": "WTF! - Mind-Blowing Vegan Burgers\ud83c\udf31(Kensal Rise - Station Terrace)",
+        "brand": "WTF",
+        "rating": 2,
+        "text": "Burgers were small for price, squished and one was not what we ordered. Taste was fine.",
+        "created": "2026-09-05T22:26:54Z",
+        "date": "2026-09-05"
+      },
+      {
+        "site": "Twisted London (Guildford - Southway)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Awful couldn\u2019t even finish it the chicken was pure rubber and cold chips",
+        "created": "2026-09-06T18:46:13Z",
+        "date": "2026-09-06"
+      },
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
         "rating": 5,
-        "text": "Loved it",
-        "created": "2026-09-06T23:52:52Z",
+        "text": "Burgers, onion rings and chicken tenders are off the chart delicious!!!!",
+        "created": "2026-09-06T18:59:56Z",
+        "date": "2026-09-06"
+      },
+      {
+        "site": "Kuro Smash - (Clifton - Byron Pl)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "Cold, overpriced , Dorito to beef ratio was awful",
+        "created": "2026-09-06T14:02:03Z",
+        "date": "2026-09-06"
+      },
+      {
+        "site": "Koreatown-KoreanFriedChicken(Aylesbury-BuckinghamSt)",
+        "brand": "Koreatown",
+        "rating": 4,
+        "text": "bit stingy with beef but amazing succulent food",
+        "created": "2026-09-06T18:32:35Z",
+        "date": "2026-09-06"
+      },
+      {
+        "site": "Kuro Smash (Aberdeen - Hutcheon St)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Burgers were great. Descent and tasty. Fries were not that good next day, maybe cause they were freezed before being cooked.",
+        "created": "2026-09-07T13:52:52Z",
         "date": "2026-09-07"
       }
     ]
