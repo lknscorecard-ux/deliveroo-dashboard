@@ -6578,14 +6578,36 @@
   },
   "2026-09-07": {
     "scraped_date": "2026-09-07",
-    "last_updated": "2026-09-06T23:31:39Z",
+    "last_updated": "2026-09-07T03:03:54Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-07T01:15:38",
+        "site": "Wing Fest All Stars (Watford - Market St)",
+        "brand": "Wing Fest"
+      },
       {
         "time": "2026-09-07T00:23:29",
         "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Reading - Southampton St)",
         "brand": "Wing Fest"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "WTF! - Mind-Blowing Vegan Burgers\ud83c\udf31(Kensal Rise - Station Terrace)",
+        "brand": "WTF",
+        "rating": 4,
+        "text": "Yummy, unpretentious vegan fast-food, which is a hard thing to find. Fries were perfect. I wish I could have opted out of the cheese, but other than that great.",
+        "created": "2026-09-07T00:27:56Z",
+        "date": "2026-09-07"
+      },
+      {
+        "site": "Koreatown (Bristol - Soundwell Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Loved it",
+        "created": "2026-09-06T23:52:52Z",
+        "date": "2026-09-07"
+      }
+    ]
   }
 }
