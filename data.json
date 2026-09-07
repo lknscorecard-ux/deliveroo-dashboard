@@ -6578,8 +6578,13 @@
   },
   "2026-09-07": {
     "scraped_date": "2026-09-07",
-    "last_updated": "2026-09-07T03:03:54Z",
+    "last_updated": "2026-09-07T08:58:36Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-07T06:34:36",
+        "site": "Koreatown-(Birmingham-BuckinghamSt)",
+        "brand": "Koreatown"
+      },
       {
         "time": "2026-09-07T01:15:38",
         "site": "Wing Fest All Stars (Watford - Market St)",
