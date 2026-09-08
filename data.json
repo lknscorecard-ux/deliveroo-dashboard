@@ -6724,8 +6724,18 @@
   },
   "2026-09-08": {
     "scraped_date": "2026-09-08",
-    "last_updated": "2026-09-08T19:17:58Z",
+    "last_updated": "2026-09-08T22:25:16Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-08T23:19:02",
+        "site": "Twisted London (Coatbridge - Main St)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-08T20:42:04",
+        "site": "Twisted London (Eastbourne)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-09-08T18:27:37",
         "site": "TwistedLondon(BurgessHill-KeymerRd)",
@@ -6800,6 +6810,14 @@
         "rating": 2,
         "text": "Fries came cold, stale and barely seasoned. Some genius put a cold can in paper bag as well, obviously causing the already terrible fries to turn soggy.",
         "created": "2026-09-08T13:40:28Z",
+        "date": "2026-09-08"
+      },
+      {
+        "site": "Twisted London (Eltham - Newmarket Grn)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Not impressed. Not true smashed still thick no crisp edges bun very thick, chips tasted like from frozen",
+        "created": "2026-09-08T19:34:17Z",
         "date": "2026-09-08"
       }
     ]
