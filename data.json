@@ -6724,8 +6724,57 @@
   },
   "2026-09-08": {
     "scraped_date": "2026-09-08",
-    "last_updated": "2026-09-08T08:39:10Z",
+    "last_updated": "2026-09-08T14:11:48Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Reading - Southampton St)",
+        "brand": "Wing Fest",
+        "rating": 5,
+        "text": "Wow wow - incredible - the flavours were amazing! So good for sharing! You have got to try!!!",
+        "created": "2026-09-07T16:33:32Z",
+        "date": "2026-09-07"
+      },
+      {
+        "site": "Wing Fest All Stars (Bristol - Southmead Rd)",
+        "brand": "Wing Fest",
+        "rating": 2,
+        "text": "I didn\u2019t enjoy the food from here at all. The burger was over flavoured and the wings were too crispy and undercooked on the inside. Oh terrible.",
+        "created": "2026-09-07T20:46:04Z",
+        "date": "2026-09-07"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Benfleet - High Rd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "Terrible rice box was small and seemed like microwave rice. Chicken burger was frozen chicken not fresh soggy bun. Fries were cold. Won\u2019t be ordering again terrible",
+        "created": "2026-09-07T13:10:50Z",
+        "date": "2026-09-07"
+      },
+      {
+        "site": "Twisted London (Basildon - Britannia Ct)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "consistently excellent food, packaging, never cold, always correct order. Always happy!",
+        "created": "2026-09-07T16:52:51Z",
+        "date": "2026-09-07"
+      },
+      {
+        "site": "Byron (Burgess Hill - Church Rd)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "So good to see byron is back!! It was so yum !!",
+        "created": "2026-09-07T15:44:37Z",
+        "date": "2026-09-07"
+      },
+      {
+        "site": "Kuro Smash (Aberdeen - Hutcheon St)",
+        "brand": "Kuro Smash",
+        "rating": 2,
+        "text": "Fries came cold, stale and barely seasoned. Some genius put a cold can in paper bag as well, obviously causing the already terrible fries to turn soggy.",
+        "created": "2026-09-08T13:40:28Z",
+        "date": "2026-09-08"
+      }
+    ]
   }
 }
