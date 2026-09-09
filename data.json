@@ -6824,9 +6824,33 @@
   },
   "2026-09-09": {
     "scraped_date": "2026-09-09",
-    "last_updated": "2026-09-09T08:42:19Z",
+    "last_updated": "2026-09-09T14:12:59Z",
     "cancelled_orders": [],
     "reviews": [
+      {
+        "site": "Wing Fest All Stars (Leeds - Britannia St)",
+        "brand": "Wing Fest",
+        "rating": 5,
+        "text": "Best food I\u2019ve had in this area hands down. So incredibly delicious. Fair play to the lads cooking this up!!",
+        "created": "2026-09-08T17:14:16Z",
+        "date": "2026-09-08"
+      },
+      {
+        "site": "Hot Chick - (York)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "all cheap nasty ingredients and tastes like slop",
+        "created": "2026-09-08T14:47:59Z",
+        "date": "2026-09-08"
+      },
+      {
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Leeds - Britannia St)",
+        "brand": "WTF",
+        "rating": 2,
+        "text": "food is not good enough, and portions are not large enough to justify the prices",
+        "created": "2026-09-08T18:21:10Z",
+        "date": "2026-09-08"
+      },
       {
         "site": "Kuro Smash - (Clifton - Byron Pl)",
         "brand": "Kuro Smash",
@@ -6834,6 +6858,22 @@
         "text": "the loaded fries i had are to die for and the gyozas were yummy some of the best ive had. The sauce was great too thanks 10/10",
         "created": "2026-09-08T23:02:11Z",
         "date": "2026-09-09"
+      },
+      {
+        "site": "Twisted London (Eltham - Newmarket Grn)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Not impressed. Not true smashed still thick no crisp edges bun very thick, chips tasted like from frozen",
+        "created": "2026-09-08T19:34:17Z",
+        "date": "2026-09-08"
+      },
+      {
+        "site": "WTF (Norwich- Plumstead Rd)",
+        "brand": "WTF",
+        "rating": 5,
+        "text": "10/10 burgers \ud83d\ude0d",
+        "created": "2026-09-08T17:04:31Z",
+        "date": "2026-09-08"
       }
     ]
   }
