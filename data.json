@@ -6821,5 +6821,20 @@
         "date": "2026-09-08"
       }
     ]
+  },
+  "2026-09-09": {
+    "scraped_date": "2026-09-09",
+    "last_updated": "2026-09-09T03:15:44Z",
+    "cancelled_orders": [],
+    "reviews": [
+      {
+        "site": "Kuro Smash - (Clifton - Byron Pl)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "the loaded fries i had are to die for and the gyozas were yummy some of the best ive had. The sauce was great too thanks 10/10",
+        "created": "2026-09-08T23:02:11Z",
+        "date": "2026-09-09"
+      }
+    ]
   }
 }
