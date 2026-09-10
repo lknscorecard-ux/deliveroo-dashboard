@@ -6830,8 +6830,18 @@
   },
   "2026-09-10": {
     "scraped_date": "2026-09-10",
-    "last_updated": "2026-09-10T18:59:48Z",
+    "last_updated": "2026-09-10T22:18:04Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-10T21:43:52",
+        "site": "TwistedLondon(Welwyn-LondonRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-10T21:39:54",
+        "site": "Koreatown-(Birmingham-BuckinghamSt)",
+        "brand": "Koreatown"
+      },
       {
         "time": "2026-09-10T17:55:08",
         "site": "WTF! (Slough - Burnham Ln)",
