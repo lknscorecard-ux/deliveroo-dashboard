@@ -6830,7 +6830,7 @@
   },
   "2026-09-10": {
     "scraped_date": "2026-09-10",
-    "last_updated": "2026-09-10T03:15:10Z",
+    "last_updated": "2026-09-10T08:41:20Z",
     "cancelled_orders": [
       {
         "time": "2026-09-10T03:27:36",
@@ -6843,6 +6843,15 @@
         "brand": "Wing Fest"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Koreatown - Korean Fried Chicken (Potters Bar - Barnet Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "The best food wow wow! The flavours are amazing! I am such a fan, also the packaging was so cool - thanks!",
+        "created": "2026-09-10T07:49:03Z",
+        "date": "2026-09-10"
+      }
+    ]
   }
 }
