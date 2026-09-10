@@ -6830,28 +6830,8 @@
   },
   "2026-09-10": {
     "scraped_date": "2026-09-10",
-    "last_updated": "2026-09-10T08:41:20Z",
-    "cancelled_orders": [
-      {
-        "time": "2026-09-10T03:27:36",
-        "site": "Twisted London (Kensal Rise - Station Terrace)",
-        "brand": "Twisted London"
-      },
-      {
-        "time": "2026-09-10T00:35:23",
-        "site": "Wing Fest All Stars (Watford - Market St)",
-        "brand": "Wing Fest"
-      }
-    ],
-    "reviews": [
-      {
-        "site": "Koreatown - Korean Fried Chicken (Potters Bar - Barnet Rd)",
-        "brand": "Koreatown",
-        "rating": 5,
-        "text": "The best food wow wow! The flavours are amazing! I am such a fan, also the packaging was so cool - thanks!",
-        "created": "2026-09-10T07:49:03Z",
-        "date": "2026-09-10"
-      }
-    ]
+    "last_updated": "2026-09-10T14:05:55Z",
+    "cancelled_orders": [],
+    "reviews": []
   }
 }
