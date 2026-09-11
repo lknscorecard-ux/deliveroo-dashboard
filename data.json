@@ -6953,8 +6953,28 @@
   },
   "2026-09-11": {
     "scraped_date": "2026-09-11",
-    "last_updated": "2026-09-11T14:06:32Z",
+    "last_updated": "2026-09-11T19:01:51Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-11T19:58:51",
+        "site": "Twisted London (Barnstaple)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-11T19:38:35",
+        "site": "Twisted London (Barnstaple)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-11T17:49:34",
+        "site": "TwistedLondon(Shadwell-ChapmanSt)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-11T17:06:38",
+        "site": "Hot Chick (Sunderland - John St)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-09-11T14:59:21",
         "site": "HotChick-(Shadwell-ChapmanSt)",
@@ -7032,6 +7052,30 @@
         "rating": 5,
         "text": "The best in the GAMEEEE, wow!! Will keep coming back for more!",
         "created": "2026-09-11T13:36:22Z",
+        "date": "2026-09-11"
+      },
+      {
+        "site": "Twisted London (Epsom - Kingston Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "I only received one out of four items that were correct. My drink, side, and burger were all not what I ordered. Completely unacceptable!",
+        "created": "2026-09-11T17:30:25Z",
+        "date": "2026-09-11"
+      },
+      {
+        "site": "Kuro Smash (Brighton - Western Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "got some bulgogi beef burgers on a buy one get one free and they were delicious, unusual flavours that i wasnt used to but i really enjoyed the burger and so did the rest of the family, some of whom are quick to criticise! will be ordering again at some point",
+        "created": "2026-09-11T16:47:36Z",
+        "date": "2026-09-11"
+      },
+      {
+        "site": "Twisted London (Feltham)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Very good! One of the bests burgers I ate in the in the last year!",
+        "created": "2026-09-11T17:03:06Z",
         "date": "2026-09-11"
       }
     ]
