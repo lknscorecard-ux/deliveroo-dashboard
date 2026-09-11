@@ -6953,8 +6953,18 @@
   },
   "2026-09-11": {
     "scraped_date": "2026-09-11",
-    "last_updated": "2026-09-11T19:01:51Z",
+    "last_updated": "2026-09-11T22:18:30Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-11T21:45:38",
+        "site": "HotChick-(Welwyn-LondonRd)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-09-11T21:12:34",
+        "site": "Twisted London (Slough - Burnham Ln)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-09-11T19:58:51",
         "site": "Twisted London (Barnstaple)",
@@ -7055,6 +7065,14 @@
         "date": "2026-09-11"
       },
       {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Gave me a cold plain patty with a bun and a ton of mayonnaise",
+        "created": "2026-09-11T20:12:17Z",
+        "date": "2026-09-11"
+      },
+      {
         "site": "Twisted London (Epsom - Kingston Rd)",
         "brand": "Twisted London",
         "rating": 1,
@@ -7076,6 +7094,22 @@
         "rating": 5,
         "text": "Very good! One of the bests burgers I ate in the in the last year!",
         "created": "2026-09-11T17:03:06Z",
+        "date": "2026-09-11"
+      },
+      {
+        "site": "Hot Chick (Norwich - Aylsham Cres)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "I don\u2019t how but taste like it was pre-made it or something like that",
+        "created": "2026-09-11T20:43:14Z",
+        "date": "2026-09-11"
+      },
+      {
+        "site": "Koreatown (Aberdeen - Hutcheon St)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "was tasty and got a great deal so good all around!",
+        "created": "2026-09-11T20:26:00Z",
         "date": "2026-09-11"
       }
     ]
