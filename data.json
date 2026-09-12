@@ -7116,8 +7116,23 @@
   },
   "2026-09-12": {
     "scraped_date": "2026-09-12",
-    "last_updated": "2026-09-12T13:24:10Z",
+    "last_updated": "2026-09-12T16:49:33Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-12T16:40:36",
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Stratford - Romford Rd)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-09-12T16:27:22",
+        "site": "Twisted London (Barnstaple)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-12T15:18:17",
+        "site": "WTF (Bognor Regis - York Rd)",
+        "brand": "WTF"
+      },
       {
         "time": "2026-09-12T14:09:24",
         "site": "TwistedLondon(Shadwell-ChapmanSt)",
@@ -7258,6 +7273,14 @@
         "text": "Gave me a cold plain patty with a bun and a ton of mayonnaise",
         "created": "2026-09-11T20:12:17Z",
         "date": "2026-09-11"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Salisbury - Castle St)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "ordered chicken burgers got beef (not even on the menu) rest of items weren\u2019t great either",
+        "created": "2026-09-12T14:31:48Z",
+        "date": "2026-09-12"
       }
     ]
   }
