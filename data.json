@@ -7116,8 +7116,23 @@
   },
   "2026-09-12": {
     "scraped_date": "2026-09-12",
-    "last_updated": "2026-09-12T08:24:17Z",
+    "last_updated": "2026-09-12T13:24:10Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-12T14:09:24",
+        "site": "TwistedLondon(Shadwell-ChapmanSt)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-12T14:03:04",
+        "site": "HotChick-(Shadwell-ChapmanSt)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-09-12T13:44:36",
+        "site": "Twisted London (Slough - Burnham Ln)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-09-12T03:10:45",
         "site": "Twisted London (Guildford - Southway)",
@@ -7141,12 +7156,108 @@
     ],
     "reviews": [
       {
+        "site": "Twisted London (Tunbridge Wells - Tunbridge Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Honestly, best burger I have ever had! Moist (but not soggy), flavoursome, well cooked! Very very nice!",
+        "created": "2026-09-11T21:36:46Z",
+        "date": "2026-09-11"
+      },
+      {
+        "site": "Twisted London (Gosport - Forton Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "it was amazing, the customer service was perfect.",
+        "created": "2026-09-11T20:47:11Z",
+        "date": "2026-09-11"
+      },
+      {
+        "site": "Twisted London (Feltham)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Very good! One of the bests burgers I ate in the in the last year!",
+        "created": "2026-09-11T17:03:06Z",
+        "date": "2026-09-11"
+      },
+      {
         "site": "Hot Chick (Hounslow - Great West Rd)",
         "brand": "Hot Chick",
         "rating": 1,
         "text": "Their was hair in my food. it was long hair it wasn\u2019t mine i have short hair. unacceptable and pretty much disgusting",
         "created": "2026-09-12T01:38:19Z",
         "date": "2026-09-12"
+      },
+      {
+        "site": "Kuro Smash (Nottingham - Castle Blvd)",
+        "brand": "Kuro Smash",
+        "rating": 3,
+        "text": "tasted like frozen burgers",
+        "created": "2026-09-11T19:06:18Z",
+        "date": "2026-09-11"
+      },
+      {
+        "site": "Twisted London (Epsom - Kingston Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "I only received one out of four items that were correct. My drink, side, and burger were all not what I ordered. Completely unacceptable!",
+        "created": "2026-09-11T17:30:25Z",
+        "date": "2026-09-11"
+      },
+      {
+        "site": "TwistedLondon(Abingdon-MarchamRd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "One of the nicest burgers I\u2019ve had in a very long time in the area I wish I took a photo looked like the photo it was so delicious as were the chips whole portion plus some plain ones which was nice touch burger was cooked to perfection and the bacon was crispy will defo buy again bacon fries were seasoned to perfection really pleased with our order",
+        "created": "2026-09-11T22:27:51Z",
+        "date": "2026-09-11"
+      },
+      {
+        "site": "Kuro Smash (Brighton - Western Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "got some bulgogi beef burgers on a buy one get one free and they were delicious, unusual flavours that i wasnt used to but i really enjoyed the burger and so did the rest of the family, some of whom are quick to criticise! will be ordering again at some point",
+        "created": "2026-09-11T16:47:36Z",
+        "date": "2026-09-11"
+      },
+      {
+        "site": "Koreatown (Aberdeen - Hutcheon St)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "was tasty and got a great deal so good all around!",
+        "created": "2026-09-11T20:26:00Z",
+        "date": "2026-09-11"
+      },
+      {
+        "site": "Hot Chick (Norwich - Aylsham Cres)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "I don\u2019t how but taste like it was pre-made it or something like that",
+        "created": "2026-09-11T20:43:14Z",
+        "date": "2026-09-11"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Benfleet - High Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "The best in the GAMEEEE, wow!! Will keep coming back for more!",
+        "created": "2026-09-11T13:36:22Z",
+        "date": "2026-09-11"
+      },
+      {
+        "site": "Koreatown (Bexleyheath - Broadway)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "\ud83d\ude0b",
+        "created": "2026-09-11T20:28:11Z",
+        "date": "2026-09-11"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Gave me a cold plain patty with a bun and a ton of mayonnaise",
+        "created": "2026-09-11T20:12:17Z",
+        "date": "2026-09-11"
       }
     ]
   }
