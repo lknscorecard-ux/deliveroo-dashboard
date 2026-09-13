@@ -7309,8 +7309,33 @@
   },
   "2026-09-13": {
     "scraped_date": "2026-09-13",
-    "last_updated": "2026-09-13T18:35:18Z",
+    "last_updated": "2026-09-13T22:10:02Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-13T21:58:47",
+        "site": "Twisted London (Stratford - Romford Rd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-13T21:16:57",
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Stratford - Romford Rd)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-09-13T21:03:01",
+        "site": "Kuro Smash - Umami Burgers (Southampton - Deacon Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-09-13T20:35:04",
+        "site": "Twisted London (Bognor Regis - York Rd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-13T20:10:20",
+        "site": "Twisted London (Stratford - Romford Rd)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-09-13T19:16:06",
         "site": "WTF (Bognor Regis - York Rd)",
@@ -7394,6 +7419,22 @@
         "rating": 5,
         "text": "Tasty rice bowls and very filling.",
         "created": "2026-09-13T16:45:51Z",
+        "date": "2026-09-13"
+      },
+      {
+        "site": "Twisted London (Guildford - Southway)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "** UNACCEPTABLE HARD LIKE CARDBOARD \ud83c\udf5f FRENCH FRIES.. LOOKS like they were made Yesterday 24&#39;hours ago!.. I WILL CONTACT DELIVEROO HEAD OFFICE! &amp; go Physically to Restaurant tomorrow to Complain &amp; Show Photos of FRIES and SMALL BURGERS!",
+        "created": "2026-09-13T21:50:46Z",
+        "date": "2026-09-13"
+      },
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Very well packaged. Arrived piping hot",
+        "created": "2026-09-13T19:02:49Z",
         "date": "2026-09-13"
       },
       {
