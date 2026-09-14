@@ -7449,8 +7449,48 @@
   },
   "2026-09-14": {
     "scraped_date": "2026-09-14",
-    "last_updated": "2026-09-14T16:12:48Z",
+    "last_updated": "2026-09-14T21:34:16Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-14T20:21:06",
+        "site": "Kuro Smash (Nottingham - Castle Blvd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-09-14T19:46:50",
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Stratford - Romford Rd)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-09-14T19:23:38",
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Stratford - Romford Rd)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-09-14T18:46:38",
+        "site": "Twisted London (Barnstaple)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-14T18:30:24",
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Stratford - Romford Rd)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-09-14T18:12:48",
+        "site": "Koreatown (Nottingham - Castle Blvd)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-09-14T17:56:49",
+        "site": "Kuro Smash - Umami Burgers (Southampton - Deacon Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-09-14T17:37:50",
+        "site": "Kuro Smash - Umami Burgers (Southampton - Deacon Rd)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-09-14T13:18:00",
         "site": "Kuro Smash (Grangetown - Holmesdale St)",
@@ -7479,10 +7519,18 @@
       {
         "site": "WTF!-(Eltham-NewmarketGrn)",
         "brand": "WTF",
-        "rating": 2,
-        "text": "The loaded fries were nice but both burgers were burnt",
-        "created": "2026-09-13T19:19:33Z",
-        "date": "2026-09-13"
+        "rating": 3,
+        "text": "Ordered from here a few times and it&#39;s usually great. The loaded fries portion is huge and definitely worth it. The burgers are normally great, however both burgers in my last order were burnt. Quite disappointed by this",
+        "created": "2026-09-14T19:41:08Z",
+        "date": "2026-09-14"
+      },
+      {
+        "site": "Twisted London (Uxbridge-High St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Asked to remove an item that i am allergic too and they didn&#39;t bother",
+        "created": "2026-09-14T20:48:29Z",
+        "date": "2026-09-14"
       },
       {
         "site": "Twisted London (Uxbridge-High St)",
@@ -7547,6 +7595,14 @@
         "text": "The sauce had small bits of pickles and there was also sliced pickles in the burger. You can only taste the flavour of the pickles. Maybe give the option to remove one of them?",
         "created": "2026-09-13T18:19:57Z",
         "date": "2026-09-13"
+      },
+      {
+        "site": "Twisted London (Birmingham - Broad St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Please return my money \u2026 It was written but 1 get 1 \u2026 Only one sent \u2026 Burnt buns \u2026 Boiled onions \u2026 No tase no flavour \u2026 What a rubbish piece of shit",
+        "created": "2026-09-14T17:25:06Z",
+        "date": "2026-09-14"
       }
     ]
   }
