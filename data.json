@@ -7608,8 +7608,38 @@
   },
   "2026-09-15": {
     "scraped_date": "2026-09-15",
-    "last_updated": "2026-09-15T17:58:29Z",
+    "last_updated": "2026-09-15T20:58:17Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-15T21:30:35",
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Stratford - Romford Rd)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-09-15T21:18:27",
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Stratford - Romford Rd)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-09-15T20:59:40",
+        "site": "Koreatown - Korean Fried Chicken (Bognor Regis - York Rd)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-09-15T20:38:50",
+        "site": "Twisted London (Bognor Regis - York Rd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-15T19:58:48",
+        "site": "Twisted London (Coatbridge - Main St)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-15T19:48:00",
+        "site": "Twisted London (Bognor Regis - York Rd)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-09-15T18:14:33",
         "site": "Twisted London (Hull - Grange Park Ln)",
@@ -7688,6 +7718,22 @@
         "rating": 5,
         "text": "Best burger I\u2019ve had in a very long time best in town \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
         "created": "2026-09-15T14:19:55Z",
+        "date": "2026-09-15"
+      },
+      {
+        "site": "Kuro Smash - (Clifton - Byron Pl)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "burger was so so good.",
+        "created": "2026-09-15T18:44:23Z",
+        "date": "2026-09-15"
+      },
+      {
+        "site": "Twisted London (Guildford - Southway)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "It took an hour to deliver and the food was stone cold. \nThen deliveroo only refunded of the order price!",
+        "created": "2026-09-15T18:06:49Z",
         "date": "2026-09-15"
       },
       {
