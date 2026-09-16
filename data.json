@@ -7748,15 +7748,101 @@
   },
   "2026-09-16": {
     "scraped_date": "2026-09-16",
-    "last_updated": "2026-09-16T10:55:31Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-09-16T16:13:58Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-09-16T13:45:25",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Macclesfield - Chestergate)",
+        "brand": "Hot Chick"
+      }
+    ],
     "reviews": [
+      {
+        "site": "Twisted London (Lambeth - Zenor Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Timely, tasty &amp; filling plus great price",
+        "created": "2026-09-15T17:42:48Z",
+        "date": "2026-09-15"
+      },
+      {
+        "site": "Twisted London (Worthing - Chapel Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Best burger I\u2019ve had in a very long time best in town \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+        "created": "2026-09-15T14:19:55Z",
+        "date": "2026-09-15"
+      },
+      {
+        "site": "Kuro Smash - (Clifton - Byron Pl)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "burger was so so good.",
+        "created": "2026-09-15T18:44:23Z",
+        "date": "2026-09-15"
+      },
       {
         "site": "Byron Burgers & Fries (Southampton - Deacon Rd)",
         "brand": "Other",
         "rating": 5,
         "text": "Byron is back - yum!!!",
         "created": "2026-09-16T08:18:16Z",
+        "date": "2026-09-16"
+      },
+      {
+        "site": "Byron Burgers & Fries (Eltham - Newmarket Grn)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "The quality was consistent across the whole order.",
+        "created": "2026-09-16T08:47:25Z",
+        "date": "2026-09-16"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Hounslow- Great West Rd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "I ordered Korean fries when my food arrived it was plain unseason fries and also the burger advertises that it&#39;s different and it&#39;s very saucy and flavorful I&#39;ll honestly say it was plain dead food normal food that you could have bought from Chicken Cottage don&#39;t recommend buying from these people unless you want to be disappointed",
+        "created": "2026-09-16T03:35:35Z",
+        "date": "2026-09-16"
+      },
+      {
+        "site": "Koreatown (Nottingham - Castle Blvd)",
+        "brand": "Koreatown",
+        "rating": 3,
+        "text": "Driver used a long way to get the food. The bag was wet and package was soaked",
+        "created": "2026-09-16T10:08:55Z",
+        "date": "2026-09-16"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Rugby - Boughton Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Amazing burgers (chicken and beef). Super light but filling and wasn\u2019t greasy in the slightest. Highly recommend!!",
+        "created": "2026-09-16T12:25:14Z",
+        "date": "2026-09-16"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Rugby - Boughton Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Wowowowowowowowowowk wow o wow",
+        "created": "2026-09-15T15:09:40Z",
+        "date": "2026-09-15"
+      },
+      {
+        "site": "Twisted London (Plymouth - Drake Circus)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "brilliant food for first try!",
+        "created": "2026-09-15T16:33:59Z",
+        "date": "2026-09-15"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Best. Chips/Fries outside of those l had in Paris!!.                                                                          Light. Crispy, Fluffy. No oil.",
+        "created": "2026-09-16T14:19:26Z",
         "date": "2026-09-16"
       }
     ]
