@@ -7748,8 +7748,48 @@
   },
   "2026-09-16": {
     "scraped_date": "2026-09-16",
-    "last_updated": "2026-09-16T16:13:58Z",
+    "last_updated": "2026-09-16T20:56:42Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-16T20:37:25",
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Stratford - Romford Rd)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-09-16T20:18:15",
+        "site": "Twisted London (Eastbourne)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-16T20:14:33",
+        "site": "TwistedLondon(Shadwell-ChapmanSt)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-16T19:20:26",
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Stratford - Romford Rd)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-09-16T18:03:01",
+        "site": "Byron Burgers & Fries (Southampton - Deacon Rd)",
+        "brand": "Other"
+      },
+      {
+        "time": "2026-09-16T18:01:31",
+        "site": "Byron Burgers & Fries (Southampton - Deacon Rd)",
+        "brand": "Other"
+      },
+      {
+        "time": "2026-09-16T17:55:37",
+        "site": "WTF (High Wycombe - Dashwood Ave)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-09-16T17:18:03",
+        "site": "Hot Chick (Deptford)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-09-16T13:45:25",
         "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Macclesfield - Chestergate)",
@@ -7843,6 +7883,30 @@
         "rating": 5,
         "text": "Best. Chips/Fries outside of those l had in Paris!!.                                                                          Light. Crispy, Fluffy. No oil.",
         "created": "2026-09-16T14:19:26Z",
+        "date": "2026-09-16"
+      },
+      {
+        "site": "Koreatown-KoreanFriedChicken(Aylesbury-BuckinghamSt)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "The burgers were average",
+        "created": "2026-09-16T20:00:24Z",
+        "date": "2026-09-16"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Potters Bar - Barnet Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "First time ordering from Kuro smash and it was absolutely amazing, definitely recommend and will be back",
+        "created": "2026-09-16T18:57:21Z",
+        "date": "2026-09-16"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Inverness - Church Street)",
+        "brand": "Hot Chick",
+        "rating": 2,
+        "text": "The OG bacon chicken was missing bacon, kind of the point of ordering it. The buffalo chicken wasn\u2019t really. It had a splash of franks hot sauce on the bun but it does not look like the picture at all.",
+        "created": "2026-09-16T18:37:16Z",
         "date": "2026-09-16"
       }
     ]
