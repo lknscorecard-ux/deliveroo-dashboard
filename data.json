@@ -7913,8 +7913,23 @@
   },
   "2026-09-17": {
     "scraped_date": "2026-09-17",
-    "last_updated": "2026-09-17T17:58:33Z",
+    "last_updated": "2026-09-17T21:03:30Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-17T20:23:13",
+        "site": "WTF (Bognor Regis - York Rd)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-09-17T20:22:07",
+        "site": "Twisted London (Bristol North)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-17T20:09:55",
+        "site": "Twisted London (Bristol North)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-09-17T14:35:05",
         "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bristol - Southmead Rd)",
@@ -8018,6 +8033,14 @@
         "rating": 3,
         "text": "Was good but was missing a bunch of the stuff they labelled to come with the burger so was essentially a the protein and the bread with a tiny amount of slaw and sauce",
         "created": "2026-09-17T14:41:25Z",
+        "date": "2026-09-17"
+      },
+      {
+        "site": "Twisted London (Salford - Media City)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Absolutely PENG mate \ud83d\ude18",
+        "created": "2026-09-17T19:19:12Z",
         "date": "2026-09-17"
       }
     ]
