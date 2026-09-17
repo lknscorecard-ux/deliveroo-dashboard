@@ -7913,8 +7913,28 @@
   },
   "2026-09-17": {
     "scraped_date": "2026-09-17",
-    "last_updated": "2026-09-17T00:07:57Z",
-    "cancelled_orders": [],
-    "reviews": []
+    "last_updated": "2026-09-17T07:13:22Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-09-17T03:54:11",
+        "site": "HotChick-(CanningTown-NorthWoolwichRd)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-09-17T02:08:57",
+        "site": "Wing Fest All Stars (Watford - Market St)",
+        "brand": "Wing Fest"
+      }
+    ],
+    "reviews": [
+      {
+        "site": "Koreatown - Korean Fried Chicken (Leeds - Britannia St)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "I couldn\u2019t even eat it it took 2 hours to arrive and was stale and cold",
+        "created": "2026-09-17T04:04:33Z",
+        "date": "2026-09-17"
+      }
+    ]
   }
 }
