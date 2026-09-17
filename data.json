@@ -7913,8 +7913,13 @@
   },
   "2026-09-17": {
     "scraped_date": "2026-09-17",
-    "last_updated": "2026-09-17T13:05:13Z",
+    "last_updated": "2026-09-17T17:58:33Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-17T14:35:05",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bristol - Southmead Rd)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-09-17T03:54:11",
         "site": "HotChick-(CanningTown-NorthWoolwichRd)",
@@ -7928,11 +7933,91 @@
     ],
     "reviews": [
       {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Inverness - Church Street)",
+        "brand": "Hot Chick",
+        "rating": 2,
+        "text": "The OG bacon chicken was missing bacon, kind of the point of ordering it. The buffalo chicken wasn\u2019t really. It had a splash of franks hot sauce on the bun but it does not look like the picture at all.",
+        "created": "2026-09-16T18:37:16Z",
+        "date": "2026-09-16"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Potters Bar - Barnet Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "First time ordering from Kuro smash and it was absolutely amazing, definitely recommend and will be back",
+        "created": "2026-09-16T18:57:21Z",
+        "date": "2026-09-16"
+      },
+      {
+        "site": "Hot Chick (Chester)",
+        "brand": "Hot Chick",
+        "rating": 2,
+        "text": "nothing award winning about those wings they was cold expensive and hardly any sauce just tasted like cheap frozen wings with a tiny bit of sauce on them would not go there again",
+        "created": "2026-09-16T16:47:50Z",
+        "date": "2026-09-16"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Birmingham - Broad St)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "When I ordered first time the portion was actually big for loaded fries and the taste was really good, but the second time it was half the size and really dry. Disappointed!",
+        "created": "2026-09-16T17:45:50Z",
+        "date": "2026-09-16"
+      },
+      {
+        "site": "Twisted London (Cardiff - St Mary St)",
+        "brand": "Twisted London",
+        "rating": 4,
+        "text": "lovely food the bbq sauce was a bit overpowering on the burger , smash burger loaded fries are absolutely delicious,  cant wait to order again",
+        "created": "2026-09-16T20:07:57Z",
+        "date": "2026-09-16"
+      },
+      {
+        "site": "Koreatown-KoreanFriedChicken(Aylesbury-BuckinghamSt)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "The burgers were average",
+        "created": "2026-09-16T20:00:24Z",
+        "date": "2026-09-16"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Best. Chips/Fries outside of those l had in Paris!!.                                                                          Light. Crispy, Fluffy. No oil.",
+        "created": "2026-09-16T14:19:26Z",
+        "date": "2026-09-16"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "They should Call it kids meal",
+        "created": "2026-09-15T03:23:49Z",
+        "date": "2026-09-15"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Rugby - Boughton Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "YUm - tasty and quick !! I will be back",
+        "created": "2026-09-17T15:15:40Z",
+        "date": "2026-09-17"
+      },
+      {
         "site": "Koreatown - Korean Fried Chicken (Leeds - Britannia St)",
         "brand": "Koreatown",
         "rating": 1,
         "text": "I couldn\u2019t even eat it it took 2 hours to arrive and was stale and cold",
         "created": "2026-09-17T04:04:33Z",
+        "date": "2026-09-17"
+      },
+      {
+        "site": "Koreatown (Grangetown - Holmesdale St)",
+        "brand": "Koreatown",
+        "rating": 3,
+        "text": "Was good but was missing a bunch of the stuff they labelled to come with the burger so was essentially a the protein and the bread with a tiny amount of slaw and sauce",
+        "created": "2026-09-17T14:41:25Z",
         "date": "2026-09-17"
       }
     ]
