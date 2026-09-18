@@ -8047,8 +8047,97 @@
   },
   "2026-09-18": {
     "scraped_date": "2026-09-18",
-    "last_updated": "2026-09-18T08:50:22Z",
+    "last_updated": "2026-09-18T14:09:02Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Koreatown - Korean Fried Chicken (Clifton - Byron Pl)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "Cheap rubbish! Do not order from here!!",
+        "created": "2026-09-17T20:23:16Z",
+        "date": "2026-09-17"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Rugby - Boughton Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Such a yummy rice bowl - I will be coming back for moreeeee!!!",
+        "created": "2026-09-18T11:23:46Z",
+        "date": "2026-09-18"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Rugby - Boughton Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Would definitely recommend! Will re-order for sure.",
+        "created": "2026-09-18T05:18:07Z",
+        "date": "2026-09-18"
+      },
+      {
+        "site": "Twisted London (Bristol - Southmead Rd)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "No cheese on the \u201ccheeseburger\u201d that I ordered, also the bacon was very strange",
+        "created": "2026-09-17T17:41:39Z",
+        "date": "2026-09-17"
+      },
+      {
+        "site": "Koreatown (Grangetown - Holmesdale St)",
+        "brand": "Koreatown",
+        "rating": 3,
+        "text": "Was good but was missing a bunch of the stuff they labelled to come with the burger so was essentially a the protein and the bread with a tiny amount of slaw and sauce",
+        "created": "2026-09-17T14:41:25Z",
+        "date": "2026-09-17"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Kingston - Richmond Rd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "ordered the combo burger deal for two. - one burger was missing. the bulgogi fries just tastes like plain minced beef. very small fries portion size. no way I could find to contact the restaurant - would not recommend",
+        "created": "2026-09-17T21:24:15Z",
+        "date": "2026-09-17"
+      },
+      {
+        "site": "Twisted London (Salford - Media City)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Absolutely PENG mate \ud83d\ude18",
+        "created": "2026-09-17T19:19:12Z",
+        "date": "2026-09-17"
+      },
+      {
+        "site": "KuroSmash-UmamiBurgers(Hayes-WelbeckAv)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "Worst food i have tasted .Never order from this restaurant",
+        "created": "2026-09-17T21:38:34Z",
+        "date": "2026-09-17"
+      },
+      {
+        "site": "WTF (High Wycombe - Dashwood Ave)",
+        "brand": "WTF",
+        "rating": 4,
+        "text": "was delicious,  good veggie option. too many chips but the dogs enjoyed their generous portion as luckily wasn&#39;t salted.",
+        "created": "2026-09-17T19:50:32Z",
+        "date": "2026-09-17"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Rugby - Boughton Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "YUm - tasty and quick !! I will be back",
+        "created": "2026-09-17T15:15:40Z",
+        "date": "2026-09-17"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Rugby - Boughton Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Amazing burgers (chicken and beef). Super light but filling and wasn\u2019t greasy in the slightest. Highly recommend!!",
+        "created": "2026-09-16T12:25:14Z",
+        "date": "2026-09-16"
+      }
+    ]
   }
 }
