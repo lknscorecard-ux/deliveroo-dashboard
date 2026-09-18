@@ -8047,8 +8047,19 @@
   },
   "2026-09-18": {
     "scraped_date": "2026-09-18",
-    "last_updated": "2026-09-18T14:09:02Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-09-18T18:56:01Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-09-18T19:46:40",
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Stratford - Romford Rd)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-09-18T18:29:44",
+        "site": "Twisted London (Maidstone - Ashford Rd)",
+        "brand": "Twisted London"
+      }
+    ],
     "reviews": [
       {
         "site": "Koreatown - Korean Fried Chicken (Clifton - Byron Pl)",
@@ -8126,6 +8137,14 @@
         "site": "Kuro Smash - Umami Burgers (Rugby - Boughton Rd)",
         "brand": "Kuro Smash",
         "rating": 5,
+        "text": "Beware the honey soy garlic sauce is very very strong raw tasting garlic, \nSmash burgers was very juicey and nice, just a shame theres no option to remove items from it like pickles ect.\nKuro fries ... &#34;spicey&#34; .\nsmash burger fries box was very very good !!",
+        "created": "2026-09-18T15:55:46Z",
+        "date": "2026-09-18"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Rugby - Boughton Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
         "text": "YUm - tasty and quick !! I will be back",
         "created": "2026-09-17T15:15:40Z",
         "date": "2026-09-17"
@@ -8137,6 +8156,14 @@
         "text": "Amazing burgers (chicken and beef). Super light but filling and wasn\u2019t greasy in the slightest. Highly recommend!!",
         "created": "2026-09-16T12:25:14Z",
         "date": "2026-09-16"
+      },
+      {
+        "site": "Twisted London (Birmingham - Broad St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "missing items",
+        "created": "2026-09-18T18:27:08Z",
+        "date": "2026-09-18"
       }
     ]
   }
