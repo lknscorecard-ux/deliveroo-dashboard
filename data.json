@@ -8219,5 +8219,11 @@
         "date": "2026-09-19"
       }
     ]
+  },
+  "2026-09-20": {
+    "scraped_date": "2026-09-20",
+    "last_updated": "2026-09-19T23:56:08Z",
+    "cancelled_orders": [],
+    "reviews": []
   }
 }
