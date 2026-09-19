@@ -8053,8 +8053,18 @@
   },
   "2026-09-19": {
     "scraped_date": "2026-09-19",
-    "last_updated": "2026-09-19T17:03:20Z",
+    "last_updated": "2026-09-19T20:08:27Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-19T19:07:51",
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Stratford - Romford Rd)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-09-19T18:06:59",
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Stratford - Romford Rd)",
+        "brand": "WTF"
+      },
       {
         "time": "2026-09-19T16:32:54",
         "site": "WTF! (Slough - Burnham Ln)",
@@ -8185,11 +8195,27 @@
         "date": "2026-09-17"
       },
       {
+        "site": "Byron Burgers & Fries (Southampton - Deacon Rd)",
+        "brand": "Other",
+        "rating": 4,
+        "text": "Lovely burger, but unfortunately the chicken tenders were very disappointing.",
+        "created": "2026-09-19T18:17:13Z",
+        "date": "2026-09-19"
+      },
+      {
         "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Salisbury - Castle St)",
         "brand": "Hot Chick",
         "rating": 5,
         "text": "Delicious... value for money and dare I say better than KFC!!!",
         "created": "2026-09-19T13:50:29Z",
+        "date": "2026-09-19"
+      },
+      {
+        "site": "Kuro Smash (Whyteleaf - Godstone Rd)",
+        "brand": "Kuro Smash",
+        "rating": 3,
+        "text": "Not a bad burger joint at all, but don\u2019t go by the pictures as what you receive is not the same. I found the burgers were a bit smaller than average. Chips were anemic again nothing like the pictures. Overall it was an average meal I wouldn\u2019t say it\u2019s anything special.",
+        "created": "2026-09-19T18:47:05Z",
         "date": "2026-09-19"
       }
     ]
