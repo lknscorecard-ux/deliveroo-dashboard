@@ -8053,8 +8053,13 @@
   },
   "2026-09-19": {
     "scraped_date": "2026-09-19",
-    "last_updated": "2026-09-19T08:34:16Z",
+    "last_updated": "2026-09-19T13:45:04Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-19T13:14:27",
+        "site": "WTF! (Slough - Burnham Ln)",
+        "brand": "WTF"
+      },
       {
         "time": "2026-09-19T03:12:49",
         "site": "Twisted London (Guildford - Southway)",
@@ -8062,6 +8067,22 @@
       }
     ],
     "reviews": [
+      {
+        "site": "Kuro Smash (Aberdeen - Hutcheon St)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Amazing food! Burgers are top notch \ud83d\udc4c",
+        "created": "2026-09-18T20:05:30Z",
+        "date": "2026-09-18"
+      },
+      {
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "very good, amazing burger ..!!!",
+        "created": "2026-09-19T07:52:23Z",
+        "date": "2026-09-19"
+      },
       {
         "site": "Wing Fest All Stars (Leeds - Britannia St)",
         "brand": "Wing Fest",
@@ -8071,12 +8092,84 @@
         "date": "2026-09-19"
       },
       {
-        "site": "Twisted London (Dorking - High St)",
+        "site": "Twisted London (Chester)",
         "brand": "Twisted London",
+        "rating": 1,
+        "text": "it was horrible the burger wasn\u2019t a smash burger at all just a tiny little hocky puck of beef i was dying with laughter when i seen it funny",
+        "created": "2026-09-18T17:56:12Z",
+        "date": "2026-09-18"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Kingston - Richmond Rd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "Terrible meal. Not as advertised. Missing items and just overall disappointing",
+        "created": "2026-09-18T20:30:15Z",
+        "date": "2026-09-18"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Kingston - Richmond Rd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "ordered the combo burger deal for two. - one burger was missing. the bulgogi fries just tastes like plain minced beef. very small fries portion size. no way I could find to contact the restaurant - would not recommend",
+        "created": "2026-09-17T21:24:15Z",
+        "date": "2026-09-17"
+      },
+      {
+        "site": "Hot Chick (Oldham - Featherstall Rd)",
+        "brand": "Hot Chick",
         "rating": 5,
-        "text": "very good, amazing burger ..!!!",
-        "created": "2026-09-19T07:52:23Z",
+        "text": "It was quick warm and nicely presented with an amazing flavour i would order from here again",
+        "created": "2026-09-19T09:17:36Z",
         "date": "2026-09-19"
+      },
+      {
+        "site": "Twisted Burgers (Leicester)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "Really tasty burgers, highly recommended. Chicken bites were good too.",
+        "created": "2026-09-19T08:04:08Z",
+        "date": "2026-09-19"
+      },
+      {
+        "site": "Koreatown (Bexleyheath - Broadway)",
+        "brand": "Koreatown",
+        "rating": 3,
+        "text": "Fillet seasoned well but there was no usual pickled part, was just a bun and fillet.",
+        "created": "2026-09-19T11:19:41Z",
+        "date": "2026-09-19"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Abingdon - Marcham Rd)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "Part of the order was missing. Wings and burger were good.",
+        "created": "2026-09-18T18:47:34Z",
+        "date": "2026-09-18"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Rugby - Boughton Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Such yummy food! Was pleasantly surprised by the quality and taste.",
+        "created": "2026-09-18T20:53:28Z",
+        "date": "2026-09-18"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Rugby - Boughton Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Beware the honey soy garlic sauce is very very strong raw tasting garlic, \nSmash burgers was very juicey and nice, just a shame theres no option to remove items from it like pickles ect.\nKuro fries ... &#34;spicey&#34; .\nsmash burger fries box was very very good !!",
+        "created": "2026-09-18T15:55:46Z",
+        "date": "2026-09-18"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Rugby - Boughton Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "YUm - tasty and quick !! I will be back",
+        "created": "2026-09-17T15:15:40Z",
+        "date": "2026-09-17"
       }
     ]
   }
