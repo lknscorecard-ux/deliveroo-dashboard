@@ -8050,5 +8050,26 @@
     "last_updated": "2026-09-18T22:20:18Z",
     "cancelled_orders": [],
     "reviews": []
+  },
+  "2026-09-19": {
+    "scraped_date": "2026-09-19",
+    "last_updated": "2026-09-19T03:17:32Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-09-19T03:12:49",
+        "site": "Twisted London (Guildford - Southway)",
+        "brand": "Twisted London"
+      }
+    ],
+    "reviews": [
+      {
+        "site": "Wing Fest All Stars (Leeds - Britannia St)",
+        "brand": "Wing Fest",
+        "rating": 5,
+        "text": "The jalape\u00f1o poppers are divine! The chips are soft and nicely salty and the burger was gorgeous &lt;3 glad i tried this place",
+        "created": "2026-09-18T23:45:27Z",
+        "date": "2026-09-19"
+      }
+    ]
   }
 }
