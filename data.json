@@ -8222,8 +8222,18 @@
   },
   "2026-09-20": {
     "scraped_date": "2026-09-20",
-    "last_updated": "2026-09-20T14:04:09Z",
+    "last_updated": "2026-09-20T17:23:45Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-20T17:53:30",
+        "site": "Kuro Smash - Umami Burgers (Rugby - Boughton Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-09-20T15:55:59",
+        "site": "Koreatown - Korean Fried Chicken (Rugby - Boughton Rd)",
+        "brand": "Koreatown"
+      },
       {
         "time": "2026-09-20T13:32:21",
         "site": "Kuro Smash (Brighton - Western Rd)",
