@@ -8383,8 +8383,64 @@
   },
   "2026-09-21": {
     "scraped_date": "2026-09-21",
-    "last_updated": "2026-09-21T16:15:03Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-09-21T21:45:31Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-09-21T22:40:56",
+        "site": "TwistedLondon(Shadwell-ChapmanSt)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-21T22:17:24",
+        "site": "Hot Chick (Bristol North)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-09-21T20:52:29",
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Stratford - Romford Rd)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-09-21T20:26:07",
+        "site": "TwistedLondon(Shadwell-ChapmanSt)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-21T20:10:39",
+        "site": "Twisted London (Liverpool - Bold Street)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-21T19:58:38",
+        "site": "TwistedLondon(Welwyn-LondonRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-21T19:13:54",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Macclesfield - Chestergate)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-09-21T18:36:33",
+        "site": "Twisted London (Stratford - Romford Rd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-21T18:14:21",
+        "site": "Twisted London (Macclesfield - Chestergate)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-21T18:13:54",
+        "site": "Twisted London (Macclesfield - Chestergate)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-21T17:36:48",
+        "site": "Twisted London (Bristol North)",
+        "brand": "Twisted London"
+      }
+    ],
     "reviews": [
       {
         "site": "Koreatown - Korean Fried Chicken (Kingston - Richmond Rd)",
@@ -8409,6 +8465,22 @@
         "text": "Ordered for the first time and everything was delicious and hot especially the garlic chicken burger, will definitely get again.",
         "created": "2026-09-20T20:56:07Z",
         "date": "2026-09-20"
+      },
+      {
+        "site": "Kuro Smash - (Newcastle- Shields Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Ordered the Classic Miso [X2] and the Siracha Fries, Both amazing, Hot and fast",
+        "created": "2026-09-21T19:53:06Z",
+        "date": "2026-09-21"
+      },
+      {
+        "site": "Twisted London (Colchester)",
+        "brand": "Twisted London",
+        "rating": 4,
+        "text": "lovely burger just bit to much sauce other than that \ud83d\udc4c",
+        "created": "2026-09-21T18:14:26Z",
+        "date": "2026-09-21"
       }
     ]
   }
