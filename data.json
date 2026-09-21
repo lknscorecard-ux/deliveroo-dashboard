@@ -8383,8 +8383,33 @@
   },
   "2026-09-21": {
     "scraped_date": "2026-09-21",
-    "last_updated": "2026-09-21T09:38:37Z",
+    "last_updated": "2026-09-21T16:15:03Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Koreatown - Korean Fried Chicken (Kingston - Richmond Rd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "Beef arrived raw. Rice was just mush. Whoever runs this restaurant does not know how to cook.",
+        "created": "2026-09-20T13:17:23Z",
+        "date": "2026-09-20"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Dorking - High St)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Freshly prepped and really tasty.",
+        "created": "2026-09-20T13:12:49Z",
+        "date": "2026-09-20"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Southampton - Deacon Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Ordered for the first time and everything was delicious and hot especially the garlic chicken burger, will definitely get again.",
+        "created": "2026-09-20T20:56:07Z",
+        "date": "2026-09-20"
+      }
+    ]
   }
 }
