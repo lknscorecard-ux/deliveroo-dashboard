@@ -8486,8 +8486,18 @@
   },
   "2026-09-22": {
     "scraped_date": "2026-09-22",
-    "last_updated": "2026-09-22T13:09:26Z",
+    "last_updated": "2026-09-22T18:00:43Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-22T17:06:48",
+        "site": "Twisted London (Coatbridge - Main St)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-22T15:48:01",
+        "site": "Twisted London (Macclesfield - Chestergate)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-09-22T13:42:48",
         "site": "Twisted London (Stratford - Romford Rd)",
@@ -8509,12 +8519,52 @@
         "date": "2026-09-22"
       },
       {
+        "site": "Hot Chick (Colchester)",
+        "brand": "Hot Chick",
+        "rating": 3,
+        "text": "what happened to the size of the chicken? half the size !!",
+        "created": "2026-09-21T17:00:49Z",
+        "date": "2026-09-21"
+      },
+      {
         "site": "Koreatown (Grangetown - Holmesdale St)",
         "brand": "Koreatown",
         "rating": 5,
         "text": "Couldn&#39;t fault anything with this order.",
         "created": "2026-09-22T08:17:05Z",
         "date": "2026-09-22"
+      },
+      {
+        "site": "Kuro Smash - (Newcastle- Shields Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Ordered the Classic Miso [X2] and the Siracha Fries, Both amazing, Hot and fast",
+        "created": "2026-09-21T19:53:06Z",
+        "date": "2026-09-21"
+      },
+      {
+        "site": "Twisted London (Colchester)",
+        "brand": "Twisted London",
+        "rating": 4,
+        "text": "lovely burger just bit to much sauce other than that \ud83d\udc4c",
+        "created": "2026-09-21T18:14:26Z",
+        "date": "2026-09-21"
+      },
+      {
+        "site": "Wing Fest All Stars (Clifton - Byron Pl)",
+        "brand": "Wing Fest",
+        "rating": 1,
+        "text": "Wasn\u2019t the same as other wing fest shops and pop ups I\u2019ve order from.",
+        "created": "2026-09-22T00:45:47Z",
+        "date": "2026-09-22"
+      },
+      {
+        "site": "Hot Chick (Dover - Tower Hamlets Rd)",
+        "brand": "Hot Chick",
+        "rating": 2,
+        "text": "ordered chicken poppers instesd got 2 chicken strips chopped. \n\nloaded fries. well I say loaded but 8 pound for a burger size box of chips and the topping was non existent not loaded as advertised. this is not about being greedy and portions. \n\nas the chicken poppers and chips where 1 meal. and the loaded fries was the other. \n\nbetter quality and if you havnt got no chicken poppers left please dont imperavise, just council the order or ring customer. \n\nthank you taste was good.",
+        "created": "2026-09-21T18:52:12Z",
+        "date": "2026-09-21"
       },
       {
         "site": "Kuro Smash - (Clifton - Byron Pl)",
