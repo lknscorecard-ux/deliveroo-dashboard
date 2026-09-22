@@ -8486,9 +8486,36 @@
   },
   "2026-09-22": {
     "scraped_date": "2026-09-22",
-    "last_updated": "2026-09-22T07:22:10Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-09-22T13:09:26Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-09-22T13:42:48",
+        "site": "Twisted London (Stratford - Romford Rd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-22T13:34:15",
+        "site": "Twisted London (Bristol - Southmead Rd)",
+        "brand": "Twisted London"
+      }
+    ],
     "reviews": [
+      {
+        "site": "Wing Fest All Stars (Leeds - Britannia St)",
+        "brand": "Wing Fest",
+        "rating": 5,
+        "text": "speedy wings for lunch - yummmmy!",
+        "created": "2026-09-22T11:32:50Z",
+        "date": "2026-09-22"
+      },
+      {
+        "site": "Koreatown (Grangetown - Holmesdale St)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Couldn&#39;t fault anything with this order.",
+        "created": "2026-09-22T08:17:05Z",
+        "date": "2026-09-22"
+      },
       {
         "site": "Kuro Smash - (Clifton - Byron Pl)",
         "brand": "Kuro Smash",
@@ -8503,6 +8530,14 @@
         "rating": 1,
         "text": "not authentic Korean fried chicken and sauces. I have been to Korea and had the Korean fried chicken there and I am an expert. The bites tasted unfortunately like normal chicken tenders from the supermarket which you can buy in a bulk and airfry by yourself. The breading was also not double fried which is THE most important thing for it to be called &#34;korean fried chicken&#34;. portions were also too small for the price and I ordered 2 portions with 3 sauces(1 extra sauce paid extra for it). I wouldn&#39;t recommend this place and won&#39;t order here again and order from another Korean fried chicken place.",
         "created": "2026-09-22T04:18:28Z",
+        "date": "2026-09-22"
+      },
+      {
+        "site": "Byron (Burgess Hill - Church Rd)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "such a delish burger - it was huuuge!",
+        "created": "2026-09-22T11:32:28Z",
         "date": "2026-09-22"
       }
     ]
