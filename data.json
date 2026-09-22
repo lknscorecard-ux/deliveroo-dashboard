@@ -8486,8 +8486,53 @@
   },
   "2026-09-22": {
     "scraped_date": "2026-09-22",
-    "last_updated": "2026-09-22T18:00:43Z",
+    "last_updated": "2026-09-22T21:08:52Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-22T22:03:00",
+        "site": "Hot Chick (Coatbridge - Main St)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-09-22T21:40:22",
+        "site": "Twisted London (Eastbourne)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-22T21:05:51",
+        "site": "Twisted London (Eastbourne)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-22T20:59:27",
+        "site": "Twisted London (Bristol North)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-22T20:46:26",
+        "site": "Twisted London (Bristol North)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-22T20:07:44",
+        "site": "Twisted London (Bristol North)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-22T20:07:42",
+        "site": "Twisted London (Bristol North)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-09-22T19:58:05",
+        "site": "WTF!-(Welwyn-LondonRd)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-09-22T19:04:26",
+        "site": "Hot Chick (Bristol North)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-09-22T17:06:48",
         "site": "Twisted London (Coatbridge - Main St)",
@@ -8588,6 +8633,14 @@
         "rating": 5,
         "text": "such a delish burger - it was huuuge!",
         "created": "2026-09-22T11:32:28Z",
+        "date": "2026-09-22"
+      },
+      {
+        "site": "Twisted London (Eltham - Newmarket Grn)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "Didn\u2019t like it this time round. Chips were like eating plastic, hard and what felt like over cooked, absolutely gutted. Sent the wrong wings Order too!Thankfully the burger HIT the spot. (Thank godness) however, a bit cautious when ordering anything else but the burger from now on. :-/",
+        "created": "2026-09-22T18:31:35Z",
         "date": "2026-09-22"
       }
     ]
