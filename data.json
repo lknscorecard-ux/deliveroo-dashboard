@@ -8486,7 +8486,7 @@
   },
   "2026-09-22": {
     "scraped_date": "2026-09-22",
-    "last_updated": "2026-09-22T00:37:36Z",
+    "last_updated": "2026-09-22T07:22:10Z",
     "cancelled_orders": [],
     "reviews": [
       {
@@ -8495,6 +8495,14 @@
         "rating": 1,
         "text": "My burger never arrived with my order xx",
         "created": "2026-09-22T00:24:15Z",
+        "date": "2026-09-22"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Hounslow- Great West Rd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "not authentic Korean fried chicken and sauces. I have been to Korea and had the Korean fried chicken there and I am an expert. The bites tasted unfortunately like normal chicken tenders from the supermarket which you can buy in a bulk and airfry by yourself. The breading was also not double fried which is THE most important thing for it to be called &#34;korean fried chicken&#34;. portions were also too small for the price and I ordered 2 portions with 3 sauces(1 extra sauce paid extra for it). I wouldn&#39;t recommend this place and won&#39;t order here again and order from another Korean fried chicken place.",
+        "created": "2026-09-22T04:18:28Z",
         "date": "2026-09-22"
       }
     ]
