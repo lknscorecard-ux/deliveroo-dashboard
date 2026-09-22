@@ -8483,5 +8483,20 @@
         "date": "2026-09-21"
       }
     ]
+  },
+  "2026-09-22": {
+    "scraped_date": "2026-09-22",
+    "last_updated": "2026-09-22T00:37:36Z",
+    "cancelled_orders": [],
+    "reviews": [
+      {
+        "site": "Kuro Smash - (Clifton - Byron Pl)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "My burger never arrived with my order xx",
+        "created": "2026-09-22T00:24:15Z",
+        "date": "2026-09-22"
+      }
+    ]
   }
 }
