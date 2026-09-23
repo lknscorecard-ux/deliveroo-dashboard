@@ -8647,8 +8647,17 @@
   },
   "2026-09-23": {
     "scraped_date": "2026-09-23",
-    "last_updated": "2026-09-23T00:02:07Z",
+    "last_updated": "2026-09-23T04:37:25Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Koreatown - Korean Fried Chicken (Clifton - Byron Pl)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "Frozen thin chicken steak between bread",
+        "created": "2026-09-23T00:12:20Z",
+        "date": "2026-09-23"
+      }
+    ]
   }
 }
