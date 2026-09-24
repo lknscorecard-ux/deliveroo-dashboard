@@ -8826,15 +8826,157 @@
   },
   "2026-09-24": {
     "scraped_date": "2026-09-24",
-    "last_updated": "2026-09-24T13:16:07Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-09-24T18:16:23Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-09-24T18:21:33",
+        "site": "WTF!-(Welwyn-LondonRd)",
+        "brand": "WTF"
+      }
+    ],
     "reviews": [
+      {
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Brighton - Western Rd)",
+        "brand": "WTF",
+        "rating": 5,
+        "text": "The portions were generous without compromising quality.",
+        "created": "2026-09-24T10:49:22Z",
+        "date": "2026-09-24"
+      },
+      {
+        "site": "Hot Chick (Farnworth)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Speedy burger !! Loved the buffalo WOW",
+        "created": "2026-09-23T15:25:59Z",
+        "date": "2026-09-23"
+      },
+      {
+        "site": "Koreatown (Crewe - Nantwich Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Very Fresh hearty meal and taste is so good.",
+        "created": "2026-09-24T09:19:43Z",
+        "date": "2026-09-24"
+      },
+      {
+        "site": "Twisted London (Worthing - Chapel Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "So impressed with the food! The burgers, fries and chicken were all excellent. Will definitely order again!",
+        "created": "2026-09-23T18:49:33Z",
+        "date": "2026-09-23"
+      },
+      {
+        "site": "Wing Fest All Stars (Oldham - Featherstall Road)",
+        "brand": "Wing Fest",
+        "rating": 2,
+        "text": "Disappointing, not enough sauce. Not worth the price.",
+        "created": "2026-09-23T18:10:21Z",
+        "date": "2026-09-23"
+      },
+      {
+        "site": "TwistedLondon(Abingdon-MarchamRd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "It can never go wrong to order from him.",
+        "created": "2026-09-23T17:06:15Z",
+        "date": "2026-09-23"
+      },
+      {
+        "site": "Twisted London (Guildford - Southway)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Amazing!",
+        "created": "2026-09-23T15:06:55Z",
+        "date": "2026-09-23"
+      },
+      {
+        "site": "Twisted Burgers (Coventry)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "Good juicy burger",
+        "created": "2026-09-24T10:03:09Z",
+        "date": "2026-09-24"
+      },
+      {
+        "site": "Twisted London (Stratford - Romford Rd)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "Loaded fries were not very loaded. Burgers immediately don\u2019t sit well",
+        "created": "2026-09-23T19:10:01Z",
+        "date": "2026-09-23"
+      },
+      {
+        "site": "Twisted London (Wednesbury - Lower High St)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "Bro there\u2019s no sauce in the burger dry an hell an plus\u2019s why did u send me normal fries when you said skin on fries smh",
+        "created": "2026-09-23T23:31:44Z",
+        "date": "2026-09-24"
+      },
+      {
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Crewe - Nantwich Rd)",
+        "brand": "Wing Fest",
+        "rating": 5,
+        "text": "The best wings I have had in a while. Wow that buffalo sauce !!",
+        "created": "2026-09-24T15:57:12Z",
+        "date": "2026-09-24"
+      },
       {
         "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Crewe - Nantwich Rd)",
         "brand": "Wing Fest",
         "rating": 5,
         "text": "Great wings options, tasty and hot food delivered to our door steps. Very good new edition to Crewe takeaways.",
         "created": "2026-09-24T09:20:22Z",
+        "date": "2026-09-24"
+      },
+      {
+        "site": "Koreatown (Nottingham - Castle Blvd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "such a delicuous and easy dinner",
+        "created": "2026-09-23T19:49:37Z",
+        "date": "2026-09-23"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Rugby - Boughton Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Burgers are better than Libertine Burger place. Recommend.",
+        "created": "2026-09-23T16:28:50Z",
+        "date": "2026-09-23"
+      },
+      {
+        "site": "Kuro Smash (Aberdeen - Hutcheon St)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "The BEST chicken burger EVER!!!",
+        "created": "2026-09-24T18:12:12Z",
+        "date": "2026-09-24"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "the burgers looked like they had been sat on and were quite small for the price. the loaded fries i have had before from a different location and the portion was alot bigger. only got 7up and ordered 2, 2nd was replaced with Pepsi which I cannot drink due to allergies.",
+        "created": "2026-09-24T15:15:01Z",
+        "date": "2026-09-24"
+      },
+      {
+        "site": "Twisted London (Tunbridge Wells - Tunbridge Rd)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "the honey buffalo chicken was extremely spicey hot and the burger the meat patty has a weird taste",
+        "created": "2026-09-24T17:38:45Z",
+        "date": "2026-09-24"
+      },
+      {
+        "site": "Hot Chick (Datchet - Mill Place)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "The food travelled exceptionally well.",
+        "created": "2026-09-24T14:50:57Z",
         "date": "2026-09-24"
       }
     ]
