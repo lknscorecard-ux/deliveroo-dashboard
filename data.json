@@ -8826,8 +8826,17 @@
   },
   "2026-09-24": {
     "scraped_date": "2026-09-24",
-    "last_updated": "2026-09-24T07:15:36Z",
+    "last_updated": "2026-09-24T13:16:07Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Crewe - Nantwich Rd)",
+        "brand": "Wing Fest",
+        "rating": 5,
+        "text": "Great wings options, tasty and hot food delivered to our door steps. Very good new edition to Crewe takeaways.",
+        "created": "2026-09-24T09:20:22Z",
+        "date": "2026-09-24"
+      }
+    ]
   }
 }
