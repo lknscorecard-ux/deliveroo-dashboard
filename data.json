@@ -8983,8 +8983,73 @@
   },
   "2026-09-25": {
     "scraped_date": "2026-09-25",
-    "last_updated": "2026-09-25T09:26:18Z",
+    "last_updated": "2026-09-25T15:11:36Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Kuro Smash (Aberdeen - Hutcheon St)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "The BEST chicken burger EVER!!!",
+        "created": "2026-09-24T18:12:12Z",
+        "date": "2026-09-24"
+      },
+      {
+        "site": "Twisted London (Tunbridge Wells - Tunbridge Rd)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "the honey buffalo chicken was extremely spicey hot and the burger the meat patty has a weird taste",
+        "created": "2026-09-24T17:38:45Z",
+        "date": "2026-09-24"
+      },
+      {
+        "site": "Hot Chick (Hounslow - Great West Rd)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "Poor quality, took extremely long and burger is cheap and processed",
+        "created": "2026-09-25T09:53:37Z",
+        "date": "2026-09-25"
+      },
+      {
+        "site": "Twisted London (Bury - Walmersley Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Amazing amazing amazing omg",
+        "created": "2026-09-24T16:26:31Z",
+        "date": "2026-09-24"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Bury - Walmersley Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "So tasty ong!!!!!!!!! So so so good",
+        "created": "2026-09-24T16:26:51Z",
+        "date": "2026-09-24"
+      },
+      {
+        "site": "Kuro Smash - (Clifton - Byron Pl)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "top notch as always",
+        "created": "2026-09-24T20:46:02Z",
+        "date": "2026-09-24"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Stratford - Romford Rd)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "digusting the loaded fries tasted like soap dish washer and the buger was so overcooked and crusty",
+        "created": "2026-09-24T13:25:55Z",
+        "date": "2026-09-24"
+      },
+      {
+        "site": "Twisted London (Glasgow - Ingram St)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "Beef was not seared or seasoned well at all, may have just been the burger I ordered but it was a mess.",
+        "created": "2026-09-25T10:23:47Z",
+        "date": "2026-09-25"
+      }
+    ]
   }
 }
