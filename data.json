@@ -8983,8 +8983,24 @@
   },
   "2026-09-25": {
     "scraped_date": "2026-09-25",
-    "last_updated": "2026-09-25T15:11:36Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-09-25T19:53:00Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-09-25T20:32:50",
+        "site": "Kuro Smash - (Leatherhead - High St)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-09-25T20:24:09",
+        "site": "HotChick-(Welwyn-LondonRd)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-09-25T19:55:23",
+        "site": "Wing Fest All Stars (Watford - Market St)",
+        "brand": "Wing Fest"
+      }
+    ],
     "reviews": [
       {
         "site": "Kuro Smash (Aberdeen - Hutcheon St)",
@@ -9001,6 +9017,14 @@
         "text": "the honey buffalo chicken was extremely spicey hot and the burger the meat patty has a weird taste",
         "created": "2026-09-24T17:38:45Z",
         "date": "2026-09-24"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Leeds - Britannia St)",
+        "brand": "Hot Chick",
+        "rating": 4,
+        "text": "Great but wish there was more drink options than just water. Girls gotta have a Fanta with fried chicken, sort this out",
+        "created": "2026-09-25T00:29:01Z",
+        "date": "2026-09-25"
       },
       {
         "site": "Hot Chick (Hounslow - Great West Rd)",
@@ -9027,11 +9051,35 @@
         "date": "2026-09-24"
       },
       {
+        "site": "Hot Chick (Datchet - Mill Place)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "The food travelled exceptionally well.",
+        "created": "2026-09-24T14:50:57Z",
+        "date": "2026-09-24"
+      },
+      {
         "site": "Kuro Smash - (Clifton - Byron Pl)",
         "brand": "Kuro Smash",
         "rating": 5,
         "text": "top notch as always",
         "created": "2026-09-24T20:46:02Z",
+        "date": "2026-09-24"
+      },
+      {
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Crewe - Nantwich Rd)",
+        "brand": "Wing Fest",
+        "rating": 5,
+        "text": "The best wings I have had in a while. Wow that buffalo sauce !!",
+        "created": "2026-09-24T15:57:12Z",
+        "date": "2026-09-24"
+      },
+      {
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Crewe - Nantwich Rd)",
+        "brand": "Wing Fest",
+        "rating": 5,
+        "text": "Great wings options, tasty and hot food delivered to our door steps. Very good new edition to Crewe takeaways.",
+        "created": "2026-09-24T09:20:22Z",
         "date": "2026-09-24"
       },
       {
@@ -9041,6 +9089,22 @@
         "text": "digusting the loaded fries tasted like soap dish washer and the buger was so overcooked and crusty",
         "created": "2026-09-24T13:25:55Z",
         "date": "2026-09-24"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "the burgers looked like they had been sat on and were quite small for the price. the loaded fries i have had before from a different location and the portion was alot bigger. only got 7up and ordered 2, 2nd was replaced with Pepsi which I cannot drink due to allergies.",
+        "created": "2026-09-24T15:15:01Z",
+        "date": "2026-09-24"
+      },
+      {
+        "site": "Byron (Burgess Hill - Church Rd)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "absolutely delicious! only thing I would ask for is the ability to remove onions (or other items) when ordering! some of us have allergies!",
+        "created": "2026-09-25T16:06:59Z",
+        "date": "2026-09-25"
       },
       {
         "site": "Twisted London (Glasgow - Ingram St)",
