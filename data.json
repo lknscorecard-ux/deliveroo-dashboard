@@ -9118,8 +9118,13 @@
   },
   "2026-09-26": {
     "scraped_date": "2026-09-26",
-    "last_updated": "2026-09-26T14:09:49Z",
+    "last_updated": "2026-09-26T19:03:35Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-26T16:46:54",
+        "site": "WTF! (Slough - Burnham Ln)",
+        "brand": "WTF"
+      },
       {
         "time": "2026-09-26T03:26:20",
         "site": "Twisted London (Guildford - Southway)",
@@ -9178,11 +9183,59 @@
         "date": "2026-09-25"
       },
       {
+        "site": "Twisted London (Guildford - Southway)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "left out fries entirely. no number to call. no way to get the fries sent.",
+        "created": "2026-09-26T18:52:07Z",
+        "date": "2026-09-26"
+      },
+      {
+        "site": "Twisted London (Eltham - Newmarket Grn)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "Disappointing this time, a drink and burger sauce missing from the order and both burgers were uncooked/raw in places so we could not eat them. The wings were very good. Usually the food is great but not on this occasion unfortunately",
+        "created": "2026-09-26T18:39:49Z",
+        "date": "2026-09-26"
+      },
+      {
+        "site": "Kuro Smash - (Newcastle- Shields Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "This was our first time ordering here. Great Burgers! We got the sweet bacon teriyaki double burger with cheese. it was cooked well, it was juicy and still hot on arrival. delivery time was promt and service was friendly. Would recommend and will be ordering again in the future \ud83c\udf54\ud83c\udf1f",
+        "created": "2026-09-26T15:41:09Z",
+        "date": "2026-09-26"
+      },
+      {
         "site": "Koreatown - Korean Fried Chicken (Rugby - Boughton Rd)",
         "brand": "Koreatown",
         "rating": 5,
         "text": "Fantastic, everything had its own flavour and was delicious, it was nice to have something different too",
         "created": "2026-09-26T11:57:29Z",
+        "date": "2026-09-26"
+      },
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "The cheese is disgusting, fake gooey slime. Zero spice from jalape\u00f1os.  Onion rings are really good. Fries skinless?!",
+        "created": "2026-09-26T16:37:34Z",
+        "date": "2026-09-26"
+      },
+      {
+        "site": "Twisted London (Feltham)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Amazing",
+        "created": "2026-09-26T15:33:04Z",
+        "date": "2026-09-26"
+      },
+      {
+        "site": "WTF (Norwich- Plumstead Rd)",
+        "brand": "WTF",
+        "rating": 5,
+        "text": "really tasty food!",
+        "created": "2026-09-26T18:07:21Z",
         "date": "2026-09-26"
       }
     ]
