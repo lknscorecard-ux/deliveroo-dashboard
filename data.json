@@ -9257,8 +9257,71 @@
   },
   "2026-09-27": {
     "scraped_date": "2026-09-27",
-    "last_updated": "2026-09-27T09:51:56Z",
-    "cancelled_orders": [],
-    "reviews": []
+    "last_updated": "2026-09-27T15:02:07Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-09-27T15:07:10",
+        "site": "WTF (Norwich- Plumstead Rd)",
+        "brand": "WTF"
+      }
+    ],
+    "reviews": [
+      {
+        "site": "Twisted London (Feltham)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Amazing",
+        "created": "2026-09-26T15:33:04Z",
+        "date": "2026-09-26"
+      },
+      {
+        "site": "Kuro Smash - (Newcastle- Shields Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "This was our first time ordering here. Great Burgers! We got the sweet bacon teriyaki double burger with cheese. it was cooked well, it was juicy and still hot on arrival. delivery time was promt and service was friendly. Would recommend and will be ordering again in the future \ud83c\udf54\ud83c\udf1f",
+        "created": "2026-09-26T15:41:09Z",
+        "date": "2026-09-26"
+      },
+      {
+        "site": "Koreatown (Newport - Charles St)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "So dissapointed. Missibg items, food stone cold and tiny portions. AVOID.",
+        "created": "2026-09-26T18:08:45Z",
+        "date": "2026-09-26"
+      },
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 4,
+        "text": "Delicious food even though a tad greasy",
+        "created": "2026-09-27T09:59:11Z",
+        "date": "2026-09-27"
+      },
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "The cheese is disgusting, fake gooey slime. Zero spice from jalape\u00f1os.  Onion rings are really good. Fries skinless?!",
+        "created": "2026-09-26T16:37:34Z",
+        "date": "2026-09-26"
+      },
+      {
+        "site": "Twisted London (Eltham - Newmarket Grn)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "Disappointing this time, a drink and burger sauce missing from the order and both burgers were uncooked/raw in places so we could not eat them. The wings were very good. Usually the food is great but not on this occasion unfortunately",
+        "created": "2026-09-26T18:39:49Z",
+        "date": "2026-09-26"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (St Albans-High Oaks)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Everything amazing, but chips but dead and cold",
+        "created": "2026-09-26T21:41:19Z",
+        "date": "2026-09-26"
+      }
+    ]
   }
 }
