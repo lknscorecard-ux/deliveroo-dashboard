@@ -9257,8 +9257,23 @@
   },
   "2026-09-27": {
     "scraped_date": "2026-09-27",
-    "last_updated": "2026-09-27T15:02:07Z",
+    "last_updated": "2026-09-27T19:35:44Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-27T19:29:55",
+        "site": "Wing Fest All Stars (Deptford - Tanners Hill)",
+        "brand": "Wing Fest"
+      },
+      {
+        "time": "2026-09-27T19:03:05",
+        "site": "Wing Fest All Stars (Deptford - Tanners Hill)",
+        "brand": "Wing Fest"
+      },
+      {
+        "time": "2026-09-27T17:54:46",
+        "site": "Kuro Smash (Reading - Southampton St)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-09-27T15:07:10",
         "site": "WTF (Norwich- Plumstead Rd)",
@@ -9321,6 +9336,14 @@
         "text": "Everything amazing, but chips but dead and cold",
         "created": "2026-09-26T21:41:19Z",
         "date": "2026-09-26"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Colchester)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "Inedible too spicy when we didn\u2019t even choose spicy sauce. Wasn\u2019t happy with the price of the order for this as I feel like it didn\u2019t meet our expectations",
+        "created": "2026-09-27T18:56:18Z",
+        "date": "2026-09-27"
       }
     ]
   }
