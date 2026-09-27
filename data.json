@@ -9257,8 +9257,18 @@
   },
   "2026-09-27": {
     "scraped_date": "2026-09-27",
-    "last_updated": "2026-09-27T19:35:44Z",
+    "last_updated": "2026-09-27T22:51:36Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-27T22:35:48",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Blackpool - Market St)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-09-27T21:18:14",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Blackpool - Market St)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-09-27T19:29:55",
         "site": "Wing Fest All Stars (Deptford - Tanners Hill)",
