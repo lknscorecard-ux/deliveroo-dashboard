@@ -9359,8 +9359,55 @@
   },
   "2026-09-28": {
     "scraped_date": "2026-09-28",
-    "last_updated": "2026-09-28T10:38:00Z",
-    "cancelled_orders": [],
-    "reviews": []
+    "last_updated": "2026-09-28T19:18:50Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-09-28T19:55:03",
+        "site": "TwistedLondon(Welwyn-LondonRd)",
+        "brand": "Twisted London"
+      }
+    ],
+    "reviews": [
+      {
+        "site": "Koreatown - Korean Fried Chicken (Colchester)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "Inedible too spicy when we didn\u2019t even choose spicy sauce. Wasn\u2019t happy with the price of the order for this as I feel like it didn\u2019t meet our expectations",
+        "created": "2026-09-27T18:56:18Z",
+        "date": "2026-09-27"
+      },
+      {
+        "site": "Twisted London (Benfleet - High Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Spent so much on a burger for it to come frozen and hard. I will not be getting this place again.",
+        "created": "2026-09-27T19:05:14Z",
+        "date": "2026-09-27"
+      },
+      {
+        "site": "Byron Burgers & Fries (Eltham - Newmarket Grn)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "The burgers were large and absolutely delicious!",
+        "created": "2026-09-28T17:04:34Z",
+        "date": "2026-09-28"
+      },
+      {
+        "site": "Wing Fest All Stars (Leeds - Britannia St)",
+        "brand": "Wing Fest",
+        "rating": 5,
+        "text": "Food was bangin still. Love.",
+        "created": "2026-09-28T15:53:29Z",
+        "date": "2026-09-28"
+      },
+      {
+        "site": "TwistedLondon(Chichester-Southdown)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Good Burgers, the 2 for 1 makes it well worthwhile. . .",
+        "created": "2026-09-28T18:17:07Z",
+        "date": "2026-09-28"
+      }
+    ]
   }
 }
