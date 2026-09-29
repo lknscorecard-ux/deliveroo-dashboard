@@ -9412,8 +9412,17 @@
   },
   "2026-09-29": {
     "scraped_date": "2026-09-29",
-    "last_updated": "2026-09-29T00:13:44Z",
+    "last_updated": "2026-09-29T07:56:01Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Kuro Smash - Umami Burgers (Oldham - Featherstall Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Very high quality food and very tasty",
+        "created": "2026-09-29T05:08:31Z",
+        "date": "2026-09-29"
+      }
+    ]
   }
 }
