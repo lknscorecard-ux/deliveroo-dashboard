@@ -9412,9 +9412,17 @@
   },
   "2026-09-29": {
     "scraped_date": "2026-09-29",
-    "last_updated": "2026-09-29T07:56:01Z",
+    "last_updated": "2026-09-29T14:40:07Z",
     "cancelled_orders": [],
     "reviews": [
+      {
+        "site": "Wing Fest All Stars (Leeds - Britannia St)",
+        "brand": "Wing Fest",
+        "rating": 5,
+        "text": "Food was bangin still. Love.",
+        "created": "2026-09-28T15:53:29Z",
+        "date": "2026-09-28"
+      },
       {
         "site": "Kuro Smash - Umami Burgers (Oldham - Featherstall Rd)",
         "brand": "Kuro Smash",
@@ -9422,6 +9430,30 @@
         "text": "Very high quality food and very tasty",
         "created": "2026-09-29T05:08:31Z",
         "date": "2026-09-29"
+      },
+      {
+        "site": "TwistedLondon(Chichester-Southdown)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Good Burgers, the 2 for 1 makes it well worthwhile. . .",
+        "created": "2026-09-28T18:17:07Z",
+        "date": "2026-09-28"
+      },
+      {
+        "site": "Twisted London (Salisbury - Castle St)1",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "The food was acceptable for the price as it BYGOF. But I wouldn\u2019t be happy with it if I paid the full price.",
+        "created": "2026-09-28T14:19:54Z",
+        "date": "2026-09-28"
+      },
+      {
+        "site": "Byron Burgers & Fries (Eltham - Newmarket Grn)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "The burgers were large and absolutely delicious!",
+        "created": "2026-09-28T17:04:34Z",
+        "date": "2026-09-28"
       }
     ]
   }
