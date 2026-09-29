@@ -9412,25 +9412,15 @@
   },
   "2026-09-29": {
     "scraped_date": "2026-09-29",
-    "last_updated": "2026-09-29T14:40:07Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-09-29T20:35:16Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-09-29T20:35:22",
+        "site": "WTF! (Slough - Burnham Ln)",
+        "brand": "WTF"
+      }
+    ],
     "reviews": [
-      {
-        "site": "Wing Fest All Stars (Leeds - Britannia St)",
-        "brand": "Wing Fest",
-        "rating": 5,
-        "text": "Food was bangin still. Love.",
-        "created": "2026-09-28T15:53:29Z",
-        "date": "2026-09-28"
-      },
-      {
-        "site": "Kuro Smash - Umami Burgers (Oldham - Featherstall Rd)",
-        "brand": "Kuro Smash",
-        "rating": 5,
-        "text": "Very high quality food and very tasty",
-        "created": "2026-09-29T05:08:31Z",
-        "date": "2026-09-29"
-      },
       {
         "site": "TwistedLondon(Chichester-Southdown)",
         "brand": "Twisted London",
@@ -9442,18 +9432,42 @@
       {
         "site": "Twisted London (Salisbury - Castle St)1",
         "brand": "Twisted London",
+        "rating": 1,
+        "text": "Burger was terrible like it was cooked from frozen processed",
+        "created": "2026-09-29T16:37:39Z",
+        "date": "2026-09-29"
+      },
+      {
+        "site": "Twisted London (Salisbury - Castle St)1",
+        "brand": "Twisted London",
         "rating": 3,
         "text": "The food was acceptable for the price as it BYGOF. But I wouldn\u2019t be happy with it if I paid the full price.",
         "created": "2026-09-28T14:19:54Z",
         "date": "2026-09-28"
       },
       {
-        "site": "Byron Burgers & Fries (Eltham - Newmarket Grn)",
-        "brand": "Other",
+        "site": "Twisted London (Bury - Walmersley Rd)",
+        "brand": "Twisted London",
         "rating": 5,
-        "text": "The burgers were large and absolutely delicious!",
-        "created": "2026-09-28T17:04:34Z",
-        "date": "2026-09-28"
+        "text": "delish burger that was rapid!",
+        "created": "2026-09-29T15:11:00Z",
+        "date": "2026-09-29"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Bury - Walmersley Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Such delish flavours and the chicken was so crispy !!",
+        "created": "2026-09-29T14:47:55Z",
+        "date": "2026-09-29"
+      },
+      {
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Brighton - Western Rd)",
+        "brand": "WTF",
+        "rating": 5,
+        "text": "Really delicious. Loved the loaded fries especially &lt;3",
+        "created": "2026-09-29T15:47:41Z",
+        "date": "2026-09-29"
       }
     ]
   }
