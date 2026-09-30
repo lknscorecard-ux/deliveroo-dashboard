@@ -9473,8 +9473,23 @@
   },
   "2026-09-30": {
     "scraped_date": "2026-09-30",
-    "last_updated": "2026-09-30T16:17:52Z",
+    "last_updated": "2026-09-30T21:56:20Z",
     "cancelled_orders": [
+      {
+        "time": "2026-09-30T20:34:53",
+        "site": "WTF! (Slough - Burnham Ln)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-09-30T17:53:43",
+        "site": "WTF! (Slough - Burnham Ln)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-09-30T17:39:58",
+        "site": "WTF! (Slough - Burnham Ln)",
+        "brand": "WTF"
+      },
       {
         "time": "2026-09-30T03:17:05",
         "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Lincoln - Newland)",
@@ -9544,6 +9559,14 @@
         "rating": 5,
         "text": "best burger i have had in a while - WOW!",
         "created": "2026-09-30T14:54:12Z",
+        "date": "2026-09-30"
+      },
+      {
+        "site": "Twisted London (Reading - Oxford Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Food was good but the drink wasn\u2019t there!! Which I\u2019d paid for. The driver drove off quickly",
+        "created": "2026-09-30T18:40:20Z",
         "date": "2026-09-30"
       }
     ]
