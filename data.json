@@ -9473,8 +9473,14 @@
   },
   "2026-09-30": {
     "scraped_date": "2026-09-30",
-    "last_updated": "2026-09-30T01:07:05Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-09-30T08:03:20Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-09-30T03:17:05",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Lincoln - Newland)",
+        "brand": "Hot Chick"
+      }
+    ],
     "reviews": []
   }
 }
