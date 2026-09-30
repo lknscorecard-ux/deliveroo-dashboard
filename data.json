@@ -9473,7 +9473,7 @@
   },
   "2026-09-30": {
     "scraped_date": "2026-09-30",
-    "last_updated": "2026-09-30T08:03:20Z",
+    "last_updated": "2026-09-30T16:17:52Z",
     "cancelled_orders": [
       {
         "time": "2026-09-30T03:17:05",
@@ -9481,6 +9481,71 @@
         "brand": "Hot Chick"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Brighton - Western Rd)",
+        "brand": "WTF",
+        "rating": 3,
+        "text": "If you\u2019re going to have \u2018mind-blowing\u2019 as part of your name, better make it so\u2026and it wasn\u2019t. Burger was fine, loaded fries were ok, nuggets just tasted of fry oil. Worth getting on offer but not at full price.",
+        "created": "2026-09-30T15:07:34Z",
+        "date": "2026-09-30"
+      },
+      {
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Brighton - Western Rd)",
+        "brand": "WTF",
+        "rating": 5,
+        "text": "Really delicious. Loved the loaded fries especially &lt;3",
+        "created": "2026-09-29T15:47:41Z",
+        "date": "2026-09-29"
+      },
+      {
+        "site": "Twisted London (Norwich - Plumstead Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "The loaded fries were lovely - really tasty fries.",
+        "created": "2026-09-29T23:40:48Z",
+        "date": "2026-09-30"
+      },
+      {
+        "site": "Twisted London (Bury - Walmersley Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "delish burger that was rapid!",
+        "created": "2026-09-29T15:11:00Z",
+        "date": "2026-09-29"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Bury - Walmersley Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Such delish flavours and the chicken was so crispy !!",
+        "created": "2026-09-29T14:47:55Z",
+        "date": "2026-09-29"
+      },
+      {
+        "site": "Twisted London (Salisbury - Castle St)1",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Burger was terrible like it was cooked from frozen processed",
+        "created": "2026-09-29T16:37:39Z",
+        "date": "2026-09-29"
+      },
+      {
+        "site": "Twisted London (Salisbury - Castle St)1",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "The food was acceptable for the price as it BYGOF. But I wouldn\u2019t be happy with it if I paid the full price.",
+        "created": "2026-09-28T14:19:54Z",
+        "date": "2026-09-28"
+      },
+      {
+        "site": "Byron Burgers & Fries (Eltham - Newmarket Grn)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "best burger i have had in a while - WOW!",
+        "created": "2026-09-30T14:54:12Z",
+        "date": "2026-09-30"
+      }
+    ]
   }
 }
