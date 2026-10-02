@@ -9683,8 +9683,14 @@
   },
   "2026-10-02": {
     "scraped_date": "2026-10-02",
-    "last_updated": "2026-10-02T04:14:37Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-10-02T11:58:03Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-10-02T12:04:33",
+        "site": "WTF! (Slough - Burnham Ln)",
+        "brand": "WTF"
+      }
+    ],
     "reviews": []
   }
 }
