@@ -9683,8 +9683,48 @@
   },
   "2026-10-02": {
     "scraped_date": "2026-10-02",
-    "last_updated": "2026-10-02T17:36:28Z",
+    "last_updated": "2026-10-02T21:53:09Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-02T20:19:14",
+        "site": "Kuro Smash (Burgess Hill - Keymer Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-02T19:57:19",
+        "site": "WTF! (Slough - Burnham Ln)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-10-02T19:50:27",
+        "site": "Kuro Smash (Burgess Hill - Keymer Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-02T19:20:30",
+        "site": "Twisted London (Slough - Burnham Ln)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-02T19:19:18",
+        "site": "Hot Chick - (Bracknell - Market St)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-10-02T18:56:59",
+        "site": "Twisted London (Slough - Burnham Ln)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-02T18:51:47",
+        "site": "Kuro Smash (Burgess Hill - Keymer Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-02T18:45:52",
+        "site": "TwistedLondon(BurgessHill-KeymerRd)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-10-02T18:14:51",
         "site": "Kuro Smash (Burgess Hill - Keymer Rd)",
@@ -9745,6 +9785,30 @@
         "rating": 1,
         "text": "Very, very, very disappointed with the size of it. It seemed more like a happy meal from McDonald\u2019s rather than a normal hamburger. Avoid.",
         "created": "2026-10-02T16:58:29Z",
+        "date": "2026-10-02"
+      },
+      {
+        "site": "Hot Chick (Farnworth)",
+        "brand": "Hot Chick",
+        "rating": 4,
+        "text": "Food was hot and tasty would definitely order again.",
+        "created": "2026-10-02T18:24:02Z",
+        "date": "2026-10-02"
+      },
+      {
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Very poor quality for the price. Budget frozen burger patties with sad cheese on top. I would have been upset to pay \u00a35 for this from a van.",
+        "created": "2026-10-02T18:26:29Z",
+        "date": "2026-10-02"
+      },
+      {
+        "site": "Twisted London (Plymouth - Drake Circus)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Amazing!",
+        "created": "2026-10-02T18:18:42Z",
         "date": "2026-10-02"
       }
     ]
