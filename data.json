@@ -9683,14 +9683,70 @@
   },
   "2026-10-02": {
     "scraped_date": "2026-10-02",
-    "last_updated": "2026-10-02T11:58:03Z",
+    "last_updated": "2026-10-02T17:36:28Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-02T18:14:51",
+        "site": "Kuro Smash (Burgess Hill - Keymer Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-02T14:16:12",
+        "site": "WTF! (Slough - Burnham Ln)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-10-02T13:30:37",
+        "site": "Wing Fest All Stars (Folkestone - Fleming Way)",
+        "brand": "Wing Fest"
+      },
       {
         "time": "2026-10-02T12:04:33",
         "site": "WTF! (Slough - Burnham Ln)",
         "brand": "WTF"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Koreatown (Grangetown - Holmesdale St)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "Vile , no taste at all not literally no Korean bbq in it , was going to order something else but not anymore",
+        "created": "2026-10-02T13:09:22Z",
+        "date": "2026-10-02"
+      },
+      {
+        "site": "Koreatown (Grangetown - Holmesdale St)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Plenty of toppings and generous portions throughout.",
+        "created": "2026-10-01T13:27:06Z",
+        "date": "2026-10-01"
+      },
+      {
+        "site": "Dough Bros Pizza (Blackpool - Market St)",
+        "brand": "Other",
+        "rating": 2,
+        "text": "Items shown on pictures does not reflect actual food. Below average pizza",
+        "created": "2026-10-01T18:53:16Z",
+        "date": "2026-10-01"
+      },
+      {
+        "site": "Byron (Burgess Hill - Church Rd)",
+        "brand": "Other",
+        "rating": 3,
+        "text": "First time ordering and the chicken tenders were genuinely amazing \u2014 full of flavour and easily the best I\u2019ve had in a long time \u2014 and the fries were great too, but the gravy tasted like plain bisto and didn\u2019t add much, and the burger, while it had potential, was mostly burnt so I could only eat half; still, the good parts were good enough that I\u2019d be willing to try them again.",
+        "created": "2026-10-01T17:59:16Z",
+        "date": "2026-10-01"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Very, very, very disappointed with the size of it. It seemed more like a happy meal from McDonald\u2019s rather than a normal hamburger. Avoid.",
+        "created": "2026-10-02T16:58:29Z",
+        "date": "2026-10-02"
+      }
+    ]
   }
 }
