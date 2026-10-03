@@ -9812,5 +9812,20 @@
         "date": "2026-10-02"
       }
     ]
+  },
+  "2026-10-03": {
+    "scraped_date": "2026-10-03",
+    "last_updated": "2026-10-03T00:58:20Z",
+    "cancelled_orders": [],
+    "reviews": [
+      {
+        "site": "Twisted Burgers (Leicester)",
+        "brand": "Other",
+        "rating": 1,
+        "text": "the burger patties was burnt on the outside but still raw and pink on the inside. Avoid this place",
+        "created": "2026-10-03T00:31:43Z",
+        "date": "2026-10-03"
+      }
+    ]
   }
 }
