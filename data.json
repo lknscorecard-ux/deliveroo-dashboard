@@ -9815,8 +9815,18 @@
   },
   "2026-10-03": {
     "scraped_date": "2026-10-03",
-    "last_updated": "2026-10-03T17:50:04Z",
+    "last_updated": "2026-10-03T20:40:14Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-03T20:52:50",
+        "site": "Koreatown - (Bracknell - Market St)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-10-03T20:38:07",
+        "site": "Twisted London (Slough - Burnham Ln)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-10-03T18:44:35",
         "site": "Kuro Smash (Burgess Hill - Keymer Rd)",
@@ -9957,6 +9967,22 @@
         "text": "Amazing!",
         "created": "2026-10-02T18:18:42Z",
         "date": "2026-10-02"
+      },
+      {
+        "site": "Twisted London (Feltham)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Fantastic burger !!",
+        "created": "2026-10-03T19:12:18Z",
+        "date": "2026-10-03"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Rugby - Boughton Rd)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "Unfortunately beef mince itself not seasoned at all, no salt/no pepper which threw off the whole taste, cheese and gherkins didn&#39;t help. Disappointed.",
+        "created": "2026-10-03T19:04:40Z",
+        "date": "2026-10-03"
       },
       {
         "site": "Kuro Smash (Whyteleaf - Godstone Rd)",
