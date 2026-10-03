@@ -9815,8 +9815,13 @@
   },
   "2026-10-03": {
     "scraped_date": "2026-10-03",
-    "last_updated": "2026-10-03T07:39:06Z",
+    "last_updated": "2026-10-03T13:04:20Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-03T12:11:24",
+        "site": "Kuro Smash (Northolt - The Heights)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-10-03T03:15:20",
         "site": "Twisted London (Guildford - Southway)",
@@ -9834,6 +9839,22 @@
       }
     ],
     "reviews": [
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Gosport - Forton Rd)",
+        "brand": "Hot Chick",
+        "rating": 3,
+        "text": "There were decent flavours underneath, but it was like salt had been salted with your mum&#39;s salt grinder that she&#39;d salted into a salt mine and then salted all over six times. Plus some extra salt.",
+        "created": "2026-10-03T08:30:47Z",
+        "date": "2026-10-03"
+      },
+      {
+        "site": "Kuro Smash - (Clifton - Byron Pl)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Top notch as always. appreciate the free Pepsi can too. \ud83d\udc4d\ud83c\udffb",
+        "created": "2026-10-03T11:11:22Z",
+        "date": "2026-10-03"
+      },
       {
         "site": "Twisted Burgers (Leicester)",
         "brand": "Other",
