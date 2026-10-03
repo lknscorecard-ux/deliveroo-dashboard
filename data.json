@@ -9815,8 +9815,23 @@
   },
   "2026-10-03": {
     "scraped_date": "2026-10-03",
-    "last_updated": "2026-10-03T13:04:20Z",
+    "last_updated": "2026-10-03T17:50:04Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-03T18:44:35",
+        "site": "Kuro Smash (Burgess Hill - Keymer Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-03T17:33:22",
+        "site": "Hot Chick - (Bracknell - Market St)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-10-03T17:24:46",
+        "site": "Koreatown - (Bracknell - Market St)",
+        "brand": "Koreatown"
+      },
       {
         "time": "2026-10-03T12:11:24",
         "site": "Kuro Smash (Northolt - The Heights)",
@@ -9840,12 +9855,60 @@
     ],
     "reviews": [
       {
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "One of the worst quality burgers I have ever had and the food was cold as if it was microwaved",
+        "created": "2026-10-03T13:55:57Z",
+        "date": "2026-10-03"
+      },
+      {
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "Not smash burgers at all, the burger overall was really poorly made. Nor were the fries skin on. Chicken wings provided some redemption.",
+        "created": "2026-10-03T13:14:53Z",
+        "date": "2026-10-03"
+      },
+      {
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Very poor quality for the price. Budget frozen burger patties with sad cheese on top. I would have been upset to pay \u00a35 for this from a van.",
+        "created": "2026-10-02T18:26:29Z",
+        "date": "2026-10-02"
+      },
+      {
+        "site": "Hot Chick (Farnworth)",
+        "brand": "Hot Chick",
+        "rating": 4,
+        "text": "Food was hot and tasty would definitely order again.",
+        "created": "2026-10-02T18:24:02Z",
+        "date": "2026-10-02"
+      },
+      {
+        "site": "Kuro Smash (Northolt - The Heights)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "low quality meat, chewy like gum, weird smell. do not recommend at all.",
+        "created": "2026-10-02T20:47:04Z",
+        "date": "2026-10-02"
+      },
+      {
         "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Gosport - Forton Rd)",
         "brand": "Hot Chick",
         "rating": 3,
         "text": "There were decent flavours underneath, but it was like salt had been salted with your mum&#39;s salt grinder that she&#39;d salted into a salt mine and then salted all over six times. Plus some extra salt.",
         "created": "2026-10-03T08:30:47Z",
         "date": "2026-10-03"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Hayes - Uxbridge Rd)",
+        "brand": "Hot Chick",
+        "rating": 3,
+        "text": "there was hair in my burger. i phoned the restaurant and they said they will issue a refund but i have to do it through deliveroo. deliveroo advised i have to put in a review to get the refund.",
+        "created": "2026-10-02T20:39:33Z",
+        "date": "2026-10-02"
       },
       {
         "site": "Kuro Smash - (Clifton - Byron Pl)",
@@ -9856,12 +9919,12 @@
         "date": "2026-10-03"
       },
       {
-        "site": "Twisted Burgers (Leicester)",
-        "brand": "Other",
-        "rating": 1,
-        "text": "the burger patties was burnt on the outside but still raw and pink on the inside. Avoid this place",
-        "created": "2026-10-03T00:31:43Z",
-        "date": "2026-10-03"
+        "site": "Kuro Smash - (Clifton - Byron Pl)",
+        "brand": "Kuro Smash",
+        "rating": 3,
+        "text": "A standard burger with no thrills. Chicken balls bland. Sauces a bit watery . Average 3/5.",
+        "created": "2026-10-02T22:31:58Z",
+        "date": "2026-10-02"
       },
       {
         "site": "Koreatown (Bexleyheath - Broadway)",
@@ -9869,6 +9932,46 @@
         "rating": 1,
         "text": "Tenders didn\u2019t arrive, the rice bowl is not worth the money, tiny portion of chicken just a small bowl of rice and red cabbage absolutely flavourless. Total waste of money.",
         "created": "2026-10-03T06:22:33Z",
+        "date": "2026-10-03"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Very, very, very disappointed with the size of it. It seemed more like a happy meal from McDonald\u2019s rather than a normal hamburger. Avoid.",
+        "created": "2026-10-02T16:58:29Z",
+        "date": "2026-10-02"
+      },
+      {
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Farnworth - Market St)",
+        "brand": "Wing Fest",
+        "rating": 3,
+        "text": "Great tenders, very impressed! Wasn&#39;t a fan of the chicken burger patties although the overall burger flavour was good. Using a better chicken patty or just tenders on the bun would have been better. Skin on fries were not skin on fries and the portion size for these was tiny! For \u00a32.95 I was disappointed with them. Would order again.",
+        "created": "2026-10-03T09:10:11Z",
+        "date": "2026-10-03"
+      },
+      {
+        "site": "Twisted London (Plymouth - Drake Circus)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Amazing!",
+        "created": "2026-10-02T18:18:42Z",
+        "date": "2026-10-02"
+      },
+      {
+        "site": "Kuro Smash (Whyteleaf - Godstone Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Great tasty burgers",
+        "created": "2026-10-03T16:04:03Z",
+        "date": "2026-10-03"
+      },
+      {
+        "site": "Twisted Burgers (Leicester)",
+        "brand": "Other",
+        "rating": 1,
+        "text": "the burger patties was burnt on the outside but still raw and pink on the inside. Avoid this place",
+        "created": "2026-10-03T00:31:43Z",
         "date": "2026-10-03"
       }
     ]
