@@ -10004,8 +10004,44 @@
   },
   "2026-10-04": {
     "scraped_date": "2026-10-04",
-    "last_updated": "2026-10-04T00:23:13Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-10-04T07:52:31Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-10-04T03:05:08",
+        "site": "Twisted London (Guildford - Southway)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-04T03:00:57",
+        "site": "Twisted London (Guildford - Southway)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-04T02:40:41",
+        "site": "Kuro Smash (Southampton - Commercial Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-04T02:29:17",
+        "site": "Koreatown (Southampton - Commercial Rd)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-10-04T02:29:03",
+        "site": "Kuro Smash (Southampton - Commercial Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-04T02:27:46",
+        "site": "Koreatown (Southampton - Commercial Rd)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-10-04T02:04:10",
+        "site": "TwistedLondon(Shadwell-ChapmanSt)",
+        "brand": "Twisted London"
+      }
+    ],
     "reviews": [
       {
         "site": "Twisted London (Guildford - Southway)",
@@ -10021,6 +10057,14 @@
         "rating": 1,
         "text": "The fries where hollowed out potato shells, over cooked.  The burger was just a greasy mess..  Basically awful.",
         "created": "2026-10-03T23:56:38Z",
+        "date": "2026-10-04"
+      },
+      {
+        "site": "Hot Chick (Oldham - Featherstall Rd)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "Chicken was not real. It was hard and felt like it was fake. Didn\u2019t enjoy it wasted my money will never order from here again.",
+        "created": "2026-10-04T01:47:37Z",
         "date": "2026-10-04"
       }
     ]
