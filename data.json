@@ -10001,5 +10001,28 @@
         "date": "2026-10-03"
       }
     ]
+  },
+  "2026-10-04": {
+    "scraped_date": "2026-10-04",
+    "last_updated": "2026-10-04T00:23:13Z",
+    "cancelled_orders": [],
+    "reviews": [
+      {
+        "site": "Twisted London (Guildford - Southway)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "It arrived very cold and to late , I will say I have order from this place before, never had any problems before",
+        "created": "2026-10-03T23:37:41Z",
+        "date": "2026-10-04"
+      },
+      {
+        "site": "Twisted London (Colchester)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "The fries where hollowed out potato shells, over cooked.  The burger was just a greasy mess..  Basically awful.",
+        "created": "2026-10-03T23:56:38Z",
+        "date": "2026-10-04"
+      }
+    ]
   }
 }
