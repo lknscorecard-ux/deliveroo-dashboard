@@ -10004,8 +10004,23 @@
   },
   "2026-10-04": {
     "scraped_date": "2026-10-04",
-    "last_updated": "2026-10-04T18:02:10Z",
+    "last_updated": "2026-10-04T21:16:27Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-04T20:54:48",
+        "site": "HotChick-Award-WinningSaucyFriedChicken(BurgessHill-KeymerRd)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-10-04T20:06:45",
+        "site": "Kuro Smash (Burgess Hill - Keymer Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-04T19:51:30",
+        "site": "TwistedLondon(BurgessHill-KeymerRd)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-10-04T18:12:48",
         "site": "TwistedLondon(BurgessHill-KeymerRd)",
@@ -10185,6 +10200,22 @@
         "rating": 1,
         "text": "The fries where hollowed out potato shells, over cooked.  The burger was just a greasy mess..  Basically awful.",
         "created": "2026-10-03T23:56:38Z",
+        "date": "2026-10-04"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Southampton - Deacon Rd)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "Burger patty was way to small bun was too big and arrived cold. Not happy",
+        "created": "2026-10-04T19:35:44Z",
+        "date": "2026-10-04"
+      },
+      {
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Hatfield-The common)",
+        "brand": "WTF",
+        "rating": 5,
+        "text": "The food was so good. Burgers have a lot of good flavours to them and nuggets were good too",
+        "created": "2026-10-04T19:22:16Z",
         "date": "2026-10-04"
       }
     ]
