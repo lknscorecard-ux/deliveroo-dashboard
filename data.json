@@ -10004,7 +10004,7 @@
   },
   "2026-10-04": {
     "scraped_date": "2026-10-04",
-    "last_updated": "2026-10-04T07:52:31Z",
+    "last_updated": "2026-10-04T13:44:33Z",
     "cancelled_orders": [
       {
         "time": "2026-10-04T03:05:08",
@@ -10044,6 +10044,86 @@
     ],
     "reviews": [
       {
+        "site": "Kuro Smash (Aberdeen - Hutcheon St)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "Very basic",
+        "created": "2026-10-03T22:12:35Z",
+        "date": "2026-10-03"
+      },
+      {
+        "site": "Koreatown (Walthamstow - Wood St)",
+        "brand": "Koreatown",
+        "rating": 2,
+        "text": "The Korean fries are just plain fries, tasted a bit of old oil and no spices, not sure why they\u2019re called Korean. Burger nice but was soggy by the time it got to me.",
+        "created": "2026-10-03T17:15:07Z",
+        "date": "2026-10-03"
+      },
+      {
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "One of the worst quality burgers I have ever had and the food was cold as if it was microwaved",
+        "created": "2026-10-03T13:55:57Z",
+        "date": "2026-10-03"
+      },
+      {
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "Not smash burgers at all, the burger overall was really poorly made. Nor were the fries skin on. Chicken wings provided some redemption.",
+        "created": "2026-10-03T13:14:53Z",
+        "date": "2026-10-03"
+      },
+      {
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Very poor quality for the price. Budget frozen burger patties with sad cheese on top. I would have been upset to pay \u00a35 for this from a van.",
+        "created": "2026-10-02T18:26:29Z",
+        "date": "2026-10-02"
+      },
+      {
+        "site": "Twisted London (Feltham)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Fantastic burger !!",
+        "created": "2026-10-03T19:12:18Z",
+        "date": "2026-10-03"
+      },
+      {
+        "site": "Hot Chick (Oldham - Featherstall Rd)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "Chicken was not real. It was hard and felt like it was fake. Didn\u2019t enjoy it wasted my money will never order from here again.",
+        "created": "2026-10-04T01:47:37Z",
+        "date": "2026-10-04"
+      },
+      {
+        "site": "Kuro Smash (Whyteleaf - Godstone Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Great tasty burgers",
+        "created": "2026-10-03T16:04:03Z",
+        "date": "2026-10-03"
+      },
+      {
+        "site": "TwistedLondon(Shadwell-ChapmanSt)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Tasted 5 days old. Chicken bites came hard and cold. And the burger lacked flavour, edible but 5/10",
+        "created": "2026-10-03T18:27:34Z",
+        "date": "2026-10-03"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Rugby - Boughton Rd)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "Unfortunately beef mince itself not seasoned at all, no salt/no pepper which threw off the whole taste, cheese and gherkins didn&#39;t help. Disappointed.",
+        "created": "2026-10-03T19:04:40Z",
+        "date": "2026-10-03"
+      },
+      {
         "site": "Twisted London (Guildford - Southway)",
         "brand": "Twisted London",
         "rating": 1,
@@ -10057,14 +10137,6 @@
         "rating": 1,
         "text": "The fries where hollowed out potato shells, over cooked.  The burger was just a greasy mess..  Basically awful.",
         "created": "2026-10-03T23:56:38Z",
-        "date": "2026-10-04"
-      },
-      {
-        "site": "Hot Chick (Oldham - Featherstall Rd)",
-        "brand": "Hot Chick",
-        "rating": 1,
-        "text": "Chicken was not real. It was hard and felt like it was fake. Didn\u2019t enjoy it wasted my money will never order from here again.",
-        "created": "2026-10-04T01:47:37Z",
         "date": "2026-10-04"
       }
     ]
