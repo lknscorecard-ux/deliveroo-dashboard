@@ -10004,8 +10004,48 @@
   },
   "2026-10-04": {
     "scraped_date": "2026-10-04",
-    "last_updated": "2026-10-04T13:44:33Z",
+    "last_updated": "2026-10-04T18:02:10Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-04T18:12:48",
+        "site": "TwistedLondon(BurgessHill-KeymerRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-04T17:57:59",
+        "site": "Kuro Smash (Southampton - Commercial Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-04T17:44:16",
+        "site": "Hot Chick - (Bracknell - Market St)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-10-04T17:27:21",
+        "site": "Koreatown - (Bracknell - Market St)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-10-04T17:26:48",
+        "site": "Koreatown - (Bracknell - Market St)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-10-04T17:21:08",
+        "site": "TwistedLondon(BurgessHill-KeymerRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-04T17:11:29",
+        "site": "Kuro Smash (Southampton - Commercial Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-04T15:13:30",
+        "site": "Hot Chick (Bristol North)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-10-04T03:05:08",
         "site": "Twisted London (Guildford - Southway)",
@@ -10122,6 +10162,14 @@
         "text": "Unfortunately beef mince itself not seasoned at all, no salt/no pepper which threw off the whole taste, cheese and gherkins didn&#39;t help. Disappointed.",
         "created": "2026-10-03T19:04:40Z",
         "date": "2026-10-03"
+      },
+      {
+        "site": "Twisted London (Plymouth - Drake Circus)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "must have had this at least 10 times in past few months. always lovely. can&#39;t fault them",
+        "created": "2026-10-04T17:00:26Z",
+        "date": "2026-10-04"
       },
       {
         "site": "Twisted London (Guildford - Southway)",
