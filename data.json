@@ -10222,8 +10222,33 @@
   },
   "2026-10-05": {
     "scraped_date": "2026-10-05",
-    "last_updated": "2026-10-05T08:25:13Z",
+    "last_updated": "2026-10-05T19:06:58Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-05T20:01:47",
+        "site": "WTF! (Slough - Burnham Ln)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-10-05T19:32:47",
+        "site": "TwistedLondon(BurgessHill-KeymerRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-05T17:41:06",
+        "site": "Twisted London (Norwich - Earlham West Centre)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-05T15:01:08",
+        "site": "Wing Fest All Stars (Bristol - Southmead Rd)",
+        "brand": "Wing Fest"
+      },
+      {
+        "time": "2026-10-05T13:19:32",
+        "site": "Twisted London (Worthing - Chapel Rd)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-10-05T01:06:49",
         "site": "TwistedLondon(CanningTown-NorthWoolwichRd)",
@@ -10232,11 +10257,75 @@
     ],
     "reviews": [
       {
+        "site": "Twisted London (Aylesbury - High St)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "This was my first order and the food was awesome. I\u2019ll never buy a burger from main stream outlets again. The size and taste were out of this world. The fries were crispy and a decent portion size. Highly recommend this restaurant 5 stars/ 10 out of 10",
+        "created": "2026-10-05T10:47:27Z",
+        "date": "2026-10-05"
+      },
+      {
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Hatfield-The common)",
+        "brand": "WTF",
+        "rating": 5,
+        "text": "The food was so good. Burgers have a lot of good flavours to them and nuggets were good too",
+        "created": "2026-10-04T19:22:16Z",
+        "date": "2026-10-04"
+      },
+      {
         "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Leeds - Britannia St)",
         "brand": "Hot Chick",
         "rating": 1,
         "text": "buns",
         "created": "2026-10-05T01:40:57Z",
+        "date": "2026-10-05"
+      },
+      {
+        "site": "Twisted London (Hayes - Uxbridge Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "2 for one burgers was great . .",
+        "created": "2026-10-04T19:46:11Z",
+        "date": "2026-10-04"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Southampton - Deacon Rd)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "Burger patty was way to small bun was too big and arrived cold. Not happy",
+        "created": "2026-10-04T19:35:44Z",
+        "date": "2026-10-04"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Wednesbury - Lower High St)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "I did not enjoy that meal, it had an odd flavour and I have Korean food and this did not taste like that. I tasted slightly off",
+        "created": "2026-10-04T19:10:13Z",
+        "date": "2026-10-04"
+      },
+      {
+        "site": "Twisted London (Plymouth - Drake Circus)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "must have had this at least 10 times in past few months. always lovely. can&#39;t fault them",
+        "created": "2026-10-04T17:00:26Z",
+        "date": "2026-10-04"
+      },
+      {
+        "site": "Byron (Burgess Hill - Church Rd)",
+        "brand": "Other",
+        "rating": 1,
+        "text": "Having had Byron from a restaurant .. this was terrible. Seriously dry burger. I struggled to chew it. They dont wrap the burger in foil to retain heat. Came to us cold. chips cold also.\n\nTerrible burger. better local burger places. absolute rip off.",
+        "created": "2026-10-05T18:53:50Z",
+        "date": "2026-10-05"
+      },
+      {
+        "site": "Twisted London (Colchester)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "The beef was not good this time",
+        "created": "2026-10-05T13:49:53Z",
         "date": "2026-10-05"
       }
     ]
