@@ -10219,5 +10219,17 @@
         "date": "2026-10-04"
       }
     ]
+  },
+  "2026-10-05": {
+    "scraped_date": "2026-10-05",
+    "last_updated": "2026-10-05T00:33:23Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-10-05T01:06:49",
+        "site": "TwistedLondon(CanningTown-NorthWoolwichRd)",
+        "brand": "Twisted London"
+      }
+    ],
+    "reviews": []
   }
 }
