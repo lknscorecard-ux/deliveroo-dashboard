@@ -10332,8 +10332,28 @@
   },
   "2026-10-06": {
     "scraped_date": "2026-10-06",
-    "last_updated": "2026-10-06T16:35:34Z",
+    "last_updated": "2026-10-06T22:26:30Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-06T20:33:20",
+        "site": "TwistedLondon(BurgessHill-KeymerRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-06T20:18:33",
+        "site": "HotChick-Award-WinningSaucyFriedChicken(BurgessHill-KeymerRd)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-10-06T19:43:49",
+        "site": "TwistedLondon(BurgessHill-KeymerRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-06T19:14:50",
+        "site": "Kuro Smash (Burgess Hill - Keymer Rd)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-10-06T16:30:30",
         "site": "Twisted London (Bristol North)",
@@ -10369,6 +10389,14 @@
         "text": "The fries where hollowed out potato shells, over cooked.  The burger was just a greasy mess..  Basically awful.",
         "created": "2026-10-03T23:56:38Z",
         "date": "2026-10-04"
+      },
+      {
+        "site": "WTF!-Mind-BlowingVeganBurgers\ud83c\udf31(Aylesbury-BuckinghamSt)",
+        "brand": "WTF",
+        "rating": 5,
+        "text": "Such an amazing vegan burger! Would definitely buy again!!",
+        "created": "2026-10-05T17:58:50Z",
+        "date": "2026-10-05"
       },
       {
         "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Brighton - Western Rd)",
