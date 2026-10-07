@@ -10418,8 +10418,33 @@
   },
   "2026-10-07": {
     "scraped_date": "2026-10-07",
-    "last_updated": "2026-10-07T12:44:26Z",
+    "last_updated": "2026-10-07T19:46:48Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-07T19:29:07",
+        "site": "Hot Chick (Chatham - Silverweed Road)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-10-07T19:15:14",
+        "site": "Twisted London (Slough - Burnham Ln)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-07T18:56:44",
+        "site": "TwistedLondon(BurgessHill-KeymerRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-07T17:43:36",
+        "site": "Kuro Smash (Burgess Hill - Keymer Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-07T14:07:20",
+        "site": "Kuro Smash (Brighton - Western Rd)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-10-07T12:23:35",
         "site": "Twisted London (Slough - Burnham Ln)",
@@ -10427,6 +10452,30 @@
       }
     ],
     "reviews": [
+      {
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Brighton - Western Rd)",
+        "brand": "WTF",
+        "rating": 5,
+        "text": "You can tell the ingredients are good quality.",
+        "created": "2026-10-06T14:37:23Z",
+        "date": "2026-10-06"
+      },
+      {
+        "site": "Twisted London (Datchet - Mill Place)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Nothing was missing and everything was packed securely.",
+        "created": "2026-10-06T15:35:14Z",
+        "date": "2026-10-06"
+      },
+      {
+        "site": "TwistedLondon(Chichester-Southdown)",
+        "brand": "Twisted London",
+        "rating": 4,
+        "text": "Yum yum",
+        "created": "2026-10-06T16:10:01Z",
+        "date": "2026-10-06"
+      },
       {
         "site": "Koreatown - Korean Fried Chicken (Colchester)",
         "brand": "Koreatown",
