@@ -10488,8 +10488,33 @@
   },
   "2026-10-08": {
     "scraped_date": "2026-10-08",
-    "last_updated": "2026-10-08T17:14:44Z",
+    "last_updated": "2026-10-08T22:58:45Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-08T20:46:48",
+        "site": "WTF! (Slough - Burnham Ln)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-10-08T20:10:31",
+        "site": "Kuro Smash (Burgess Hill - Keymer Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-08T19:36:59",
+        "site": "TwistedLondon(Welwyn-LondonRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-08T19:35:20",
+        "site": "Kuro Smash (Burgess Hill - Keymer Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-08T19:28:47",
+        "site": "HotChick-Award-WinningSaucyFriedChicken(BurgessHill-KeymerRd)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-10-08T14:08:53",
         "site": "Twisted London (Benfleet - High Rd)",
@@ -10536,6 +10561,14 @@
         "text": "Dying for a good dirty vegan option! We loved it!",
         "created": "2026-10-07T16:45:16Z",
         "date": "2026-10-07"
+      },
+      {
+        "site": "Twisted London (Plymouth - Drake Circus)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Very average food, not great quality ingredients, loaded fries were soggy and a bit tasteless, onion rings were burnt and the rest of the food was mass produced fast food quality.",
+        "created": "2026-10-08T17:16:47Z",
+        "date": "2026-10-08"
       },
       {
         "site": "Twisted London (Kensal Rise - Station Terrace)",
