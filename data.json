@@ -10488,8 +10488,71 @@
   },
   "2026-10-08": {
     "scraped_date": "2026-10-08",
-    "last_updated": "2026-10-08T08:30:07Z",
-    "cancelled_orders": [],
-    "reviews": []
+    "last_updated": "2026-10-08T17:14:44Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-10-08T14:08:53",
+        "site": "Twisted London (Benfleet - High Rd)",
+        "brand": "Twisted London"
+      }
+    ],
+    "reviews": [
+      {
+        "site": "WTF! (Colchester)",
+        "brand": "WTF",
+        "rating": 5,
+        "text": "First time ordering\u2026. It won\u2019t be the last \u2026 really great taste",
+        "created": "2026-10-07T17:57:32Z",
+        "date": "2026-10-07"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Coventry - Corporation St)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "The bowl came with just rice, coleslaw and meat smashed beef. It was 70% coleslaw. They gave me the wrong dip. The chicken wings were alright.",
+        "created": "2026-10-07T23:38:12Z",
+        "date": "2026-10-08"
+      },
+      {
+        "site": "Twisted London (Salford - Media City)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "Fries were crispy but the burger had very pink areas of meat which really put me off so didn\u2019t eat much ..I like my meat well cooked .. taste was ok.. sauces were ok",
+        "created": "2026-10-07T20:37:04Z",
+        "date": "2026-10-07"
+      },
+      {
+        "site": "WTF (High Wycombe - Dashwood Ave)",
+        "brand": "WTF",
+        "rating": 5,
+        "text": "vegan burger was delicious and the loaded fries were ok. I definitely recommend the vegan double bacon burger",
+        "created": "2026-10-08T08:53:49Z",
+        "date": "2026-10-08"
+      },
+      {
+        "site": "WTF (Norwich- Plumstead Rd)",
+        "brand": "WTF",
+        "rating": 5,
+        "text": "Dying for a good dirty vegan option! We loved it!",
+        "created": "2026-10-07T16:45:16Z",
+        "date": "2026-10-07"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Missing wings. We payed for more expensive burgers with turkey bacon but there was no turkey bacon in the burger. All portions are really small. Not worth the money. I will never order here again.",
+        "created": "2026-10-08T14:54:30Z",
+        "date": "2026-10-08"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bristol - Bordeaux Quay)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "fantastic burgers, my new place for chicken related food",
+        "created": "2026-10-08T13:23:50Z",
+        "date": "2026-10-08"
+      }
+    ]
   }
 }
