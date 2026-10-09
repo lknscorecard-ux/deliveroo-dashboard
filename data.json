@@ -10590,8 +10590,25 @@
   },
   "2026-10-09": {
     "scraped_date": "2026-10-09",
-    "last_updated": "2026-10-09T04:46:31Z",
+    "last_updated": "2026-10-09T12:39:02Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Koreatown - Korean Fried Chicken (Bury - Walmersley Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "fresh and crispy chicken YUM",
+        "created": "2026-10-09T11:54:36Z",
+        "date": "2026-10-09"
+      },
+      {
+        "site": "Twisted London (Reading - Oxford Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "When arrived the whole meal was stone cold I couldn\u2019t enjoy it only thing I did enjoy was the coke cola",
+        "created": "2026-10-09T07:26:44Z",
+        "date": "2026-10-09"
+      }
+    ]
   }
 }
