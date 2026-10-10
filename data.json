@@ -10741,8 +10741,38 @@
   },
   "2026-10-10": {
     "scraped_date": "2026-10-10",
-    "last_updated": "2026-10-10T17:12:49Z",
+    "last_updated": "2026-10-10T21:14:25Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-10T20:20:04",
+        "site": "Kuro Smash (Newport - Charles St)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-10T20:06:16",
+        "site": "TwistedLondon(BurgessHill-KeymerRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-10T19:46:30",
+        "site": "Hot Chick (Chatham - Silverweed Road)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-10-10T19:37:46",
+        "site": "Kuro Smash (Burgess Hill - Keymer Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-10T19:25:04",
+        "site": "Kuro Smash (Burgess Hill - Keymer Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-10T19:16:45",
+        "site": "Kuro Smash (Burgess Hill - Keymer Rd)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-10-10T17:59:03",
         "site": "Kuro Smash (Burgess Hill - Keymer Rd)",
