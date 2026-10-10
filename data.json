@@ -10741,8 +10741,28 @@
   },
   "2026-10-10": {
     "scraped_date": "2026-10-10",
-    "last_updated": "2026-10-10T11:58:58Z",
+    "last_updated": "2026-10-10T17:12:49Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-10T17:59:03",
+        "site": "Kuro Smash (Burgess Hill - Keymer Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-10T16:02:30",
+        "site": "WTF (High Wycombe - Dashwood Ave)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-10-10T15:37:49",
+        "site": "TwistedLondon(Welwyn-LondonRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-10T14:29:20",
+        "site": "Hot Chick - (Maidstone)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-10-10T03:15:54",
         "site": "Hot Chick(Guildford - Southway)",
@@ -10766,11 +10786,83 @@
     ],
     "reviews": [
       {
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Brighton - Western Rd)",
+        "brand": "WTF",
+        "rating": 1,
+        "text": "2x burgers were cremated. completely burnt.",
+        "created": "2026-10-09T21:38:49Z",
+        "date": "2026-10-09"
+      },
+      {
+        "site": "Hot Chick Award-Winning Saucy Fried Chicken (Middlesbrough - King's Rd)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "such good value chicken dinner",
+        "created": "2026-10-09T14:54:14Z",
+        "date": "2026-10-09"
+      },
+      {
+        "site": "WTF!-Mind-BlowingVeganBurgers\ud83c\udf31(Wednesbury-LowerHighSt)",
+        "brand": "WTF",
+        "rating": 1,
+        "text": "Not happy at All",
+        "created": "2026-10-09T23:55:51Z",
+        "date": "2026-10-10"
+      },
+      {
         "site": "Twisted London (Worthing - Chapel Rd)",
         "brand": "Twisted London",
         "rating": 1,
         "text": "I was extremely disappointed when I tried this burger house, it has given me the worlds worst belly pain\u2019s, keep being sick and uncontrollably poo\u2019ing",
         "created": "2026-10-10T05:34:25Z",
+        "date": "2026-10-10"
+      },
+      {
+        "site": "Kuro Smash (Brighton - Western Rd)",
+        "brand": "Kuro Smash",
+        "rating": 3,
+        "text": "The beef used for the \u2018smash\u2019 patties is not how you\u2019d expect a smash burger patty to be. It seems like store bought simple thin beef. It\u2019s a Shame because I feel I\u2019ve had a better quality burger from them before\u2026 but now seems inconsistent.",
+        "created": "2026-10-09T18:09:29Z",
+        "date": "2026-10-09"
+      },
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Surely the reviews on this place have to be fake cause that was the biggest load of cr*p I\u2019ve received.",
+        "created": "2026-10-09T15:12:08Z",
+        "date": "2026-10-09"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Hatfield-The common)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "first time ordering from here, very impressed with the food. Great quality and very tasty, onion rings a little overcooked but was still delicious",
+        "created": "2026-10-09T18:00:56Z",
+        "date": "2026-10-09"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Bognor Regis - York Rd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "If your reading this then don\u2019t even bother it\u2019s a ghost kitchen ! Ai photos , cold stale food ! And the chips, don\u2019t even get me started on the chips !   a kebab from the night before would be a better option , don\u2019t ordered from here stop reading and swipe off right now , if your still  reading  get off \ud83d\ude02",
+        "created": "2026-10-09T19:02:40Z",
+        "date": "2026-10-09"
+      },
+      {
+        "site": "Byron (Burgess Hill - Church Rd)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "The beef burger was packed with flavour and cooked well, the chicken burger was juicy and genuinely satisfying, and the chips were fresh with a great crunch. The chicken strips were the real standout \u2014 tender, well\u2011seasoned, and properly moreish. Overall, a solid mix of quality and taste that I\u2019d happily order again.",
+        "created": "2026-10-10T16:23:12Z",
+        "date": "2026-10-10"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Stratford - Romford Rd)",
+        "brand": "Hot Chick",
+        "rating": 4,
+        "text": "Order was great side from the burger buns being a bit stale but other than that I really enjoyed it",
+        "created": "2026-10-10T13:04:23Z",
         "date": "2026-10-10"
       }
     ]
