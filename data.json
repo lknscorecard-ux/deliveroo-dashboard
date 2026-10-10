@@ -10741,7 +10741,7 @@
   },
   "2026-10-10": {
     "scraped_date": "2026-10-10",
-    "last_updated": "2026-10-10T04:29:34Z",
+    "last_updated": "2026-10-10T11:58:58Z",
     "cancelled_orders": [
       {
         "time": "2026-10-10T03:15:54",
@@ -10764,6 +10764,15 @@
         "brand": "Wing Fest"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Twisted London (Worthing - Chapel Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "I was extremely disappointed when I tried this burger house, it has given me the worlds worst belly pain\u2019s, keep being sick and uncontrollably poo\u2019ing",
+        "created": "2026-10-10T05:34:25Z",
+        "date": "2026-10-10"
+      }
+    ]
   }
 }
