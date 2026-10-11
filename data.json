@@ -10899,8 +10899,33 @@
   },
   "2026-10-11": {
     "scraped_date": "2026-10-11",
-    "last_updated": "2026-10-11T08:20:40Z",
+    "last_updated": "2026-10-11T16:11:37Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-11T16:43:07",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Blackpool - Market St)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-10-11T16:29:28",
+        "site": "The Scoop feat. Ben & Jerry\u2019s (Wellingborough - Pebble Ln)",
+        "brand": "Other"
+      },
+      {
+        "time": "2026-10-11T15:24:57",
+        "site": "HotChick-(Welwyn-LondonRd)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-10-11T15:15:26",
+        "site": "TwistedLondon(Welwyn-LondonRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-11T14:38:16",
+        "site": "Byron Burgers & Fries (London - Kennington Ln)",
+        "brand": "Other"
+      },
       {
         "time": "2026-10-11T03:07:21",
         "site": "Hot Chick(Guildford - Southway)",
@@ -10949,6 +10974,14 @@
     ],
     "reviews": [
       {
+        "site": "Wing Fest All Stars (Leeds - Britannia St)",
+        "brand": "Wing Fest",
+        "rating": 3,
+        "text": "Wings really were nothing to shout home about and the burgers and tenders were OK but no real flavour to any of it. Quite disappointing, wouldn\u2019t order again",
+        "created": "2026-10-10T21:45:29Z",
+        "date": "2026-10-10"
+      },
+      {
         "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Leeds - Britannia St)",
         "brand": "Hot Chick",
         "rating": 2,
@@ -10957,11 +10990,67 @@
         "date": "2026-10-11"
       },
       {
+        "site": "Twisted London (Inverness - Church Street)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Tasteless and mushy 2/10",
+        "created": "2026-10-10T16:23:32Z",
+        "date": "2026-10-10"
+      },
+      {
+        "site": "Twisted London (Bognor Regis - York Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Truffle burger is really good, bbq loaded fries could do with some extra bacon as i only got like 5 small squares",
+        "created": "2026-10-11T10:31:50Z",
+        "date": "2026-10-11"
+      },
+      {
+        "site": "Twisted London (Wednesbury - Lower High St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Nothing like pictures also got order wrong",
+        "created": "2026-10-10T22:47:02Z",
+        "date": "2026-10-10"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Stratford - Romford Rd)",
+        "brand": "Hot Chick",
+        "rating": 4,
+        "text": "Order was great side from the burger buns being a bit stale but other than that I really enjoyed it",
+        "created": "2026-10-10T13:04:23Z",
+        "date": "2026-10-10"
+      },
+      {
+        "site": "Hot Chick (Stockport - Buxton Rd)",
+        "brand": "Hot Chick",
+        "rating": 2,
+        "text": "The items I ordered were burgers but instead we were given chicken strips in a bun",
+        "created": "2026-10-10T20:14:36Z",
+        "date": "2026-10-10"
+      },
+      {
+        "site": "Byron (Burgess Hill - Church Rd)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "The beef burger was packed with flavour and cooked well, the chicken burger was juicy and genuinely satisfying, and the chips were fresh with a great crunch. The chicken strips were the real standout \u2014 tender, well\u2011seasoned, and properly moreish. Overall, a solid mix of quality and taste that I\u2019d happily order again.",
+        "created": "2026-10-10T16:23:12Z",
+        "date": "2026-10-10"
+      },
+      {
         "site": "Kuro Smash (Aberdeen - Hutcheon St)",
         "brand": "Kuro Smash",
         "rating": 2,
         "text": "Driver was given a good tip. Despite this, delivery time was a joke because he picked up our food and then did two more pick-ups that took ages before finally turning up late. Half the order was cold and had to be reheated. This is becoming a recurring theme with Deliveroo in Aberdeen.",
         "created": "2026-10-11T02:51:55Z",
+        "date": "2026-10-11"
+      },
+      {
+        "site": "Twisted London (Guildford - Southway)",
+        "brand": "Twisted London",
+        "rating": 4,
+        "text": "Really good considering it had quite far to travel",
+        "created": "2026-10-11T15:59:25Z",
         "date": "2026-10-11"
       },
       {
