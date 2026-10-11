@@ -10899,8 +10899,28 @@
   },
   "2026-10-11": {
     "scraped_date": "2026-10-11",
-    "last_updated": "2026-10-11T16:11:37Z",
+    "last_updated": "2026-10-11T21:33:35Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-11T19:33:22",
+        "site": "Kuro Smash (Burgess Hill - Keymer Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-11T19:19:40",
+        "site": "TwistedLondon(BurgessHill-KeymerRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-11T17:39:31",
+        "site": "Doritos Loaded (Leatherhead - High St)",
+        "brand": "Other"
+      },
+      {
+        "time": "2026-10-11T17:21:34",
+        "site": "WTF! (Slough - Burnham Ln)",
+        "brand": "WTF"
+      },
       {
         "time": "2026-10-11T16:43:07",
         "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Blackpool - Market St)",
@@ -11038,11 +11058,27 @@
         "date": "2026-10-10"
       },
       {
+        "site": "Kuro Smash - Umami Burgers (Southampton - Deacon Rd)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "Hey I bought smash burger with offsets but 1 get one free. I got only one. Where is my free burger ?",
+        "created": "2026-10-11T17:32:46Z",
+        "date": "2026-10-11"
+      },
+      {
         "site": "Kuro Smash (Aberdeen - Hutcheon St)",
         "brand": "Kuro Smash",
         "rating": 2,
         "text": "Driver was given a good tip. Despite this, delivery time was a joke because he picked up our food and then did two more pick-ups that took ages before finally turning up late. Half the order was cold and had to be reheated. This is becoming a recurring theme with Deliveroo in Aberdeen.",
         "created": "2026-10-11T02:51:55Z",
+        "date": "2026-10-11"
+      },
+      {
+        "site": "Twisted London (Salisbury - Castle St)1",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "Love the concept. \nIt was all pretty cold but that may be down to drivers I&#39;m unsure. \nIf the beef was of a higher quality and not frozen I would 100% order again just had the form texture and almost resembled a boiled patty unfortunately.",
+        "created": "2026-10-11T19:37:19Z",
         "date": "2026-10-11"
       },
       {
@@ -11059,6 +11095,14 @@
         "rating": 3,
         "text": "Food took ages to arrive and was cold, vegetarian options were not labelled so had to open and inspect everything to work out which was which. Food was ok.",
         "created": "2026-10-10T23:40:12Z",
+        "date": "2026-10-11"
+      },
+      {
+        "site": "Wing Fest All Stars (Clifton - Byron Pl)",
+        "brand": "Wing Fest",
+        "rating": 2,
+        "text": "food bit piping hot, can be expected with delivery however chicken breastwas just a deep fried fillet, no honey sriracha sauce as advertised just mayo and some gerkins, very disappointing",
+        "created": "2026-10-11T18:41:32Z",
         "date": "2026-10-11"
       }
     ]
