@@ -11109,8 +11109,88 @@
   },
   "2026-10-12": {
     "scraped_date": "2026-10-12",
-    "last_updated": "2026-10-12T08:40:21Z",
-    "cancelled_orders": [],
-    "reviews": []
+    "last_updated": "2026-10-12T19:40:13Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-10-12T19:43:50",
+        "site": "Hot Chick (Bristol North)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-10-12T19:22:53",
+        "site": "Kuro Smash (Burgess Hill - Keymer Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-12T19:06:05",
+        "site": "Twisted London (Bingley - Bradford Rd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-12T19:03:39",
+        "site": "Twisted London (Bingley - Bradford Rd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-12T19:02:36",
+        "site": "TwistedLondon(BurgessHill-KeymerRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-12T17:47:16",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bingley - Bradford Rd)",
+        "brand": "Hot Chick"
+      }
+    ],
+    "reviews": [
+      {
+        "site": "HotChick-(Airdrie-ChapelSt)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "First time ordering here, the Hot Buffalo chicken burger was delicious and I would recommend it to anybody. \n\nThe delivery was also fast, so another plus.",
+        "created": "2026-10-11T18:36:42Z",
+        "date": "2026-10-11"
+      },
+      {
+        "site": "Twisted London (Guildford - Southway)",
+        "brand": "Twisted London",
+        "rating": 4,
+        "text": "Really good considering it had quite far to travel",
+        "created": "2026-10-11T15:59:25Z",
+        "date": "2026-10-11"
+      },
+      {
+        "site": "Hot Chick (Ayr - Dalblair Road)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Brilliant second time using this place and will be back. Really tasty chicken burgers.",
+        "created": "2026-10-11T14:01:28Z",
+        "date": "2026-10-11"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Southampton - Deacon Rd)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "Hey I bought smash burger with offsets but 1 get one free. I got only one. Where is my free burger ?",
+        "created": "2026-10-11T17:32:46Z",
+        "date": "2026-10-11"
+      },
+      {
+        "site": "Wing Fest All Stars (Norwich - Plumstead Rd)",
+        "brand": "Wing Fest",
+        "rating": 4,
+        "text": "It&#39;s fine",
+        "created": "2026-10-12T11:40:02Z",
+        "date": "2026-10-12"
+      },
+      {
+        "site": "Twisted London (Salisbury - Castle St)1",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Would not recommend. The food was cold, greasy and cheap tasting. The drinks were not chilled. If I were in a restaurant I would\u2019ve sent the food back as it was not at all enjoyable and we barely touched it.",
+        "created": "2026-10-12T10:51:28Z",
+        "date": "2026-10-12"
+      }
+    ]
   }
 }
