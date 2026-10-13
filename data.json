@@ -11195,8 +11195,19 @@
   },
   "2026-10-13": {
     "scraped_date": "2026-10-13",
-    "last_updated": "2026-10-13T17:24:15Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-10-13T22:20:31Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-10-13T20:47:11",
+        "site": "Twisted London (Basildon - Britannia Ct)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-13T18:38:28",
+        "site": "Koreatown - Korean Fried Chicken (Rugby - Boughton Rd)",
+        "brand": "Koreatown"
+      }
+    ],
     "reviews": [
       {
         "site": "Doritos Loaded (Guildford - Southway)",
