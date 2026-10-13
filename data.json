@@ -11195,8 +11195,49 @@
   },
   "2026-10-13": {
     "scraped_date": "2026-10-13",
-    "last_updated": "2026-10-13T08:59:58Z",
+    "last_updated": "2026-10-13T17:24:15Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Doritos Loaded (Guildford - Southway)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "Super fresh and full of flavour.",
+        "created": "2026-10-13T11:47:18Z",
+        "date": "2026-10-13"
+      },
+      {
+        "site": "WTF!-Mind-BlowingVeganBurgers\ud83c\udf31(Aylesbury-BuckinghamSt)",
+        "brand": "WTF",
+        "rating": 1,
+        "text": "Really disappointed this time. The burgers were burnt and they have changed the onion rings to cheap battered frozen ones that you can get for \u00a31 for a huge bag at Iceland. No thanks. What an absolute shame.",
+        "created": "2026-10-13T11:25:21Z",
+        "date": "2026-10-13"
+      },
+      {
+        "site": "Byron Burgers & Fries (London - Kennington Ln)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "God I am so happy Byron is back ! YUM",
+        "created": "2026-10-12T19:17:23Z",
+        "date": "2026-10-12"
+      },
+      {
+        "site": "Byron Burgers & Fries (London - Kennington Ln)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "This was the nicest burger I think I have ever got on delivery in London, truly sensational and delicious. I can\u2019t wait to try this again",
+        "created": "2026-10-12T12:09:19Z",
+        "date": "2026-10-12"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Blackpool - Market St)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Great food, just way too much sauce on the burger. onion rings were phenomenally cheesy",
+        "created": "2026-10-12T16:48:04Z",
+        "date": "2026-10-12"
+      }
+    ]
   }
 }
