@@ -11253,8 +11253,34 @@
   },
   "2026-10-14": {
     "scraped_date": "2026-10-14",
-    "last_updated": "2026-10-14T14:55:31Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-10-14T20:01:15Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-10-14T20:30:20",
+        "site": "Twisted London (Plymouth - Drake Circus)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-14T20:30:19",
+        "site": "Kuro Smash (Aberdeen - Hutcheon St)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-14T20:28:06",
+        "site": "Byron (Burgess Hill - Church Rd)",
+        "brand": "Other"
+      },
+      {
+        "time": "2026-10-14T20:26:20",
+        "site": "Ben & Jerry's Scoop Shop (Edinburg - Castle Street)",
+        "brand": "Other"
+      },
+      {
+        "time": "2026-10-14T20:02:09",
+        "site": "Twisted London (Bristol North)",
+        "brand": "Twisted London"
+      }
+    ],
     "reviews": []
   }
 }
