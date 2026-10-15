@@ -11285,7 +11285,7 @@
   },
   "2026-10-15": {
     "scraped_date": "2026-10-15",
-    "last_updated": "2026-10-15T19:44:02Z",
+    "last_updated": "2026-10-15T22:55:32Z",
     "cancelled_orders": [
       {
         "time": "2026-10-15T04:10:42",
@@ -11300,11 +11300,35 @@
     ],
     "reviews": [
       {
+        "site": "Byron (Burgess Hill - Church Rd)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "Although the meal for 1 is overpriced, save yourself some money and get the Tenders! Partner didn&#39;t find the burgers great or the chips but the TENDERS...super crunchy but so tender and moist inside \ud83e\udd24 definitely will order those again, and on there own. Delicious and will order again!",
+        "created": "2026-10-15T20:08:23Z",
+        "date": "2026-10-15"
+      },
+      {
         "site": "Hot Chick Award-Winning Saucy Fried Chicken (Middlesbrough - King's Rd)",
         "brand": "Hot Chick",
         "rating": 5,
         "text": "So delicious!! Best wings !! 10000/10",
         "created": "2026-10-15T15:09:33Z",
+        "date": "2026-10-15"
+      },
+      {
+        "site": "Kuro Smash (Aberdeen - Hutcheon St)",
+        "brand": "Kuro Smash",
+        "rating": 4,
+        "text": "burgers were great, fries not so much",
+        "created": "2026-10-15T20:43:48Z",
+        "date": "2026-10-15"
+      },
+      {
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "I ordered the veggie \u2018chicken\u2019 burger and they sent me a burger that looked nothing like that! So I don\u2019t even know if what I received was vegetarian\u2026 food was cold and tasted bad anyways, so disappointing!",
+        "created": "2026-10-15T20:00:23Z",
         "date": "2026-10-15"
       },
       {
