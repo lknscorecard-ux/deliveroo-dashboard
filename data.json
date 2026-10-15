@@ -11285,8 +11285,19 @@
   },
   "2026-10-15": {
     "scraped_date": "2026-10-15",
-    "last_updated": "2026-10-14T23:09:11Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-10-15T03:22:16Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-10-15T04:10:42",
+        "site": "Doritos Loaded (Guildford - Southway)",
+        "brand": "Other"
+      },
+      {
+        "time": "2026-10-15T04:00:55",
+        "site": "Doritos Loaded (Guildford - Southway)",
+        "brand": "Other"
+      }
+    ],
     "reviews": []
   }
 }
