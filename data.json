@@ -11343,7 +11343,7 @@
   },
   "2026-10-16": {
     "scraped_date": "2026-10-16",
-    "last_updated": "2026-10-16T14:35:07Z",
+    "last_updated": "2026-10-16T19:21:56Z",
     "cancelled_orders": [
       {
         "time": "2026-10-16T15:16:20",
@@ -11399,6 +11399,38 @@
         "text": "Although the meal for 1 is overpriced, save yourself some money and get the Tenders! Partner didn&#39;t find the burgers great or the chips but the TENDERS...super crunchy but so tender and moist inside \ud83e\udd24 definitely will order those again, and on there own. Delicious and will order again!",
         "created": "2026-10-15T20:08:23Z",
         "date": "2026-10-15"
+      },
+      {
+        "site": "Twisted London (Inverness - Church Street)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "The burger was so beefy and juicyyyy yummmm cheesy hahah loved it but took ages to deliver idk if it was the takeaway or deliveroo",
+        "created": "2026-10-16T18:22:49Z",
+        "date": "2026-10-16"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "best smash burgers ever!!",
+        "created": "2026-10-15T23:25:34Z",
+        "date": "2026-10-16"
+      },
+      {
+        "site": "Hot Chick (Oldham - Featherstall Rd)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "The meat on the burgers was very overcooked it was hard to chew",
+        "created": "2026-10-16T18:13:04Z",
+        "date": "2026-10-16"
+      },
+      {
+        "site": "Koreatown(Wembley-EalingRd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": ".",
+        "created": "2026-10-16T18:43:08Z",
+        "date": "2026-10-16"
       }
     ]
   }
