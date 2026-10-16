@@ -11343,8 +11343,13 @@
   },
   "2026-10-16": {
     "scraped_date": "2026-10-16",
-    "last_updated": "2026-10-16T19:21:56Z",
+    "last_updated": "2026-10-16T22:35:26Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-16T22:01:21",
+        "site": "Twisted London (Slough - Burnham Ln)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-10-16T15:16:20",
         "site": "Koreatown - Korean Fried Chicken (Rugby - Boughton Rd)",
@@ -11366,6 +11371,14 @@
         "rating": 5,
         "text": "Delicious!",
         "created": "2026-10-16T11:08:55Z",
+        "date": "2026-10-16"
+      },
+      {
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "the driver could not find my address and I had my phone on silent he was waiting outside 10 minutes it was still.the best takeaway burger I&#39;ve eaten",
+        "created": "2026-10-16T22:18:34Z",
         "date": "2026-10-16"
       },
       {
@@ -11399,6 +11412,14 @@
         "text": "Although the meal for 1 is overpriced, save yourself some money and get the Tenders! Partner didn&#39;t find the burgers great or the chips but the TENDERS...super crunchy but so tender and moist inside \ud83e\udd24 definitely will order those again, and on there own. Delicious and will order again!",
         "created": "2026-10-15T20:08:23Z",
         "date": "2026-10-15"
+      },
+      {
+        "site": "Doritos Loaded (Guildford - Southway)",
+        "brand": "Other",
+        "rating": 1,
+        "text": "It&#39;s not enough that you wait an hour for your food (with priority delivery) but the so called Ranch Chicken rice bowl arrives cold and without chicken!!!!\nI will never order from here\nAvoid!",
+        "created": "2026-10-16T19:50:45Z",
+        "date": "2026-10-16"
       },
       {
         "site": "Twisted London (Inverness - Church Street)",
