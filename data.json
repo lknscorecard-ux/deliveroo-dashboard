@@ -11343,8 +11343,63 @@
   },
   "2026-10-16": {
     "scraped_date": "2026-10-16",
-    "last_updated": "2026-10-16T08:47:44Z",
-    "cancelled_orders": [],
-    "reviews": []
+    "last_updated": "2026-10-16T14:35:07Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-10-16T15:16:20",
+        "site": "Koreatown - Korean Fried Chicken (Rugby - Boughton Rd)",
+        "brand": "Koreatown"
+      }
+    ],
+    "reviews": [
+      {
+        "site": "Kuro Smash (Aberdeen - Hutcheon St)",
+        "brand": "Kuro Smash",
+        "rating": 4,
+        "text": "burgers were great, fries not so much",
+        "created": "2026-10-15T20:43:48Z",
+        "date": "2026-10-15"
+      },
+      {
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Hatfield-The common)",
+        "brand": "WTF",
+        "rating": 5,
+        "text": "Delicious!",
+        "created": "2026-10-16T11:08:55Z",
+        "date": "2026-10-16"
+      },
+      {
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "I ordered the veggie \u2018chicken\u2019 burger and they sent me a burger that looked nothing like that! So I don\u2019t even know if what I received was vegetarian\u2026 food was cold and tasted bad anyways, so disappointing!",
+        "created": "2026-10-15T20:00:23Z",
+        "date": "2026-10-15"
+      },
+      {
+        "site": "Doritos Loaded (Leatherhead - High St)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "Plenty of toppings and generous portions throughout.",
+        "created": "2026-10-16T11:58:32Z",
+        "date": "2026-10-16"
+      },
+      {
+        "site": "Byron Burgers & Fries (Eltham - Newmarket Grn)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "Its been YEARS since I have had  a Byron. What a treat knowing its back!",
+        "created": "2026-10-15T18:05:25Z",
+        "date": "2026-10-15"
+      },
+      {
+        "site": "Byron (Burgess Hill - Church Rd)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "Although the meal for 1 is overpriced, save yourself some money and get the Tenders! Partner didn&#39;t find the burgers great or the chips but the TENDERS...super crunchy but so tender and moist inside \ud83e\udd24 definitely will order those again, and on there own. Delicious and will order again!",
+        "created": "2026-10-15T20:08:23Z",
+        "date": "2026-10-15"
+      }
+    ]
   }
 }
