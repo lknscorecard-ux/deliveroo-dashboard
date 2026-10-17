@@ -11457,8 +11457,18 @@
   },
   "2026-10-17": {
     "scraped_date": "2026-10-17",
-    "last_updated": "2026-10-17T16:53:30Z",
+    "last_updated": "2026-10-17T20:12:48Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-17T20:59:12",
+        "site": "Hot Chick - (Maidstone)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-10-17T17:51:56",
+        "site": "TwistedLondon(Shadwell-ChapmanSt)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-10-17T03:07:37",
         "site": "Doritos Loaded (Guildford - Southway)",
@@ -11492,11 +11502,6 @@
       {
         "time": "2026-10-17T00:40:48",
         "site": "Twisted London (Aylesbury - High St)",
-        "brand": "Twisted London"
-      },
-      {
-        "time": "2026-10-17T17:51:56",
-        "site": "TwistedLondon(Shadwell-ChapmanSt)",
         "brand": "Twisted London"
       }
     ],
@@ -11564,6 +11569,22 @@
         "text": "best smash burgers ever!!",
         "created": "2026-10-15T23:25:34Z",
         "date": "2026-10-16"
+      },
+      {
+        "site": "Twisted London (Salford - Media City)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Smash burger was on point, highly recommend",
+        "created": "2026-10-17T19:30:59Z",
+        "date": "2026-10-17"
+      },
+      {
+        "site": "Twisted London (Eltham - Newmarket Grn)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Really tasty burgers and loaded fries outside central London.  Fresh and hot when delivered.  A good find !",
+        "created": "2026-10-17T17:58:44Z",
+        "date": "2026-10-17"
       }
     ]
   }
