@@ -11587,5 +11587,17 @@
         "date": "2026-10-17"
       }
     ]
+  },
+  "2026-10-18": {
+    "scraped_date": "2026-10-18",
+    "last_updated": "2026-10-17T23:49:00Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-10-18T00:24:31",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Aylesbury - High St)",
+        "brand": "Hot Chick"
+      }
+    ],
+    "reviews": []
   }
 }
