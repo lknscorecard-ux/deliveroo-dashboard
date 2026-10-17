@@ -11457,7 +11457,7 @@
   },
   "2026-10-17": {
     "scraped_date": "2026-10-17",
-    "last_updated": "2026-10-17T08:18:32Z",
+    "last_updated": "2026-10-17T13:30:26Z",
     "cancelled_orders": [
       {
         "time": "2026-10-17T03:07:37",
@@ -11497,12 +11497,68 @@
     ],
     "reviews": [
       {
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "the driver could not find my address and I had my phone on silent he was waiting outside 10 minutes it was still.the best takeaway burger I&#39;ve eaten",
+        "created": "2026-10-16T22:18:34Z",
+        "date": "2026-10-16"
+      },
+      {
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "I ordered the veggie \u2018chicken\u2019 burger and they sent me a burger that looked nothing like that! So I don\u2019t even know if what I received was vegetarian\u2026 food was cold and tasted bad anyways, so disappointing!",
+        "created": "2026-10-15T20:00:23Z",
+        "date": "2026-10-15"
+      },
+      {
+        "site": "Doritos Loaded (Guildford - Southway)",
+        "brand": "Other",
+        "rating": 1,
+        "text": "It&#39;s not enough that you wait an hour for your food (with priority delivery) but the so called Ranch Chicken rice bowl arrives cold and without chicken!!!!\nI will never order from here\nAvoid!",
+        "created": "2026-10-16T19:50:45Z",
+        "date": "2026-10-16"
+      },
+      {
+        "site": "Koreatown(Wembley-EalingRd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": ".",
+        "created": "2026-10-16T18:43:08Z",
+        "date": "2026-10-16"
+      },
+      {
+        "site": "Twisted London (Maidstone - Ashford Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Absolutely lovely burger and chips! Great competitive price, arrived quickly and piping hot! Can\u2019t wait to order again",
+        "created": "2026-10-16T18:19:38Z",
+        "date": "2026-10-16"
+      },
+      {
+        "site": "Byron Burgers & Fries (Southampton - Deacon Rd)",
+        "brand": "Other",
+        "rating": 2,
+        "text": "ordered sweet potato chips and paid extra for them, they didn&#39;t arrive. burgers, buns and fries were stale, and cold. not worth the price",
+        "created": "2026-10-16T18:57:17Z",
+        "date": "2026-10-16"
+      },
+      {
         "site": "Twisted London (Kensal Rise - Station Terrace)",
         "brand": "Twisted London",
         "rating": 3,
         "text": "Loved the truffle fries, truffle burger wasn\u2019t that good made my batty leak. Wings were DEAAAD too",
         "created": "2026-10-17T00:19:29Z",
         "date": "2026-10-17"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "best smash burgers ever!!",
+        "created": "2026-10-15T23:25:34Z",
+        "date": "2026-10-16"
       }
     ]
   }
