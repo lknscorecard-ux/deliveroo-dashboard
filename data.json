@@ -11454,5 +11454,56 @@
         "date": "2026-10-16"
       }
     ]
+  },
+  "2026-10-17": {
+    "scraped_date": "2026-10-17",
+    "last_updated": "2026-10-17T03:08:50Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-10-17T03:07:37",
+        "site": "Doritos Loaded (Guildford - Southway)",
+        "brand": "Other"
+      },
+      {
+        "time": "2026-10-17T02:47:58",
+        "site": "Twisted London (Guildford - Southway)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-17T02:46:39",
+        "site": "Twisted London (Guildford - Southway)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-17T02:45:44",
+        "site": "Doritos Loaded (Guildford - Southway)",
+        "brand": "Other"
+      },
+      {
+        "time": "2026-10-17T01:00:16",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Aylesbury - High St)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-10-17T00:59:52",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Aylesbury - High St)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-10-17T00:40:48",
+        "site": "Twisted London (Aylesbury - High St)",
+        "brand": "Twisted London"
+      }
+    ],
+    "reviews": [
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "Loved the truffle fries, truffle burger wasn\u2019t that good made my batty leak. Wings were DEAAAD too",
+        "created": "2026-10-17T00:19:29Z",
+        "date": "2026-10-17"
+      }
+    ]
   }
 }
