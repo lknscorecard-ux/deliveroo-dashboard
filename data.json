@@ -11590,8 +11590,18 @@
   },
   "2026-10-18": {
     "scraped_date": "2026-10-18",
-    "last_updated": "2026-10-18T17:07:41Z",
+    "last_updated": "2026-10-18T20:11:21Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-18T19:54:39",
+        "site": "Kuro Smash - Umami Burgers (Sheffield - Bellhouse Road)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-18T19:50:59",
+        "site": "Kuro Smash - Umami Burgers (Sheffield - Bellhouse Road)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-10-18T17:58:35",
         "site": "Kuro Smash - Umami Burgers (Rugby - Boughton Rd)",
@@ -11634,6 +11644,14 @@
       }
     ],
     "reviews": [
+      {
+        "site": "Kuro Smash (Bournemouth - Stanfield Rd)",
+        "brand": "Kuro Smash",
+        "rating": 2,
+        "text": "Missing a patty in my burger",
+        "created": "2026-10-18T19:12:18Z",
+        "date": "2026-10-18"
+      },
       {
         "site": "Kuro Smash (Bournemouth - Stanfield Rd)",
         "brand": "Kuro Smash",
@@ -11713,6 +11731,14 @@
         "text": "absolutely gorgeous food burgers are unreal and chips seasoned perfectly fast arrival",
         "created": "2026-10-17T15:10:35Z",
         "date": "2026-10-17"
+      },
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Hands done best burger I ever tried!!!! I\u2019ll order again soon",
+        "created": "2026-10-18T16:53:23Z",
+        "date": "2026-10-18"
       },
       {
         "site": "Twisted London (Westcliff-on-Sea - London Rd)",
