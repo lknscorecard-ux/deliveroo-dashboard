@@ -11590,8 +11590,18 @@
   },
   "2026-10-18": {
     "scraped_date": "2026-10-18",
-    "last_updated": "2026-10-18T13:49:22Z",
+    "last_updated": "2026-10-18T17:07:41Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-18T17:58:35",
+        "site": "Kuro Smash - Umami Burgers (Rugby - Boughton Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-18T16:46:56",
+        "site": "Wing Fest All Stars (Watford - Market St)",
+        "brand": "Wing Fest"
+      },
       {
         "time": "2026-10-18T03:58:29",
         "site": "Doritos Loaded (Guildford - Southway)",
@@ -11703,6 +11713,14 @@
         "text": "absolutely gorgeous food burgers are unreal and chips seasoned perfectly fast arrival",
         "created": "2026-10-17T15:10:35Z",
         "date": "2026-10-17"
+      },
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "have ordered from twisted a few times and they never disappoint!",
+        "created": "2026-10-18T16:06:17Z",
+        "date": "2026-10-18"
       }
     ]
   }
