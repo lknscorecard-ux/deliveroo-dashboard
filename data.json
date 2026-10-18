@@ -11590,8 +11590,33 @@
   },
   "2026-10-18": {
     "scraped_date": "2026-10-18",
-    "last_updated": "2026-10-17T23:49:00Z",
+    "last_updated": "2026-10-18T03:10:49Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-18T03:58:29",
+        "site": "Doritos Loaded (Guildford - Southway)",
+        "brand": "Other"
+      },
+      {
+        "time": "2026-10-18T03:57:19",
+        "site": "Doritos Loaded (Guildford - Southway)",
+        "brand": "Other"
+      },
+      {
+        "time": "2026-10-18T03:22:25",
+        "site": "Hot Chick(Guildford - Southway)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-10-18T03:21:41",
+        "site": "Doritos Loaded (Guildford - Southway)",
+        "brand": "Other"
+      },
+      {
+        "time": "2026-10-18T00:58:40",
+        "site": "Wing Fest All Stars (Aylesbury - High St)",
+        "brand": "Wing Fest"
+      },
       {
         "time": "2026-10-18T00:24:31",
         "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Aylesbury - High St)",
