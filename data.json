@@ -11752,8 +11752,19 @@
   },
   "2026-10-19": {
     "scraped_date": "2026-10-19",
-    "last_updated": "2026-10-18T23:59:12Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-10-19T03:27:07Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-10-19T01:45:54",
+        "site": "Koreatown-(Birmingham-BuckinghamSt)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-10-19T01:27:08",
+        "site": "WTF!-(Birmingham-BuckinghamSt)",
+        "brand": "WTF"
+      }
+    ],
     "reviews": []
   }
 }
