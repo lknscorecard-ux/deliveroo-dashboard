@@ -11752,8 +11752,13 @@
   },
   "2026-10-19": {
     "scraped_date": "2026-10-19",
-    "last_updated": "2026-10-19T16:50:58Z",
+    "last_updated": "2026-10-19T22:03:33Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-19T19:29:59",
+        "site": "WTF! (Slough - Burnham Ln)",
+        "brand": "WTF"
+      },
       {
         "time": "2026-10-19T01:45:54",
         "site": "Koreatown-(Birmingham-BuckinghamSt)",
@@ -11781,6 +11786,14 @@
         "text": "Awful food and service - don\u2019t believe the veg burger wasn\u2019t real meat. Size of burgers and chips very small. Threw away - won\u2019t be ordering again.",
         "created": "2026-10-17T19:43:34Z",
         "date": "2026-10-17"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Worcester - Barbourne Road)",
+        "brand": "Koreatown",
+        "rating": 2,
+        "text": "not Korean taste",
+        "created": "2026-10-19T20:09:47Z",
+        "date": "2026-10-19"
       },
       {
         "site": "Koreatown - Korean Fried Chicken (Worcester - Barbourne Road)",
@@ -11876,6 +11889,14 @@
         "rating": 5,
         "text": "Delicious food! 10/10 burgers were delicious!",
         "created": "2026-10-19T16:43:35Z",
+        "date": "2026-10-19"
+      },
+      {
+        "site": "Byron (Burgess Hill - Church Rd)",
+        "brand": "Other",
+        "rating": 2,
+        "text": "Burgers were very burnt.",
+        "created": "2026-10-19T19:41:18Z",
         "date": "2026-10-19"
       },
       {
