@@ -11919,8 +11919,105 @@
   },
   "2026-10-20": {
     "scraped_date": "2026-10-20",
-    "last_updated": "2026-10-20T09:10:26Z",
+    "last_updated": "2026-10-20T14:43:46Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Brighton - Western Rd)",
+        "brand": "WTF",
+        "rating": 5,
+        "text": "Incredibly good burger &amp; so well put together! \ud83d\udc4c\ud83c\udfff So glad I went ahead and tried it! Will definitely be coming back",
+        "created": "2026-10-19T15:48:40Z",
+        "date": "2026-10-19"
+      },
+      {
+        "site": "Hot Chick (Plymouth - Drake Circus)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Really tasty chicken burger crispy and cooked to perfection. First time trying and will be buying again! :-)",
+        "created": "2026-10-19T20:40:43Z",
+        "date": "2026-10-19"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Kingston - Richmond Rd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "Where is my loaded fries?",
+        "created": "2026-10-19T19:16:00Z",
+        "date": "2026-10-19"
+      },
+      {
+        "site": "Byron Burgers & Fries (Southampton - Deacon Rd)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "Delicious food! 10/10 burgers were delicious!",
+        "created": "2026-10-19T16:43:35Z",
+        "date": "2026-10-19"
+      },
+      {
+        "site": "Twisted London (Salisbury - Castle St)1",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "These burgers are amazing. Full of flavour and really filling",
+        "created": "2026-10-19T16:27:45Z",
+        "date": "2026-10-19"
+      },
+      {
+        "site": "Twisted London (Stratford - Romford Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Absolutely awful",
+        "created": "2026-10-19T20:54:11Z",
+        "date": "2026-10-19"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Westcliff-on-Sea - London Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Bests chicken delivery in the area. Chips arrived hot and tasty as did chicken. No where else do I order from. Terrific!!",
+        "created": "2026-10-20T10:12:17Z",
+        "date": "2026-10-20"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "The double smashed patty is wafer thin and cold. The fries are passable. Part of the order didn&#39;t even turn up. Just avoid the disappointment...",
+        "created": "2026-10-20T11:16:23Z",
+        "date": "2026-10-20"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "I don\u2019t know where these reviews came from\u2026 I recieved the saddest excuse for a jalape\u00f1o burger. No skin on fries, just regular ones. The food DOES NOT match the images, please order with caution.",
+        "created": "2026-10-19T11:16:25Z",
+        "date": "2026-10-19"
+      },
+      {
+        "site": "Byron (Burgess Hill - Church Rd)",
+        "brand": "Other",
+        "rating": 2,
+        "text": "Burgers were very burnt.",
+        "created": "2026-10-19T19:41:18Z",
+        "date": "2026-10-19"
+      },
+      {
+        "site": "Doritos Loaded (Guildford - Southway)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "Everything tasted really well balanced.",
+        "created": "2026-10-20T12:57:31Z",
+        "date": "2026-10-20"
+      },
+      {
+        "site": "Byron Burgers & Fries (Eltham - Newmarket Grn)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "Really impressed with how well everything travelled.",
+        "created": "2026-10-20T12:57:56Z",
+        "date": "2026-10-20"
+      }
+    ]
   }
 }
