@@ -11919,8 +11919,23 @@
   },
   "2026-10-20": {
     "scraped_date": "2026-10-20",
-    "last_updated": "2026-10-20T19:52:31Z",
+    "last_updated": "2026-10-20T22:59:02Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-20T23:34:17",
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-20T22:06:46",
+        "site": "TwistedLondon(Welwyn-LondonRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-20T21:16:39",
+        "site": "Kuro Smash - Umami Burgers (Sheffield - Bellhouse Road)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-10-20T16:44:55",
         "site": "WTF!-(Birmingham-BuckinghamSt)",
@@ -12014,6 +12029,14 @@
         "rating": 5,
         "text": "Everything tasted really well balanced.",
         "created": "2026-10-20T12:57:31Z",
+        "date": "2026-10-20"
+      },
+      {
+        "site": "Koreatown(Wembley-EalingRd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "Photos are very misleading!",
+        "created": "2026-10-20T21:03:02Z",
         "date": "2026-10-20"
       },
       {
