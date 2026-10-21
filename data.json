@@ -12051,14 +12051,80 @@
   },
   "2026-10-21": {
     "scraped_date": "2026-10-21",
-    "last_updated": "2026-10-21T14:58:09Z",
+    "last_updated": "2026-10-21T19:57:47Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-21T20:27:47",
+        "site": "Twisted London (Morecambe - Glentworth Rd West)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-21T20:03:30",
+        "site": "Twisted London (Morecambe - Glentworth Rd West)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-21T19:38:02",
+        "site": "Kuro Smash - Umami Burgers (Southampton - Deacon Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-21T19:30:48",
+        "site": "Byron Burgers & Fries (Southampton - Deacon Rd)",
+        "brand": "Other"
+      },
+      {
+        "time": "2026-10-21T18:12:40",
+        "site": "TwistedLondon(Abingdon-MarchamRd)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-10-21T11:53:04",
         "site": "TwistedLondon(Arnold-FrontSt)",
         "brand": "Twisted London"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Koreatown(Wembley-EalingRd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "Photos are very misleading!",
+        "created": "2026-10-20T21:03:02Z",
+        "date": "2026-10-20"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "It\u2019s terrible. I just threw two burgers in the bin.",
+        "created": "2026-10-21T02:46:58Z",
+        "date": "2026-10-21"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "The double smashed patty is wafer thin and cold. The fries are passable. Part of the order didn&#39;t even turn up. Just avoid the disappointment...",
+        "created": "2026-10-20T11:16:23Z",
+        "date": "2026-10-20"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "I don\u2019t know where these reviews came from\u2026 I recieved the saddest excuse for a jalape\u00f1o burger. No skin on fries, just regular ones. The food DOES NOT match the images, please order with caution.",
+        "created": "2026-10-19T11:16:25Z",
+        "date": "2026-10-19"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bristol - Bordeaux Quay)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Best chips I&#39;ve had in many a year.",
+        "created": "2026-10-21T15:39:56Z",
+        "date": "2026-10-21"
+      }
+    ]
   }
 }
