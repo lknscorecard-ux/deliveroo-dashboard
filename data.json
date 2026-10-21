@@ -12048,5 +12048,20 @@
         "date": "2026-10-20"
       }
     ]
+  },
+  "2026-10-21": {
+    "scraped_date": "2026-10-21",
+    "last_updated": "2026-10-21T03:27:23Z",
+    "cancelled_orders": [],
+    "reviews": [
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "It\u2019s terrible. I just threw two burgers in the bin.",
+        "created": "2026-10-21T02:46:58Z",
+        "date": "2026-10-21"
+      }
+    ]
   }
 }
