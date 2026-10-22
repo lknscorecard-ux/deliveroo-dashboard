@@ -12129,8 +12129,57 @@
   },
   "2026-10-22": {
     "scraped_date": "2026-10-22",
-    "last_updated": "2026-10-22T09:12:16Z",
+    "last_updated": "2026-10-22T14:54:40Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Reading - Southampton St)",
+        "brand": "Wing Fest",
+        "rating": 1,
+        "text": "Awful. Literally misadvertised",
+        "created": "2026-10-21T21:32:12Z",
+        "date": "2026-10-21"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bristol - Bordeaux Quay)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Best chips I&#39;ve had in many a year.",
+        "created": "2026-10-21T15:39:56Z",
+        "date": "2026-10-21"
+      },
+      {
+        "site": "Ben & Jerry's Scoop Shop (Brighton - Bond St)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "One of my favourite delivery meals recently.",
+        "created": "2026-10-22T09:15:09Z",
+        "date": "2026-10-22"
+      },
+      {
+        "site": "Twisted London (Morecambe - Glentworth Rd West)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Unreal food",
+        "created": "2026-10-21T22:05:42Z",
+        "date": "2026-10-21"
+      },
+      {
+        "site": "Koreatown (Hatfield - The Common)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "absolutely awful. I do not think whoever made this has even been to Korea! badly cooked STICKY unwashed rice, with a slice of AMERICAN CHEESE, and the unseasoned in ldnmeat on top. absolute garbage!!!!!! grandmothers would be disappointed, and SPINNING!!!!",
+        "created": "2026-10-21T22:37:11Z",
+        "date": "2026-10-21"
+      },
+      {
+        "site": "Koreatown (Hatfield - The Common)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Food was lukewarm, but delicious, will definitely order again!",
+        "created": "2026-10-21T12:43:04Z",
+        "date": "2026-10-21"
+      }
+    ]
   }
 }
