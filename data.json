@@ -12198,8 +12198,18 @@
   },
   "2026-10-23": {
     "scraped_date": "2026-10-23",
-    "last_updated": "2026-10-23T14:42:56Z",
+    "last_updated": "2026-10-23T19:52:17Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-23T19:53:43",
+        "site": "WTF!-(Birmingham-BuckinghamSt)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-10-23T19:46:22",
+        "site": "Koreatown-(Birmingham-BuckinghamSt)",
+        "brand": "Koreatown"
+      },
       {
         "time": "2026-10-23T15:39:09",
         "site": "Twisted London (Slough - Burnham Ln)",
@@ -12235,6 +12245,38 @@
         "text": "I enjoyed my meal,but you sent me a chicken burger and not the veggie option that I ordered. \nI do eat meat but this would have been a terrible mistake for a vegetarian.",
         "created": "2026-10-22T16:07:32Z",
         "date": "2026-10-22"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Kingston - Richmond Rd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "The food was very tasteless",
+        "created": "2026-10-23T15:40:16Z",
+        "date": "2026-10-23"
+      },
+      {
+        "site": "Wing Fest All Stars (Hatfield - The Common)",
+        "brand": "Wing Fest",
+        "rating": 1,
+        "text": "Gone downhill big time. \nOrder was wrong. Wings supposed to be buffalo, but were Korean BBQ, which I dislike, A LOT! Buffalo chicken bun had no sauce in it - bland. \n\nWings were barely touched with sauce. Dry, over cooked batter, very little chicken. Tenders had chewy and crunchy bits in them, like cartilage. One of them was a wing.",
+        "created": "2026-10-23T15:32:01Z",
+        "date": "2026-10-23"
+      },
+      {
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "The burger patty was not a smash burger patty and was a thin frozen burger patty with no taste",
+        "created": "2026-10-23T18:37:05Z",
+        "date": "2026-10-23"
+      },
+      {
+        "site": "Doritos Loaded (Leatherhead - High St)",
+        "brand": "Other",
+        "rating": 1,
+        "text": "Freezing cold, tasteless, and terrible quality!",
+        "created": "2026-10-23T18:34:20Z",
+        "date": "2026-10-23"
       }
     ]
   }
