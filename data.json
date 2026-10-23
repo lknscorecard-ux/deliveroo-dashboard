@@ -12198,8 +12198,44 @@
   },
   "2026-10-23": {
     "scraped_date": "2026-10-23",
-    "last_updated": "2026-10-23T09:19:19Z",
-    "cancelled_orders": [],
-    "reviews": []
+    "last_updated": "2026-10-23T14:42:56Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-10-23T15:39:09",
+        "site": "Twisted London (Slough - Burnham Ln)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-23T14:14:20",
+        "site": "Twisted London (Cardiff - St Mary St)",
+        "brand": "Twisted London"
+      }
+    ],
+    "reviews": [
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Loved the burgers! Fries were delicious too!",
+        "created": "2026-10-22T17:55:50Z",
+        "date": "2026-10-22"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Southampton - Deacon Rd)",
+        "brand": "Kuro Smash",
+        "rating": 4,
+        "text": "it&#39;s ok, nothing special",
+        "created": "2026-10-22T19:59:41Z",
+        "date": "2026-10-22"
+      },
+      {
+        "site": "Koreatown (Norwich - Aylsham Cres)",
+        "brand": "Koreatown",
+        "rating": 3,
+        "text": "I enjoyed my meal,but you sent me a chicken burger and not the veggie option that I ordered. \nI do eat meat but this would have been a terrible mistake for a vegetarian.",
+        "created": "2026-10-22T16:07:32Z",
+        "date": "2026-10-22"
+      }
+    ]
   }
 }
