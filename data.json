@@ -12290,8 +12290,18 @@
   },
   "2026-10-24": {
     "scraped_date": "2026-10-24",
-    "last_updated": "2026-10-24T13:52:59Z",
+    "last_updated": "2026-10-24T17:15:38Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-24T18:01:52",
+        "site": "WTF! (Slough - Burnham Ln)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-10-24T16:45:01",
+        "site": "Kuro Smash - Umami Burgers (Sheffield - Bellhouse Road)",
+        "brand": "Kuro Smash"
+      },
       {
         "time": "2026-10-24T13:50:43",
         "site": "TwistedLondon(Shadwell-ChapmanSt)",
@@ -12376,6 +12386,14 @@
         "rating": 1,
         "text": "Absolutely pathetic portion for \u00a39.45, nothing like the photo. The rice bowl is not a suitable meal for an adult, it\u2019s the size of a side dish and comes in a small silver foil container like the rice you\u2019d order with a curry. It tasted ok but was also all cold except the canned drink which was room temperature. Won\u2019t be ordering again.",
         "created": "2026-10-24T03:28:11Z",
+        "date": "2026-10-24"
+      },
+      {
+        "site": "Twisted London (Colchester)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Thoroughly enjoyed our meal but would suggest that they add more vegetarian and vegan options.",
+        "created": "2026-10-24T16:34:29Z",
         "date": "2026-10-24"
       }
     ]
