@@ -12290,8 +12290,23 @@
   },
   "2026-10-24": {
     "scraped_date": "2026-10-24",
-    "last_updated": "2026-10-24T17:15:38Z",
+    "last_updated": "2026-10-24T20:18:59Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-24T20:35:40",
+        "site": "Hot Chick (Chatham - Silverweed Road)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-10-24T20:09:17",
+        "site": "Koreatown-(Birmingham-BuckinghamSt)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-10-24T19:30:38",
+        "site": "Koreatown-KoreanFriedChicken(Aylesbury-BuckinghamSt)",
+        "brand": "Koreatown"
+      },
       {
         "time": "2026-10-24T18:01:52",
         "site": "WTF! (Slough - Burnham Ln)",
@@ -12324,6 +12339,14 @@
       }
     ],
     "reviews": [
+      {
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Cold with missing sauce",
+        "created": "2026-10-24T19:07:19Z",
+        "date": "2026-10-24"
+      },
       {
         "site": "Twisted London (Dorking - High St)",
         "brand": "Twisted London",
@@ -12392,8 +12415,24 @@
         "site": "Twisted London (Colchester)",
         "brand": "Twisted London",
         "rating": 5,
+        "text": "Burger was on point but Mayo? MAYO! NO NO NO! Mustard is standard procedure or at least give the option to tack it out! Do better with your fries,crisp em up some and add some decent seasoning. Oh and for the record they were not skin on like advertised",
+        "created": "2026-10-24T19:52:47Z",
+        "date": "2026-10-24"
+      },
+      {
+        "site": "Twisted London (Colchester)",
+        "brand": "Twisted London",
+        "rating": 5,
         "text": "Thoroughly enjoyed our meal but would suggest that they add more vegetarian and vegan options.",
         "created": "2026-10-24T16:34:29Z",
+        "date": "2026-10-24"
+      },
+      {
+        "site": "Kuro Smash (Whyteleaf - Godstone Rd)",
+        "brand": "Kuro Smash",
+        "rating": 4,
+        "text": "Food was generally good but the vegetarian burger was very disappointing. Based on the picture and description I was expecting a beyond meat style burger but instead it was more like a fried chicken burger. Also didn\u2019t seem to have the cheese.",
+        "created": "2026-10-24T19:34:34Z",
         "date": "2026-10-24"
       }
     ]
