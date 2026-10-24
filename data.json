@@ -12287,5 +12287,27 @@
         "date": "2026-10-23"
       }
     ]
+  },
+  "2026-10-24": {
+    "scraped_date": "2026-10-24",
+    "last_updated": "2026-10-24T03:26:32Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-10-24T01:23:26",
+        "site": "Twisted London (Aylesbury - High St)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-24T01:11:10",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Aylesbury - High St)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-10-24T00:16:17",
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Reading - Southampton St)",
+        "brand": "Wing Fest"
+      }
+    ],
+    "reviews": []
   }
 }
