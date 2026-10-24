@@ -12290,8 +12290,13 @@
   },
   "2026-10-24": {
     "scraped_date": "2026-10-24",
-    "last_updated": "2026-10-24T08:42:19Z",
+    "last_updated": "2026-10-24T13:52:59Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-24T13:50:43",
+        "site": "TwistedLondon(Shadwell-ChapmanSt)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-10-24T01:23:26",
         "site": "Twisted London (Aylesbury - High St)",
@@ -12309,6 +12314,62 @@
       }
     ],
     "reviews": [
+      {
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Nothing like the photo advertised, no caramelised onion, food arrived like a frozen supermarket burger. Didn\u2019t like it at all. Nothing like a smashed burger it\u2019s just a frozen supermarket burger.",
+        "created": "2026-10-24T13:07:25Z",
+        "date": "2026-10-24"
+      },
+      {
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "The burger patty was not a smash burger patty and was a thin frozen burger patty with no taste",
+        "created": "2026-10-23T18:37:05Z",
+        "date": "2026-10-23"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Kingston - Richmond Rd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "The food was very tasteless",
+        "created": "2026-10-23T15:40:16Z",
+        "date": "2026-10-23"
+      },
+      {
+        "site": "WTF! (Clapham)",
+        "brand": "WTF",
+        "rating": 1,
+        "text": "RHEU CHARGED ME FOR TANGO I ORDERED , DIDNT DELIVER IT",
+        "created": "2026-10-23T15:24:30Z",
+        "date": "2026-10-23"
+      },
+      {
+        "site": "Twisted London (Eltham - Newmarket Grn)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "They didn\u2019t include the fries I ordered and paid for, for god\u2019s sake burger and fries they go together how could you forget the fries. So so annoying. Would not order again you have one job put the food in the bag.",
+        "created": "2026-10-23T20:37:34Z",
+        "date": "2026-10-23"
+      },
+      {
+        "site": "Twisted London (Birmingham - Broad St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Both my burgers were completely raw when I received. Please beware",
+        "created": "2026-10-23T22:04:11Z",
+        "date": "2026-10-23"
+      },
+      {
+        "site": "Wing Fest All Stars (Hatfield - The Common)",
+        "brand": "Wing Fest",
+        "rating": 1,
+        "text": "Gone downhill big time. \nOrder was wrong. Wings supposed to be buffalo, but were Korean BBQ, which I dislike, A LOT! Buffalo chicken bun had no sauce in it - bland. \n\nWings were barely touched with sauce. Dry, over cooked batter, very little chicken. Tenders had chewy and crunchy bits in them, like cartilage. One of them was a wing.",
+        "created": "2026-10-23T15:32:01Z",
+        "date": "2026-10-23"
+      },
       {
         "site": "Koreatown - Korean Fried Chicken (Bognor Regis - York Rd)",
         "brand": "Koreatown",
