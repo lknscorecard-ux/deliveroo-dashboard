@@ -12439,8 +12439,19 @@
   },
   "2026-10-25": {
     "scraped_date": "2026-10-25",
-    "last_updated": "2026-10-25T00:02:13Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-10-25T04:32:23Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-10-25T02:21:46",
+        "site": "Twisted London (Harrow - Northolt Rd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-25T01:27:13",
+        "site": "TwistedLondon(Shadwell-ChapmanSt)",
+        "brand": "Twisted London"
+      }
+    ],
     "reviews": []
   }
 }
