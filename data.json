@@ -12439,8 +12439,13 @@
   },
   "2026-10-25": {
     "scraped_date": "2026-10-25",
-    "last_updated": "2026-10-25T10:54:27Z",
+    "last_updated": "2026-10-25T15:40:24Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-25T13:53:51",
+        "site": "Hot Chick (Bristol North)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-10-25T02:21:46",
         "site": "Twisted London (Harrow - Northolt Rd)",
@@ -12452,6 +12457,127 @@
         "brand": "Twisted London"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Cold with missing sauce",
+        "created": "2026-10-24T19:07:19Z",
+        "date": "2026-10-24"
+      },
+      {
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Nothing like the photo advertised, no caramelised onion, food arrived like a frozen supermarket burger. Didn\u2019t like it at all. Nothing like a smashed burger it\u2019s just a frozen supermarket burger.",
+        "created": "2026-10-24T13:07:25Z",
+        "date": "2026-10-24"
+      },
+      {
+        "site": "Twisted London (Dorking - High St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "The burger patty was not a smash burger patty and was a thin frozen burger patty with no taste",
+        "created": "2026-10-23T18:37:05Z",
+        "date": "2026-10-23"
+      },
+      {
+        "site": "Twisted London (Hatfield-The Common)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "Just a small burger with a disappointing taste",
+        "created": "2026-10-24T15:04:58Z",
+        "date": "2026-10-24"
+      },
+      {
+        "site": "Twisted London (Bristol - Southmead Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "burguer came wrong",
+        "created": "2026-10-24T22:36:35Z",
+        "date": "2026-10-24"
+      },
+      {
+        "site": "Kuro Smash-Umami Burgers (Peckham\u202c)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Great burgers. Great prices. Great portions. Great deals.",
+        "created": "2026-10-24T19:16:16Z",
+        "date": "2026-10-24"
+      },
+      {
+        "site": "Kuro Smash-Umami Burgers (Peckham\u202c)",
+        "brand": "Kuro Smash",
+        "rating": 2,
+        "text": "Worst burger I&#39;ve had in a while, flavourless and dry patties that are carried by the sauce along with cardboard chips. The wings were the only saving grace.",
+        "created": "2026-10-23T17:44:41Z",
+        "date": "2026-10-23"
+      },
+      {
+        "site": "Koreatown (Cheam - Upper Mulgrave Rd)",
+        "brand": "Koreatown",
+        "rating": 3,
+        "text": "It was ok. Bottom bun was soggy and the chicken was stringy in the middle which was really weird. For me it lacked flavour. The garlic came through but could not taste the honey at all",
+        "created": "2026-10-24T22:23:45Z",
+        "date": "2026-10-24"
+      },
+      {
+        "site": "Twisted London (Colchester)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Burger was on point but Mayo? MAYO! NO NO NO! Mustard is standard procedure or at least give the option to tack it out! Do better with your fries,crisp em up some and add some decent seasoning. Oh and for the record they were not skin on like advertised",
+        "created": "2026-10-24T19:52:47Z",
+        "date": "2026-10-24"
+      },
+      {
+        "site": "Twisted London (Colchester)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Thoroughly enjoyed our meal but would suggest that they add more vegetarian and vegan options.",
+        "created": "2026-10-24T16:34:29Z",
+        "date": "2026-10-24"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Leatherhead - High St)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "Ordered vegetarian chicken and was given real chicken. Deliveroo refused to refund.",
+        "created": "2026-10-25T08:02:22Z",
+        "date": "2026-10-25"
+      },
+      {
+        "site": "Kuro Smash (Whyteleaf - Godstone Rd)",
+        "brand": "Kuro Smash",
+        "rating": 4,
+        "text": "Food was generally good but the vegetarian burger was very disappointing. Based on the picture and description I was expecting a beyond meat style burger but instead it was more like a fried chicken burger. Also didn\u2019t seem to have the cheese.",
+        "created": "2026-10-24T19:34:34Z",
+        "date": "2026-10-24"
+      },
+      {
+        "site": "TwistedLondon(Arnold-FrontSt)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Didn\u2019t enjoy my food from here the sauces on and off the burger weren\u2019t very nice, chicken bites were fine though just all tasted a bit standard to me unfortunately. Didn\u2019t finish it",
+        "created": "2026-10-24T20:52:56Z",
+        "date": "2026-10-24"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Worcester - Barbourne Road)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "Small white hairs in food, won\u2019t be ordering again \ud83e\udd22",
+        "created": "2026-10-25T12:30:26Z",
+        "date": "2026-10-25"
+      },
+      {
+        "site": "Twisted London (Salford - Media City)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Missed a call from delivery driver by one minute , driver took photo of bag left on door step in the worst weather imaginable in this storm and either stole it himself or someone else stole it as it was left outside in the wind and rain",
+        "created": "2026-10-25T15:00:02Z",
+        "date": "2026-10-25"
+      }
+    ]
   }
 }
