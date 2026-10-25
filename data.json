@@ -12439,8 +12439,38 @@
   },
   "2026-10-25": {
     "scraped_date": "2026-10-25",
-    "last_updated": "2026-10-25T18:46:39Z",
+    "last_updated": "2026-10-25T22:21:02Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-25T21:24:57",
+        "site": "TwistedLondon(Abingdon-MarchamRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-25T21:22:10",
+        "site": "Wing Fest All Stars (Kingston - Richmond Rd)",
+        "brand": "Wing Fest"
+      },
+      {
+        "time": "2026-10-25T21:17:09",
+        "site": "Kuro Smash (London - Greycoat Pl)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-25T20:56:44",
+        "site": "Hot Chick (Morecambe - Glentworth Rd West)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-10-25T19:36:19",
+        "site": "Kuro Smash - Umami Burgers (Rugby - Boughton Rd)",
+        "brand": "Kuro Smash"
+      },
+      {
+        "time": "2026-10-25T18:57:42",
+        "site": "Twisted London (Morecambe - Glentworth Rd West)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-10-25T18:28:27",
         "site": "Kuro Smash - (Newcastle- Shields Rd)",
@@ -12599,6 +12629,14 @@
         "date": "2026-10-25"
       },
       {
+        "site": "Twisted London (Leatherhead - High St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "terrible worst burger and chips ever !! never again",
+        "created": "2026-10-25T20:36:53Z",
+        "date": "2026-10-25"
+      },
+      {
         "site": "Twisted London (Middlesbrough - King's Rd)",
         "brand": "Twisted London",
         "rating": 1,
@@ -12612,6 +12650,14 @@
         "rating": 1,
         "text": "There was 2slices of chicken and zero beef in my order,if that\u2019s how much 28pound is worth then sorry that wouldn\u2019t be my choice.",
         "created": "2026-10-25T17:22:47Z",
+        "date": "2026-10-25"
+      },
+      {
+        "site": "Wing Fest All Stars (Norwich - Plumstead Rd)",
+        "brand": "Wing Fest",
+        "rating": 1,
+        "text": "Jalape\u00f1o poppers x2 didn\u2019t even come with my order im so upset i need a refund",
+        "created": "2026-10-25T22:09:18Z",
         "date": "2026-10-25"
       }
     ]
