@@ -12664,8 +12664,18 @@
   },
   "2026-10-26": {
     "scraped_date": "2026-10-26",
-    "last_updated": "2026-10-26T16:35:54Z",
+    "last_updated": "2026-10-26T22:29:05Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-26T20:53:12",
+        "site": "Hot Chick (Chatham - Silverweed Road)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-10-26T17:46:41",
+        "site": "Koreatown - Korean Fried Chicken (Rugby - Boughton Rd)",
+        "brand": "Koreatown"
+      },
       {
         "time": "2026-10-26T11:48:34",
         "site": "Twisted London (Dorking - High St)",
@@ -12680,54 +12690,6 @@
         "text": "The sauce on the burgers was awful \ud83e\udd22",
         "created": "2026-10-25T20:34:52Z",
         "date": "2026-10-25"
-      },
-      {
-        "site": "Twisted London (Hatfield-The Common)",
-        "brand": "Twisted London",
-        "rating": 5,
-        "text": "Great value and great taste",
-        "created": "2026-10-25T23:32:29Z",
-        "date": "2026-10-25"
-      },
-      {
-        "site": "Twisted London (Hatfield-The Common)",
-        "brand": "Twisted London",
-        "rating": 2,
-        "text": "Just a small burger with a disappointing taste",
-        "created": "2026-10-24T15:04:58Z",
-        "date": "2026-10-24"
-      },
-      {
-        "site": "Doritos Loaded (Guildford - Southway)",
-        "brand": "Other",
-        "rating": 1,
-        "text": "There was 2slices of chicken and zero beef in my order,if that\u2019s how much 28pound is worth then sorry that wouldn\u2019t be my choice.",
-        "created": "2026-10-25T17:22:47Z",
-        "date": "2026-10-25"
-      },
-      {
-        "site": "Hot Chick Award-Winning Saucy Fried Chicken (Middlesbrough - King's Rd)",
-        "brand": "Hot Chick",
-        "rating": 5,
-        "text": "such delish crispy chicken",
-        "created": "2026-10-26T09:53:10Z",
-        "date": "2026-10-26"
-      },
-      {
-        "site": "Koreatown - Korean Fried Chicken (Worcester - Barbourne Road)",
-        "brand": "Koreatown",
-        "rating": 1,
-        "text": "Small white hairs in food, won\u2019t be ordering again \ud83e\udd22",
-        "created": "2026-10-25T12:30:26Z",
-        "date": "2026-10-25"
-      },
-      {
-        "site": "Twisted London (Margate - High St)",
-        "brand": "Twisted London",
-        "rating": 2,
-        "text": "jalape\u00f1o burgers need some jalape\u00f1o! very bland burger",
-        "created": "2026-10-26T10:35:50Z",
-        "date": "2026-10-26"
       },
       {
         "site": "Koreatown (Brighton - Western Rd)",
@@ -12754,44 +12716,20 @@
         "date": "2026-10-25"
       },
       {
-        "site": "Byron Burgers & Fries (London - Kennington Ln)",
-        "brand": "Other",
-        "rating": 5,
-        "text": "Such a gourmet burger YUM",
-        "created": "2026-10-26T09:53:58Z",
-        "date": "2026-10-26"
-      },
-      {
-        "site": "Twisted London (Croydon - South end)",
-        "brand": "Twisted London",
-        "rating": 2,
-        "text": "burger lacked flavour. the BBQ burger barely had any BBQ sauce",
-        "created": "2026-10-25T17:36:36Z",
-        "date": "2026-10-25"
-      },
-      {
-        "site": "Wing Fest All Stars (Norwich - Plumstead Rd)",
-        "brand": "Wing Fest",
-        "rating": 1,
-        "text": "Jalape\u00f1o poppers x2 didn\u2019t even come with my order im so upset i need a refund",
-        "created": "2026-10-25T22:09:18Z",
-        "date": "2026-10-25"
-      },
-      {
-        "site": "Koreatown - Korean Fried Chicken (Peckham)",
-        "brand": "Koreatown",
-        "rating": 5,
-        "text": "One of my favourite delivery meals recently.",
-        "created": "2026-10-26T09:36:43Z",
-        "date": "2026-10-26"
-      },
-      {
         "site": "Twisted London (Middlesbrough - King's Rd)",
         "brand": "Twisted London",
         "rating": 1,
         "text": "Missing items, other stuff quite nice tbf",
         "created": "2026-10-25T16:01:21Z",
         "date": "2026-10-25"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Norwich - Plumstead Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Highly recommended",
+        "created": "2026-10-26T20:20:42Z",
+        "date": "2026-10-26"
       }
     ]
   }
