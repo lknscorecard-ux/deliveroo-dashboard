@@ -12735,8 +12735,17 @@
   },
   "2026-10-27": {
     "scraped_date": "2026-10-27",
-    "last_updated": "2026-10-27T03:51:27Z",
+    "last_updated": "2026-10-27T09:38:56Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Twisted London (Bury - Walmersley Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Yummiessst burger in town!",
+        "created": "2026-10-27T09:33:24Z",
+        "date": "2026-10-27"
+      }
+    ]
   }
 }
