@@ -12735,15 +12735,47 @@
   },
   "2026-10-27": {
     "scraped_date": "2026-10-27",
-    "last_updated": "2026-10-27T09:38:56Z",
+    "last_updated": "2026-10-27T15:46:21Z",
     "cancelled_orders": [],
     "reviews": [
+      {
+        "site": "Twisted London (Gosport - Forton Rd)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "The burger had no flavour at all really, was very very greasy, chicken was too hard and overcooked. Not great for first time.",
+        "created": "2026-10-26T19:18:29Z",
+        "date": "2026-10-26"
+      },
       {
         "site": "Twisted London (Bury - Walmersley Rd)",
         "brand": "Twisted London",
         "rating": 5,
         "text": "Yummiessst burger in town!",
         "created": "2026-10-27T09:33:24Z",
+        "date": "2026-10-27"
+      },
+      {
+        "site": "Twisted London (Cardiff - St Mary St)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "if you order the BBQ bacon fries, they are literally chips with sauce. I think I found about 2 bits of bacon.\nBurgers were good but quite oily.",
+        "created": "2026-10-26T15:30:27Z",
+        "date": "2026-10-26"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Norwich - Plumstead Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Highly recommended",
+        "created": "2026-10-26T20:20:42Z",
+        "date": "2026-10-26"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (Westcliff-on-Sea - London Rd)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "BEST FRIED CHICKEN THIS SIDE OF KENTUCKY! ARRIVES PIPING HOT AND THE CHIPS ARE SO GOOD TOO! TRY. YOU WON&#39;T BE DISAPPOINTED.",
+        "created": "2026-10-27T09:58:12Z",
         "date": "2026-10-27"
       }
     ]
