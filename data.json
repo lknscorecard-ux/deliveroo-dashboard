@@ -12830,8 +12830,57 @@
   },
   "2026-10-28": {
     "scraped_date": "2026-10-28",
-    "last_updated": "2026-10-28T07:58:07Z",
+    "last_updated": "2026-10-28T15:00:15Z",
     "cancelled_orders": [],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Kuro Smash (Aberdeen - Hutcheon St)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Great smash burgers!",
+        "created": "2026-10-27T14:03:13Z",
+        "date": "2026-10-27"
+      },
+      {
+        "site": "Doritos Loaded (Guildford - Southway)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "Everything arrived hot and in great condition.",
+        "created": "2026-10-28T10:02:55Z",
+        "date": "2026-10-28"
+      },
+      {
+        "site": "Twisted London (Salford - Media City)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Really tasty burger. Will deffo be back.",
+        "created": "2026-10-27T16:26:52Z",
+        "date": "2026-10-27"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Norwich - Plumstead Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "the teryiaki burger was so great - would order again",
+        "created": "2026-10-28T12:11:35Z",
+        "date": "2026-10-28"
+      },
+      {
+        "site": "Doritos Loaded (Leatherhead - High St)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "Always a big fan of Doritos and it just pairs so well with burrito and rice bowl! Will definitely order again",
+        "created": "2026-10-28T12:50:46Z",
+        "date": "2026-10-28"
+      },
+      {
+        "site": "WTF (Norwich- Plumstead Rd)",
+        "brand": "WTF",
+        "rating": 1,
+        "text": "food arrived stone cold",
+        "created": "2026-10-28T08:34:39Z",
+        "date": "2026-10-28"
+      }
+    ]
   }
 }
