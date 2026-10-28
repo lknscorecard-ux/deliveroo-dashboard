@@ -12830,7 +12830,7 @@
   },
   "2026-10-28": {
     "scraped_date": "2026-10-28",
-    "last_updated": "2026-10-28T15:00:15Z",
+    "last_updated": "2026-10-28T20:49:36Z",
     "cancelled_orders": [],
     "reviews": [
       {
@@ -12850,6 +12850,14 @@
         "date": "2026-10-28"
       },
       {
+        "site": "Koreatown - Korean Fried Chicken (Leeds - Britannia St)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "The chicken was undercooked (pink) and not crunchy at all. The \u201ckorean spiced\u201d fries were flavorless,  a little chili seasoning was sprinkled at the bottom of the bag but most fries were untouched, I might as well have ordered the naked fries. Everything arrived cold. Horrible experience.",
+        "created": "2026-10-28T03:42:27Z",
+        "date": "2026-10-28"
+      },
+      {
         "site": "Twisted London (Salford - Media City)",
         "brand": "Twisted London",
         "rating": 5,
@@ -12858,11 +12866,51 @@
         "date": "2026-10-27"
       },
       {
+        "site": "WTF! - Mind-Blowing Vegan Burgers \ud83c\udf31 (Stratford - Romford Rd)",
+        "brand": "WTF",
+        "rating": 2,
+        "text": "Always order from here and today was so disappointed. The burger looked like it was assembled by a 5 year old child and the chicken loaded fries had no jalape\u00f1os or spring onions (like advertised in the photo). Honestly so disappointing and they may have just lost a loyal customer.",
+        "created": "2026-10-27T22:00:26Z",
+        "date": "2026-10-27"
+      },
+      {
+        "site": "Twisted London (Birmingham - Broad St)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "It is amazing.",
+        "created": "2026-10-27T19:02:23Z",
+        "date": "2026-10-27"
+      },
+      {
+        "site": "Twisted London (Middlesbrough - King's Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "amazing burger \ud83d\ude0b",
+        "created": "2026-10-27T18:18:38Z",
+        "date": "2026-10-27"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "Solid burgah",
+        "created": "2026-10-27T18:49:34Z",
+        "date": "2026-10-27"
+      },
+      {
         "site": "Kuro Smash - Umami Burgers (Norwich - Plumstead Rd)",
         "brand": "Kuro Smash",
         "rating": 5,
         "text": "the teryiaki burger was so great - would order again",
         "created": "2026-10-28T12:11:35Z",
+        "date": "2026-10-28"
+      },
+      {
+        "site": "Byron (Burgess Hill - Church Rd)",
+        "brand": "Other",
+        "rating": 2,
+        "text": "Both burgers in meal deal were burnt and buns were quite stale.",
+        "created": "2026-10-28T19:22:53Z",
         "date": "2026-10-28"
       },
       {
