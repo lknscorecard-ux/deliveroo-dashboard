@@ -12970,8 +12970,58 @@
   },
   "2026-10-30": {
     "scraped_date": "2026-10-30",
-    "last_updated": "2026-10-30T19:02:09Z",
+    "last_updated": "2026-10-30T23:31:45Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-30T23:03:38",
+        "site": "WTF! (Slough - Burnham Ln)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-10-30T22:46:07",
+        "site": "Twisted London (Plymouth - Drake Circus)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-30T21:15:23",
+        "site": "TwistedLondon(Welwyn-LondonRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-30T20:43:19",
+        "site": "Byron Burgers & Fries (Southampton - Deacon Rd)",
+        "brand": "Other"
+      },
+      {
+        "time": "2026-10-30T20:41:51",
+        "site": "Byron Burgers & Fries (Southampton - Deacon Rd)",
+        "brand": "Other"
+      },
+      {
+        "time": "2026-10-30T20:41:23",
+        "site": "Byron Burgers & Fries (Southampton - Deacon Rd)",
+        "brand": "Other"
+      },
+      {
+        "time": "2026-10-30T20:36:53",
+        "site": "TwistedLondon(Welwyn-LondonRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-30T20:02:55",
+        "site": "Byron Burgers & Fries (Southampton - Deacon Rd)",
+        "brand": "Other"
+      },
+      {
+        "time": "2026-10-30T19:47:12",
+        "site": "WTF! (Slough - Burnham Ln)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-10-30T19:30:50",
+        "site": "WTF! (Slough - Burnham Ln)",
+        "brand": "WTF"
+      },
       {
         "time": "2026-10-30T18:04:33",
         "site": "Twisted London (Slough - Burnham Ln)",
@@ -13053,11 +13103,35 @@
         "date": "2026-10-30"
       },
       {
+        "site": "Twisted London (Hatfield-The Common)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Perfect. Never fails!",
+        "created": "2026-10-30T19:21:13Z",
+        "date": "2026-10-30"
+      },
+      {
         "site": "Koreatown (Cheam - Upper Mulgrave Rd)",
         "brand": "Koreatown",
         "rating": 1,
         "text": "if you order the wings, order double because ive never in my 41 years on this earth, ever seen such small wing. Don&#39;t get me wrong,  they were very nice, but they were the size of my little finger",
         "created": "2026-10-30T17:01:25Z",
+        "date": "2026-10-30"
+      },
+      {
+        "site": "Hot Chick (Plymouth - Drake Circus)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Delicious burgers and it had the best crunch! Thank you to the person who was flexible to change the ingredients for my partner- will 100% be back!",
+        "created": "2026-10-30T20:14:09Z",
+        "date": "2026-10-30"
+      },
+      {
+        "site": "Twisted London (Inverness - Church Street)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "My first time ordering from Twisted London and have to say it&#39;s the best smash burger I have had in a long time, quick delivery, well packaged and piping hot when it arrived, definitely coming back!",
+        "created": "2026-10-30T20:40:29Z",
         "date": "2026-10-30"
       }
     ]
