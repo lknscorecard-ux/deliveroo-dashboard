@@ -12970,8 +12970,33 @@
   },
   "2026-10-30": {
     "scraped_date": "2026-10-30",
-    "last_updated": "2026-10-30T12:13:37Z",
+    "last_updated": "2026-10-30T19:02:09Z",
     "cancelled_orders": [
+      {
+        "time": "2026-10-30T18:04:33",
+        "site": "Twisted London (Slough - Burnham Ln)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-30T17:57:21",
+        "site": "TwistedLondon(Welwyn-LondonRd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-30T15:01:21",
+        "site": "Hot Chick (Stockport - Buxton Rd)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-10-30T14:29:45",
+        "site": "Twisted London (Slough - Burnham Ln)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-30T13:16:08",
+        "site": "Twisted London (Cardiff - St Mary St)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-10-30T01:07:55",
         "site": "Wing Fest All Stars (Watford - Market St)",
@@ -12979,6 +13004,14 @@
       }
     ],
     "reviews": [
+      {
+        "site": "Koreatown - Korean Fried Chicken (Folkestone- Fleming Way)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "Second time I\u2019ve ordered from here recently, wings are delicious!!",
+        "created": "2026-10-30T07:13:05Z",
+        "date": "2026-10-30"
+      },
       {
         "site": "Twisted London (Guildford - Southway)",
         "brand": "Twisted London",
@@ -12993,6 +13026,38 @@
         "rating": 5,
         "text": "Always love the food from here !!",
         "created": "2026-10-30T08:18:56Z",
+        "date": "2026-10-30"
+      },
+      {
+        "site": "WTF (Norwich- Plumstead Rd)",
+        "brand": "WTF",
+        "rating": 1,
+        "text": "food arrived stone cold",
+        "created": "2026-10-28T08:34:39Z",
+        "date": "2026-10-28"
+      },
+      {
+        "site": "Koreatown - Korean Fried Chicken (St Albans-High Oaks)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "Very disappointing, we received half the amount of food for our rice bowls and the umami fries arrived with no toppings.",
+        "created": "2026-10-29T21:26:48Z",
+        "date": "2026-10-29"
+      },
+      {
+        "site": "Doritos Loaded (Guildford - Southway)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "Tastes great! Big portion sizes and lots of different flavours",
+        "created": "2026-10-30T16:05:56Z",
+        "date": "2026-10-30"
+      },
+      {
+        "site": "Koreatown (Cheam - Upper Mulgrave Rd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "if you order the wings, order double because ive never in my 41 years on this earth, ever seen such small wing. Don&#39;t get me wrong,  they were very nice, but they were the size of my little finger",
+        "created": "2026-10-30T17:01:25Z",
         "date": "2026-10-30"
       }
     ]
