@@ -13138,15 +13138,119 @@
   },
   "2026-10-31": {
     "scraped_date": "2026-10-31",
-    "last_updated": "2026-10-31T11:48:56Z",
+    "last_updated": "2026-10-31T16:57:57Z",
     "cancelled_orders": [],
     "reviews": [
+      {
+        "site": "Twisted London (Hatfield-The Common)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Perfect. Never fails!",
+        "created": "2026-10-30T19:21:13Z",
+        "date": "2026-10-30"
+      },
+      {
+        "site": "Doritos Loaded (Guildford - Southway)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "Tastes great! Big portion sizes and lots of different flavours",
+        "created": "2026-10-30T16:05:56Z",
+        "date": "2026-10-30"
+      },
+      {
+        "site": "Hot Chick (Plymouth - Drake Circus)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Delicious burgers and it had the best crunch! Thank you to the person who was flexible to change the ingredients for my partner- will 100% be back!",
+        "created": "2026-10-30T20:14:09Z",
+        "date": "2026-10-30"
+      },
+      {
+        "site": "Twisted London (Inverness - Church Street)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "My first time ordering from Twisted London and have to say it&#39;s the best smash burger I have had in a long time, quick delivery, well packaged and piping hot when it arrived, definitely coming back!",
+        "created": "2026-10-30T20:40:29Z",
+        "date": "2026-10-30"
+      },
+      {
+        "site": "Koreatown (Cheam - Upper Mulgrave Rd)",
+        "brand": "Koreatown",
+        "rating": 1,
+        "text": "if you order the wings, order double because ive never in my 41 years on this earth, ever seen such small wing. Don&#39;t get me wrong,  they were very nice, but they were the size of my little finger",
+        "created": "2026-10-30T17:01:25Z",
+        "date": "2026-10-30"
+      },
+      {
+        "site": "Twisted London (Wembley - Ealing Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Ordered bbq chess burger. Turned up with no fillings besides patty. Patty was cheap frozen patty.",
+        "created": "2026-10-30T20:15:59Z",
+        "date": "2026-10-30"
+      },
       {
         "site": "Twisted London (Colchester)",
         "brand": "Twisted London",
         "rating": 3,
         "text": "Messed up my order",
         "created": "2026-10-31T07:37:11Z",
+        "date": "2026-10-31"
+      },
+      {
+        "site": "Twisted London (Epsom - Kingston Rd)",
+        "brand": "Twisted London",
+        "rating": 4,
+        "text": "The food was too salty for my taste. But otherwise, good service!",
+        "created": "2026-10-31T09:26:35Z",
+        "date": "2026-10-31"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Uxbridge-High St)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "Items missing from my order",
+        "created": "2026-10-30T18:33:08Z",
+        "date": "2026-10-30"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Oldham - Featherstall Rd)",
+        "brand": "Kuro Smash",
+        "rating": 3,
+        "text": "Arrived lukewarm. Seasoning on the fries was as advertised, but the burger was just bog standard smash burger.",
+        "created": "2026-10-30T18:10:47Z",
+        "date": "2026-10-30"
+      },
+      {
+        "site": "Kuro Smash (West Green - High St)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "Food arrived freezing cold. The chips barely had any seasoning on them and were hard, like they&#39;d been sitting around for a while. The burger was the same, cold and greasy",
+        "created": "2026-10-30T17:15:16Z",
+        "date": "2026-10-30"
+      },
+      {
+        "site": "Wing Fest All Stars - \ud83e\udd47 Award-Winning Wings \ud83e\udd47 (Cheam - Upper Mulgrave Rd)",
+        "brand": "Wing Fest",
+        "rating": 2,
+        "text": "The wings where good, however the sauces buffalo sauce wasn\u2019t enough. The chips had too much salt couldn\u2019t eat them. The chicken burgers could have been good, the chicken inside was too dry and crunchy. If the small changes are made the food quality would be amazing.",
+        "created": "2026-10-31T08:26:48Z",
+        "date": "2026-10-31"
+      },
+      {
+        "site": "Kuro Smash (Aberdeen - Hutcheon St)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "My wife and I love their burgers. Delicious and budget friendly!",
+        "created": "2026-10-31T15:53:59Z",
+        "date": "2026-10-31"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 2,
+        "text": "Notjing was what was written online loads of things missing, wrong items, cold food, no skin on fries, Pepsi instead of coke cold food, not the right ingredients in burgers and it was very dry and disappointing",
+        "created": "2026-10-31T12:30:25Z",
         "date": "2026-10-31"
       }
     ]
