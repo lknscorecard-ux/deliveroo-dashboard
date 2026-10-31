@@ -13138,9 +13138,66 @@
   },
   "2026-10-31": {
     "scraped_date": "2026-10-31",
-    "last_updated": "2026-10-31T16:57:57Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-10-31T21:04:47Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-10-31T19:58:57",
+        "site": "Twisted London (Liverpool - Bold Street)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-31T19:24:36",
+        "site": "Hot Chick (Datchet - Mill Place)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-10-31T19:18:11",
+        "site": "Twisted London (Datchet - Mill Place)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-10-31T18:46:13",
+        "site": "Hot Chick (Chatham - Silverweed Road)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-10-31T18:45:53",
+        "site": "WTF!-(Birmingham-BuckinghamSt)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-10-31T18:45:52",
+        "site": "WTF!-(Birmingham-BuckinghamSt)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-10-31T17:44:51",
+        "site": "WTF!-(Birmingham-BuckinghamSt)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-10-31T17:43:44",
+        "site": "Wing Fest All Stars (Watford - Market St)",
+        "brand": "Wing Fest"
+      }
+    ],
     "reviews": [
+      {
+        "site": "Wing Fest All Stars (Stockport - Buxton Rd)",
+        "brand": "Wing Fest",
+        "rating": 2,
+        "text": "it was ok. chicken dry, flavours not really well balanced. loved the tanch sauce tho\nnot sure how its 4.5*",
+        "created": "2026-10-30T20:24:09Z",
+        "date": "2026-10-30"
+      },
+      {
+        "site": "Twisted London (Hatfield-The Common)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Fabulous smash burgers!",
+        "created": "2026-10-31T18:48:49Z",
+        "date": "2026-10-31"
+      },
       {
         "site": "Twisted London (Hatfield-The Common)",
         "brand": "Twisted London",
@@ -13238,6 +13295,14 @@
         "date": "2026-10-31"
       },
       {
+        "site": "Kuro Smash (Walthamstow - Wood St)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "Don bother wasting your money on the smash burgers the meat was suspect, was not fresh and quite frankly was disgusting",
+        "created": "2026-10-30T13:11:40Z",
+        "date": "2026-10-30"
+      },
+      {
         "site": "Kuro Smash (Aberdeen - Hutcheon St)",
         "brand": "Kuro Smash",
         "rating": 5,
@@ -13251,6 +13316,14 @@
         "rating": 2,
         "text": "Notjing was what was written online loads of things missing, wrong items, cold food, no skin on fries, Pepsi instead of coke cold food, not the right ingredients in burgers and it was very dry and disappointing",
         "created": "2026-10-31T12:30:25Z",
+        "date": "2026-10-31"
+      },
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Ordered the truffle cheeseburger but there was no truffle or onions in the burger and the meat tasted raw.",
+        "created": "2026-10-31T19:31:33Z",
         "date": "2026-10-31"
       }
     ]
