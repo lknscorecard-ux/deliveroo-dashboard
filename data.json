@@ -13330,8 +13330,18 @@
   },
   "2026-11-01": {
     "scraped_date": "2026-11-01",
-    "last_updated": "2026-11-01T08:46:02Z",
+    "last_updated": "2026-11-01T16:42:08Z",
     "cancelled_orders": [
+      {
+        "time": "2026-11-01T16:18:35",
+        "site": "Hot Chick (Barnstaple - The Square)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-11-01T15:02:10",
+        "site": "Hot Chick (Bristol North)",
+        "brand": "Hot Chick"
+      },
       {
         "time": "2026-11-01T02:42:22",
         "site": "WTF!-(Birmingham-BuckinghamSt)",
@@ -13353,6 +13363,31 @@
         "brand": "Kuro Smash"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Twisted London (Reading - Oxford Rd)",
+        "brand": "Twisted London",
+        "rating": 4,
+        "text": "not vad",
+        "created": "2026-10-31T17:01:28Z",
+        "date": "2026-10-31"
+      },
+      {
+        "site": "Hot Chick (Salford - Media City)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "Great wings !!!",
+        "created": "2026-10-31T20:36:48Z",
+        "date": "2026-10-31"
+      },
+      {
+        "site": "Twisted London (Bury - Walmersley Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Very good burgers!",
+        "created": "2026-11-01T14:14:53Z",
+        "date": "2026-11-01"
+      }
+    ]
   }
 }
