@@ -13330,8 +13330,63 @@
   },
   "2026-11-01": {
     "scraped_date": "2026-11-01",
-    "last_updated": "2026-11-01T16:42:08Z",
+    "last_updated": "2026-11-01T21:54:15Z",
     "cancelled_orders": [
+      {
+        "time": "2026-11-01T20:00:57",
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bingley - Bradford Rd)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-11-01T19:50:27",
+        "site": "Hot Chick (Datchet - Mill Place)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-11-01T19:18:46",
+        "site": "Hot Chick (Luton - Selbourne Rd)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-11-01T18:42:01",
+        "site": "Twisted London (Bingley - Bradford Rd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-11-01T18:38:56",
+        "site": "Twisted London (Bingley - Bradford Rd)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-11-01T18:35:56",
+        "site": "WTF! (Slough - Burnham Ln)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-11-01T18:25:14",
+        "site": "WTF!-(Birmingham-BuckinghamSt)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-11-01T18:18:01",
+        "site": "Twisted London (Slough - Burnham Ln)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-11-01T18:09:58",
+        "site": "WTF! (Slough - Burnham Ln)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-11-01T18:04:48",
+        "site": "Twisted London (Slough - Burnham Ln)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-11-01T17:22:45",
+        "site": "Twisted London (Slough - Burnham Ln)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-11-01T16:18:35",
         "site": "Hot Chick (Barnstaple - The Square)",
@@ -13365,27 +13420,35 @@
     ],
     "reviews": [
       {
-        "site": "Twisted London (Reading - Oxford Rd)",
-        "brand": "Twisted London",
-        "rating": 4,
-        "text": "not vad",
-        "created": "2026-10-31T17:01:28Z",
-        "date": "2026-10-31"
-      },
-      {
-        "site": "Hot Chick (Salford - Media City)",
-        "brand": "Hot Chick",
-        "rating": 5,
-        "text": "Great wings !!!",
-        "created": "2026-10-31T20:36:48Z",
-        "date": "2026-10-31"
-      },
-      {
         "site": "Twisted London (Bury - Walmersley Rd)",
         "brand": "Twisted London",
         "rating": 5,
         "text": "Very good burgers!",
         "created": "2026-11-01T14:14:53Z",
+        "date": "2026-11-01"
+      },
+      {
+        "site": "Twisted Burgers (Leicester)",
+        "brand": "Other",
+        "rating": 2,
+        "text": "Burger lacked flavour and was dry needed more sauce",
+        "created": "2026-11-01T21:02:49Z",
+        "date": "2026-11-01"
+      },
+      {
+        "site": "Byron Burgers & Fries (London - Kennington Ln)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "Wings was a must! Great value and great taste. As always",
+        "created": "2026-11-01T18:40:06Z",
+        "date": "2026-11-01"
+      },
+      {
+        "site": "WTF!-Mind-BlowingVeganBurgers\ud83c\udf31(Aylesbury-BuckinghamSt)",
+        "brand": "WTF",
+        "rating": 2,
+        "text": "There was hair in my food. The burgers have a good texture but were burnt around the edge. The chips were so salty they were inedible.",
+        "created": "2026-11-01T19:54:01Z",
         "date": "2026-11-01"
       }
     ]
