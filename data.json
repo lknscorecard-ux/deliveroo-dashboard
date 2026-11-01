@@ -13327,5 +13327,22 @@
         "date": "2026-10-31"
       }
     ]
+  },
+  "2026-11-01": {
+    "scraped_date": "2026-11-01",
+    "last_updated": "2026-11-01T00:47:00Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-11-01T00:36:10",
+        "site": "Koreatown - Korean Fried Chicken (Potters Bar - Barnet Rd)",
+        "brand": "Koreatown"
+      },
+      {
+        "time": "2026-11-01T00:36:00",
+        "site": "Kuro Smash - Umami Burgers (Potters Bar - Barnet Rd)",
+        "brand": "Kuro Smash"
+      }
+    ],
+    "reviews": []
   }
 }
