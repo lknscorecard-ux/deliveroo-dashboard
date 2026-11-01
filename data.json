@@ -13330,8 +13330,18 @@
   },
   "2026-11-01": {
     "scraped_date": "2026-11-01",
-    "last_updated": "2026-11-01T00:47:00Z",
+    "last_updated": "2026-11-01T08:46:02Z",
     "cancelled_orders": [
+      {
+        "time": "2026-11-01T02:42:22",
+        "site": "WTF!-(Birmingham-BuckinghamSt)",
+        "brand": "WTF"
+      },
+      {
+        "time": "2026-11-01T01:21:53",
+        "site": "WTF! (Peckham)",
+        "brand": "WTF"
+      },
       {
         "time": "2026-11-01T00:36:10",
         "site": "Koreatown - Korean Fried Chicken (Potters Bar - Barnet Rd)",
