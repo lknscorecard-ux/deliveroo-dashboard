@@ -13455,8 +13455,23 @@
   },
   "2026-11-02": {
     "scraped_date": "2026-11-02",
-    "last_updated": "2026-11-02T01:20:22Z",
-    "cancelled_orders": [],
-    "reviews": []
+    "last_updated": "2026-11-02T08:56:45Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-11-02T02:17:28",
+        "site": "WTF!-(Birmingham-BuckinghamSt)",
+        "brand": "WTF"
+      }
+    ],
+    "reviews": [
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bristol - Bordeaux Quay)",
+        "brand": "Hot Chick",
+        "rating": 3,
+        "text": "i feel for an award winning place ive had better but it aint bad",
+        "created": "2026-11-02T06:25:28Z",
+        "date": "2026-11-02"
+      }
+    ]
   }
 }
