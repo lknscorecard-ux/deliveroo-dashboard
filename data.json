@@ -13455,8 +13455,13 @@
   },
   "2026-11-02": {
     "scraped_date": "2026-11-02",
-    "last_updated": "2026-11-02T08:56:45Z",
+    "last_updated": "2026-11-02T20:01:59Z",
     "cancelled_orders": [
+      {
+        "time": "2026-11-02T18:20:29",
+        "site": "Twisted London (Bingley - Bradford Rd)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-11-02T02:17:28",
         "site": "WTF!-(Birmingham-BuckinghamSt)",
@@ -13465,11 +13470,163 @@
     ],
     "reviews": [
       {
+        "site": "WTF! (Brixton)",
+        "brand": "WTF",
+        "rating": 3,
+        "text": "Very sweet and cheese not melted",
+        "created": "2026-11-01T16:12:10Z",
+        "date": "2026-11-01"
+      },
+      {
+        "site": "Twisted London (Uxbridge-High St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "I received wrong order",
+        "created": "2026-11-01T12:57:56Z",
+        "date": "2026-11-01"
+      },
+      {
+        "site": "Twisted London (Hatfield-The Common)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "This is pathetic. I ordered the meal for \u00a325, and I only got wings. I was missing a burger and fries, I paid \u00a327 after fees just to get wings, nothing else. I am never ordering from this place again if this is the way this place is managed.",
+        "created": "2026-11-01T16:10:50Z",
+        "date": "2026-11-01"
+      },
+      {
+        "site": "Twisted London (Hatfield-The Common)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Fabulous smash burgers!",
+        "created": "2026-10-31T18:48:49Z",
+        "date": "2026-10-31"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Benfleet - High Rd)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "Drenched in mayo basically the bonnie blue of burgers",
+        "created": "2026-11-01T15:55:43Z",
+        "date": "2026-11-01"
+      },
+      {
+        "site": "Twisted London (Swansea- Wind St)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Been up all night with diarrhoea never again will I eat from there  !",
+        "created": "2026-11-02T07:20:39Z",
+        "date": "2026-11-02"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Wembley - Ealing Rd)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "Sent wrong item, the chips n burger had charred food (chips I guess ) poor food quality and  packaging was bad, burger has weird taste and texture, wonder who awarded them, worst food ever, totally avoiding their food!!!",
+        "created": "2026-11-01T21:00:56Z",
+        "date": "2026-11-01"
+      },
+      {
+        "site": "Twisted London (Dover - Tower Hamlets Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "We didn\u2019t receive half of the order and what did arrive was cold\ud83d\ude04\ud83d\ude04",
+        "created": "2026-11-01T19:57:59Z",
+        "date": "2026-11-01"
+      },
+      {
+        "site": "Twisted London (Bury - Walmersley Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Very good burgers!",
+        "created": "2026-11-01T14:14:53Z",
+        "date": "2026-11-01"
+      },
+      {
+        "site": "WTF!-Mind-BlowingVeganBurgers\ud83c\udf31(Aylesbury-BuckinghamSt)",
+        "brand": "WTF",
+        "rating": 2,
+        "text": "There was hair in my food. The burgers have a good texture but were burnt around the edge. The chips were so salty they were inedible.",
+        "created": "2026-11-01T19:54:01Z",
+        "date": "2026-11-01"
+      },
+      {
+        "site": "Twisted London (Margate - High St)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Burger was so lovely and juicy and so much flavour and the chips were beautiful spring onion was a welcomed change",
+        "created": "2026-11-01T23:29:03Z",
+        "date": "2026-11-01"
+      },
+      {
+        "site": "Twisted Burgers (Leicester)",
+        "brand": "Other",
+        "rating": 2,
+        "text": "Burger lacked flavour and was dry needed more sauce",
+        "created": "2026-11-01T21:02:49Z",
+        "date": "2026-11-01"
+      },
+      {
         "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Bristol - Bordeaux Quay)",
         "brand": "Hot Chick",
         "rating": 3,
         "text": "i feel for an award winning place ive had better but it aint bad",
         "created": "2026-11-02T06:25:28Z",
+        "date": "2026-11-02"
+      },
+      {
+        "site": "Byron Burgers & Fries (London - Kennington Ln)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "Wings was a must! Great value and great taste. As always",
+        "created": "2026-11-01T18:40:06Z",
+        "date": "2026-11-01"
+      },
+      {
+        "site": "Hot Chick (Norwich - Aylsham Cres)",
+        "brand": "Hot Chick",
+        "rating": 1,
+        "text": "I ordered buy 1 get 1 free on a burger and only got 1 burger and it was cold",
+        "created": "2026-11-01T20:58:35Z",
+        "date": "2026-11-01"
+      },
+      {
+        "site": "Twisted London (Middlesbrough - King's Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Burger was banging\u2026.deffo worth it when the buy one get one free is on.",
+        "created": "2026-11-01T22:26:14Z",
+        "date": "2026-11-01"
+      },
+      {
+        "site": "Twisted London (Plymouth - Drake Circus)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "was great quality food,ordered early in the day and was full for the rest of the day,happy customer",
+        "created": "2026-11-02T11:54:34Z",
+        "date": "2026-11-02"
+      },
+      {
+        "site": "Twisted London (Kensal Rise - Station Terrace)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "flavours were great but whole order arrived cold",
+        "created": "2026-11-02T19:06:20Z",
+        "date": "2026-11-02"
+      },
+      {
+        "site": "Kuro Smash (Whyteleaf - Godstone Rd)",
+        "brand": "Kuro Smash",
+        "rating": 4,
+        "text": "Super quick delivery and the food was incredibly tasty and hot. Just such a shame that they forgot to put one of our orders of fries in the bag which means we had to share mine. Was able to get them refunded immediately so it was remedied and we will order again :)",
+        "created": "2026-11-02T18:09:55Z",
+        "date": "2026-11-02"
+      },
+      {
+        "site": "Twisted London (Stratford - Romford Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "The cheeseburger was described as a double patty but came with one. It was also not a smash patty and instead looked rather like a McD burger. You are better off getting that for the price you pay",
+        "created": "2026-11-02T14:00:16Z",
         "date": "2026-11-02"
       }
     ]
