@@ -13630,5 +13630,20 @@
         "date": "2026-11-02"
       }
     ]
+  },
+  "2026-11-03": {
+    "scraped_date": "2026-11-03",
+    "last_updated": "2026-11-03T02:13:38Z",
+    "cancelled_orders": [],
+    "reviews": [
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Hatfield-The common)",
+        "brand": "Hot Chick",
+        "rating": 4,
+        "text": "The burger was soo good the onion rings were so bad tho",
+        "created": "2026-11-03T00:13:11Z",
+        "date": "2026-11-03"
+      }
+    ]
   }
 }
