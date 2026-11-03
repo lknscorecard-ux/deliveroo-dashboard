@@ -13633,15 +13633,117 @@
   },
   "2026-11-03": {
     "scraped_date": "2026-11-03",
-    "last_updated": "2026-11-03T11:44:31Z",
-    "cancelled_orders": [],
+    "last_updated": "2026-11-03T19:10:32Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-11-03T18:11:29",
+        "site": "WTF! (Slough - Burnham Ln)",
+        "brand": "WTF"
+      }
+    ],
     "reviews": [
+      {
+        "site": "Wing Fest All Stars (Colchester - Challenge Way)",
+        "brand": "Wing Fest",
+        "rating": 5,
+        "text": "Good value good chickens",
+        "created": "2026-11-03T10:26:00Z",
+        "date": "2026-11-03"
+      },
+      {
+        "site": "TwistedLondon(Abingdon-MarchamRd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "Chicken burger was really overcooked",
+        "created": "2026-11-02T21:19:52Z",
+        "date": "2026-11-02"
+      },
+      {
+        "site": "Kuro Smash (Whyteleaf - Godstone Rd)",
+        "brand": "Kuro Smash",
+        "rating": 4,
+        "text": "Super quick delivery and the food was incredibly tasty and hot. Just such a shame that they forgot to put one of our orders of fries in the bag which means we had to share mine. Was able to get them refunded immediately so it was remedied and we will order again :)",
+        "created": "2026-11-02T18:09:55Z",
+        "date": "2026-11-02"
+      },
+      {
+        "site": "Twisted London (Stratford - Romford Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "The cheeseburger was described as a double patty but came with one. It was also not a smash patty and instead looked rather like a McD burger. You are better off getting that for the price you pay",
+        "created": "2026-11-02T14:00:16Z",
+        "date": "2026-11-02"
+      },
       {
         "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Hatfield-The common)",
         "brand": "Hot Chick",
         "rating": 4,
         "text": "The burger was soo good the onion rings were so bad tho",
         "created": "2026-11-03T00:13:11Z",
+        "date": "2026-11-03"
+      },
+      {
+        "site": "Twisted London (Uxbridge-High St)",
+        "brand": "Twisted London",
+        "rating": 3,
+        "text": "Always find it silly when restaurants put a cold drink next to hot food. It\u2019s simple thermodynamics. The cold drink will no longer be cold and the hot food will no longer be hot",
+        "created": "2026-11-03T14:59:44Z",
+        "date": "2026-11-03"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Benfleet - High Rd)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "WOW! \n\nSome of THE best food I have had in a long time! \n\nI will be ordering again and again",
+        "created": "2026-11-03T16:52:05Z",
+        "date": "2026-11-03"
+      },
+      {
+        "site": "Byron Burgers & Fries (London - Kennington Ln)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "Honestly impressed it survived the delivery so well. The brioche bun held its shape, the beef actually tasted like proper aged steak, and the fries were still warm. Worth every penny.",
+        "created": "2026-11-03T15:43:34Z",
+        "date": "2026-11-03"
+      },
+      {
+        "site": "Twisted London (Reading - Oxford Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Really yummy for munchies",
+        "created": "2026-11-03T16:02:04Z",
+        "date": "2026-11-03"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Oldham - Featherstall Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "such nice teryiaki burger YuUM",
+        "created": "2026-11-03T15:41:52Z",
+        "date": "2026-11-03"
+      },
+      {
+        "site": "Twisted London (Guildford - Southway)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "PLEASE. DO NOT ORDER FROM HERE. Food looks absolutely nothing like advertised. STRAIGHT CATFISH. These pics are AI LOOOL. And secondly it\u2019s so be burger operating under another page to make it look like a different restaurant. My jerk bbq burger looked absolutely nothing alike.",
+        "created": "2026-11-03T15:17:40Z",
+        "date": "2026-11-03"
+      },
+      {
+        "site": "Koreatown (Norwich - Aylsham Cres)",
+        "brand": "Koreatown",
+        "rating": 5,
+        "text": "I loved the taste of the food",
+        "created": "2026-11-03T16:23:24Z",
+        "date": "2026-11-03"
+      },
+      {
+        "site": "Byron Burgers & Fries (Eltham - Newmarket Grn)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "suuch good value for money - YUM",
+        "created": "2026-11-03T15:42:19Z",
         "date": "2026-11-03"
       }
     ]
