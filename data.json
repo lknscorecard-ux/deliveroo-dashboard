@@ -13877,8 +13877,55 @@
   },
   "2026-11-05": {
     "scraped_date": "2026-11-05",
-    "last_updated": "2026-11-05T05:19:10Z",
-    "cancelled_orders": [],
-    "reviews": []
+    "last_updated": "2026-11-05T14:04:13Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-11-05T11:57:23",
+        "site": "WTF! (Mitcham - Croydon Rd)",
+        "brand": "WTF"
+      }
+    ],
+    "reviews": [
+      {
+        "site": "Twisted London (York)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Fabulous burgers! Loved it. Can&#39;t wait to try again.",
+        "created": "2026-11-04T12:06:31Z",
+        "date": "2026-11-04"
+      },
+      {
+        "site": "Twisted London (Wembley - Ealing Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "The twisted burger isn\u2019t a double patty I got one and the loaded bbq bacon fries had no bacon! AVOID!!!",
+        "created": "2026-11-04T18:55:08Z",
+        "date": "2026-11-04"
+      },
+      {
+        "site": "Twisted London (Harlow - Southern Way)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "MY FIRST TIME ORDERING FROM THIS PLACE,  I HAVE FOUND MY GO-TO MUNCHIES GAFF\nTHE FOOD WAS PREPARED WELL, HOT TASTY AND I HIGHLY RECOMMEND THEM FOR ANYBODY ELSE LOOKING FOR A BANGING BURGER \n\nMORE PLEASE\n LOT&#39;S MORE\n\nNO 1 FAN",
+        "created": "2026-11-04T13:58:52Z",
+        "date": "2026-11-04"
+      },
+      {
+        "site": "Kuro Smash - Umami Burgers (Norwich - Plumstead Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Such a good value for money !!",
+        "created": "2026-11-04T14:21:44Z",
+        "date": "2026-11-04"
+      },
+      {
+        "site": "Doritos Loaded (Guildford - Southway)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "Plenty of sauce included which was a nice surprise.",
+        "created": "2026-11-05T12:09:01Z",
+        "date": "2026-11-05"
+      }
+    ]
   }
 }
