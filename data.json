@@ -13877,8 +13877,23 @@
   },
   "2026-11-05": {
     "scraped_date": "2026-11-05",
-    "last_updated": "2026-11-05T14:04:13Z",
+    "last_updated": "2026-11-05T21:49:09Z",
     "cancelled_orders": [
+      {
+        "time": "2026-11-05T21:10:01",
+        "site": "Twisted London (Slough - Burnham Ln)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-11-05T20:51:48",
+        "site": "Twisted London (Slough - Burnham Ln)",
+        "brand": "Twisted London"
+      },
+      {
+        "time": "2026-11-05T20:38:01",
+        "site": "Twisted London (Slough - Burnham Ln)",
+        "brand": "Twisted London"
+      },
       {
         "time": "2026-11-05T11:57:23",
         "site": "WTF! (Mitcham - Croydon Rd)",
@@ -13924,6 +13939,14 @@
         "rating": 5,
         "text": "Plenty of sauce included which was a nice surprise.",
         "created": "2026-11-05T12:09:01Z",
+        "date": "2026-11-05"
+      },
+      {
+        "site": "Twisted London (Eltham - Newmarket Grn)",
+        "brand": "Twisted London",
+        "rating": 4,
+        "text": "Very nice,was pleasantly surprised by the portions and it tastes great. Only reason I gave it a 4/5 is cause it wasn&#39;t as much sauce as I would&#39;ve liked but maybe that&#39;s subjective.",
+        "created": "2026-11-05T20:37:56Z",
         "date": "2026-11-05"
       }
     ]
