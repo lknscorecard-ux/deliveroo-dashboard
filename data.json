@@ -13953,7 +13953,7 @@
   },
   "2026-11-16": {
     "scraped_date": "2026-11-16",
-    "last_updated": "2026-11-16T07:23:10Z",
+    "last_updated": "2026-11-16T14:58:02Z",
     "cancelled_orders": [
       {
         "time": "2026-11-16T01:24:39",
@@ -13966,6 +13966,111 @@
         "brand": "Kuro Smash"
       }
     ],
-    "reviews": []
+    "reviews": [
+      {
+        "site": "Twisted London (Bristol - Bordeaux Quay)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "some of the best burgers we&#39;ve had in Bristol! we&#39;ll definitely order again \u2764\ufe0f",
+        "created": "2026-11-15T19:11:00Z",
+        "date": "2026-11-15"
+      },
+      {
+        "site": "Kuro Smash (Bournemouth - Stanfield Rd)",
+        "brand": "Kuro Smash",
+        "rating": 5,
+        "text": "Lovely food at great prices",
+        "created": "2026-11-15T16:28:55Z",
+        "date": "2026-11-15"
+      },
+      {
+        "site": "Twisted London (Wembley - Ealing Rd)",
+        "brand": "Twisted London",
+        "rating": 1,
+        "text": "They give you tenders instead of wings, and the burgers they give is normal packet patty not smash burger and it is burnt. I advise avoid this place. They were good before but dramatically dropped there standards.",
+        "created": "2026-11-15T22:05:22Z",
+        "date": "2026-11-15"
+      },
+      {
+        "site": "Kuro Smash (London - Greycoat Pl)",
+        "brand": "Kuro Smash",
+        "rating": 1,
+        "text": "awful cheap ingredients",
+        "created": "2026-11-15T17:11:48Z",
+        "date": "2026-11-15"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Leatherhead - High St)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "really like it..",
+        "created": "2026-11-15T21:45:11Z",
+        "date": "2026-11-15"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Leatherhead - High St)",
+        "brand": "Hot Chick",
+        "rating": 2,
+        "text": "Order got delivered incorrect, I selected the Korean burger and got given the original. All of my food also arrived cold.",
+        "created": "2026-11-14T18:27:01Z",
+        "date": "2026-11-14"
+      },
+      {
+        "site": "Hot Chick - Award-Winning Saucy Fried Chicken (Westcliff-on-Sea - London Rd)",
+        "brand": "Hot Chick",
+        "rating": 5,
+        "text": "The most delicious food! WOW! The packaging was so nice and it everything came still hot! I was very impressed!",
+        "created": "2026-11-16T09:19:40Z",
+        "date": "2026-11-16"
+      },
+      {
+        "site": "Twisted London (Westcliff-on-Sea - London Rd)",
+        "brand": "Twisted London",
+        "rating": 5,
+        "text": "Amazing food",
+        "created": "2026-11-15T16:17:51Z",
+        "date": "2026-11-15"
+      },
+      {
+        "site": "Ben & Jerry's Scoop Shop (Brighton - Bond St)",
+        "brand": "Other",
+        "rating": 5,
+        "text": "So delish ! Wld highly recommend, the people that work there are really sweet to they ran out of an ice cream and called me to pick out which one I\u2019d like instead which was so nice !",
+        "created": "2026-11-15T20:00:17Z",
+        "date": "2026-11-15"
+      },
+      {
+        "site": "Wing Fest All Stars (Norwich - Plumstead Rd)",
+        "brand": "Wing Fest",
+        "rating": 5,
+        "text": "Amazing!",
+        "created": "2026-11-15T21:16:40Z",
+        "date": "2026-11-15"
+      },
+      {
+        "site": "Wing Fest All Stars (Norwich - Plumstead Rd)",
+        "brand": "Wing Fest",
+        "rating": 1,
+        "text": "the delivery driver picked up multiple orders in the way and food was stone cold by the time we got it..",
+        "created": "2026-11-14T11:30:21Z",
+        "date": "2026-11-14"
+      },
+      {
+        "site": "WTF (Norwich- Plumstead Rd)",
+        "brand": "WTF",
+        "rating": 5,
+        "text": "Very delicious food",
+        "created": "2026-11-15T19:05:34Z",
+        "date": "2026-11-15"
+      },
+      {
+        "site": "WTF (Norwich- Plumstead Rd)",
+        "brand": "WTF",
+        "rating": 4,
+        "text": "Order was slightly wrong, but mistakes happen. However, it was great tasting food and the portion size was good. Will order again.",
+        "created": "2026-11-14T19:32:27Z",
+        "date": "2026-11-14"
+      }
+    ]
   }
 }
