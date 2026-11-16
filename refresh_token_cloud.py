@@ -5,7 +5,7 @@ Designed for GitHub Actions (headless, no interactive input).
 Reads from environment:
   DELIVEROO_EMAIL     — set as GitHub Secret
   DELIVEROO_PASSWORD  — set as GitHub Secret
-  GH_PAT          — set as GitHub Secret (needs secrets:write)
+  GITHUB_PAT          — set as GitHub Secret (needs secrets:write)
   GITHUB_REPOSITORY   — auto-set by GitHub Actions (e.g. lknscorecard-ux/deliveroo-dashboard)
 """
 
@@ -136,7 +136,14 @@ async def main():
         print("ERROR: token cookie not found after login.")
         sys.exit(1)
     print(f"Token extracted ({len(token)} chars).")
-    push_to_github(token)
+    # Always print token so it can be manually copied if GitHub secret update fails
+    print(f"DELIVEROO_TOKEN_VALUE={token}")
+    try:
+        push_to_github(token)
+    except Exception as e:
+        print(f"WARNING: Could not auto-update GitHub secret: {e}")
+        print("ACTION REQUIRED: Copy the DELIVEROO_TOKEN_VALUE line above and")
+        print("paste it into repo Settings → Secrets → DELIVEROO_TOKEN manually.")
     print("=== Done ===")
 
 
