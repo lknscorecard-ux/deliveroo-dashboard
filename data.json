@@ -13950,5 +13950,22 @@
         "date": "2026-11-05"
       }
     ]
+  },
+  "2026-11-16": {
+    "scraped_date": "2026-11-16",
+    "last_updated": "2026-11-16T07:23:10Z",
+    "cancelled_orders": [
+      {
+        "time": "2026-11-16T01:24:39",
+        "site": "Hot Chick (Hounslow - Great West Rd)",
+        "brand": "Hot Chick"
+      },
+      {
+        "time": "2026-11-16T00:15:06",
+        "site": "Kuro Smash (Reading - Southampton St)",
+        "brand": "Kuro Smash"
+      }
+    ],
+    "reviews": []
   }
 }
